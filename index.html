@@ -604,15 +604,22 @@
             highlight = "seznamka";
                 
             let grid = document.querySelector(".profile-grid");
-            let r = getGrid().then(
-              function() {
-                for (let i = 0; i < 16; i++) {
-                  grid.innerHTML += ('<a class=profile-thumb href=#><img alt="profilovka ' + r[i].name
-                                    + '" src=' + r[i].profile + '><div class=profile-thumb-text><span>' + r[i].name
-                                    + '</span><div class=online></div></div></a>');
+            try {
+                const profiles = await getGrid();
+                if (profiles) {
+                  for (let i = 0; i < profiles.length; i++) {
+                    grid.innerHTML += `<a class="profile-thumb" href="#">
+                      <img alt="profilovka ${profiles[i].name}" src="${profiles[i].profile}">
+                      <div class="profile-thumb-text">
+                        <span>${profiles[i].name}</span>
+                        <div class="online"></div>
+                      </div>
+                    </a>`;
+                  }
                 }
-              }
-            );
+            } catch (error) {
+                console.error("Failed to load profiles:", error);
+            }
             break;
           case "/ucet":
             document.title = p.ucet.t;
@@ -632,4 +639,5 @@
     </script>
   </body>
 </html>
+
 

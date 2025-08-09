@@ -450,8 +450,10 @@
           <path d="m44,32m-16,16a8,4 0 0 1 32,0" />
         </svg><span>Seznamka</span></a><a id="ucet" href="/ucet" onclick="urlRoute(event)"><svg viewBox="0 0 64 64">
           <circle r="24" cx="32" cy="32"></circle>
-          <circle r="8" cx="32" cy="24"></circle>
-          <path d="m32,28m-16,16a8,4 0 0 1 32,0"></path>
+          <g id="ulogo">
+            <circle r="8" cx="32" cy="24"></circle>
+            <path d="m32,28m-16,16a8,4 0 0 1 32,0"></path>
+          </g>
         </svg><span>Účet</span></a></nav>
     <main id="c"></main>
     <footer><span>CC-BY-SA</span><span>Created by </span></footer>
@@ -615,8 +617,9 @@
                 const profiles = await getGrid();
                 if (profiles) {
                   for (let i = 0; i < 12; i++) {
+                    const image = profiles[i].picture == null ? `#ulogo` : `https://${profiles[i].picture}`;
                     grid.innerHTML += `<a class="profile-thumb" href="#">
-                      <img alt="profilovka ${profiles[i].name}" src="https://${profiles[i].picture}">
+                      <img alt="profilovka ${profiles[i].name}" src="${image}">
                       <div class="profile-thumb-text">
                         <span>${profiles[i].name}</span>
                         <div class="online"></div>
@@ -647,6 +650,7 @@
     </script>
   </body>
 </html>
+
 
 
 

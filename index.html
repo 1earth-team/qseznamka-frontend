@@ -248,6 +248,12 @@
         padding: 4%;
         z-index: 25;
         position: absolute;
+        max-width: 85%;
+      }
+
+      .profile-thumb-text span {
+        overflow: hidden;
+        text-overflow: ellipsis;
       }
 
       .profile-thumb-text .online {
@@ -609,7 +615,7 @@
                 if (profiles) {
                   for (let i = 0; i < profiles.length; i++) {
                     grid.innerHTML += `<a class="profile-thumb" href="#">
-                      <img alt="profilovka ${profiles[i].name}" src="${profiles[i].profile}">
+                      <img alt="profilovka ${profiles[i].name}" src="${profiles[i].picture}">
                       <div class="profile-thumb-text">
                         <span>${profiles[i].name}</span>
                         <div class="online"></div>
@@ -639,5 +645,6 @@
     </script>
   </body>
 </html>
+
 
 

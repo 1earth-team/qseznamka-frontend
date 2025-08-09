@@ -618,15 +618,18 @@
             try {
                 const profiles = await getGrid();
                 if (profiles) {
+                  let gridItem = "";
                   for (let i = 0; i < 12; i++) {
-                    const image = profiles[i].picture == null ? `#ulogo` : `https://${profiles[i].picture}`;
-                    grid.innerHTML += `<a class="profile-thumb" href="#">
-                      <img alt="profilovka ${profiles[i].name}" src="${image}">
-                      <div class="profile-thumb-text">
-                        <span>${profiles[i].name}</span>
-                        <div class="online"></div>
-                      </div>
-                    </a>`;
+                    gridItem = "";
+                    // const image = profiles[i].picture == null ? `#ulogo` : `https://${profiles[i].picture}`;
+                    gridItem += `<a class="profile-thumb" href="#">`;
+                    if (profiles[i].picture == null) {
+                      gridItem += `<svg viewBox="0 0 64 64"><use ahref="#ulogo"></svg>`;
+                    } else {
+                      gridItem += `<img alt="profilovka ${profiles[i].name}" src="${image}">`
+                    }
+                    gridItem += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
+                    grid.innerHTML += gridItem;
                   }
                 }
             } catch (error) {
@@ -652,6 +655,7 @@
     </script>
   </body>
 </html>
+
 
 
 

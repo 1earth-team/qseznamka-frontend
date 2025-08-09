@@ -257,7 +257,7 @@
       }
 
       .profile-thumb-text .online {
-        width: 8px;
+        min-width: 8px;
         height: 8px;
         background: #0f0;
         border-radius: 50%;
@@ -613,7 +613,7 @@
             try {
                 const profiles = await getGrid();
                 if (profiles) {
-                  for (let i = 0; i < profiles.length; i++) {
+                  for (let i = 0; i < 12; i++) {
                     grid.innerHTML += `<a class="profile-thumb" href="#">
                       <img alt="profilovka ${profiles[i].name}" src="https://${profiles[i].picture}">
                       <div class="profile-thumb-text">
@@ -645,6 +645,7 @@
     </script>
   </body>
 </html>
+
 
 
 

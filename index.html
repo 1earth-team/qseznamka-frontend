@@ -626,7 +626,7 @@
                     if (profiles[i].picture == null) {
                       gridItem += `<svg viewBox="0 0 64 64"><use ahref="#ulogo"></svg>`;
                     } else {
-                      gridItem += `<img alt="profilovka ${profiles[i].name}" src="${image}">`
+                      gridItem += `<img alt="profilovka ${profiles[i].name}" src="https://${profiles[i].picture}">`
                     }
                     gridItem += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
                     grid.innerHTML += gridItem;
@@ -634,7 +634,7 @@
                 }
             } catch (error) {
                 console.error("Failed to load profiles:", error);
-                grid.innerHTML = "<h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p>"
+                grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
             }
             break;
           case "/ucet":
@@ -655,6 +655,7 @@
     </script>
   </body>
 </html>
+
 
 
 

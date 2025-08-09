@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Měl by ses o to postarat, ať je to unikátní a splňuje SEO">
+    <link rel="preconnect" href="https://api.qseznamka.cz">
     <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURUdwTP+qqkNZrikAAAABdFJOUwBA5thmAAAAWUlEQVQI123KsQ2EMAAEwbEQcugSKAU6g9JciksgJEDcBy/0ySerW90C5Vyo9961J8OSnF+syfUXv6QlQ026KTmUBHmw31gvLCfaQO2YDhSYt1fbeNe8vS8+AFM3JjPOm/sAAAAASUVORK5CYII=" type="image/png">
     <title>QSeznamka.cz</title>
     <style>
@@ -625,6 +626,7 @@
                 }
             } catch (error) {
                 console.error("Failed to load profiles:", error);
+                grid.innerHTML = "<h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p>"
             }
             break;
           case "/ucet":
@@ -645,6 +647,7 @@
     </script>
   </body>
 </html>
+
 
 
 

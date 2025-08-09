@@ -604,13 +604,15 @@
             highlight = "seznamka";
                 
             let grid = document.querySelector(".profile-grid");
-            let r = getGrid();
-                
-            for (let i = 0; i < 16; i++) {
-              grid.innerHTML += ('<a class=profile-thumb href=#><img alt="profilovka ' + r[i].name
-                                + '" src=' + r[i].profile + '><div class=profile-thumb-text><span>' + r[i].name
-                                + '</span><div class=online></div></div></a>');
-            }
+            let r = getGrid().then(
+              function() {
+                for (let i = 0; i < 16; i++) {
+                  grid.innerHTML += ('<a class=profile-thumb href=#><img alt="profilovka ' + r[i].name
+                                    + '" src=' + r[i].profile + '><div class=profile-thumb-text><span>' + r[i].name
+                                    + '</span><div class=online></div></div></a>');
+                }
+              }
+            );
             break;
           case "/ucet":
             document.title = p.ucet.t;
@@ -630,3 +632,4 @@
     </script>
   </body>
 </html>
+

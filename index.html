@@ -242,6 +242,10 @@
         width: 100%;
       }
 
+      .profile-thumb svg {
+        stroke: #212121;
+      }
+
       .profile-thumb-text {
         display: flex;
         align-items: center;
@@ -567,7 +571,7 @@
         seznamka: {
           t: "Gays.cz | Seznamka",
           d: "Seznamkový popis",
-          c: '<article id=people><div class=pref-c><div class=pref id=age><input max=99 min=15 step=1 type=number placeholder=15><span>až</span> <input max=99 min=15 step=1 type=number placeholder=99><span>let</span></div><div class=pref id=place><label>Místo</label> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button> <button class=show>Vybrat ručně</button><div class=popup style=display:none><button>Středočeský</button> <button>Praha</button> <button>Jihomoravský</button> <button>Moravskoslezký</button> <button>Ústecký</button> <button>Olomoucký</button> <button>Plzeňský</button> <button>Zlínský</button> <button>Královéhradecký</button> <button>Pardubický</button> <button>Vysočina</button> <button>Liberecký</button> <button>Karlovarský</button></div></div><div class=pref><label for=vzdal>Vzdálenost</label> <input max=100 min=1 step=1 type=range id=vzdal name=vzdal></div></div><div class=choose-grid><button aria-label="Mřížkový mód"><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid></div></article>'
+          c: '<article id=people><div class=pref-c><div class=pref id=age><select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><label>Místo</label> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button> <button class=show>Vybrat ručně</button><div class=popup style=display:none><button>Středočeský</button> <button>Praha</button> <button>Jihomoravský</button> <button>Moravskoslezký</button> <button>Ústecký</button> <button>Olomoucký</button> <button>Plzeňský</button> <button>Zlínský</button> <button>Královéhradecký</button> <button>Pardubický</button> <button>Vysočina</button> <button>Liberecký</button> <button>Karlovarský</button></div></div><div class=pref><label for=vzdal>Vzdálenost</label> <input max=100 min=1 step=1 type=range id=vzdal name=vzdal></div></div><div class=choose-grid><button aria-label="Mřížkový mód"><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid></div></article>'
         },
         ucet: {
           t: "Gays.cz | Účet",
@@ -616,18 +620,17 @@
             try {
                 const profiles = await getGrid();
                 if (profiles) {
-                  let gridItem = "";
-                  for (let i = 0; i < 12; i++) {
-                    gridItem = "";
-                    // const image = profiles[i].picture == null ? `#ulogo` : `https://${profiles[i].picture}`;
-                    gridItem += `<a class="profile-thumb" href="#">`;
+                  let gItems = "";
+                  for (let i = 0; i < 15; i++) {
+                    gItems = "";
+                    gItems += `<a class="profile-thumb" href="#">`;
                     if (profiles[i].picture == null) {
-                      gridItem += `<svg viewBox="0 0 64 64"><use href="#ulogo"></svg>`;
+                      gItems += `<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;
                     } else {
-                      gridItem += `<img alt="profilovka ${profiles[i].name}" src="https://${profiles[i].picture}">`
+                      gItems += `<img alt="profilovka ${profiles[i].name}" src="https://${profiles[i].picture}">`
                     }
-                    gridItem += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
-                    grid.innerHTML += gridItem;
+                    gItems += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
+                    grid.innerHTML += gItems;
                   }
                 }
             } catch (error) {
@@ -653,6 +656,7 @@
     </script>
   </body>
 </html>
+
 
 
 

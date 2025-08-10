@@ -638,7 +638,7 @@
                     if (profiles[i].picture == null) {
                       gItems += `<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;
                     } else {
-                      gItems += `<img alt="profilovka ${profiles[i].name}" src="https://qseznamka.cz/img/u/profile/${profiles[i].picture}">`
+                      gItems += `<img alt="profilovka ${profiles[i].name}" src="https://qseznamka.cz/img/u/profile/${profiles[i].picture}" fetchpriority=high>`
                     }
                     gItems += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
                     grid.innerHTML += gItems;
@@ -667,6 +667,7 @@
     </script>
   </body>
 </html>
+
 
 
 

@@ -90,7 +90,7 @@
         stroke: #dedede;
       }
 
-      button {
+      button, select {
         border: none;
         border-radius: 48px;
         display: flex;
@@ -118,10 +118,7 @@
         background: none;
       }
 
-      p,
-      span,
-      button,
-      input {
+      p, span, button, input, select {
         font-size: 18px;
         color: #dedede;
       }
@@ -464,7 +461,9 @@
     <script>
       /* Variables */
         
-      const c = document.getElementById("c");
+      let id = function(id) {return document.getElementById(id);};
+      const c = id("c");
+      let i = 0;
         
       /* Geolocation */
     
@@ -559,22 +558,22 @@
       }
       const p = {
         home: {
-          t: "Gays.cz | Domov",
+          t: "QSeznamka.cz | Domov",
           d: "Popis domova",
           c: '<article id=home><div class=hero><div class=text><h1><span class=love>LÁSKA<svg preserveAspectRatio=none viewBox="0 0 64 16"><path d="m0,8q16,8 32,0t32,0"stroke=#faa /></svg></span> NENÍ<br>NA PRODEJ</h1><p>Hledání partnerů by nemělo být jen pro VIP. Žádné reklamy, paywally, ani manipulativní algoritmy.</p><button>Zaregistrovat se</button></div><div class=visual><img alt="Mužský pár v objetí"src=gay-hug.webp></div></div></article>'
         },
         zpravy: {
-          t: "Gays.cz | Zprávy",
+          t: "QSeznamka.cz | Zprávy",
           d: "Popis zpráv",
           c: '<article id=news-list><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src=trans.webp style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují za svá práva v headlinu</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src=trans.webp style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src=trans.webp style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují za svá práva v headlinu</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src=trans.webp style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují za svá práva v headlinu</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a></article>'
         },
         seznamka: {
-          t: "Gays.cz | Seznamka",
+          t: "QSeznamka.cz | Seznamka",
           d: "Seznamkový popis",
           c: '<article id=people><div class=pref-c><div class=pref id=age><select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><label>Místo</label> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button> <button class=show>Vybrat ručně</button><div class=popup style=display:none><button>Středočeský</button> <button>Praha</button> <button>Jihomoravský</button> <button>Moravskoslezký</button> <button>Ústecký</button> <button>Olomoucký</button> <button>Plzeňský</button> <button>Zlínský</button> <button>Královéhradecký</button> <button>Pardubický</button> <button>Vysočina</button> <button>Liberecký</button> <button>Karlovarský</button></div></div><div class=pref><label for=vzdal>Vzdálenost</label> <input max=100 min=1 step=1 type=range id=vzdal name=vzdal></div></div><div class=choose-grid><button aria-label="Mřížkový mód"><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid></div></article>'
         },
         ucet: {
-          t: "Gays.cz | Účet",
+          t: "QSeznamka.cz | Účet",
           d: "Měl by tu být?",
           c: '<article id=news><h1>S pořadovým číslem v prosté vzestupné</h1><p>Paragraf (značka §, U+00A7, na čes. klávesnici (levý) Alt + 0167, patrně vznikla ve středověku jako ligatura, dvojité S ve významu signum sectionis k označování pořadí odstavců) je v současnosti zpravidla část právního předpisu nadepsaná znakem § s pořadovým číslem v prosté vzestupné řadě, např. „§ 24“. Mluví se pak o tomto pořadí buď prostým číslem („paragraf dvacet čtyři“) nebo pořadovým číslem („paragraf dvacátý čtvrtý“). V členění textů jiné než právní povahy se paragrafy objevují jen zřídka, např. v učebnicích nebo soustavných pojednáních. jak tate for free and on voluntary contributions offery na redesing for free<p>Slovem paragraf se nazývá i samotný znak §, který je jedním ze symbolů, synonymem práva, legislativy a předpisů – zejména v množném čísle (např. „vyznat se v paragrafech“). V angličtině má slovo paragraph význam „odstavec“, znaku se říká section sign a obdobně např. španělsky signo de sección.<h2>Použití</h2><p>Ve středoevropské legislativě se znak § používá pro označování větších oddílů textu právního předpisu, v některých jiných oblastech se používá pro číslování jednotlivých menších odstavců.<p>Právní předpisy České republiky se pravidelně strukturují podle úrovní: část – hlava – díl – oddíl – pododdíl – paragraf – odstavec – písmeno (pododstavec) – bod. Paragrafy se tedy zpravidla člení na další části. Číslování paragrafů je v textu předpisu vždy vzestupné, počínaje číslicí 1. V české legislativě jsou paragrafy základní, stabilizovanou úrovní členění právních předpisů, tj. označená část textu si své označení ponechává i při případných novelizacích v budoucnu, takže pokud je do dosud souvislého textu vložen nový paragraf, je označen číslem paragrafu předcházejícího s doplněním písmene, a v případě zrušení paragrafu se čísla následujících paragrafů nemění a číslo zrušeného paragrafu zůstává neobsazeno. Při případných větších nebo postupných novelizacích jsou využívána písmena podle abecedy.[1] Např. po § 19 občanského zákoníku z roku 1964 následovaly v jeho posledním znění § 19a, § 19b, § 19c a až poté § 20.</article>'
         },
@@ -615,13 +614,22 @@
             document.title = p.seznamka.t;
             c.innerHTML = p.seznamka.c;
             highlight = "seznamka";
+
+            const minAge = id("min-age");
+            const maxAge = id("max-age");
+
+            for (i = 15; i < 100; i++) {
+              const vMax = 114 - i;
+              minAge.innerHTML += ´<option value="${i}">${i}</option>´;
+              maxAge.innerHTML += ´<option value="${vMax}">${vMax}</option>´;
+            }
                 
             let grid = document.querySelector(".profile-grid");
             try {
                 const profiles = await getGrid();
                 if (profiles) {
                   let gItems = "";
-                  for (let i = 0; i < 15; i++) {
+                  for (i = 0; i < 15; i++) {
                     gItems = "";
                     gItems += `<a class="profile-thumb" href="#">`;
                     if (profiles[i].picture == null) {
@@ -648,7 +656,7 @@
             c.innerHTML = "404";
             break;
         }
-        document.getElementById(highlight).classList.add("active");
+        id(highlight).classList.add("active");
       };
       window.onpopstate = urlLocationHandler;
       window.route = urlRoute;
@@ -656,6 +664,7 @@
     </script>
   </body>
 </html>
+
 
 
 

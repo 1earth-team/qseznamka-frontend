@@ -108,6 +108,11 @@
         max-width: 32px;
       }
 
+      label {
+        font-size: 18px;
+        font-weight: bold;
+      }
+
       footer {
         display: flex;
         justify-content: space-around;
@@ -383,6 +388,61 @@
         margin: 0;
       }
 
+      /* REGISTRATION */
+
+        #reg, #reg form, #reg-c, #reg-text {
+            display: flex;
+            flex-flow: column;
+        }
+
+        #reg {
+            justify-content: center;
+            /*align-items: center;*/
+            /*padding: 2em;*/
+            max-width: min(80%, 360px);
+            margin: auto;
+            gap: 2em;
+            height: calc(100vh - 64px);
+        }
+
+        #reg form {
+            gap: 1em;
+        }
+
+        #reg input {
+            border-radius: 10px;
+            max-width: 100%;
+            color: #212121;
+        }
+
+        #reg button {
+            border-radius: 20px;
+        }
+
+        #reg h1 {
+            font-size: 36px;
+        }
+
+        #reg h1, #reg p {
+            margin: 0;
+        }
+
+        #reg-c {
+            gap: 2em;
+            width: 100%;
+            /*justify-content: space-between;*/
+        }
+
+        #reg-buttons {
+            display: flex;
+            justify-content: space-between;
+            flex-flow: row-reverse;
+        }
+
+        #reg-text {
+            gap: 1em;
+        }
+
       @media only screen and (min-width: 600px) {
         h3 {
           font-size: 26px;
@@ -459,7 +519,7 @@
     <main id="c"></main>
     <footer>
       <span>Obsah stránky je pod licencí CC-BY-SA. Používáme funkční cookies.</span>
-      <span>Vytvořila skupina <a href="#">1Earth</a></span>
+      <span>Vytvořil<!--a skupina <a href="#">1Earth</a>--></span>
     </footer>
     <script>
       /* Variables */
@@ -467,6 +527,8 @@
       let id = function(id) {return document.getElementById(id);};
       const c = id("c");
       let i = 0;
+
+      let cache = {};
         
       /* Geolocation */
     
@@ -560,26 +622,36 @@
         urlRoute();
       }
       const p = {
-        home: {
-          t: "QSeznamka.cz | Domov",
+        domu: {
+          t: "Domov",
           d: "Popis domova",
           c: '<article id=home><div class=hero><div class=text><h1><span class=love>LÁSKA<svg preserveAspectRatio=none viewBox="0 0 64 16"><path d="m0,8q16,8 32,0t32,0"stroke=#faa /></svg></span> NENÍ<br>NA PRODEJ</h1><p>Hledání partnerů by nemělo být jen pro VIP. Žádné reklamy, paywally, ani manipulativní algoritmy.</p><button>Zaregistrovat se</button></div><div class=visual><img alt="Mužský pár v objetí"src="/img/w/gay-hug.webp"></div></div></article>'
         },
         zpravy: {
-          t: "QSeznamka.cz | Zprávy",
+          t: "Zprávy",
           d: "Popis zpráv",
           c: '<article id=news-list><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src=trans.webp style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují za svá práva v headlinu</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src=trans.webp style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src=trans.webp style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují za svá práva v headlinu</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src=trans.webp style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují za svá práva v headlinu</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a></article>'
         },
         seznamka: {
-          t: "QSeznamka.cz | Seznamka",
+          t: "Seznamka",
           d: "Seznamkový popis",
-          c: '<article id=people><div class=pref-c><div class=pref id=age><select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><label>Místo</label> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button> <button class=show>Vybrat ručně</button><div class=popup style=display:none><button>Středočeský</button> <button>Praha</button> <button>Jihomoravský</button> <button>Moravskoslezký</button> <button>Ústecký</button> <button>Olomoucký</button> <button>Plzeňský</button> <button>Zlínský</button> <button>Královéhradecký</button> <button>Pardubický</button> <button>Vysočina</button> <button>Liberecký</button> <button>Karlovarský</button></div></div><div class=pref><label for=vzdal>Vzdálenost</label> <input max=100 min=1 step=1 type=range id=vzdal name=vzdal></div></div><div class=choose-grid><button aria-label="Mřížkový mód"><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid></div></article>'
+          c: '<article id=people><div class=pref-c><div class=pref id=age><label for=min-age>Věk:</label><select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><label>Místo:</label> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button> <button class=show>Vybrat ručně</button><div class=popup style=display:none><button>Středočeský</button> <button>Praha</button> <button>Jihomoravský</button> <button>Moravskoslezký</button> <button>Ústecký</button> <button>Olomoucký</button> <button>Plzeňský</button> <button>Zlínský</button> <button>Královéhradecký</button> <button>Pardubický</button> <button>Vysočina</button> <button>Liberecký</button> <button>Karlovarský</button></div></div><div class=pref><label for=vzdal>Vzdálenost:</label><span>Do</span><select id=vzdal><option val=1>1<option val=2>2<option val=5>5<option val=10 selected>10<option val=20>20<option val=50>50<option val=100>100<option val=200>200<option val=none>200+</select><span>km</span></div></div><div class=choose-grid><button aria-label="Mřížkový mód"><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid></div></article>'
         },
         ucet: {
-          t: "QSeznamka.cz | Účet",
+          t: "Účet",
           d: "Měl by tu být?",
+          c: '<article id=reg><div id=reg-c><div id=reg-text><h1>Registrace</h1><p>Zadejte svou přezdívku</div><form onsubmit=regCheck()><input autofocus id=nick maxlength=16 minlength=3 pattern=[A-Za-z0-9]{3,16} placeholder=Přezdívka style="border-radius:10px;background:#dedede;max-width:100%;border:none;padding:8px 16px;color:#212121;min-height:48px"><div id=reg-buttons><button type=submit>Další</button> <button>Zpět</button></div></form></div></article>'
+        },
+        clanek: {
+          t: "Článek",
+          d: "Popis",
           c: '<article id=news><h1>S pořadovým číslem v prosté vzestupné</h1><p>Paragraf (značka §, U+00A7, na čes. klávesnici (levý) Alt + 0167, patrně vznikla ve středověku jako ligatura, dvojité S ve významu signum sectionis k označování pořadí odstavců) je v současnosti zpravidla část právního předpisu nadepsaná znakem § s pořadovým číslem v prosté vzestupné řadě, např. „§ 24“. Mluví se pak o tomto pořadí buď prostým číslem („paragraf dvacet čtyři“) nebo pořadovým číslem („paragraf dvacátý čtvrtý“). V členění textů jiné než právní povahy se paragrafy objevují jen zřídka, např. v učebnicích nebo soustavných pojednáních. jak tate for free and on voluntary contributions offery na redesing for free<p>Slovem paragraf se nazývá i samotný znak §, který je jedním ze symbolů, synonymem práva, legislativy a předpisů – zejména v množném čísle (např. „vyznat se v paragrafech“). V angličtině má slovo paragraph význam „odstavec“, znaku se říká section sign a obdobně např. španělsky signo de sección.<h2>Použití</h2><p>Ve středoevropské legislativě se znak § používá pro označování větších oddílů textu právního předpisu, v některých jiných oblastech se používá pro číslování jednotlivých menších odstavců.<p>Právní předpisy České republiky se pravidelně strukturují podle úrovní: část – hlava – díl – oddíl – pododdíl – paragraf – odstavec – písmeno (pododstavec) – bod. Paragrafy se tedy zpravidla člení na další části. Číslování paragrafů je v textu předpisu vždy vzestupné, počínaje číslicí 1. V české legislativě jsou paragrafy základní, stabilizovanou úrovní členění právních předpisů, tj. označená část textu si své označení ponechává i při případných novelizacích v budoucnu, takže pokud je do dosud souvislého textu vložen nový paragraf, je označen číslem paragrafu předcházejícího s doplněním písmene, a v případě zrušení paragrafu se čísla následujících paragrafů nemění a číslo zrušeného paragrafu zůstává neobsazeno. Při případných větších nebo postupných novelizacích jsou využívána písmena podle abecedy.[1] Např. po § 19 občanského zákoníku z roku 1964 následovaly v jeho posledním znění § 19a, § 19b, § 19c a až poté § 20.</article>'
         },
+        nothing: {
+          t: "Stránka nenalezena",
+          d: "404",
+          c: '<article id=not-found><h1>Stránka nenalezena</h1><h2>Stránku se nepodařilo najít.</h2></article>'
+        }
       }
         
       const urlRoute = (event) => {
@@ -596,27 +668,17 @@
         [].forEach.call(document.querySelectorAll('nav a'), function(el) {
           el.classList.remove('active');
         });
-        let highlight = "";
+        let page = "";
         switch (location) {
-          case "/":
-            document.title = p.home.t;
-            c.innerHTML = p.home.c;
-            highlight = "domu";
-            break;
-          case "/zpravy":
-            document.title = p.zpravy.t;
-            c.innerHTML = p.zpravy.c;
-            highlight = "zpravy";
-            break;
+          case "/": page = "domu"; break;
+          case "/zpravy": page = "zpravy"; break;
           case "/seznamka":
             /*<a class=profile-thumb href=#><img alt="profilová fotka" src=profile.webp>
               <div class=profile-thumb-text><span>John Doe</span>
                 <div class=online></div>
               </div>
             </a>*/
-            document.title = p.seznamka.t;
-            c.innerHTML = p.seznamka.c;
-            highlight = "seznamka";
+            page = "seznamka";
 
             const minAge = id("min-age");
             const maxAge = id("max-age");
@@ -627,8 +689,11 @@
               maxAge.innerHTML += `<option value="${vMax}">${vMax}</option>`;
             }
                 
-            let grid = document.querySelector(".profile-grid");
-            try {
+            const grid = document.querySelector(".profile-grid");
+
+            if (grid in cache) {
+              grid.innerHTML = cache.grid;
+            } else try {
                 const profiles = await getGrid();
                 if (profiles) {
                   let gItems = "";
@@ -643,23 +708,19 @@
                     gItems += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
                     grid.innerHTML += gItems;
                   }
+                  cache.grid = grid.innerHTML;
                 }
             } catch (error) {
                 console.error("Failed to load profiles:", error);
                 grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
             }
             break;
-          case "/ucet":
-            document.title = p.ucet.t;
-            c.innerHTML = p.ucet.c;
-            highlight = "ucet";
-            break;
-          default: 
-            document.title = p.home.t;
-            c.innerHTML = "404";
-            break;
+          case "/ucet": page = "ucet"; break;
+          default: page = "nothing"; break;
         }
-        id(highlight).classList.add("active");
+        document.title = `Qseznamka.cz | ${p[page].t}`;
+        c.innerHTML = p[page].c;
+        if (id(page)) id(page).classList.add("active");
       };
       window.onpopstate = urlLocationHandler;
       window.route = urlRoute;
@@ -667,6 +728,7 @@
     </script>
   </body>
 </html>
+
 
 
 

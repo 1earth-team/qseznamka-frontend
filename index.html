@@ -653,6 +653,12 @@
           c: '<article id=not-found><h1>Stránka nenalezena</h1><h2>Stránku se nepodařilo najít.</h2></article>'
         }
       }
+
+      function loadDoc(page) {
+        document.title = `Qseznamka.cz | ${p[page].t}`;
+        c.innerHTML = p[page].c;
+        if (id(page)) id(page).classList.add("active");
+      }
         
       const urlRoute = (event) => {
         event = event || window.event;
@@ -670,15 +676,15 @@
         });
         let page = "";
         switch (location) {
-          case "/": page = "domu"; break;
-          case "/zpravy": page = "zpravy"; break;
+          case "/": loadDoc("domu"); break;
+          case "/zpravy": loadDoc("zpravy"); break;
           case "/seznamka":
             /*<a class=profile-thumb href=#><img alt="profilová fotka" src=profile.webp>
               <div class=profile-thumb-text><span>John Doe</span>
                 <div class=online></div>
               </div>
             </a>*/
-            page = "seznamka";
+            loadDoc("seznamka");
 
             const minAge = id("min-age");
             const maxAge = id("max-age");
@@ -715,12 +721,9 @@
                 grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
             }
             break;
-          case "/ucet": page = "ucet"; break;
-          default: page = "nothing"; break;
+          case "/ucet": loadDoc("ucet"); break;
+          default: loadDoc("nothing"); break;
         }
-        document.title = `Qseznamka.cz | ${p[page].t}`;
-        c.innerHTML = p[page].c;
-        if (id(page)) id(page).classList.add("active");
       };
       window.onpopstate = urlLocationHandler;
       window.route = urlRoute;
@@ -728,6 +731,7 @@
     </script>
   </body>
 </html>
+
 
 
 

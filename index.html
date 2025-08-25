@@ -388,6 +388,75 @@
         margin: 0;
       }
 
+      /* SEARCH */
+
+      .search-w {
+        position: relative;
+      }
+
+      #place .results {
+        position: absolute;
+        top: 24px;
+        left: 0;
+        width: 104.75%;
+        background: #333;
+        z-index: 1;
+        border-radius: 0 0 24px 24px;
+        max-height: 192px;
+        display: flex;
+        flex-flow: column;
+        overflow: auto;
+        padding-top: 24px;
+      }
+
+      #place .results button {
+        justify-content: left;
+        border-radius: 0;
+        background: none;
+        border-top: 2px solid #212121;
+      }
+
+      #place .results button:first {
+        border-top: none;
+      }
+
+      #place .bar {
+        background: #dedede;
+        border-radius: 24px;
+        z-index: 20;
+        position: relative;
+        display: flex;
+      }
+
+      #place .bar input {
+        background: none;
+        width: 59%;
+        height: 32px;
+        border-radius: 32px 0 0 32px;
+        z-index: 10;
+      }
+
+      #place .options {
+        display: flex;
+        grid-template-columns: 1fr 1fr;
+      }
+
+      #vzdal {
+        font-size: 14px;
+        height: 20px;
+        border: 2px solid;
+        border-radius: 32px 0 0 32px;
+        border-right: 0;
+        min-width: max-content;
+      }
+
+      #place .options button {
+        border: 2px solid;
+        height: 20px;
+        border: 0 32px 32px 0;
+        min-width: fit-content;
+      }
+
       /* REGISTRATION */
 
         #reg, #reg form, #reg-c, #reg-text {
@@ -635,7 +704,7 @@
         seznamka: {
           t: "Seznamka",
           d: "Seznamkový popis",
-          c: '<article id=people><div class=pref-c><div class=pref id=age><label for=min-age>Věk:</label><select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><label>Místo:</label> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button> <button class=show>Vybrat ručně</button><div class=popup style=display:none><button>Středočeský</button> <button>Praha</button> <button>Jihomoravský</button> <button>Moravskoslezký</button> <button>Ústecký</button> <button>Olomoucký</button> <button>Plzeňský</button> <button>Zlínský</button> <button>Královéhradecký</button> <button>Pardubický</button> <button>Vysočina</button> <button>Liberecký</button> <button>Karlovarský</button></div></div><div class=pref><label for=vzdal>Vzdálenost:</label><span>Do</span><select id=vzdal><option val=1>1<option val=2>2<option val=5>5<option val=10 selected>10<option val=20>20<option val=50>50<option val=100>100<option val=200>200<option val=none>200+</select><span>km</span></div></div><div class=choose-grid><button aria-label="Mřížkový mód"><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid></div></article>'
+          c: '<article id=people><div class=pref-c><div class=pref id=age><label for=min-age>Věk:</label> <select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><div class=search-w><div class=results><button>Plzeň</button> <button>Plzeň</button></div><div class=bar><input placeholder="Název města nebo kraje"><div class=options><select id=vzdal><option val=1>1 km<option val=2>2 km<option val=5>5 km<option val=10 selected>10 km<option val=20>20 km<option val=50>50 km<option val=100>100 km<option val=200>200 km<option val=none>200+ km</select> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button></div></div></div></div></div><div class=choose-grid><button aria-label="Mřížkový mód"><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid></div></article>'
         },
         ucet: {
           t: "Účet",
@@ -731,6 +800,7 @@
     </script>
   </body>
 </html>
+
 
 
 

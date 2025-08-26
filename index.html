@@ -675,7 +675,8 @@
                 let cityArray = [];
                 const name = citySearch.substring(0, 2).toLowerCase();
               try {
-                const cities = await fetch(`/data/cities/${name}.json`);
+                const response = await fetch(`/data/cities/${name}.json`);
+                const cities = await response.json();
 
                 for (const city of cities) {
                   if (city.name.substring(0,citySearch.length) == citySearch) {
@@ -690,7 +691,7 @@
                 }
               } catch(e) {
                 console.log(`Selhal fetch měst: ${e}`);
-                results.innerHTML("<b style='text-align: center;'>Hledání selhalo</b>");
+                results.innerHTML = "<b style='text-align: center;'>Hledání selhalo</b>";
               }
               
               }

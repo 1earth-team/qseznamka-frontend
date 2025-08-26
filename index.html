@@ -791,10 +791,11 @@
               maxAge.innerHTML += `<option value="${vMax}">${vMax}</option>`;
             }
 
+            const grid = document.querySelector(".profile-grid");
+
             if (grid in cache) {
               grid.innerHTML = cache.grid;
             } else try {
-                const grid = document.querySelector(".profile-grid");
                 const gItemPl = document.createElement("div");
                 gItemPl.classList.add(".profile-thumb");
                 gItemPl.style.background = "#333";
@@ -831,6 +832,7 @@
     </script>
   </body>
 </html>
+
 
 
 

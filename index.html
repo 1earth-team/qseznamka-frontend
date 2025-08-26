@@ -794,7 +794,8 @@
             const grid = document.querySelector(".profile-grid");
             const gItemPl = document.createElement("div");
             gItemPl.classList.add(".profile-thumb");
-            for (i = 0; i < 16; i++) grid.appendChild(gItemPl);
+            gItemPl.style.background = "#333";
+            for (i = 0; i < 15; i++) grid.appendChild(gItemPl);
 
             if (grid in cache) {
               grid.innerHTML = cache.grid;
@@ -830,6 +831,7 @@
     </script>
   </body>
 </html>
+
 
 
 

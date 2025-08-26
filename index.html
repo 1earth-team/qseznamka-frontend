@@ -790,18 +790,18 @@
               minAge.innerHTML += `<option value="${i}">${i}</option>`;
               maxAge.innerHTML += `<option value="${vMax}">${vMax}</option>`;
             }
-                
-            const grid = document.querySelector(".profile-grid");
-            const gItemPl = document.createElement("div");
-            gItemPl.classList.add(".profile-thumb");
-            gItemPl.style.background = "#333";
-            for (i = 0; i < 15; i++) grid.appendChild(gItemPl);
 
             if (grid in cache) {
               grid.innerHTML = cache.grid;
             } else try {
+                const grid = document.querySelector(".profile-grid");
+                const gItemPl = document.createElement("div");
+                gItemPl.classList.add(".profile-thumb");
+                gItemPl.style.background = "#333";
+                for (i = 0; i < 15; i++) grid.appendChild(gItemPl.cloneNode());
                 const profiles = await getGrid();
                 if (profiles) {
+                  grid.innerHTML = "";
                   let gItems = "";
                   for (i = 0; i < 15; i++) {
                     gItems = "";
@@ -831,6 +831,7 @@
     </script>
   </body>
 </html>
+
 
 
 

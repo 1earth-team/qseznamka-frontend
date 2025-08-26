@@ -625,24 +625,15 @@
       let i = 0;
 
       let cache = {};
+      let user = {};
         
       /* Geolocation */
     
       let loc = new Object();
-      /*function success(pos) {
-        const crd = pos.coords;
-
-        console.log("Your current position is:");
-        console.log(`Latitude : ${crd.latitude}`);
-        console.log(`Longitude: ${crd.longitude}`);
-        console.log(`More or less ${crd.accuracy} meters.`);
-      }*/
-      /*function error(err) {
-        console.warn(`ERROR(${err.code}): ${err.message}`);
-      }*/
       function getLoc() {
         navigator.geolocation.getCurrentPosition((pos) => {
-            loc = pos.coords
+            loc = pos.coords;
+            setCoor(loc.latitude.toString(), loc.longitude.toString());
           },
           (err) => {
             console.warn(`ERROR(${err.code}): ${err.message}`)
@@ -659,7 +650,6 @@
             throw new Error(`Response status: ${response.status}`);
           }
           const result = await response.json();
-          //console.log(result);
           return result;
         } catch (error) {
           console.error(error.message);
@@ -673,9 +663,9 @@
       async function searchTyping() {
               let citySearch = search.value;
               let cities;
+              const results = document.querySelector("#place .results");
               if (citySearch.length > 1) {
                 const search = id("search");
-                const results = document.querySelector("#place .results");
                 let cityArray = [];
                 const name = citySearch.substring(0, 2).toLowerCase();
               try {
@@ -691,7 +681,7 @@
                 
 
                 for (const city of cities) {
-                  if (city.name.substring(0,citySearch.length) == citySearch) {
+                  if (city.name.substring(0,citySearch.length).toLowerCase() == citySearch.toLowerCase()) {
                     cityArray.push([city.name, city.lat, city.lon]);
                   }
                 }
@@ -699,16 +689,23 @@
                 results.innerHTML = "";
 
                 for (i = 0; i < cityArray.length; i++) {
-                  results.innerHTML += `<button>${cityArray[i][0]}</button>`;
+                  results.innerHTML += `<button onclick="setCoor(${cityArray[i][1]},${cityArray[i][2]})">${cityArray[i][0]}</button>`;
                 }
               } catch(e) {
                 console.log(`Selhal fetch měst: ${e}`);
                 results.innerHTML = "<b style='text-align: center;'>Hledání selhalo</b>";
               }
               
+              } else {
+                results.innerHTML = "";
               }
                
             }
+
+      function setCoor(lat, lon) {
+        user.lat = lat;
+        user.lon = lon;
+      }
 
       /* Cookies */
       

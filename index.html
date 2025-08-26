@@ -667,6 +667,33 @@
         }
       }
 
+      async function searchTyping() {
+              let citySearch = search.value;
+              if (citySearch.length > 1) {
+              const name = citySearch.substring(0, 2).toLowerCase();
+              try {
+                const cities = await fetch(`/data/cities/${name}.json`);
+
+                for (const city of cities) {
+                  if (city.name.substring(0,citySearch.length) == citySearch) {
+                    cityArray.push([city.name, city.lat, city.lon]);
+                  }
+                }
+
+                results = "";
+
+                for (i = 0; i < cityArray.length; i++) {
+                  results.innerHTML += `<button>${cityArray[i][0]}</button>`;
+                }
+              } catch(e) {
+                console.log(`Selhal fetch měst: ${e}`);
+                results.innerHTML("<b style='text-align: center;'>Hledání selhalo</b>");
+              }
+              
+              }
+               
+            }
+
       /* Cookies */
       
       async function get_c() {
@@ -794,33 +821,6 @@
             const search = id("search");
             const results = document.querySelector("#place .results");
             let cityArray = [];
-
-            async function searchTyping() {
-              let citySearch = search.value;
-              if (citySearch.length > 1) {
-              const name = citySearch.substring(0, 2).toLowerCase();
-              try {
-                const cities = await fetch(`/data/cities/${name}.json`);
-
-                for (const city of cities) {
-                  if (city.name.substring(0,citySearch.length) == citySearch) {
-                    cityArray.push([city.name, city.lat, city.lon]);
-                  }
-                }
-
-                results = "";
-
-                for (i = 0; i < cityArray.length; i++) {
-                  results.innerHTML += `<button>${cityArray[i][0]}</button>`;
-                }
-              } catch(e) {
-                console.log(`Selhal fetch měst: ${e}`);
-                results.innerHTML("<b style='text-align: center;'>Hledání selhalo</b>");
-              }
-              
-              }
-               
-            }
 
             const grid = document.querySelector(".profile-grid");
             const gItemPl = document.createElement("div");

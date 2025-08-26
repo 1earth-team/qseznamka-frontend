@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Veliš",
+    "lat": "49.6686",
+    "lon": "14.8233"
+  },
+  {
+    "name": "Velký Chlumec",
+    "lat": "49.8277",
+    "lon": "14.0870"
+  },
+  {
+    "name": "Velká Dobrá",
+    "lat": "50.1096",
+    "lon": "14.0698"
+  },
+  {
+    "name": "Velké Přítočno",
+    "lat": "50.1165",
+    "lon": "14.1282"
+  },
+  {
+    "name": "Velvary",
+    "lat": "50.2819",
+    "lon": "14.2362"
+  },
+  {
+    "name": "Veletov",
+    "lat": "50.0282",
+    "lon": "15.3051"
+  },
+  {
+    "name": "Velim",
+    "lat": "50.0597",
+    "lon": "15.1071"
+  },
+  {
+    "name": "Velký Osek",
+    "lat": "50.0993",
+    "lon": "15.1861"
+  },
+  {
+    "name": "Veltruby",
+    "lat": "50.0707",
+    "lon": "15.1863"
+  },
+  {
+    "name": "Velký Borek",
+    "lat": "50.3453",
+    "lon": "14.5153"
+  },
+  {
+    "name": "Veltrusy",
+    "lat": "50.2711",
+    "lon": "14.3277"
+  },
+  {
+    "name": "Velké Všelisy",
+    "lat": "50.3790",
+    "lon": "14.7451"
+  },
+  {
+    "name": "Veselice",
+    "lat": "50.3960",
+    "lon": "15.1271"
+  },
+  {
+    "name": "Velenice",
+    "lat": "50.2139",
+    "lon": "15.2261"
+  },
+  {
+    "name": "Velenka",
+    "lat": "50.1397",
+    "lon": "14.8956"
+  },
+  {
+    "name": "Vestec",
+    "lat": "50.2380",
+    "lon": "15.1456"
+  },
+  {
+    "name": "Veleň",
+    "lat": "50.1732",
+    "lon": "14.5539"
+  },
+  {
+    "name": "Veliká Ves",
+    "lat": "50.2436",
+    "lon": "14.4551"
+  },
+  {
+    "name": "Velké Popovice",
+    "lat": "49.9225",
+    "lon": "14.6391"
+  },
+  {
+    "name": "Velké Přílepy",
+    "lat": "50.1606",
+    "lon": "14.3141"
+  },
+  {
+    "name": "Vestec",
+    "lat": "50.2380",
+    "lon": "15.1456"
+  },
+  {
+    "name": "Velká Lečice",
+    "lat": "49.8146",
+    "lon": "14.3234"
+  },
+  {
+    "name": "Velká Buková",
+    "lat": "50.0346",
+    "lon": "13.8472"
+  },
+  {
+    "name": "Velká Chmelištná",
+    "lat": "50.0636",
+    "lon": "13.5513"
+  },
+  {
+    "name": "Velešín",
+    "lat": "48.8293",
+    "lon": "14.4635"
+  },
+  {
+    "name": "Velký Ratmírov",
+    "lat": "49.1776",
+    "lon": "14.9375"
+  },
+  {
+    "name": "Velká Chyška",
+    "lat": "49.5118",
+    "lon": "15.0373"
+  },
+  {
+    "name": "Velký Rybník",
+    "lat": "49.4902",
+    "lon": "15.3080"
+  },
+  {
+    "name": "Veselá",
+    "lat": "49.3191",
+    "lon": "15.2267"
+  },
+  {
+    "name": "Veselíčko",
+    "lat": "49.5325",
+    "lon": "17.5117"
+  },
+  {
+    "name": "Velká Turná",
+    "lat": "49.3399",
+    "lon": "13.9591"
+  },
+  {
+    "name": "Vesce",
+    "lat": "49.2497",
+    "lon": "14.6769"
+  },
+  {
+    "name": "Veselí nad Lužnicí",
+    "lat": "49.1867",
+    "lon": "14.6989"
+  },
+  {
+    "name": "Velký Malahov",
+    "lat": "49.6236",
+    "lon": "12.9553"
+  },
+  {
+    "name": "Velká Hleďsebe",
+    "lat": "49.9615",
+    "lon": "12.6676"
+  },
+  {
+    "name": "Velký Luh",
+    "lat": "50.1991",
+    "lon": "12.3720"
+  },
+  {
+    "name": "Velichov",
+    "lat": "50.2841",
+    "lon": "13.0097"
+  },
+  {
+    "name": "Verušičky",
+    "lat": "50.1415",
+    "lon": "13.1743"
+  },
+  {
+    "name": "Velhartice",
+    "lat": "49.2652",
+    "lon": "13.3897"
+  },
+  {
+    "name": "Velké Hydčice",
+    "lat": "49.2991",
+    "lon": "13.6679"
+  },
+  {
+    "name": "Velký Bor",
+    "lat": "49.3649",
+    "lon": "13.7014"
+  },
+  {
+    "name": "Ves Touškov",
+    "lat": "49.6616",
+    "lon": "13.1192"
+  },
+  {
+    "name": "Vejprnice",
+    "lat": "49.7299",
+    "lon": "13.2763"
+  },
+  {
+    "name": "Velečín",
+    "lat": "50.0748",
+    "lon": "13.4016"
+  },
+  {
+    "name": "Vejvanov",
+    "lat": "49.8693",
+    "lon": "13.6531"
+  },
+  {
+    "name": "Veselá",
+    "lat": "49.3191",
+    "lon": "15.2267"
+  },
+  {
+    "name": "Velenice",
+    "lat": "50.2139",
+    "lon": "15.2261"
+  },
+  {
+    "name": "Velký Valtinov",
+    "lat": "50.7437",
+    "lon": "14.7353"
+  },
+  {
+    "name": "Velká Bukovina",
+    "lat": "50.7304",
+    "lon": "14.3968"
+  },
+  {
+    "name": "Velký Šenov",
+    "lat": "50.9908",
+    "lon": "14.3781"
+  },
+  {
+    "name": "Verneřice",
+    "lat": "50.6611",
+    "lon": "14.3011"
+  },
+  {
+    "name": "Veselé",
+    "lat": "50.7813",
+    "lon": "14.3764"
+  },
+  {
+    "name": "Vejprty",
+    "lat": "50.4923",
+    "lon": "13.0321"
+  },
+  {
+    "name": "Veliká Ves",
+    "lat": "50.2436",
+    "lon": "14.4551"
+  },
+  {
+    "name": "Velké Hamry",
+    "lat": "50.7144",
+    "lon": "15.3151"
+  },
+  {
+    "name": "Velemín",
+    "lat": "50.5380",
+    "lon": "13.9770"
+  },
+  {
+    "name": "Velké Žernoseky",
+    "lat": "50.5395",
+    "lon": "14.0646"
+  },
+  {
+    "name": "Velemyšleves",
+    "lat": "50.4026",
+    "lon": "13.5637"
+  },
+  {
+    "name": "Veltěže",
+    "lat": "50.3532",
+    "lon": "13.8748"
+  },
+  {
+    "name": "Velké Březno",
+    "lat": "50.6627",
+    "lon": "14.1417"
+  },
+  {
+    "name": "Velké Chvojno",
+    "lat": "50.7316",
+    "lon": "14.0367"
+  },
+  {
+    "name": "Vepříkov",
+    "lat": "49.7436",
+    "lon": "15.5703"
+  },
+  {
+    "name": "Veselý Žďár",
+    "lat": "49.6396",
+    "lon": "15.5261"
+  },
+  {
+    "name": "Vejvanovice",
+    "lat": "49.9709",
+    "lon": "15.8802"
+  },
+  {
+    "name": "Veliš",
+    "lat": "49.6686",
+    "lon": "14.8233"
+  },
+  {
+    "name": "Velichovky",
+    "lat": "50.3568",
+    "lon": "15.8417"
+  },
+  {
+    "name": "Velká Jesenice",
+    "lat": "50.3611",
+    "lon": "16.0376"
+  },
+  {
+    "name": "Velké Petrovice",
+    "lat": "50.5175",
+    "lon": "16.2062"
+  },
+  {
+    "name": "Velké Poříčí",
+    "lat": "50.4618",
+    "lon": "16.1893"
+  },
+  {
+    "name": "Velký Třebešov",
+    "lat": "50.3928",
+    "lon": "16.0062"
+  },
+  {
+    "name": "Vernéřovice",
+    "lat": "50.6148",
+    "lon": "16.2211"
+  },
+  {
+    "name": "Vestec",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Veliny",
+    "lat": "50.0711",
+    "lon": "16.0537"
+  },
+  {
+    "name": "Veselí",
+    "lat": "50.0111",
+    "lon": "15.6188"
+  },
+  {
+    "name": "Veselá",
+    "lat": "49.3191",
+    "lon": "15.2267"
+  },
+  {
+    "name": "Vendolí",
+    "lat": "49.7398",
+    "lon": "16.4132"
+  },
+  {
+    "name": "Velké Svatoňovice",
+    "lat": "50.5317",
+    "lon": "16.0284"
+  },
+  {
+    "name": "Velký Vřešťov",
+    "lat": "50.3584",
+    "lon": "15.7514"
+  },
+  {
+    "name": "Velká Skrovnice",
+    "lat": "50.0304",
+    "lon": "16.3169"
+  },
+  {
+    "name": "Verměřovice",
+    "lat": "50.0055",
+    "lon": "16.5626"
+  },
+  {
+    "name": "Velenov",
+    "lat": "49.4868",
+    "lon": "16.7328"
+  },
+  {
+    "name": "Velké Opatovice",
+    "lat": "49.6126",
+    "lon": "16.6794"
+  },
+  {
+    "name": "Velatice",
+    "lat": "49.1974",
+    "lon": "16.7536"
+  },
+  {
+    "name": "Veverská Bítýška",
+    "lat": "49.2756",
+    "lon": "16.4370"
+  },
+  {
+    "name": "Veverské Knínice",
+    "lat": "49.2369",
+    "lon": "16.4018"
+  },
+  {
+    "name": "Velké Bílovice",
+    "lat": "48.8494",
+    "lon": "16.8921"
+  },
+  {
+    "name": "Velké Hostěrádky",
+    "lat": "49.0332",
+    "lon": "16.8701"
+  },
+  {
+    "name": "Velké Němčice",
+    "lat": "48.9946",
+    "lon": "16.6747"
+  },
+  {
+    "name": "Velké Pavlovice",
+    "lat": "48.9044",
+    "lon": "16.8165"
+  },
+  {
+    "name": "Velký Ořechov",
+    "lat": "49.1094",
+    "lon": "17.6684"
+  },
+  {
+    "name": "Veselá",
+    "lat": "49.3191",
+    "lon": "15.2267"
+  },
+  {
+    "name": "Velká nad Veličkou",
+    "lat": "48.8827",
+    "lon": "17.5203"
+  },
+  {
+    "name": "Veselí nad Moravou",
+    "lat": "48.9541",
+    "lon": "17.3790"
+  },
+  {
+    "name": "Velký Beranov",
+    "lat": "49.4051",
+    "lon": "15.6668"
+  },
+  {
+    "name": "Velehrad",
+    "lat": "49.1054",
+    "lon": "17.3943"
+  },
+  {
+    "name": "Veletiny",
+    "lat": "49.0371",
+    "lon": "17.5625"
+  },
+  {
+    "name": "Velešovice",
+    "lat": "49.1792",
+    "lon": "16.8491"
+  },
+  {
+    "name": "Vedrovice",
+    "lat": "49.0203",
+    "lon": "16.3771"
+  },
+  {
+    "name": "Velký Karlov",
+    "lat": "48.8045",
+    "lon": "16.3055"
+  },
+  {
+    "name": "Vevčice",
+    "lat": "48.9622",
+    "lon": "16.0444"
+  },
+  {
+    "name": "Velká Bíteš",
+    "lat": "49.2884",
+    "lon": "16.2271"
+  },
+  {
+    "name": "Velká Losenice",
+    "lat": "49.5809",
+    "lon": "15.8363"
+  },
+  {
+    "name": "Velké Janovice",
+    "lat": "49.5878",
+    "lon": "16.2200"
+  },
+  {
+    "name": "Velké Meziříčí",
+    "lat": "49.3555",
+    "lon": "16.0122"
+  },
+  {
+    "name": "Velké Tresné",
+    "lat": "49.5751",
+    "lon": "16.3805"
+  },
+  {
+    "name": "Vepřová",
+    "lat": "49.6124",
+    "lon": "15.8274"
+  },
+  {
+    "name": "Velká Štáhle",
+    "lat": "49.9296",
+    "lon": "17.3568"
+  },
+  {
+    "name": "Vendryně",
+    "lat": "49.6666",
+    "lon": "18.7131"
+  },
+  {
+    "name": "Velké Albrechtice",
+    "lat": "49.7504",
+    "lon": "18.0439"
+  },
+  {
+    "name": "Veřovice",
+    "lat": "49.5392",
+    "lon": "18.1143"
+  },
+  {
+    "name": "Velká Bystřice",
+    "lat": "49.5948",
+    "lon": "17.3654"
+  },
+  {
+    "name": "Velký Týnec",
+    "lat": "49.5509",
+    "lon": "17.3337"
+  },
+  {
+    "name": "Velký Újezd",
+    "lat": "49.5785",
+    "lon": "17.4830"
+  },
+  {
+    "name": "Velké Heraltice",
+    "lat": "49.9749",
+    "lon": "17.7288"
+  },
+  {
+    "name": "Velké Hoštice",
+    "lat": "49.9353",
+    "lon": "17.9733"
+  },
+  {
+    "name": "Velká Polom",
+    "lat": "49.8642",
+    "lon": "18.0939"
+  },
+  {
+    "name": "Veselíčko",
+    "lat": "49.5325",
+    "lon": "17.5117"
+  },
+  {
+    "name": "Velké Losiny",
+    "lat": "50.0316",
+    "lon": "17.0398"
+  },
+  {
+    "name": "Vernířovice",
+    "lat": "50.0317",
+    "lon": "17.1303"
+  },
+  {
+    "name": "Velká Lhota",
+    "lat": "49.4377",
+    "lon": "18.0355"
+  },
+  {
+    "name": "Velké Karlovice",
+    "lat": "49.3606",
+    "lon": "18.2836"
+  },
+  {
+    "name": "Velká Kraš",
+    "lat": "50.3631",
+    "lon": "17.1464"
+  },
+  {
+    "name": "Velké Kunětice",
+    "lat": "50.3166",
+    "lon": "17.2659"
+  }
+]

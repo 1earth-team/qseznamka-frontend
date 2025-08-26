@@ -1,0 +1,1017 @@
+[
+  {
+    "name": "Hořovice",
+    "lat": "49.8363",
+    "lon": "13.9029"
+  },
+  {
+    "name": "Hostomice",
+    "lat": "49.8253",
+    "lon": "14.0456"
+  },
+  {
+    "name": "Hobšovice",
+    "lat": "50.2705",
+    "lon": "14.1622"
+  },
+  {
+    "name": "Horní Bezděkov",
+    "lat": "50.0822",
+    "lon": "14.0675"
+  },
+  {
+    "name": "Hořešovice",
+    "lat": "50.2716",
+    "lon": "13.9668"
+  },
+  {
+    "name": "Hořešovičky",
+    "lat": "50.2749",
+    "lon": "13.9558"
+  },
+  {
+    "name": "Hospozín",
+    "lat": "50.3069",
+    "lon": "14.1718"
+  },
+  {
+    "name": "Hostouň",
+    "lat": "49.5597",
+    "lon": "12.7715"
+  },
+  {
+    "name": "Horní Kruty",
+    "lat": "49.9194",
+    "lon": "14.9597"
+  },
+  {
+    "name": "Horka I",
+    "lat": "49.9827",
+    "lon": "15.4399"
+  },
+  {
+    "name": "Horka II",
+    "lat": "49.7321",
+    "lon": "15.1337"
+  },
+  {
+    "name": "Horky",
+    "lat": "49.9207",
+    "lon": "16.2434"
+  },
+  {
+    "name": "Horušice",
+    "lat": "49.9965",
+    "lon": "15.4290"
+  },
+  {
+    "name": "Hostovlice",
+    "lat": "49.8601",
+    "lon": "15.4658"
+  },
+  {
+    "name": "Horní Počaply",
+    "lat": "50.4242",
+    "lon": "14.3899"
+  },
+  {
+    "name": "Hořín",
+    "lat": "50.3448",
+    "lon": "14.4642"
+  },
+  {
+    "name": "Hostín",
+    "lat": "50.3404",
+    "lon": "14.5889"
+  },
+  {
+    "name": "Hostín u Vojkovic",
+    "lat": "50.2973",
+    "lon": "14.3970"
+  },
+  {
+    "name": "Horky nad Jizerou",
+    "lat": "50.3271",
+    "lon": "14.8561"
+  },
+  {
+    "name": "Horní Bukovina",
+    "lat": "50.5432",
+    "lon": "14.9261"
+  },
+  {
+    "name": "Horní Slivno",
+    "lat": "50.3040",
+    "lon": "14.7049"
+  },
+  {
+    "name": "Hořany",
+    "lat": "50.0976",
+    "lon": "14.9458"
+  },
+  {
+    "name": "Hořátev",
+    "lat": "50.1497",
+    "lon": "15.0398"
+  },
+  {
+    "name": "Horoušany",
+    "lat": "50.1064",
+    "lon": "14.7406"
+  },
+  {
+    "name": "Hovorčovice",
+    "lat": "50.1795",
+    "lon": "14.5172"
+  },
+  {
+    "name": "Holubice",
+    "lat": "50.2025",
+    "lon": "14.2930"
+  },
+  {
+    "name": "Horoměřice",
+    "lat": "50.1318",
+    "lon": "14.3387"
+  },
+  {
+    "name": "Hostivice",
+    "lat": "50.0815",
+    "lon": "14.2586"
+  },
+  {
+    "name": "Horčápsko",
+    "lat": "49.5843",
+    "lon": "13.9844"
+  },
+  {
+    "name": "Hořesedly",
+    "lat": "50.1622",
+    "lon": "13.6037"
+  },
+  {
+    "name": "Hořovičky",
+    "lat": "50.1556",
+    "lon": "13.5314"
+  },
+  {
+    "name": "Homole",
+    "lat": "48.9390",
+    "lon": "14.4294"
+  },
+  {
+    "name": "Horní Kněžeklady",
+    "lat": "49.1941",
+    "lon": "14.4814"
+  },
+  {
+    "name": "Horní Stropnice",
+    "lat": "48.7612",
+    "lon": "14.7350"
+  },
+  {
+    "name": "Hosín",
+    "lat": "49.0372",
+    "lon": "14.4760"
+  },
+  {
+    "name": "Hosty",
+    "lat": "49.2603",
+    "lon": "14.3933"
+  },
+  {
+    "name": "Holubov",
+    "lat": "48.8913",
+    "lon": "14.3238"
+  },
+  {
+    "name": "Horní Dvořiště",
+    "lat": "48.6041",
+    "lon": "14.4053"
+  },
+  {
+    "name": "Horní Planá",
+    "lat": "48.7673",
+    "lon": "14.0322"
+  },
+  {
+    "name": "Hořice na Šumavě",
+    "lat": "48.7659",
+    "lon": "14.1784"
+  },
+  {
+    "name": "Horní Meziříčko",
+    "lat": "49.1569",
+    "lon": "15.2446"
+  },
+  {
+    "name": "Horní Němčice",
+    "lat": "49.1578",
+    "lon": "15.2797"
+  },
+  {
+    "name": "Horní Pěna",
+    "lat": "49.1046",
+    "lon": "15.0425"
+  },
+  {
+    "name": "Horní Radouň",
+    "lat": "49.2571",
+    "lon": "15.0057"
+  },
+  {
+    "name": "Horní Skrýchov",
+    "lat": "49.1728",
+    "lon": "15.0284"
+  },
+  {
+    "name": "Horní Slatina",
+    "lat": "49.0925",
+    "lon": "15.5667"
+  },
+  {
+    "name": "Hospříz",
+    "lat": "49.1287",
+    "lon": "15.0855"
+  },
+  {
+    "name": "Hojanovice",
+    "lat": "49.5973",
+    "lon": "15.2655"
+  },
+  {
+    "name": "Hojovice",
+    "lat": "49.3286",
+    "lon": "14.9192"
+  },
+  {
+    "name": "Horní Cerekev",
+    "lat": "49.3193",
+    "lon": "15.3292"
+  },
+  {
+    "name": "Horní Rápotice",
+    "lat": "49.5753",
+    "lon": "15.3205"
+  },
+  {
+    "name": "Horní Ves",
+    "lat": "49.2934",
+    "lon": "15.3075"
+  },
+  {
+    "name": "Hořepník",
+    "lat": "49.5125",
+    "lon": "15.1065"
+  },
+  {
+    "name": "Hořice",
+    "lat": "50.3665",
+    "lon": "15.6322"
+  },
+  {
+    "name": "Horosedly",
+    "lat": "49.5128",
+    "lon": "14.0540"
+  },
+  {
+    "name": "Horní Vltavice",
+    "lat": "48.9550",
+    "lon": "13.7596"
+  },
+  {
+    "name": "Horní Poříčí",
+    "lat": "49.2860",
+    "lon": "13.7828"
+  },
+  {
+    "name": "Hornosín",
+    "lat": "49.4827",
+    "lon": "13.8397"
+  },
+  {
+    "name": "Hoslovice",
+    "lat": "49.1911",
+    "lon": "13.7631"
+  },
+  {
+    "name": "Hoštice",
+    "lat": "49.1941",
+    "lon": "13.9090"
+  },
+  {
+    "name": "Hodětín",
+    "lat": "49.2522",
+    "lon": "14.5486"
+  },
+  {
+    "name": "Hodonice",
+    "lat": "48.8368",
+    "lon": "16.1634"
+  },
+  {
+    "name": "Hora Svatého Václava",
+    "lat": "49.5192",
+    "lon": "12.7407"
+  },
+  {
+    "name": "Horšovský Týn",
+    "lat": "49.5299",
+    "lon": "12.9437"
+  },
+  {
+    "name": "Hostouň",
+    "lat": "49.5597",
+    "lon": "12.7715"
+  },
+  {
+    "name": "Horní Blatná",
+    "lat": "50.3903",
+    "lon": "12.7702"
+  },
+  {
+    "name": "Hory",
+    "lat": "50.2134",
+    "lon": "12.7900"
+  },
+  {
+    "name": "Horažďovice",
+    "lat": "49.3210",
+    "lon": "13.7004"
+  },
+  {
+    "name": "Horská Kvilda",
+    "lat": "49.0576",
+    "lon": "13.5580"
+  },
+  {
+    "name": "Holýšov",
+    "lat": "49.5936",
+    "lon": "13.1013"
+  },
+  {
+    "name": "Honezovice",
+    "lat": "49.6382",
+    "lon": "13.0626"
+  },
+  {
+    "name": "Horní Kamenice",
+    "lat": "49.5696",
+    "lon": "13.1011"
+  },
+  {
+    "name": "Horní Lukavice",
+    "lat": "49.6117",
+    "lon": "13.3270"
+  },
+  {
+    "name": "Horšice",
+    "lat": "49.5315",
+    "lon": "13.3869"
+  },
+  {
+    "name": "Holovousy",
+    "lat": "49.9679",
+    "lon": "13.6147"
+  },
+  {
+    "name": "Horní Bělá",
+    "lat": "49.8890",
+    "lon": "13.2641"
+  },
+  {
+    "name": "Horní Bříza",
+    "lat": "49.8412",
+    "lon": "13.3574"
+  },
+  {
+    "name": "Holoubkov",
+    "lat": "49.7760",
+    "lon": "13.6925"
+  },
+  {
+    "name": "Horní Slavkov",
+    "lat": "50.1391",
+    "lon": "12.8078"
+  },
+  {
+    "name": "Horní Kozolupy",
+    "lat": "49.8375",
+    "lon": "12.9416"
+  },
+  {
+    "name": "Hošťka",
+    "lat": "49.6962",
+    "lon": "12.5977"
+  },
+  {
+    "name": "Holany",
+    "lat": "50.6180",
+    "lon": "14.4930"
+  },
+  {
+    "name": "Horní Libchava",
+    "lat": "50.7128",
+    "lon": "14.4933"
+  },
+  {
+    "name": "Horní Police",
+    "lat": "50.7039",
+    "lon": "14.4043"
+  },
+  {
+    "name": "Horní Habartice",
+    "lat": "50.7621",
+    "lon": "14.3406"
+  },
+  {
+    "name": "Horní Podluží",
+    "lat": "50.8815",
+    "lon": "14.5456"
+  },
+  {
+    "name": "Hora Svatého Šebestiána",
+    "lat": "50.5106",
+    "lon": "13.2516"
+  },
+  {
+    "name": "Hodkovice nad Mohelkou",
+    "lat": "50.6656",
+    "lon": "15.0901"
+  },
+  {
+    "name": "Horní Řasnice",
+    "lat": "50.9655",
+    "lon": "15.2015"
+  },
+  {
+    "name": "Horní Beřkovice",
+    "lat": "50.3587",
+    "lon": "14.3461"
+  },
+  {
+    "name": "Horní Řepčice",
+    "lat": "50.5567",
+    "lon": "14.2523"
+  },
+  {
+    "name": "Hoštka",
+    "lat": "50.4886",
+    "lon": "14.3350"
+  },
+  {
+    "name": "Holedeč",
+    "lat": "50.2774",
+    "lon": "13.5630"
+  },
+  {
+    "name": "Hora Svaté Kateřiny",
+    "lat": "50.6062",
+    "lon": "13.4369"
+  },
+  {
+    "name": "Horní Jiřetín",
+    "lat": "50.5731",
+    "lon": "13.5472"
+  },
+  {
+    "name": "Hostomice",
+    "lat": "49.8253",
+    "lon": "14.0456"
+  },
+  {
+    "name": "Homole u Panny",
+    "lat": "50.6295",
+    "lon": "14.1863"
+  },
+  {
+    "name": "Horní Krupá",
+    "lat": "49.6719",
+    "lon": "15.5863"
+  },
+  {
+    "name": "Horní Paseka",
+    "lat": "49.6297",
+    "lon": "15.2931"
+  },
+  {
+    "name": "Holohlavy",
+    "lat": "50.3079",
+    "lon": "15.8601"
+  },
+  {
+    "name": "Hořiněves",
+    "lat": "50.3095",
+    "lon": "15.7673"
+  },
+  {
+    "name": "Hodonín",
+    "lat": "48.8564",
+    "lon": "17.1235"
+  },
+  {
+    "name": "Holetín",
+    "lat": "49.8024",
+    "lon": "15.9268"
+  },
+  {
+    "name": "Honbice",
+    "lat": "49.9335",
+    "lon": "15.8930"
+  },
+  {
+    "name": "Horka",
+    "lat": "49.8872",
+    "lon": "15.9168"
+  },
+  {
+    "name": "Horní Bradlo",
+    "lat": "49.8022",
+    "lon": "15.7440"
+  },
+  {
+    "name": "Hošťalovice",
+    "lat": "49.9347",
+    "lon": "15.5767"
+  },
+  {
+    "name": "Holín",
+    "lat": "50.4508",
+    "lon": "15.3223"
+  },
+  {
+    "name": "Holovousy",
+    "lat": "49.9679",
+    "lon": "13.6147"
+  },
+  {
+    "name": "Hořice",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Horní Radechová",
+    "lat": "50.4674",
+    "lon": "16.1450"
+  },
+  {
+    "name": "Hořenice",
+    "lat": "50.3692",
+    "lon": "15.9112"
+  },
+  {
+    "name": "Hořičky",
+    "lat": "50.4448",
+    "lon": "15.9935"
+  },
+  {
+    "name": "Holice",
+    "lat": "50.0663",
+    "lon": "15.9859"
+  },
+  {
+    "name": "Holotín",
+    "lat": "49.9459",
+    "lon": "15.5802"
+  },
+  {
+    "name": "Horní Jelení",
+    "lat": "50.0490",
+    "lon": "16.0840"
+  },
+  {
+    "name": "Horní Ředice",
+    "lat": "50.0765",
+    "lon": "15.9588"
+  },
+  {
+    "name": "Holenice",
+    "lat": "50.5204",
+    "lon": "15.3004"
+  },
+  {
+    "name": "Horka u Staré Paky",
+    "lat": "50.5261",
+    "lon": "15.5759"
+  },
+  {
+    "name": "Horní Branná",
+    "lat": "50.6089",
+    "lon": "15.5700"
+  },
+  {
+    "name": "Horky",
+    "lat": "49.9207",
+    "lon": "16.2434"
+  },
+  {
+    "name": "Horní Újezd",
+    "lat": "49.8035",
+    "lon": "16.2329"
+  },
+  {
+    "name": "Horní Brusnice",
+    "lat": "50.4731",
+    "lon": "15.6810"
+  },
+  {
+    "name": "Horní Kalná",
+    "lat": "50.5687",
+    "lon": "15.6130"
+  },
+  {
+    "name": "Horní Maršov",
+    "lat": "50.6587",
+    "lon": "15.8200"
+  },
+  {
+    "name": "Horní Olešnice",
+    "lat": "50.5327",
+    "lon": "15.6774"
+  },
+  {
+    "name": "Hostinné",
+    "lat": "50.5409",
+    "lon": "15.7233"
+  },
+  {
+    "name": "Horní Čermná",
+    "lat": "49.9705",
+    "lon": "16.6077"
+  },
+  {
+    "name": "Horní Heřmanice",
+    "lat": "49.9610",
+    "lon": "16.7112"
+  },
+  {
+    "name": "Horní Třešňovec",
+    "lat": "49.9392",
+    "lon": "16.6025"
+  },
+  {
+    "name": "Hodonín",
+    "lat": "48.8564",
+    "lon": "17.1235"
+  },
+  {
+    "name": "Holštejn",
+    "lat": "49.4063",
+    "lon": "16.7777"
+  },
+  {
+    "name": "Horní Poříčí",
+    "lat": "49.2860",
+    "lon": "13.7828"
+  },
+  {
+    "name": "Horní Smržov",
+    "lat": "49.6183",
+    "lon": "16.5770"
+  },
+  {
+    "name": "Holasice",
+    "lat": "49.0759",
+    "lon": "16.6076"
+  },
+  {
+    "name": "Horní Loučky",
+    "lat": "49.3668",
+    "lon": "16.3414"
+  },
+  {
+    "name": "Hostěnice",
+    "lat": "49.2365",
+    "lon": "16.7765"
+  },
+  {
+    "name": "Horní Bojanovice",
+    "lat": "48.9497",
+    "lon": "16.8001"
+  },
+  {
+    "name": "Horní Věstonice",
+    "lat": "48.8748",
+    "lon": "16.6258"
+  },
+  {
+    "name": "Horní Lhota",
+    "lat": "49.1545",
+    "lon": "17.8040"
+  },
+  {
+    "name": "Hostišová",
+    "lat": "49.2537",
+    "lon": "17.5911"
+  },
+  {
+    "name": "Hodonín",
+    "lat": "48.8564",
+    "lon": "17.1235"
+  },
+  {
+    "name": "Hovorany",
+    "lat": "48.9549",
+    "lon": "16.9935"
+  },
+  {
+    "name": "Hodice",
+    "lat": "49.2702",
+    "lon": "15.4791"
+  },
+  {
+    "name": "Hojkov",
+    "lat": "49.3890",
+    "lon": "15.4144"
+  },
+  {
+    "name": "Horní Dubenky",
+    "lat": "49.2596",
+    "lon": "15.3170"
+  },
+  {
+    "name": "Horní Myslová",
+    "lat": "49.1653",
+    "lon": "15.4223"
+  },
+  {
+    "name": "Hostětice",
+    "lat": "49.1917",
+    "lon": "15.4141"
+  },
+  {
+    "name": "Holešov",
+    "lat": "49.3337",
+    "lon": "17.5787"
+  },
+  {
+    "name": "Honětice",
+    "lat": "49.2037",
+    "lon": "17.2531"
+  },
+  {
+    "name": "Horní Lapač",
+    "lat": "49.3009",
+    "lon": "17.6174"
+  },
+  {
+    "name": "Hoštice",
+    "lat": "49.1941",
+    "lon": "13.9090"
+  },
+  {
+    "name": "Horní Štěpánov",
+    "lat": "49.5490",
+    "lon": "16.7908"
+  },
+  {
+    "name": "Hodov",
+    "lat": "49.2938",
+    "lon": "15.9865"
+  },
+  {
+    "name": "Horní Heřmanice",
+    "lat": "49.9610",
+    "lon": "16.7112"
+  },
+  {
+    "name": "Horní Smrčné",
+    "lat": "49.3286",
+    "lon": "15.7561"
+  },
+  {
+    "name": "Horní Újezd",
+    "lat": "49.8035",
+    "lon": "16.2329"
+  },
+  {
+    "name": "Horní Vilémovice",
+    "lat": "49.2916",
+    "lon": "15.8808"
+  },
+  {
+    "name": "Hornice",
+    "lat": "48.9952",
+    "lon": "15.6804"
+  },
+  {
+    "name": "Horní Němčí",
+    "lat": "48.9333",
+    "lon": "17.6239"
+  },
+  {
+    "name": "Hostějov",
+    "lat": "49.0402",
+    "lon": "17.2574"
+  },
+  {
+    "name": "Hostětín",
+    "lat": "49.0498",
+    "lon": "17.8792"
+  },
+  {
+    "name": "Hodějice",
+    "lat": "49.1415",
+    "lon": "16.9137"
+  },
+  {
+    "name": "Holubice",
+    "lat": "50.2025",
+    "lon": "14.2930"
+  },
+  {
+    "name": "Hostěrádky-Rešov",
+    "lat": "49.1177",
+    "lon": "16.7843"
+  },
+  {
+    "name": "Hoštice-Heroltice",
+    "lat": "49.2874",
+    "lon": "17.0665"
+  },
+  {
+    "name": "Hodonice",
+    "lat": "48.8368",
+    "lon": "16.1634"
+  },
+  {
+    "name": "Horní Břečkov",
+    "lat": "48.8900",
+    "lon": "15.8985"
+  },
+  {
+    "name": "Horní Dubňany",
+    "lat": "49.0640",
+    "lon": "16.2016"
+  },
+  {
+    "name": "Horní Dunajovice",
+    "lat": "48.9502",
+    "lon": "16.1615"
+  },
+  {
+    "name": "Horní Kounice",
+    "lat": "49.0260",
+    "lon": "16.1523"
+  },
+  {
+    "name": "Hostěradice",
+    "lat": "48.9501",
+    "lon": "16.2593"
+  },
+  {
+    "name": "Hostim",
+    "lat": "49.0186",
+    "lon": "15.8949"
+  },
+  {
+    "name": "Hodíškov",
+    "lat": "49.5035",
+    "lon": "16.0380"
+  },
+  {
+    "name": "Horní Libochová",
+    "lat": "49.4075",
+    "lon": "16.1491"
+  },
+  {
+    "name": "Horní Radslavice",
+    "lat": "49.3382",
+    "lon": "15.9023"
+  },
+  {
+    "name": "Horní Rožínka",
+    "lat": "49.5000",
+    "lon": "16.1929"
+  },
+  {
+    "name": "Holčovice",
+    "lat": "50.1571",
+    "lon": "17.4855"
+  },
+  {
+    "name": "Horní Benešov",
+    "lat": "49.9668",
+    "lon": "17.6026"
+  },
+  {
+    "name": "Horní Město",
+    "lat": "49.9084",
+    "lon": "17.2111"
+  },
+  {
+    "name": "Horní Životice",
+    "lat": "49.9689",
+    "lon": "17.6408"
+  },
+  {
+    "name": "Hošťálkovy",
+    "lat": "50.1116",
+    "lon": "17.5995"
+  },
+  {
+    "name": "Horní Domaslavice",
+    "lat": "49.6957",
+    "lon": "18.4593"
+  },
+  {
+    "name": "Horní Lomná",
+    "lat": "49.5279",
+    "lon": "18.6377"
+  },
+  {
+    "name": "Horní Tošanovice",
+    "lat": "49.6922",
+    "lon": "18.5063"
+  },
+  {
+    "name": "Horní Bludovice",
+    "lat": "49.7497",
+    "lon": "18.4368"
+  },
+  {
+    "name": "Horní Suchá",
+    "lat": "49.7978",
+    "lon": "18.4816"
+  },
+  {
+    "name": "Hodslavice",
+    "lat": "49.5386",
+    "lon": "18.0237"
+  },
+  {
+    "name": "Hostašovice",
+    "lat": "49.5344",
+    "lon": "17.9974"
+  },
+  {
+    "name": "Horka nad Moravou",
+    "lat": "49.6401",
+    "lon": "17.2107"
+  },
+  {
+    "name": "Horní Loděnice",
+    "lat": "49.7711",
+    "lon": "17.3762"
+  },
+  {
+    "name": "Holasovice",
+    "lat": "49.9984",
+    "lon": "17.8085"
+  },
+  {
+    "name": "Horní Lhota",
+    "lat": "49.1545",
+    "lon": "17.8040"
+  },
+  {
+    "name": "Horní Moštěnice",
+    "lat": "49.4137",
+    "lon": "17.4593"
+  },
+  {
+    "name": "Horní Nětčice",
+    "lat": "49.4701",
+    "lon": "17.6844"
+  },
+  {
+    "name": "Horní Těšice",
+    "lat": "49.4957",
+    "lon": "17.7858"
+  },
+  {
+    "name": "Horní Újezd",
+    "lat": "49.8035",
+    "lon": "16.2329"
+  },
+  {
+    "name": "Horní Studénky",
+    "lat": "49.9526",
+    "lon": "16.8118"
+  },
+  {
+    "name": "Hoštejn",
+    "lat": "49.8750",
+    "lon": "16.7754"
+  },
+  {
+    "name": "Horní Bečva",
+    "lat": "49.4322",
+    "lon": "18.2886"
+  },
+  {
+    "name": "Horní Lideč",
+    "lat": "49.1815",
+    "lon": "18.0622"
+  },
+  {
+    "name": "Hošťálková",
+    "lat": "49.3547",
+    "lon": "17.8694"
+  },
+  {
+    "name": "Hovězí",
+    "lat": "49.3036",
+    "lon": "18.0606"
+  }
+]

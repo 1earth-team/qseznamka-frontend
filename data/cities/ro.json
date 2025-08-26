@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Rostoklaty",
+    "lat": "50.0734",
+    "lon": "14.8026"
+  },
+  {
+    "name": "Rohozec",
+    "lat": "49.3903",
+    "lon": "16.4828"
+  },
+  {
+    "name": "Rohatsko",
+    "lat": "50.4403",
+    "lon": "15.1047"
+  },
+  {
+    "name": "Rokytá",
+    "lat": "50.5502",
+    "lon": "14.8782"
+  },
+  {
+    "name": "Rokytovec",
+    "lat": "50.4065",
+    "lon": "14.8307"
+  },
+  {
+    "name": "Rožďalovice",
+    "lat": "50.3035",
+    "lon": "15.1700"
+  },
+  {
+    "name": "Roblín",
+    "lat": "49.9619",
+    "lon": "14.2483"
+  },
+  {
+    "name": "Roztoky",
+    "lat": "50.1608",
+    "lon": "14.3824"
+  },
+  {
+    "name": "Rosovice",
+    "lat": "49.7566",
+    "lon": "14.1090"
+  },
+  {
+    "name": "Rožmitál pod Třemšínem",
+    "lat": "49.6022",
+    "lon": "13.8640"
+  },
+  {
+    "name": "Roztoky",
+    "lat": "50.1608",
+    "lon": "14.3824"
+  },
+  {
+    "name": "Roudné",
+    "lat": "48.9350",
+    "lon": "14.4875"
+  },
+  {
+    "name": "Rožmberk nad Vltavou",
+    "lat": "48.6547",
+    "lon": "14.3666"
+  },
+  {
+    "name": "Rožmitál na Šumavě",
+    "lat": "48.7019",
+    "lon": "14.3879"
+  },
+  {
+    "name": "Rodvínov",
+    "lat": "49.1710",
+    "lon": "15.0570"
+  },
+  {
+    "name": "Roseč",
+    "lat": "49.1276",
+    "lon": "14.9110"
+  },
+  {
+    "name": "Rosička",
+    "lat": "49.2796",
+    "lon": "14.9539"
+  },
+  {
+    "name": "Rodinov",
+    "lat": "49.2828",
+    "lon": "15.1038"
+  },
+  {
+    "name": "Rovná",
+    "lat": "49.5102",
+    "lon": "15.1294"
+  },
+  {
+    "name": "Rovná",
+    "lat": "49.5102",
+    "lon": "15.1294"
+  },
+  {
+    "name": "Rodná",
+    "lat": "49.4902",
+    "lon": "14.8425"
+  },
+  {
+    "name": "Roudná",
+    "lat": "49.3044",
+    "lon": "14.7186"
+  },
+  {
+    "name": "Roupov",
+    "lat": "49.5385",
+    "lon": "13.2489"
+  },
+  {
+    "name": "Rochlov",
+    "lat": "49.7307",
+    "lon": "13.1459"
+  },
+  {
+    "name": "Rokycany",
+    "lat": "49.7429",
+    "lon": "13.5948"
+  },
+  {
+    "name": "Rotava",
+    "lat": "50.3059",
+    "lon": "12.5611"
+  },
+  {
+    "name": "Rovná",
+    "lat": "49.5102",
+    "lon": "15.1294"
+  },
+  {
+    "name": "Rozvadov",
+    "lat": "49.6715",
+    "lon": "12.5582"
+  },
+  {
+    "name": "Rokle",
+    "lat": "50.3532",
+    "lon": "13.2987"
+  },
+  {
+    "name": "Rochov",
+    "lat": "50.4594",
+    "lon": "14.1174"
+  },
+  {
+    "name": "Roudnice nad Labem",
+    "lat": "50.4244",
+    "lon": "14.2604"
+  },
+  {
+    "name": "Ročov",
+    "lat": "50.2535",
+    "lon": "13.7740"
+  },
+  {
+    "name": "Rozsochatec",
+    "lat": "49.6725",
+    "lon": "15.6338"
+  },
+  {
+    "name": "Roudnice",
+    "lat": "50.1762",
+    "lon": "15.6517"
+  },
+  {
+    "name": "Ronov nad Doubravou",
+    "lat": "49.8883",
+    "lon": "15.5314"
+  },
+  {
+    "name": "Rosice",
+    "lat": "49.1826",
+    "lon": "16.3878"
+  },
+  {
+    "name": "Rozhovice",
+    "lat": "49.9673",
+    "lon": "15.7133"
+  },
+  {
+    "name": "Rohoznice",
+    "lat": "50.1272",
+    "lon": "15.6643"
+  },
+  {
+    "name": "Rokytňany",
+    "lat": "50.3776",
+    "lon": "15.1280"
+  },
+  {
+    "name": "Rožnov",
+    "lat": "50.3387",
+    "lon": "15.8608"
+  },
+  {
+    "name": "Rohovládova Bělá",
+    "lat": "50.1062",
+    "lon": "15.6062"
+  },
+  {
+    "name": "Rohoznice",
+    "lat": "50.1272",
+    "lon": "15.6643"
+  },
+  {
+    "name": "Rokytno",
+    "lat": "50.1047",
+    "lon": "15.8893"
+  },
+  {
+    "name": "Rohenice",
+    "lat": "50.3093",
+    "lon": "16.0321"
+  },
+  {
+    "name": "Rokytnice v Orlických horách",
+    "lat": "50.1647",
+    "lon": "16.4657"
+  },
+  {
+    "name": "Rokytnice nad Jizerou",
+    "lat": "50.7280",
+    "lon": "15.4634"
+  },
+  {
+    "name": "Roprachtice",
+    "lat": "50.6476",
+    "lon": "15.4158"
+  },
+  {
+    "name": "Rovensko pod Troskami",
+    "lat": "50.5351",
+    "lon": "15.2598"
+  },
+  {
+    "name": "Roztoky u Jilemnice",
+    "lat": "50.5638",
+    "lon": "15.4997"
+  },
+  {
+    "name": "Roztoky u Semil",
+    "lat": "50.6585",
+    "lon": "15.3715"
+  },
+  {
+    "name": "Rohozná",
+    "lat": "49.6536",
+    "lon": "16.4079"
+  },
+  {
+    "name": "Rozhraní",
+    "lat": "49.6010",
+    "lon": "16.5330"
+  },
+  {
+    "name": "Rozstání",
+    "lat": "49.7353",
+    "lon": "16.7207"
+  },
+  {
+    "name": "Roubanina",
+    "lat": "49.6154",
+    "lon": "16.5941"
+  },
+  {
+    "name": "Rozseč nad Kunštátem",
+    "lat": "49.5244",
+    "lon": "16.4630"
+  },
+  {
+    "name": "Rozsíčka",
+    "lat": "49.5523",
+    "lon": "16.4670"
+  },
+  {
+    "name": "Rohozec",
+    "lat": "49.3903",
+    "lon": "16.4828"
+  },
+  {
+    "name": "Rojetín",
+    "lat": "49.3666",
+    "lon": "16.2574"
+  },
+  {
+    "name": "Rosice",
+    "lat": "49.1826",
+    "lon": "16.3878"
+  },
+  {
+    "name": "Rozdrojovice",
+    "lat": "49.2546",
+    "lon": "16.5099"
+  },
+  {
+    "name": "Rokytnice",
+    "lat": "49.4659",
+    "lon": "17.3912"
+  },
+  {
+    "name": "Rohatec",
+    "lat": "48.8804",
+    "lon": "17.1833"
+  },
+  {
+    "name": "Rohozná",
+    "lat": "49.6536",
+    "lon": "16.4079"
+  },
+  {
+    "name": "Rozseč",
+    "lat": "49.3601",
+    "lon": "16.2194"
+  },
+  {
+    "name": "Roštění",
+    "lat": "49.3662",
+    "lon": "17.5334"
+  },
+  {
+    "name": "Roštín",
+    "lat": "49.1888",
+    "lon": "17.2860"
+  },
+  {
+    "name": "Rozstání",
+    "lat": "49.7353",
+    "lon": "16.7207"
+  },
+  {
+    "name": "Rohy",
+    "lat": "49.3055",
+    "lon": "16.0056"
+  },
+  {
+    "name": "Rokytnice nad Rokytnou",
+    "lat": "49.1844",
+    "lon": "15.7729"
+  },
+  {
+    "name": "Rouchovany",
+    "lat": "49.0704",
+    "lon": "16.1072"
+  },
+  {
+    "name": "Rostěnice-Zvonovice",
+    "lat": "49.2364",
+    "lon": "16.9643"
+  },
+  {
+    "name": "Rousínov",
+    "lat": "49.2015",
+    "lon": "16.8821"
+  },
+  {
+    "name": "Rozkoš",
+    "lat": "49.0286",
+    "lon": "15.9777"
+  },
+  {
+    "name": "Rodkov",
+    "lat": "49.5039",
+    "lon": "16.2276"
+  },
+  {
+    "name": "Rosička",
+    "lat": "49.2796",
+    "lon": "14.9539"
+  },
+  {
+    "name": "Rousměrov",
+    "lat": "49.4565",
+    "lon": "16.0332"
+  },
+  {
+    "name": "Rovečné",
+    "lat": "49.5776",
+    "lon": "16.3626"
+  },
+  {
+    "name": "Rozseč",
+    "lat": "49.3601",
+    "lon": "16.2194"
+  },
+  {
+    "name": "Rozsochy",
+    "lat": "49.5202",
+    "lon": "16.2001"
+  },
+  {
+    "name": "Rožná",
+    "lat": "49.4773",
+    "lon": "16.2385"
+  },
+  {
+    "name": "Roudno",
+    "lat": "49.8961",
+    "lon": "17.5138"
+  },
+  {
+    "name": "Ropice",
+    "lat": "49.7054",
+    "lon": "18.6134"
+  },
+  {
+    "name": "Rohov",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Rokytnice",
+    "lat": "49.4659",
+    "lon": "17.3912"
+  },
+  {
+    "name": "Rouské",
+    "lat": "49.4720",
+    "lon": "17.7795"
+  },
+  {
+    "name": "Rohle",
+    "lat": "49.8599",
+    "lon": "17.0153"
+  },
+  {
+    "name": "Rovensko",
+    "lat": "49.9077",
+    "lon": "16.8762"
+  },
+  {
+    "name": "Rožnov pod Radhoštěm",
+    "lat": "49.4588",
+    "lon": "18.1430"
+  }
+]

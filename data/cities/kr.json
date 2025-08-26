@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Krhanice",
+    "lat": "49.8560",
+    "lon": "14.5574"
+  },
+  {
+    "name": "Krňany",
+    "lat": "49.8449",
+    "lon": "14.4765"
+  },
+  {
+    "name": "Králův Dvůr",
+    "lat": "49.9475",
+    "lon": "14.0395"
+  },
+  {
+    "name": "Královice",
+    "lat": "50.2632",
+    "lon": "14.0557"
+  },
+  {
+    "name": "Krakovany",
+    "lat": "50.0661",
+    "lon": "15.3689"
+  },
+  {
+    "name": "Krupá",
+    "lat": "50.0174",
+    "lon": "14.8713"
+  },
+  {
+    "name": "Krychnov",
+    "lat": "50.0061",
+    "lon": "15.0577"
+  },
+  {
+    "name": "Krchleby",
+    "lat": "49.8889",
+    "lon": "15.3503"
+  },
+  {
+    "name": "Kralupy nad Vltavou",
+    "lat": "50.2421",
+    "lon": "14.3119"
+  },
+  {
+    "name": "Krásná Ves",
+    "lat": "50.4247",
+    "lon": "14.7921"
+  },
+  {
+    "name": "Krnsko",
+    "lat": "50.3727",
+    "lon": "14.8630"
+  },
+  {
+    "name": "Kropáčova Vrutice",
+    "lat": "50.3305",
+    "lon": "14.7174"
+  },
+  {
+    "name": "Krchleby",
+    "lat": "49.8889",
+    "lon": "15.3503"
+  },
+  {
+    "name": "Krásná Hora nad Vltavou",
+    "lat": "49.6046",
+    "lon": "14.2774"
+  },
+  {
+    "name": "Krakov",
+    "lat": "50.0374",
+    "lon": "13.6475"
+  },
+  {
+    "name": "Krakovec",
+    "lat": "50.0188",
+    "lon": "13.6382"
+  },
+  {
+    "name": "Kroučová",
+    "lat": "50.2068",
+    "lon": "13.7839"
+  },
+  {
+    "name": "Krty",
+    "lat": "50.0920",
+    "lon": "13.4319"
+  },
+  {
+    "name": "Krupá",
+    "lat": "50.0174",
+    "lon": "14.8713"
+  },
+  {
+    "name": "Krušovice",
+    "lat": "50.1721",
+    "lon": "13.7756"
+  },
+  {
+    "name": "Krasíkovice",
+    "lat": "49.4616",
+    "lon": "15.2287"
+  },
+  {
+    "name": "Králova Lhota",
+    "lat": "49.4957",
+    "lon": "14.1105"
+  },
+  {
+    "name": "Kratušín",
+    "lat": "49.0199",
+    "lon": "13.9284"
+  },
+  {
+    "name": "Krajníčko",
+    "lat": "49.1475",
+    "lon": "14.0287"
+  },
+  {
+    "name": "Kraselov",
+    "lat": "49.2278",
+    "lon": "13.8039"
+  },
+  {
+    "name": "Krašlovice",
+    "lat": "49.1666",
+    "lon": "14.1325"
+  },
+  {
+    "name": "Krejnice",
+    "lat": "49.2337",
+    "lon": "13.7185"
+  },
+  {
+    "name": "Krty-Hradec",
+    "lat": "49.2916",
+    "lon": "13.8479"
+  },
+  {
+    "name": "Krátošice",
+    "lat": "49.3259",
+    "lon": "14.7867"
+  },
+  {
+    "name": "Krtov",
+    "lat": "49.3484",
+    "lon": "14.8325"
+  },
+  {
+    "name": "Krásná",
+    "lat": "50.2348",
+    "lon": "12.1680"
+  },
+  {
+    "name": "Krásné Údolí",
+    "lat": "50.0724",
+    "lon": "12.9210"
+  },
+  {
+    "name": "Krásný Les",
+    "lat": "50.9402",
+    "lon": "15.1276"
+  },
+  {
+    "name": "Kramolín",
+    "lat": "49.4461",
+    "lon": "13.5770"
+  },
+  {
+    "name": "Kralovice",
+    "lat": "49.9821",
+    "lon": "13.4867"
+  },
+  {
+    "name": "Krašovice",
+    "lat": "49.8723",
+    "lon": "13.3052"
+  },
+  {
+    "name": "Krsy",
+    "lat": "49.9262",
+    "lon": "13.0550"
+  },
+  {
+    "name": "Krajková",
+    "lat": "50.2160",
+    "lon": "12.5341"
+  },
+  {
+    "name": "Královské Poříčí",
+    "lat": "50.1938",
+    "lon": "12.6803"
+  },
+  {
+    "name": "Kraslice",
+    "lat": "50.3240",
+    "lon": "12.5174"
+  },
+  {
+    "name": "Krásno",
+    "lat": "50.1092",
+    "lon": "12.7863"
+  },
+  {
+    "name": "Kravaře",
+    "lat": "50.6326",
+    "lon": "14.3931"
+  },
+  {
+    "name": "Krompach",
+    "lat": "50.8289",
+    "lon": "14.7011"
+  },
+  {
+    "name": "Krásná Lípa",
+    "lat": "50.9146",
+    "lon": "14.5063"
+  },
+  {
+    "name": "Kryštofovy Hamry",
+    "lat": "50.4995",
+    "lon": "13.1361"
+  },
+  {
+    "name": "Krásný Les",
+    "lat": "50.9402",
+    "lon": "15.1276"
+  },
+  {
+    "name": "Kryštofovo Údolí",
+    "lat": "50.7751",
+    "lon": "14.9366"
+  },
+  {
+    "name": "Krabčice",
+    "lat": "50.4054",
+    "lon": "14.3013"
+  },
+  {
+    "name": "Krásný Dvůr",
+    "lat": "50.2542",
+    "lon": "13.3678"
+  },
+  {
+    "name": "Kryry",
+    "lat": "50.1744",
+    "lon": "13.4266"
+  },
+  {
+    "name": "Krupka",
+    "lat": "50.6847",
+    "lon": "13.8578"
+  },
+  {
+    "name": "Kraborovice",
+    "lat": "49.8005",
+    "lon": "15.5719"
+  },
+  {
+    "name": "Krásná Hora",
+    "lat": "49.6027",
+    "lon": "15.4703"
+  },
+  {
+    "name": "Krátká Ves",
+    "lat": "49.6257",
+    "lon": "15.6845"
+  },
+  {
+    "name": "Krucemburk",
+    "lat": "49.6884",
+    "lon": "15.8521"
+  },
+  {
+    "name": "Králíky",
+    "lat": "50.0843",
+    "lon": "16.7604"
+  },
+  {
+    "name": "Kratonohy",
+    "lat": "50.1691",
+    "lon": "15.6069"
+  },
+  {
+    "name": "Krásné",
+    "lat": "49.8216",
+    "lon": "15.7455"
+  },
+  {
+    "name": "Krouna",
+    "lat": "49.7724",
+    "lon": "16.0267"
+  },
+  {
+    "name": "Kramolna",
+    "lat": "50.4208",
+    "lon": "16.1351"
+  },
+  {
+    "name": "Králova Lhota",
+    "lat": "49.4957",
+    "lon": "14.1105"
+  },
+  {
+    "name": "Krchleby",
+    "lat": "49.8889",
+    "lon": "15.3503"
+  },
+  {
+    "name": "Kruh",
+    "lat": "50.5656",
+    "lon": "15.4803"
+  },
+  {
+    "name": "Královec",
+    "lat": "50.6768",
+    "lon": "15.9737"
+  },
+  {
+    "name": "Králíky",
+    "lat": "50.0843",
+    "lon": "16.7604"
+  },
+  {
+    "name": "Krasíkov",
+    "lat": "49.8556",
+    "lon": "16.6957"
+  },
+  {
+    "name": "Krasová",
+    "lat": "49.3614",
+    "lon": "16.7679"
+  },
+  {
+    "name": "Krhov",
+    "lat": "49.1003",
+    "lon": "16.0194"
+  },
+  {
+    "name": "Kratochvilka",
+    "lat": "49.1568",
+    "lon": "16.3763"
+  },
+  {
+    "name": "Krumvíř",
+    "lat": "48.9890",
+    "lon": "16.9103"
+  },
+  {
+    "name": "Krahulčí",
+    "lat": "49.1821",
+    "lon": "15.4146"
+  },
+  {
+    "name": "Krasonice",
+    "lat": "49.1145",
+    "lon": "15.6153"
+  },
+  {
+    "name": "Kroměříž",
+    "lat": "49.2984",
+    "lon": "17.3930"
+  },
+  {
+    "name": "Kralice na Hané",
+    "lat": "49.4630",
+    "lon": "17.1805"
+  },
+  {
+    "name": "Krumsín",
+    "lat": "49.4459",
+    "lon": "17.0015"
+  },
+  {
+    "name": "Krahulov",
+    "lat": "49.2229",
+    "lon": "15.8081"
+  },
+  {
+    "name": "Kralice nad Oslavou",
+    "lat": "49.1986",
+    "lon": "16.2031"
+  },
+  {
+    "name": "Kramolín",
+    "lat": "49.4461",
+    "lon": "13.5770"
+  },
+  {
+    "name": "Krhov",
+    "lat": "49.1003",
+    "lon": "16.0194"
+  },
+  {
+    "name": "Krokočín",
+    "lat": "49.2443",
+    "lon": "16.2330"
+  },
+  {
+    "name": "Krásensko",
+    "lat": "49.3645",
+    "lon": "16.8299"
+  },
+  {
+    "name": "Kravsko",
+    "lat": "48.9215",
+    "lon": "15.9863"
+  },
+  {
+    "name": "Krhovice",
+    "lat": "48.8156",
+    "lon": "16.1735"
+  },
+  {
+    "name": "Krásné",
+    "lat": "49.8216",
+    "lon": "15.7455"
+  },
+  {
+    "name": "Krásněves",
+    "lat": "49.4444",
+    "lon": "15.9812"
+  },
+  {
+    "name": "Krasov",
+    "lat": "50.0918",
+    "lon": "17.5461"
+  },
+  {
+    "name": "Krnov",
+    "lat": "50.0899",
+    "lon": "17.7041"
+  },
+  {
+    "name": "Krásná",
+    "lat": "50.2348",
+    "lon": "12.1680"
+  },
+  {
+    "name": "Krmelín",
+    "lat": "49.7293",
+    "lon": "18.2354"
+  },
+  {
+    "name": "Krčmaň",
+    "lat": "49.5206",
+    "lon": "17.3436"
+  },
+  {
+    "name": "Kravaře",
+    "lat": "50.6326",
+    "lon": "14.3931"
+  },
+  {
+    "name": "Kružberk",
+    "lat": "49.8318",
+    "lon": "17.6832"
+  },
+  {
+    "name": "Krchleby",
+    "lat": "49.8889",
+    "lon": "15.3503"
+  },
+  {
+    "name": "Krhová",
+    "lat": "49.4941",
+    "lon": "18.0077"
+  }
+]

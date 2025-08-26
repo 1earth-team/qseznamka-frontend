@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Vavřinec",
+    "lat": "49.4026",
+    "lon": "16.7199"
+  },
+  {
+    "name": "Varvažov",
+    "lat": "49.4389",
+    "lon": "14.1426"
+  },
+  {
+    "name": "Vacov",
+    "lat": "49.1369",
+    "lon": "13.7291"
+  },
+  {
+    "name": "Vacovice",
+    "lat": "49.1404",
+    "lon": "13.7809"
+  },
+  {
+    "name": "Val",
+    "lat": "49.1459",
+    "lon": "14.7561"
+  },
+  {
+    "name": "Valy",
+    "lat": "50.0298",
+    "lon": "15.6171"
+  },
+  {
+    "name": "Valeč",
+    "lat": "49.1443",
+    "lon": "16.0357"
+  },
+  {
+    "name": "Valkeřice",
+    "lat": "50.7018",
+    "lon": "14.3219"
+  },
+  {
+    "name": "Varnsdorf",
+    "lat": "50.9124",
+    "lon": "14.6194"
+  },
+  {
+    "name": "Valdice",
+    "lat": "50.4550",
+    "lon": "15.3849"
+  },
+  {
+    "name": "Valy",
+    "lat": "50.0298",
+    "lon": "15.6171"
+  },
+  {
+    "name": "Val",
+    "lat": "49.1459",
+    "lon": "14.7561"
+  },
+  {
+    "name": "Vamberk",
+    "lat": "50.1179",
+    "lon": "16.2904"
+  },
+  {
+    "name": "Valchov",
+    "lat": "49.4703",
+    "lon": "16.7197"
+  },
+  {
+    "name": "Vanovice",
+    "lat": "49.5673",
+    "lon": "16.6661"
+  },
+  {
+    "name": "Vavřinec",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Valtice",
+    "lat": "48.7413",
+    "lon": "16.7558"
+  },
+  {
+    "name": "Valašské Klobouky",
+    "lat": "49.1409",
+    "lon": "18.0076"
+  },
+  {
+    "name": "Valašské Příkazy",
+    "lat": "49.1662",
+    "lon": "18.0539"
+  },
+  {
+    "name": "Vacenovice",
+    "lat": "48.9451",
+    "lon": "17.1740"
+  },
+  {
+    "name": "Vanov",
+    "lat": "49.2077",
+    "lon": "15.4136"
+  },
+  {
+    "name": "Vanůvek",
+    "lat": "49.2225",
+    "lon": "15.4226"
+  },
+  {
+    "name": "Valdíkov",
+    "lat": "49.2470",
+    "lon": "15.9852"
+  },
+  {
+    "name": "Valeč",
+    "lat": "49.1443",
+    "lon": "16.0357"
+  },
+  {
+    "name": "Valtrovice",
+    "lat": "48.7937",
+    "lon": "16.2211"
+  },
+  {
+    "name": "Vatín",
+    "lat": "49.5248",
+    "lon": "15.9668"
+  },
+  {
+    "name": "Valšov",
+    "lat": "49.9334",
+    "lon": "17.4381"
+  },
+  {
+    "name": "Valašská Bystřice",
+    "lat": "49.4147",
+    "lon": "18.1102"
+  },
+  {
+    "name": "Valašská Polanka",
+    "lat": "49.2624",
+    "lon": "17.9964"
+  },
+  {
+    "name": "Valašská Senice",
+    "lat": "49.2253",
+    "lon": "18.1169"
+  },
+  {
+    "name": "Valašské Meziříčí",
+    "lat": "49.4716",
+    "lon": "17.9716"
+  }
+]

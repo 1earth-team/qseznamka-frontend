@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Vracovice",
+    "lat": "48.9021",
+    "lon": "15.8987"
+  },
+  {
+    "name": "Vranov",
+    "lat": "49.3094",
+    "lon": "16.6132"
+  },
+  {
+    "name": "Vrchotovy Janovice",
+    "lat": "49.6668",
+    "lon": "14.5778"
+  },
+  {
+    "name": "Vráž",
+    "lat": "49.9833",
+    "lon": "14.1289"
+  },
+  {
+    "name": "Vraný",
+    "lat": "50.3271",
+    "lon": "14.0171"
+  },
+  {
+    "name": "Vrbičany",
+    "lat": "50.4626",
+    "lon": "14.0847"
+  },
+  {
+    "name": "Vrátkov",
+    "lat": "50.0470",
+    "lon": "14.8348"
+  },
+  {
+    "name": "Vrbčany",
+    "lat": "50.0500",
+    "lon": "14.9922"
+  },
+  {
+    "name": "Vrdy",
+    "lat": "49.9215",
+    "lon": "15.4724"
+  },
+  {
+    "name": "Vraňany",
+    "lat": "50.3172",
+    "lon": "14.3620"
+  },
+  {
+    "name": "Vrátno",
+    "lat": "50.4321",
+    "lon": "14.6937"
+  },
+  {
+    "name": "Vrbice",
+    "lat": "50.1808",
+    "lon": "15.2301"
+  },
+  {
+    "name": "Vrbová Lhota",
+    "lat": "50.1122",
+    "lon": "15.0627"
+  },
+  {
+    "name": "Vrané nad Vltavou",
+    "lat": "49.9363",
+    "lon": "14.3770"
+  },
+  {
+    "name": "Vrančice",
+    "lat": "49.6106",
+    "lon": "14.0418"
+  },
+  {
+    "name": "Vranovice",
+    "lat": "48.9660",
+    "lon": "16.6066"
+  },
+  {
+    "name": "Vrábče",
+    "lat": "48.9177",
+    "lon": "14.3763"
+  },
+  {
+    "name": "Vráto",
+    "lat": "48.9879",
+    "lon": "14.5269"
+  },
+  {
+    "name": "Vráž",
+    "lat": "49.9833",
+    "lon": "14.1289"
+  },
+  {
+    "name": "Vrcovice",
+    "lat": "49.3447",
+    "lon": "14.1744"
+  },
+  {
+    "name": "Vrbice",
+    "lat": "50.1808",
+    "lon": "15.2301"
+  },
+  {
+    "name": "Vrbice",
+    "lat": "50.1808",
+    "lon": "15.2301"
+  },
+  {
+    "name": "Vrhaveč",
+    "lat": "49.3455",
+    "lon": "13.2963"
+  },
+  {
+    "name": "Vrčeň",
+    "lat": "49.5078",
+    "lon": "13.6186"
+  },
+  {
+    "name": "Vranov",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vrchovany",
+    "lat": "50.5531",
+    "lon": "14.5712"
+  },
+  {
+    "name": "Vrskmaň",
+    "lat": "50.4882",
+    "lon": "13.4956"
+  },
+  {
+    "name": "Vražkov",
+    "lat": "50.3734",
+    "lon": "14.2680"
+  },
+  {
+    "name": "Vrbice",
+    "lat": "50.1808",
+    "lon": "15.2301"
+  },
+  {
+    "name": "Vrbičany",
+    "lat": "50.4626",
+    "lon": "14.0847"
+  },
+  {
+    "name": "Vrutice",
+    "lat": "50.5021",
+    "lon": "14.2897"
+  },
+  {
+    "name": "Vrbno nad Lesy",
+    "lat": "50.3225",
+    "lon": "13.9070"
+  },
+  {
+    "name": "Vroutek",
+    "lat": "50.1806",
+    "lon": "13.3804"
+  },
+  {
+    "name": "Vršovice",
+    "lat": "50.0658",
+    "lon": "14.4561"
+  },
+  {
+    "name": "Vrchovnice",
+    "lat": "50.3229",
+    "lon": "15.7575"
+  },
+  {
+    "name": "Vrbatův Kostelec",
+    "lat": "49.8563",
+    "lon": "15.9410"
+  },
+  {
+    "name": "Vrbice",
+    "lat": "50.1808",
+    "lon": "15.2301"
+  },
+  {
+    "name": "Vršce",
+    "lat": "50.3239",
+    "lon": "15.3230"
+  },
+  {
+    "name": "Vršovka",
+    "lat": "50.3232",
+    "lon": "16.1202"
+  },
+  {
+    "name": "Vrbice",
+    "lat": "50.1808",
+    "lon": "15.2301"
+  },
+  {
+    "name": "Vranová Lhota",
+    "lat": "49.7102",
+    "lon": "16.8240"
+  },
+  {
+    "name": "Vrážné",
+    "lat": "49.6760",
+    "lon": "16.7782"
+  },
+  {
+    "name": "Vrchlabí",
+    "lat": "50.6271",
+    "lon": "15.6096"
+  },
+  {
+    "name": "Vraclav",
+    "lat": "49.9680",
+    "lon": "16.0900"
+  },
+  {
+    "name": "Vračovice-Orlov",
+    "lat": "49.9529",
+    "lon": "16.2520"
+  },
+  {
+    "name": "Vranová",
+    "lat": "49.5540",
+    "lon": "16.5248"
+  },
+  {
+    "name": "Vranov",
+    "lat": "49.3094",
+    "lon": "16.6132"
+  },
+  {
+    "name": "Vranovice",
+    "lat": "48.9660",
+    "lon": "16.6066"
+  },
+  {
+    "name": "Vratislávka",
+    "lat": "49.3864",
+    "lon": "16.2440"
+  },
+  {
+    "name": "Vrbice",
+    "lat": "50.1808",
+    "lon": "15.2301"
+  },
+  {
+    "name": "Vracov",
+    "lat": "48.9739",
+    "lon": "17.2121"
+  },
+  {
+    "name": "Vrbka",
+    "lat": "49.2282",
+    "lon": "17.4131"
+  },
+  {
+    "name": "Vranovice-Kelčice",
+    "lat": "49.4027",
+    "lon": "17.1082"
+  },
+  {
+    "name": "Vrbátky",
+    "lat": "49.5080",
+    "lon": "17.1999"
+  },
+  {
+    "name": "Vrchoslavice",
+    "lat": "49.3330",
+    "lon": "17.2183"
+  },
+  {
+    "name": "Vracovice",
+    "lat": "48.9021",
+    "lon": "15.8987"
+  },
+  {
+    "name": "Vranov nad Dyjí",
+    "lat": "48.8947",
+    "lon": "15.8125"
+  },
+  {
+    "name": "Vranovská Ves",
+    "lat": "48.9515",
+    "lon": "15.9185"
+  },
+  {
+    "name": "Vratěnín",
+    "lat": "48.9041",
+    "lon": "15.5952"
+  },
+  {
+    "name": "Vrbovec",
+    "lat": "48.7998",
+    "lon": "16.1006"
+  },
+  {
+    "name": "Vrbno pod Pradědem",
+    "lat": "50.1210",
+    "lon": "17.3832"
+  },
+  {
+    "name": "Vražné",
+    "lat": "49.6287",
+    "lon": "17.8667"
+  },
+  {
+    "name": "Vrchy",
+    "lat": "49.7510",
+    "lon": "17.8711"
+  },
+  {
+    "name": "Vršovice",
+    "lat": "50.0658",
+    "lon": "14.4561"
+  },
+  {
+    "name": "Vratimov",
+    "lat": "49.7698",
+    "lon": "18.3102"
+  }
+]

@@ -1,0 +1,807 @@
+[
+  {
+    "name": "Chářovice",
+    "lat": "49.8203",
+    "lon": "14.5779"
+  },
+  {
+    "name": "Chleby",
+    "lat": "49.8270",
+    "lon": "14.5569"
+  },
+  {
+    "name": "Chlístov",
+    "lat": "49.2021",
+    "lon": "15.7437"
+  },
+  {
+    "name": "Chlum",
+    "lat": "49.3136",
+    "lon": "15.7670"
+  },
+  {
+    "name": "Chmelná",
+    "lat": "49.6481",
+    "lon": "14.9884"
+  },
+  {
+    "name": "Chocerady",
+    "lat": "49.8729",
+    "lon": "14.8021"
+  },
+  {
+    "name": "Choratice",
+    "lat": "49.8393",
+    "lon": "14.8747"
+  },
+  {
+    "name": "Chotýšany",
+    "lat": "49.7441",
+    "lon": "14.8146"
+  },
+  {
+    "name": "Chrášťany",
+    "lat": "49.2960",
+    "lon": "14.3875"
+  },
+  {
+    "name": "Chaloupky",
+    "lat": "49.7912",
+    "lon": "13.8716"
+  },
+  {
+    "name": "Chlustina",
+    "lat": "49.8780",
+    "lon": "13.9197"
+  },
+  {
+    "name": "Chodouň",
+    "lat": "49.8982",
+    "lon": "13.9866"
+  },
+  {
+    "name": "Chrustenice",
+    "lat": "50.0060",
+    "lon": "14.1522"
+  },
+  {
+    "name": "Chyňava",
+    "lat": "50.0275",
+    "lon": "14.0737"
+  },
+  {
+    "name": "Chržín",
+    "lat": "50.2953",
+    "lon": "14.2701"
+  },
+  {
+    "name": "Choťovice",
+    "lat": "50.1319",
+    "lon": "15.3334"
+  },
+  {
+    "name": "Chotutice",
+    "lat": "50.0700",
+    "lon": "14.9899"
+  },
+  {
+    "name": "Chrášťany",
+    "lat": "49.2960",
+    "lon": "14.3875"
+  },
+  {
+    "name": "Chabeřice",
+    "lat": "49.7501",
+    "lon": "15.0738"
+  },
+  {
+    "name": "Chlístovice",
+    "lat": "49.8857",
+    "lon": "15.2025"
+  },
+  {
+    "name": "Chotusice",
+    "lat": "49.9494",
+    "lon": "15.3945"
+  },
+  {
+    "name": "Chlumín",
+    "lat": "50.2893",
+    "lon": "14.4495"
+  },
+  {
+    "name": "Chorušice",
+    "lat": "50.3903",
+    "lon": "14.6705"
+  },
+  {
+    "name": "Chvatěruby",
+    "lat": "50.2327",
+    "lon": "14.3427"
+  },
+  {
+    "name": "Charvatce",
+    "lat": "50.3226",
+    "lon": "14.9986"
+  },
+  {
+    "name": "Chocnějovice",
+    "lat": "50.5769",
+    "lon": "14.9714"
+  },
+  {
+    "name": "Chotětov",
+    "lat": "50.3374",
+    "lon": "14.8015"
+  },
+  {
+    "name": "Chudíř",
+    "lat": "50.3088",
+    "lon": "15.0138"
+  },
+  {
+    "name": "Chleby",
+    "lat": "49.8270",
+    "lon": "14.5569"
+  },
+  {
+    "name": "Choťánky",
+    "lat": "50.1382",
+    "lon": "15.1624"
+  },
+  {
+    "name": "Chotěšice",
+    "lat": "50.2786",
+    "lon": "15.2731"
+  },
+  {
+    "name": "Chrást",
+    "lat": "50.1189",
+    "lon": "14.8981"
+  },
+  {
+    "name": "Chroustov",
+    "lat": "50.2866",
+    "lon": "15.3472"
+  },
+  {
+    "name": "Choteč",
+    "lat": "50.0830",
+    "lon": "15.8802"
+  },
+  {
+    "name": "Chrášťany",
+    "lat": "49.2960",
+    "lon": "14.3875"
+  },
+  {
+    "name": "Chýně",
+    "lat": "50.0606",
+    "lon": "14.2273"
+  },
+  {
+    "name": "Chýnice",
+    "lat": "49.9959",
+    "lon": "14.2643"
+  },
+  {
+    "name": "Chotilsko",
+    "lat": "49.7696",
+    "lon": "14.3525"
+  },
+  {
+    "name": "Chrást",
+    "lat": "50.1189",
+    "lon": "14.8981"
+  },
+  {
+    "name": "Chraštice",
+    "lat": "49.5773",
+    "lon": "14.0721"
+  },
+  {
+    "name": "Chrášťany",
+    "lat": "49.2960",
+    "lon": "14.3875"
+  },
+  {
+    "name": "Chotýčany",
+    "lat": "49.0676",
+    "lon": "14.5210"
+  },
+  {
+    "name": "Chrášťany",
+    "lat": "49.2960",
+    "lon": "14.3875"
+  },
+  {
+    "name": "Chlumec",
+    "lat": "48.8710",
+    "lon": "14.3953"
+  },
+  {
+    "name": "Chvalšiny",
+    "lat": "48.8540",
+    "lon": "14.2111"
+  },
+  {
+    "name": "Chlum u Třeboně",
+    "lat": "48.9600",
+    "lon": "14.9331"
+  },
+  {
+    "name": "Chýstovice",
+    "lat": "49.5857",
+    "lon": "15.0796"
+  },
+  {
+    "name": "Chyšná",
+    "lat": "49.5864",
+    "lon": "15.0999"
+  },
+  {
+    "name": "Chyšky",
+    "lat": "49.5235",
+    "lon": "14.4276"
+  },
+  {
+    "name": "Chlumany",
+    "lat": "49.0666",
+    "lon": "13.9654"
+  },
+  {
+    "name": "Chroboly",
+    "lat": "48.9565",
+    "lon": "14.0670"
+  },
+  {
+    "name": "Chvalovice",
+    "lat": "48.7866",
+    "lon": "16.0823"
+  },
+  {
+    "name": "Chelčice",
+    "lat": "49.1214",
+    "lon": "14.1691"
+  },
+  {
+    "name": "Chlum",
+    "lat": "49.3136",
+    "lon": "15.7670"
+  },
+  {
+    "name": "Chobot",
+    "lat": "49.4624",
+    "lon": "13.9337"
+  },
+  {
+    "name": "Chrášťovice",
+    "lat": "49.3332",
+    "lon": "13.8970"
+  },
+  {
+    "name": "Chotěmice",
+    "lat": "49.2752",
+    "lon": "14.8769"
+  },
+  {
+    "name": "Chotoviny",
+    "lat": "49.4780",
+    "lon": "14.6769"
+  },
+  {
+    "name": "Choustník",
+    "lat": "49.3329",
+    "lon": "14.8384"
+  },
+  {
+    "name": "Chrbonín",
+    "lat": "49.3587",
+    "lon": "14.8643"
+  },
+  {
+    "name": "Chýnov",
+    "lat": "49.4068",
+    "lon": "14.8112"
+  },
+  {
+    "name": "Chocomyšl",
+    "lat": "49.4672",
+    "lon": "13.1307"
+  },
+  {
+    "name": "Chodov",
+    "lat": "49.4178",
+    "lon": "12.8301"
+  },
+  {
+    "name": "Chodská Lhota",
+    "lat": "49.3583",
+    "lon": "13.0832"
+  },
+  {
+    "name": "Chrastavice",
+    "lat": "49.4536",
+    "lon": "12.9568"
+  },
+  {
+    "name": "Cheb",
+    "lat": "50.0794",
+    "lon": "12.3704"
+  },
+  {
+    "name": "Chodov",
+    "lat": "49.4178",
+    "lon": "12.8301"
+  },
+  {
+    "name": "Chyše",
+    "lat": "50.1045",
+    "lon": "13.2489"
+  },
+  {
+    "name": "Chanovice",
+    "lat": "49.4047",
+    "lon": "13.7170"
+  },
+  {
+    "name": "Chlistov",
+    "lat": "49.3199",
+    "lon": "13.3609"
+  },
+  {
+    "name": "Chudenice",
+    "lat": "49.4667",
+    "lon": "13.1739"
+  },
+  {
+    "name": "Chudenín",
+    "lat": "49.2930",
+    "lon": "13.1008"
+  },
+  {
+    "name": "Chrást",
+    "lat": "50.1189",
+    "lon": "14.8981"
+  },
+  {
+    "name": "Chválenice",
+    "lat": "49.6431",
+    "lon": "13.4760"
+  },
+  {
+    "name": "Chlum",
+    "lat": "49.3136",
+    "lon": "15.7670"
+  },
+  {
+    "name": "Chlumčany",
+    "lat": "49.6326",
+    "lon": "13.3132"
+  },
+  {
+    "name": "Chlumy",
+    "lat": "49.4378",
+    "lon": "13.6386"
+  },
+  {
+    "name": "Chocenice",
+    "lat": "49.5476",
+    "lon": "13.5198"
+  },
+  {
+    "name": "Chotěšov",
+    "lat": "49.6541",
+    "lon": "13.2027"
+  },
+  {
+    "name": "Chotíkov",
+    "lat": "49.7929",
+    "lon": "13.3177"
+  },
+  {
+    "name": "Chříč",
+    "lat": "49.9718",
+    "lon": "13.6459"
+  },
+  {
+    "name": "Cheznovice",
+    "lat": "49.7789",
+    "lon": "13.7854"
+  },
+  {
+    "name": "Chlum",
+    "lat": "49.3136",
+    "lon": "15.7670"
+  },
+  {
+    "name": "Chomle",
+    "lat": "49.8633",
+    "lon": "13.6375"
+  },
+  {
+    "name": "Chlum Svaté Maří",
+    "lat": "50.1498",
+    "lon": "12.5356"
+  },
+  {
+    "name": "Chodov",
+    "lat": "49.4178",
+    "lon": "12.8301"
+  },
+  {
+    "name": "Chodová Planá",
+    "lat": "49.8945",
+    "lon": "12.7294"
+  },
+  {
+    "name": "Chodský Újezd",
+    "lat": "49.8644",
+    "lon": "12.6521"
+  },
+  {
+    "name": "Chlum",
+    "lat": "49.3136",
+    "lon": "15.7670"
+  },
+  {
+    "name": "Chotovice",
+    "lat": "49.8508",
+    "lon": "16.1713"
+  },
+  {
+    "name": "Chřibská",
+    "lat": "50.8632",
+    "lon": "14.4830"
+  },
+  {
+    "name": "Chbany",
+    "lat": "50.3328",
+    "lon": "13.4304"
+  },
+  {
+    "name": "Chomutov",
+    "lat": "50.4606",
+    "lon": "13.4178"
+  },
+  {
+    "name": "Chotyně",
+    "lat": "50.8363",
+    "lon": "14.8691"
+  },
+  {
+    "name": "Chrastava",
+    "lat": "50.8172",
+    "lon": "14.9688"
+  },
+  {
+    "name": "Chodouny",
+    "lat": "50.4732",
+    "lon": "14.2505"
+  },
+  {
+    "name": "Chodovlice",
+    "lat": "50.4631",
+    "lon": "13.9933"
+  },
+  {
+    "name": "Chotěšov",
+    "lat": "49.6541",
+    "lon": "13.2027"
+  },
+  {
+    "name": "Chotiměř",
+    "lat": "50.5482",
+    "lon": "14.0009"
+  },
+  {
+    "name": "Chotiněves",
+    "lat": "50.5521",
+    "lon": "14.2792"
+  },
+  {
+    "name": "Chudoslavice",
+    "lat": "50.5829",
+    "lon": "14.1872"
+  },
+  {
+    "name": "Chlumčany",
+    "lat": "49.6326",
+    "lon": "13.3132"
+  },
+  {
+    "name": "Chožov",
+    "lat": "50.3988",
+    "lon": "13.8590"
+  },
+  {
+    "name": "Chraberce",
+    "lat": "50.4083",
+    "lon": "13.8295"
+  },
+  {
+    "name": "Chabařovice",
+    "lat": "50.6728",
+    "lon": "13.9425"
+  },
+  {
+    "name": "Chlumec",
+    "lat": "48.8710",
+    "lon": "14.3953"
+  },
+  {
+    "name": "Chuderov",
+    "lat": "50.6890",
+    "lon": "14.0470"
+  },
+  {
+    "name": "Chotěboř",
+    "lat": "49.7202",
+    "lon": "15.6704"
+  },
+  {
+    "name": "Chrtníč",
+    "lat": "49.7675",
+    "lon": "15.4436"
+  },
+  {
+    "name": "Chřenovice",
+    "lat": "49.7166",
+    "lon": "15.2163"
+  },
+  {
+    "name": "Chlumec nad Cidlinou",
+    "lat": "50.1544",
+    "lon": "15.4603"
+  },
+  {
+    "name": "Chudeřice",
+    "lat": "50.1490",
+    "lon": "15.5509"
+  },
+  {
+    "name": "Chrast",
+    "lat": "49.9019",
+    "lon": "15.9340"
+  },
+  {
+    "name": "Chroustovice",
+    "lat": "49.9555",
+    "lon": "15.9914"
+  },
+  {
+    "name": "Chrudim",
+    "lat": "49.9511",
+    "lon": "15.7948"
+  },
+  {
+    "name": "Cholenice",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Chomutice",
+    "lat": "50.3595",
+    "lon": "15.4945"
+  },
+  {
+    "name": "Choteč",
+    "lat": "50.0830",
+    "lon": "15.8802"
+  },
+  {
+    "name": "Chyjice",
+    "lat": "50.3876",
+    "lon": "15.2955"
+  },
+  {
+    "name": "Chvalkovice",
+    "lat": "49.1870",
+    "lon": "17.1101"
+  },
+  {
+    "name": "Choltice",
+    "lat": "49.9877",
+    "lon": "15.6194"
+  },
+  {
+    "name": "Choteč",
+    "lat": "50.0830",
+    "lon": "15.8802"
+  },
+  {
+    "name": "Chrtníky",
+    "lat": "49.9818",
+    "lon": "15.6048"
+  },
+  {
+    "name": "Chvaletice",
+    "lat": "50.0349",
+    "lon": "15.4184"
+  },
+  {
+    "name": "Chvojenec",
+    "lat": "50.1096",
+    "lon": "15.9379"
+  },
+  {
+    "name": "Chýšť",
+    "lat": "50.1282",
+    "lon": "15.5413"
+  },
+  {
+    "name": "Chleny",
+    "lat": "50.0779",
+    "lon": "16.2437"
+  },
+  {
+    "name": "Chlístov",
+    "lat": "49.2021",
+    "lon": "15.7437"
+  },
+  {
+    "name": "Chuchelna",
+    "lat": "50.6023",
+    "lon": "15.3003"
+  },
+  {
+    "name": "Chmelík",
+    "lat": "49.7734",
+    "lon": "16.3328"
+  },
+  {
+    "name": "Chornice",
+    "lat": "49.6664",
+    "lon": "16.7418"
+  },
+  {
+    "name": "Chotěnov",
+    "lat": "49.8233",
+    "lon": "16.1899"
+  },
+  {
+    "name": "Chotovice",
+    "lat": "49.8508",
+    "lon": "16.1713"
+  },
+  {
+    "name": "Chrastavec",
+    "lat": "49.6178",
+    "lon": "16.5031"
+  },
+  {
+    "name": "Chotěvice",
+    "lat": "50.5216",
+    "lon": "15.7661"
+  },
+  {
+    "name": "Choustníkovo Hradiště",
+    "lat": "50.4267",
+    "lon": "15.8783"
+  },
+  {
+    "name": "Chvaleč",
+    "lat": "50.5959",
+    "lon": "16.0393"
+  },
+  {
+    "name": "Choceň",
+    "lat": "50.0019",
+    "lon": "16.2230"
+  },
+  {
+    "name": "Chrudichromy",
+    "lat": "49.5029",
+    "lon": "16.6280"
+  },
+  {
+    "name": "Chudčice",
+    "lat": "49.2885",
+    "lon": "16.4587"
+  },
+  {
+    "name": "Chomýž",
+    "lat": "49.3624",
+    "lon": "17.6454"
+  },
+  {
+    "name": "Chropyně",
+    "lat": "49.3567",
+    "lon": "17.3645"
+  },
+  {
+    "name": "Chvalčov",
+    "lat": "49.3892",
+    "lon": "17.7115"
+  },
+  {
+    "name": "Chvalnov-Lísky",
+    "lat": "49.1654",
+    "lon": "17.2276"
+  },
+  {
+    "name": "Chlístov",
+    "lat": "49.2021",
+    "lon": "15.7437"
+  },
+  {
+    "name": "Chlum",
+    "lat": "49.3136",
+    "lon": "15.7670"
+  },
+  {
+    "name": "Chotěbudice",
+    "lat": "49.0580",
+    "lon": "15.5740"
+  },
+  {
+    "name": "Chvalkovice",
+    "lat": "49.1870",
+    "lon": "17.1101"
+  },
+  {
+    "name": "Chvalatice",
+    "lat": "48.9480",
+    "lon": "15.7505"
+  },
+  {
+    "name": "Chvalovice",
+    "lat": "48.7866",
+    "lon": "16.0823"
+  },
+  {
+    "name": "Chlumek",
+    "lat": "49.3745",
+    "lon": "15.8548"
+  },
+  {
+    "name": "Chlumětín",
+    "lat": "49.7275",
+    "lon": "16.0031"
+  },
+  {
+    "name": "Chlum-Korouhvice",
+    "lat": "49.5762",
+    "lon": "16.3208"
+  },
+  {
+    "name": "Chotěbuz",
+    "lat": "49.7685",
+    "lon": "18.5691"
+  },
+  {
+    "name": "Charváty",
+    "lat": "49.5183",
+    "lon": "17.2536"
+  },
+  {
+    "name": "Cholina",
+    "lat": "49.6561",
+    "lon": "17.0544"
+  },
+  {
+    "name": "Chlebičov",
+    "lat": "49.9594",
+    "lon": "17.9675"
+  },
+  {
+    "name": "Chuchelná",
+    "lat": "49.9888",
+    "lon": "18.1194"
+  },
+  {
+    "name": "Chvalíkovice",
+    "lat": "49.8856",
+    "lon": "17.9109"
+  },
+  {
+    "name": "Chromeč",
+    "lat": "49.9337",
+    "lon": "16.8937"
+  },
+  {
+    "name": "Choryně",
+    "lat": "49.4957",
+    "lon": "17.8986"
+  }
+]

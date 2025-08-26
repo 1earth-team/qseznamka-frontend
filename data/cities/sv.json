@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Svatá",
+    "lat": "49.9391",
+    "lon": "13.9615"
+  },
+  {
+    "name": "Svatý Jan pod Skalou",
+    "lat": "49.9691",
+    "lon": "14.1338"
+  },
+  {
+    "name": "Svinaře",
+    "lat": "49.8920",
+    "lon": "14.1842"
+  },
+  {
+    "name": "Svárov",
+    "lat": "49.1164",
+    "lon": "17.6245"
+  },
+  {
+    "name": "Svinařov",
+    "lat": "50.1813",
+    "lon": "14.0503"
+  },
+  {
+    "name": "Svojšice",
+    "lat": "49.9653",
+    "lon": "15.6010"
+  },
+  {
+    "name": "Svatý Mikuláš",
+    "lat": "49.9909",
+    "lon": "15.3505"
+  },
+  {
+    "name": "Svémyslice",
+    "lat": "50.1459",
+    "lon": "14.6481"
+  },
+  {
+    "name": "Světice",
+    "lat": "49.9701",
+    "lon": "14.6658"
+  },
+  {
+    "name": "Svojetice",
+    "lat": "49.9714",
+    "lon": "14.7387"
+  },
+  {
+    "name": "Svrkyně",
+    "lat": "50.1714",
+    "lon": "14.2948"
+  },
+  {
+    "name": "Svaté Pole",
+    "lat": "49.7513",
+    "lon": "14.1690"
+  },
+  {
+    "name": "Svatý Jan",
+    "lat": "49.6368",
+    "lon": "14.3110"
+  },
+  {
+    "name": "Svojšice",
+    "lat": "49.9653",
+    "lon": "15.6010"
+  },
+  {
+    "name": "Svojetín",
+    "lat": "50.1900",
+    "lon": "13.6209"
+  },
+  {
+    "name": "Svatý Jan nad Malší",
+    "lat": "48.8240",
+    "lon": "14.5085"
+  },
+  {
+    "name": "Světlík",
+    "lat": "48.7315",
+    "lon": "14.2111"
+  },
+  {
+    "name": "Světce",
+    "lat": "49.2706",
+    "lon": "14.9414"
+  },
+  {
+    "name": "Svépravice",
+    "lat": "49.4956",
+    "lon": "15.2327"
+  },
+  {
+    "name": "Svatá Maří",
+    "lat": "49.0645",
+    "lon": "13.8314"
+  },
+  {
+    "name": "Sviny",
+    "lat": "49.3642",
+    "lon": "16.0850"
+  },
+  {
+    "name": "Svrabov",
+    "lat": "49.4475",
+    "lon": "14.6265"
+  },
+  {
+    "name": "Svéradice",
+    "lat": "49.3714",
+    "lon": "13.7398"
+  },
+  {
+    "name": "Svojkovice",
+    "lat": "49.1658",
+    "lon": "15.6347"
+  },
+  {
+    "name": "Svatava",
+    "lat": "50.1923",
+    "lon": "12.6250"
+  },
+  {
+    "name": "Svojšín",
+    "lat": "49.7651",
+    "lon": "12.9110"
+  },
+  {
+    "name": "Svojkov",
+    "lat": "50.7193",
+    "lon": "14.5990"
+  },
+  {
+    "name": "Svor",
+    "lat": "50.7919",
+    "lon": "14.5968"
+  },
+  {
+    "name": "Světlá pod Ještědem",
+    "lat": "50.7113",
+    "lon": "14.9854"
+  },
+  {
+    "name": "Svijanský Újezd",
+    "lat": "50.5872",
+    "lon": "15.0433"
+  },
+  {
+    "name": "Svijany",
+    "lat": "50.5722",
+    "lon": "15.0570"
+  },
+  {
+    "name": "Světec",
+    "lat": "50.5761",
+    "lon": "13.8116"
+  },
+  {
+    "name": "Světlá nad Sázavou",
+    "lat": "49.6680",
+    "lon": "15.4039"
+  },
+  {
+    "name": "Světí",
+    "lat": "50.2568",
+    "lon": "15.7762"
+  },
+  {
+    "name": "Svídnice",
+    "lat": "49.8899",
+    "lon": "15.8137"
+  },
+  {
+    "name": "Svratouch",
+    "lat": "49.7244",
+    "lon": "16.0342"
+  },
+  {
+    "name": "Svatojanský Újezd",
+    "lat": "50.4261",
+    "lon": "15.5421"
+  },
+  {
+    "name": "Svinčany",
+    "lat": "49.9766",
+    "lon": "15.6395"
+  },
+  {
+    "name": "Svojšice",
+    "lat": "49.9653",
+    "lon": "15.6010"
+  },
+  {
+    "name": "Svídnice",
+    "lat": "49.8899",
+    "lon": "15.8137"
+  },
+  {
+    "name": "Svojek",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Svitavy",
+    "lat": "49.7562",
+    "lon": "16.4689"
+  },
+  {
+    "name": "Svojanov",
+    "lat": "49.6246",
+    "lon": "16.4102"
+  },
+  {
+    "name": "Svoboda nad Úpou",
+    "lat": "50.6262",
+    "lon": "15.8164"
+  },
+  {
+    "name": "Svatý Jiří",
+    "lat": "49.9721",
+    "lon": "16.2705"
+  },
+  {
+    "name": "Světlá",
+    "lat": "49.5657",
+    "lon": "16.7181"
+  },
+  {
+    "name": "Svinošice",
+    "lat": "49.3346",
+    "lon": "16.5774"
+  },
+  {
+    "name": "Svitávka",
+    "lat": "49.5018",
+    "lon": "16.5979"
+  },
+  {
+    "name": "Svatoslav",
+    "lat": "49.3018",
+    "lon": "16.3088"
+  },
+  {
+    "name": "Svatobořice-Mistřín",
+    "lat": "48.9778",
+    "lon": "17.0915"
+  },
+  {
+    "name": "Svojkovice",
+    "lat": "49.1658",
+    "lon": "15.6347"
+  },
+  {
+    "name": "Svatoslav",
+    "lat": "49.3018",
+    "lon": "16.3088"
+  },
+  {
+    "name": "Svárov",
+    "lat": "49.1164",
+    "lon": "17.6245"
+  },
+  {
+    "name": "Světnov",
+    "lat": "49.6205",
+    "lon": "15.9552"
+  },
+  {
+    "name": "Sviny",
+    "lat": "49.3642",
+    "lon": "16.0850"
+  },
+  {
+    "name": "Svratka",
+    "lat": "49.7112",
+    "lon": "16.0316"
+  },
+  {
+    "name": "Světlá Hora",
+    "lat": "50.0456",
+    "lon": "17.4009"
+  },
+  {
+    "name": "Svobodné Heřmanice",
+    "lat": "49.9460",
+    "lon": "17.6743"
+  },
+  {
+    "name": "Sviadnov",
+    "lat": "49.6893",
+    "lon": "18.3275"
+  },
+  {
+    "name": "Svésedlice",
+    "lat": "49.5730",
+    "lon": "17.3811"
+  },
+  {
+    "name": "Svatoňovice",
+    "lat": "49.7935",
+    "lon": "17.6672"
+  },
+  {
+    "name": "Svébohov",
+    "lat": "49.9199",
+    "lon": "16.8392"
+  }
+]

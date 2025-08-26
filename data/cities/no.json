@@ -1,0 +1,487 @@
+[
+  {
+    "name": "Nový Jáchymov",
+    "lat": "49.9808",
+    "lon": "13.9432"
+  },
+  {
+    "name": "Nová Ves I",
+    "lat": "50.0521",
+    "lon": "15.1444"
+  },
+  {
+    "name": "Nové Dvory",
+    "lat": "49.5644",
+    "lon": "15.8089"
+  },
+  {
+    "name": "Nosálov",
+    "lat": "50.4743",
+    "lon": "14.6679"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nová Telib",
+    "lat": "50.3912",
+    "lon": "15.0329"
+  },
+  {
+    "name": "Nová Ves u Bakova",
+    "lat": "50.4907",
+    "lon": "14.9264"
+  },
+  {
+    "name": "Nový Dvůr",
+    "lat": "50.2321",
+    "lon": "15.1109"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nový Vestec",
+    "lat": "50.1838",
+    "lon": "14.7203"
+  },
+  {
+    "name": "Nová Ves pod Pleší",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nové Dvory",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nový Knín",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nové Strašecí",
+    "lat": "50.1533",
+    "lon": "13.8998"
+  },
+  {
+    "name": "Nový Dům",
+    "lat": "50.0881",
+    "lon": "13.8309"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nové Hrady",
+    "lat": "48.7897",
+    "lon": "14.7784"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nová Bystřice",
+    "lat": "49.0193",
+    "lon": "15.1029"
+  },
+  {
+    "name": "Nová Olešná",
+    "lat": "49.1756",
+    "lon": "15.1610"
+  },
+  {
+    "name": "Nová Včelnice",
+    "lat": "49.2393",
+    "lon": "15.0726"
+  },
+  {
+    "name": "Nová Ves nad Lužnicí",
+    "lat": "48.8107",
+    "lon": "14.9254"
+  },
+  {
+    "name": "Novosedly nad Nežárkou",
+    "lat": "49.0809",
+    "lon": "14.8220"
+  },
+  {
+    "name": "Nová Buková",
+    "lat": "49.3460",
+    "lon": "15.2970"
+  },
+  {
+    "name": "Nová Cerekev",
+    "lat": "49.4172",
+    "lon": "15.1167"
+  },
+  {
+    "name": "Nový Rychnov",
+    "lat": "49.3834",
+    "lon": "15.3660"
+  },
+  {
+    "name": "Nová Pec",
+    "lat": "48.7894",
+    "lon": "13.9525"
+  },
+  {
+    "name": "Nové Hutě",
+    "lat": "49.0387",
+    "lon": "13.6457"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Novosedly",
+    "lat": "49.2627",
+    "lon": "13.7975"
+  },
+  {
+    "name": "Nová Ves u Chýnova",
+    "lat": "49.3927",
+    "lon": "14.7830"
+  },
+  {
+    "name": "Nová Ves u Mladé Vožice",
+    "lat": "49.5430",
+    "lon": "14.7480"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nový Kramolín",
+    "lat": "49.4775",
+    "lon": "12.8064"
+  },
+  {
+    "name": "Nový Kostel",
+    "lat": "50.2170",
+    "lon": "12.4455"
+  },
+  {
+    "name": "Nová Role",
+    "lat": "50.2709",
+    "lon": "12.7842"
+  },
+  {
+    "name": "Nové Hamry",
+    "lat": "50.3601",
+    "lon": "12.7200"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nové Mitrovice",
+    "lat": "49.5796",
+    "lon": "13.6836"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nové Sedlo",
+    "lat": "50.3396",
+    "lon": "13.4748"
+  },
+  {
+    "name": "Noviny pod Ralskem",
+    "lat": "50.6920",
+    "lon": "14.7469"
+  },
+  {
+    "name": "Nový Bor",
+    "lat": "50.7579",
+    "lon": "14.5555"
+  },
+  {
+    "name": "Nový Oldřichov",
+    "lat": "50.7654",
+    "lon": "14.4421"
+  },
+  {
+    "name": "Nová Ves nad Nisou",
+    "lat": "50.7254",
+    "lon": "15.2142"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nové Město pod Smrkem",
+    "lat": "50.9255",
+    "lon": "15.2300"
+  },
+  {
+    "name": "Nové Dvory",
+    "lat": "49.5644",
+    "lon": "15.8089"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nové Sedlo",
+    "lat": "50.3396",
+    "lon": "13.4748"
+  },
+  {
+    "name": "Nová Ves v Horách",
+    "lat": "50.5947",
+    "lon": "13.4825"
+  },
+  {
+    "name": "Novosedlice",
+    "lat": "50.6563",
+    "lon": "13.8230"
+  },
+  {
+    "name": "Nová Ves u Chotěboře",
+    "lat": "49.7561",
+    "lon": "15.6480"
+  },
+  {
+    "name": "Nová Ves u Leštiny",
+    "lat": "49.7859",
+    "lon": "15.4039"
+  },
+  {
+    "name": "Nová Ves u Světlé",
+    "lat": "49.6488",
+    "lon": "15.4377"
+  },
+  {
+    "name": "Nové Město",
+    "lat": "50.1477",
+    "lon": "15.4951"
+  },
+  {
+    "name": "Nový Bydžov",
+    "lat": "50.2418",
+    "lon": "15.4908"
+  },
+  {
+    "name": "Nová Paka",
+    "lat": "50.4948",
+    "lon": "15.5150"
+  },
+  {
+    "name": "Nové Město nad Metují",
+    "lat": "50.3442",
+    "lon": "16.1513"
+  },
+  {
+    "name": "Nový Hrádek",
+    "lat": "50.3573",
+    "lon": "16.2444"
+  },
+  {
+    "name": "Nový Ples",
+    "lat": "50.3209",
+    "lon": "15.9491"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nová Ves nad Popelkou",
+    "lat": "50.5203",
+    "lon": "15.4118"
+  },
+  {
+    "name": "Nová Sídla",
+    "lat": "49.8843",
+    "lon": "16.2372"
+  },
+  {
+    "name": "Nová Ves u Jarošova",
+    "lat": "49.8374",
+    "lon": "16.1596"
+  },
+  {
+    "name": "Nové Hrady",
+    "lat": "48.7897",
+    "lon": "14.7784"
+  },
+  {
+    "name": "Nosislav",
+    "lat": "49.0120",
+    "lon": "16.6555"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nové Bránice",
+    "lat": "49.0711",
+    "lon": "16.4418"
+  },
+  {
+    "name": "Novosedly",
+    "lat": "49.2627",
+    "lon": "13.7975"
+  },
+  {
+    "name": "Nový Přerov",
+    "lat": "48.8081",
+    "lon": "16.4937"
+  },
+  {
+    "name": "Nová Lhota",
+    "lat": "48.8609",
+    "lon": "17.5933"
+  },
+  {
+    "name": "Nový Poddvorov",
+    "lat": "48.8683",
+    "lon": "16.9610"
+  },
+  {
+    "name": "Nová Říše",
+    "lat": "49.1396",
+    "lon": "15.5630"
+  },
+  {
+    "name": "Nová Dědina",
+    "lat": "49.2101",
+    "lon": "17.4537"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nové Syrovice",
+    "lat": "49.0176",
+    "lon": "15.7735"
+  },
+  {
+    "name": "Nový Telečkov",
+    "lat": "49.3210",
+    "lon": "15.9379"
+  },
+  {
+    "name": "Nové Sady",
+    "lat": "49.2937",
+    "lon": "16.1936"
+  },
+  {
+    "name": "Nový Šaldorf-Sedlešovice",
+    "lat": "48.8290",
+    "lon": "16.0620"
+  },
+  {
+    "name": "Nová Ves",
+    "lat": "49.1081",
+    "lon": "16.3108"
+  },
+  {
+    "name": "Nová Ves u Nového Města na Moravě",
+    "lat": "49.5399",
+    "lon": "16.0841"
+  },
+  {
+    "name": "Nové Dvory",
+    "lat": "49.5644",
+    "lon": "15.8089"
+  },
+  {
+    "name": "Nové Město na Moravě",
+    "lat": "49.5617",
+    "lon": "16.0744"
+  },
+  {
+    "name": "Nové Sady",
+    "lat": "49.2937",
+    "lon": "16.1936"
+  },
+  {
+    "name": "Nové Veselí",
+    "lat": "49.5199",
+    "lon": "15.9085"
+  },
+  {
+    "name": "Nový Jimramov",
+    "lat": "49.6346",
+    "lon": "16.1872"
+  },
+  {
+    "name": "Nová Pláň",
+    "lat": "49.9219",
+    "lon": "17.4751"
+  },
+  {
+    "name": "Nové Heřminovy",
+    "lat": "50.0235",
+    "lon": "17.5282"
+  },
+  {
+    "name": "Nošovice",
+    "lat": "49.6607",
+    "lon": "18.4264"
+  },
+  {
+    "name": "Nový Jičín",
+    "lat": "49.5949",
+    "lon": "18.0103"
+  },
+  {
+    "name": "Norberčany",
+    "lat": "49.7540",
+    "lon": "17.5062"
+  },
+  {
+    "name": "Nová Hradečná",
+    "lat": "49.8346",
+    "lon": "17.0773"
+  },
+  {
+    "name": "Nové Lublice",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nové Sedlice",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nový Malín",
+    "lat": "49.9429",
+    "lon": "17.0321"
+  },
+  {
+    "name": "Nový Hrozenkov",
+    "lat": "49.3370",
+    "lon": "18.1979"
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Libež",
+    "lat": "49.7574",
+    "lon": "14.9168"
+  },
+  {
+    "name": "Litichovice",
+    "lat": "49.7829",
+    "lon": "14.8506"
+  },
+  {
+    "name": "Libomyšl",
+    "lat": "49.8723",
+    "lon": "13.9982"
+  },
+  {
+    "name": "Liteň",
+    "lat": "49.9037",
+    "lon": "14.1490"
+  },
+  {
+    "name": "Libochovičky",
+    "lat": "50.1726",
+    "lon": "14.2396"
+  },
+  {
+    "name": "Libovice",
+    "lat": "50.2356",
+    "lon": "14.0163"
+  },
+  {
+    "name": "Libušín",
+    "lat": "50.1682",
+    "lon": "14.0546"
+  },
+  {
+    "name": "Lidice",
+    "lat": "50.1436",
+    "lon": "14.1905"
+  },
+  {
+    "name": "Libenice",
+    "lat": "49.9845",
+    "lon": "15.2579"
+  },
+  {
+    "name": "Libodřice",
+    "lat": "50.0045",
+    "lon": "15.0882"
+  },
+  {
+    "name": "Lipec",
+    "lat": "50.0850",
+    "lon": "15.3646"
+  },
+  {
+    "name": "Liběchov",
+    "lat": "50.4078",
+    "lon": "14.4467"
+  },
+  {
+    "name": "Libiš",
+    "lat": "50.2744",
+    "lon": "14.5023"
+  },
+  {
+    "name": "Liblice",
+    "lat": "50.3126",
+    "lon": "14.5899"
+  },
+  {
+    "name": "Lipník",
+    "lat": "49.1443",
+    "lon": "15.9506"
+  },
+  {
+    "name": "Libice nad Cidlinou",
+    "lat": "50.1303",
+    "lon": "15.1805"
+  },
+  {
+    "name": "Libčice nad Vltavou",
+    "lat": "50.1989",
+    "lon": "14.3624"
+  },
+  {
+    "name": "Libeř",
+    "lat": "49.9241",
+    "lon": "14.4805"
+  },
+  {
+    "name": "Lichoceves",
+    "lat": "50.1528",
+    "lon": "14.2842"
+  },
+  {
+    "name": "Lišany",
+    "lat": "50.1474",
+    "lon": "13.7438"
+  },
+  {
+    "name": "Libín",
+    "lat": "48.9695",
+    "lon": "14.6838"
+  },
+  {
+    "name": "Libníč",
+    "lat": "49.0199",
+    "lon": "14.5430"
+  },
+  {
+    "name": "Lipí",
+    "lat": "48.9492",
+    "lon": "14.3524"
+  },
+  {
+    "name": "Lišov",
+    "lat": "49.0159",
+    "lon": "14.6083"
+  },
+  {
+    "name": "Litvínovice",
+    "lat": "48.9621",
+    "lon": "14.4513"
+  },
+  {
+    "name": "Lipno nad Vltavou",
+    "lat": "48.6387",
+    "lon": "14.2296"
+  },
+  {
+    "name": "Libkova Voda",
+    "lat": "49.3765",
+    "lon": "15.1910"
+  },
+  {
+    "name": "Lidmaň",
+    "lat": "49.3818",
+    "lon": "15.0367"
+  },
+  {
+    "name": "Litohošť",
+    "lat": "49.4496",
+    "lon": "15.0910"
+  },
+  {
+    "name": "Lipovice",
+    "lat": "49.1005",
+    "lon": "13.9937"
+  },
+  {
+    "name": "Libějovice",
+    "lat": "49.1143",
+    "lon": "14.1934"
+  },
+  {
+    "name": "Libětice",
+    "lat": "49.2190",
+    "lon": "13.8627"
+  },
+  {
+    "name": "Litochovice",
+    "lat": "49.1587",
+    "lon": "13.9413"
+  },
+  {
+    "name": "Libějice",
+    "lat": "49.3768",
+    "lon": "14.6240"
+  },
+  {
+    "name": "Libkov",
+    "lat": "49.8417",
+    "lon": "15.7563"
+  },
+  {
+    "name": "Libá",
+    "lat": "50.1282",
+    "lon": "12.2310"
+  },
+  {
+    "name": "Lipová",
+    "lat": "49.4097",
+    "lon": "17.6143"
+  },
+  {
+    "name": "Lisov",
+    "lat": "49.6385",
+    "lon": "13.1009"
+  },
+  {
+    "name": "Liblín",
+    "lat": "49.9168",
+    "lon": "13.5442"
+  },
+  {
+    "name": "Litohlavy",
+    "lat": "49.7664",
+    "lon": "13.5646"
+  },
+  {
+    "name": "Libavské Údolí",
+    "lat": "50.1289",
+    "lon": "12.5525"
+  },
+  {
+    "name": "Lipová",
+    "lat": "49.4097",
+    "lon": "17.6143"
+  },
+  {
+    "name": "Libědice",
+    "lat": "50.3161",
+    "lon": "13.3843"
+  },
+  {
+    "name": "Liberec",
+    "lat": "50.7703",
+    "lon": "15.0584"
+  },
+  {
+    "name": "Liběšice",
+    "lat": "50.5689",
+    "lon": "14.2891"
+  },
+  {
+    "name": "Libkovice pod Řípem",
+    "lat": "50.3924",
+    "lon": "14.3423"
+  },
+  {
+    "name": "Libochovany",
+    "lat": "50.5666",
+    "lon": "14.0390"
+  },
+  {
+    "name": "Libochovice",
+    "lat": "50.4061",
+    "lon": "14.0422"
+  },
+  {
+    "name": "Libotenice",
+    "lat": "50.4769",
+    "lon": "14.2292"
+  },
+  {
+    "name": "Litoměřice",
+    "lat": "50.5341",
+    "lon": "14.1318"
+  },
+  {
+    "name": "Libčeves",
+    "lat": "50.4525",
+    "lon": "13.8382"
+  },
+  {
+    "name": "Liběšice",
+    "lat": "50.5689",
+    "lon": "14.2891"
+  },
+  {
+    "name": "Libočany",
+    "lat": "50.3336",
+    "lon": "13.5133"
+  },
+  {
+    "name": "Libořice",
+    "lat": "50.2547",
+    "lon": "13.5151"
+  },
+  {
+    "name": "Lipno",
+    "lat": "50.3006",
+    "lon": "13.6809"
+  },
+  {
+    "name": "Lišany",
+    "lat": "50.1474",
+    "lon": "13.7438"
+  },
+  {
+    "name": "Lišnice",
+    "lat": "50.4544",
+    "lon": "13.6330"
+  },
+  {
+    "name": "Litvínov",
+    "lat": "50.6010",
+    "lon": "13.6110"
+  },
+  {
+    "name": "Libouchec",
+    "lat": "50.7584",
+    "lon": "14.0399"
+  },
+  {
+    "name": "Libice nad Doubravou",
+    "lat": "49.7450",
+    "lon": "15.7042"
+  },
+  {
+    "name": "Lipnice nad Sázavou",
+    "lat": "49.6130",
+    "lon": "15.4136"
+  },
+  {
+    "name": "Libčany",
+    "lat": "50.1917",
+    "lon": "15.6949"
+  },
+  {
+    "name": "Libníkovice",
+    "lat": "50.2442",
+    "lon": "15.9961"
+  },
+  {
+    "name": "Librantice",
+    "lat": "50.2423",
+    "lon": "15.9597"
+  },
+  {
+    "name": "Libřice",
+    "lat": "50.2878",
+    "lon": "15.9638"
+  },
+  {
+    "name": "Lišice",
+    "lat": "50.1810",
+    "lon": "15.4081"
+  },
+  {
+    "name": "Libkov",
+    "lat": "49.8417",
+    "lon": "15.7563"
+  },
+  {
+    "name": "Liboměřice",
+    "lat": "49.8718",
+    "lon": "15.7413"
+  },
+  {
+    "name": "Licibořice",
+    "lat": "49.8769",
+    "lon": "15.7599"
+  },
+  {
+    "name": "Lipovec",
+    "lat": "49.3839",
+    "lon": "16.8058"
+  },
+  {
+    "name": "Libáň",
+    "lat": "50.3750",
+    "lon": "15.2162"
+  },
+  {
+    "name": "Libošovice",
+    "lat": "50.4906",
+    "lon": "15.1628"
+  },
+  {
+    "name": "Libuň",
+    "lat": "50.4982",
+    "lon": "15.2985"
+  },
+  {
+    "name": "Libchyně",
+    "lat": "50.3569",
+    "lon": "16.1908"
+  },
+  {
+    "name": "Litoboř",
+    "lat": "50.4499",
+    "lon": "16.0153"
+  },
+  {
+    "name": "Libišany",
+    "lat": "50.1533",
+    "lon": "15.7566"
+  },
+  {
+    "name": "Lipoltice",
+    "lat": "49.9878",
+    "lon": "15.5689"
+  },
+  {
+    "name": "Litošice",
+    "lat": "49.9848",
+    "lon": "15.5142"
+  },
+  {
+    "name": "Libel",
+    "lat": "50.1549",
+    "lon": "16.2022"
+  },
+  {
+    "name": "Liberk",
+    "lat": "50.1992",
+    "lon": "16.3429"
+  },
+  {
+    "name": "Lično",
+    "lat": "50.1780",
+    "lon": "16.1718"
+  },
+  {
+    "name": "Libštát",
+    "lat": "50.5594",
+    "lon": "15.4159"
+  },
+  {
+    "name": "Linhartice",
+    "lat": "49.7575",
+    "lon": "16.6934"
+  },
+  {
+    "name": "Litomyšl",
+    "lat": "49.8725",
+    "lon": "16.3101"
+  },
+  {
+    "name": "Libňatov",
+    "lat": "50.4813",
+    "lon": "16.0022"
+  },
+  {
+    "name": "Libotov",
+    "lat": "50.3991",
+    "lon": "15.8115"
+  },
+  {
+    "name": "Litíč",
+    "lat": "50.3753",
+    "lon": "15.8482"
+  },
+  {
+    "name": "Libecina",
+    "lat": "49.8829",
+    "lon": "16.1182"
+  },
+  {
+    "name": "Libchavy",
+    "lat": "50.0035",
+    "lon": "16.3897"
+  },
+  {
+    "name": "Lichkov",
+    "lat": "50.0979",
+    "lon": "16.6660"
+  },
+  {
+    "name": "Lipovec",
+    "lat": "49.3839",
+    "lon": "16.8058"
+  },
+  {
+    "name": "Lipůvka",
+    "lat": "49.3392",
+    "lon": "16.5527"
+  },
+  {
+    "name": "Litostrov",
+    "lat": "49.2244",
+    "lon": "16.3294"
+  },
+  {
+    "name": "Lipová",
+    "lat": "49.4097",
+    "lon": "17.6143"
+  },
+  {
+    "name": "Lipov",
+    "lat": "48.9049",
+    "lon": "17.4617"
+  },
+  {
+    "name": "Litenčice",
+    "lat": "49.2020",
+    "lon": "17.2085"
+  },
+  {
+    "name": "Lipová",
+    "lat": "49.4097",
+    "lon": "17.6143"
+  },
+  {
+    "name": "Lipník",
+    "lat": "49.1443",
+    "lon": "15.9506"
+  },
+  {
+    "name": "Litohoř",
+    "lat": "49.0667",
+    "lon": "15.7683"
+  },
+  {
+    "name": "Litovany",
+    "lat": "49.0550",
+    "lon": "16.0439"
+  },
+  {
+    "name": "Litobratřice",
+    "lat": "48.8870",
+    "lon": "16.4025"
+  },
+  {
+    "name": "Lichnov",
+    "lat": "50.0079",
+    "lon": "17.6264"
+  },
+  {
+    "name": "Liptaň",
+    "lat": "50.2223",
+    "lon": "17.6054"
+  },
+  {
+    "name": "Libhošť",
+    "lat": "49.6275",
+    "lon": "18.0763"
+  },
+  {
+    "name": "Lichnov",
+    "lat": "50.0079",
+    "lon": "17.6264"
+  },
+  {
+    "name": "Libavá",
+    "lat": "49.6720",
+    "lon": "17.5473"
+  },
+  {
+    "name": "Liboš",
+    "lat": "49.6915",
+    "lon": "17.2250"
+  },
+  {
+    "name": "Lipina",
+    "lat": "49.7418",
+    "lon": "17.3238"
+  },
+  {
+    "name": "Lipinka",
+    "lat": "49.8378",
+    "lon": "17.0499"
+  },
+  {
+    "name": "Litovel",
+    "lat": "49.7013",
+    "lon": "17.0759"
+  },
+  {
+    "name": "Litultovice",
+    "lat": "49.9035",
+    "lon": "17.7474"
+  },
+  {
+    "name": "Lipník nad Bečvou",
+    "lat": "49.5273",
+    "lon": "17.5861"
+  },
+  {
+    "name": "Lipová",
+    "lat": "49.4097",
+    "lon": "17.6143"
+  },
+  {
+    "name": "Libina",
+    "lat": "49.8768",
+    "lon": "17.0827"
+  },
+  {
+    "name": "Lidečko",
+    "lat": "49.2029",
+    "lon": "18.0512"
+  },
+  {
+    "name": "Liptál",
+    "lat": "49.2913",
+    "lon": "17.9218"
+  },
+  {
+    "name": "Lipová-lázně",
+    "lat": "50.2278",
+    "lon": "17.1404"
+  }
+]

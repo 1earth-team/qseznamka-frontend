@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Mořina",
+    "lat": "49.9528",
+    "lon": "14.2086"
+  },
+  {
+    "name": "Mořinka",
+    "lat": "49.9390",
+    "lon": "14.2372"
+  },
+  {
+    "name": "Močovice",
+    "lat": "49.9063",
+    "lon": "15.3482"
+  },
+  {
+    "name": "Mohelnice nad Jizerou",
+    "lat": "50.5598",
+    "lon": "14.9775"
+  },
+  {
+    "name": "Modletice",
+    "lat": "49.9705",
+    "lon": "14.5909"
+  },
+  {
+    "name": "Mochov",
+    "lat": "50.1418",
+    "lon": "14.7950"
+  },
+  {
+    "name": "Modřovice",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mokrovraty",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Modrá Hůrka",
+    "lat": "49.1801",
+    "lon": "14.5259"
+  },
+  {
+    "name": "Mokrý Lom",
+    "lat": "48.8448",
+    "lon": "14.5153"
+  },
+  {
+    "name": "Mojné",
+    "lat": "48.8347",
+    "lon": "14.4073"
+  },
+  {
+    "name": "Moraveč",
+    "lat": "49.4086",
+    "lon": "15.0771"
+  },
+  {
+    "name": "Močerady",
+    "lat": "49.5174",
+    "lon": "13.0743"
+  },
+  {
+    "name": "Modrava",
+    "lat": "49.0236",
+    "lon": "13.4958"
+  },
+  {
+    "name": "Mochtín",
+    "lat": "49.3604",
+    "lon": "13.3567"
+  },
+  {
+    "name": "Mokrosuky",
+    "lat": "49.2754",
+    "lon": "13.4548"
+  },
+  {
+    "name": "Mokrouše",
+    "lat": "49.7151",
+    "lon": "13.5245"
+  },
+  {
+    "name": "Mohelnice",
+    "lat": "49.7769",
+    "lon": "16.9196"
+  },
+  {
+    "name": "Most",
+    "lat": "50.5033",
+    "lon": "13.6361"
+  },
+  {
+    "name": "Modlany",
+    "lat": "50.6511",
+    "lon": "13.8972"
+  },
+  {
+    "name": "Moldava",
+    "lat": "50.7206",
+    "lon": "13.6572"
+  },
+  {
+    "name": "Modlíkov",
+    "lat": "49.6082",
+    "lon": "15.7703"
+  },
+  {
+    "name": "Mokrovousy",
+    "lat": "50.2750",
+    "lon": "15.6858"
+  },
+  {
+    "name": "Morašice",
+    "lat": "49.8677",
+    "lon": "16.2322"
+  },
+  {
+    "name": "Mokošín",
+    "lat": "50.0148",
+    "lon": "15.5716"
+  },
+  {
+    "name": "Morašice",
+    "lat": "49.8677",
+    "lon": "16.2322"
+  },
+  {
+    "name": "Moravany",
+    "lat": "49.1469",
+    "lon": "16.5769"
+  },
+  {
+    "name": "Mokré",
+    "lat": "50.2592",
+    "lon": "16.0664"
+  },
+  {
+    "name": "Modřišice",
+    "lat": "50.5741",
+    "lon": "15.1193"
+  },
+  {
+    "name": "Morašice",
+    "lat": "49.8677",
+    "lon": "16.2322"
+  },
+  {
+    "name": "Moravská Třebová",
+    "lat": "49.7582",
+    "lon": "16.6641"
+  },
+  {
+    "name": "Mostek",
+    "lat": "50.0094",
+    "lon": "16.2650"
+  },
+  {
+    "name": "Mostek",
+    "lat": "50.0094",
+    "lon": "16.2650"
+  },
+  {
+    "name": "Modřice",
+    "lat": "49.1289",
+    "lon": "16.6137"
+  },
+  {
+    "name": "Mokrá-Horákov",
+    "lat": "49.2232",
+    "lon": "16.7515"
+  },
+  {
+    "name": "Moravany",
+    "lat": "49.1469",
+    "lon": "16.5769"
+  },
+  {
+    "name": "Moravské Bránice",
+    "lat": "49.0833",
+    "lon": "16.4363"
+  },
+  {
+    "name": "Moravské Knínice",
+    "lat": "49.2935",
+    "lon": "16.5012"
+  },
+  {
+    "name": "Moutnice",
+    "lat": "49.0492",
+    "lon": "16.7374"
+  },
+  {
+    "name": "Moravská Nová Ves",
+    "lat": "48.8033",
+    "lon": "17.0139"
+  },
+  {
+    "name": "Moravský Žižkov",
+    "lat": "48.8328",
+    "lon": "16.9314"
+  },
+  {
+    "name": "Morkůvky",
+    "lat": "48.9661",
+    "lon": "16.8622"
+  },
+  {
+    "name": "Moravany",
+    "lat": "49.1469",
+    "lon": "16.5769"
+  },
+  {
+    "name": "Moravský Písek",
+    "lat": "48.9902",
+    "lon": "17.3327"
+  },
+  {
+    "name": "Mouchnice",
+    "lat": "49.1120",
+    "lon": "17.1358"
+  },
+  {
+    "name": "Morkovice-Slížany",
+    "lat": "49.2485",
+    "lon": "17.2079"
+  },
+  {
+    "name": "Mořice",
+    "lat": "49.3305",
+    "lon": "17.1969"
+  },
+  {
+    "name": "Mostkovice",
+    "lat": "49.4721",
+    "lon": "17.0521"
+  },
+  {
+    "name": "Mohelno",
+    "lat": "49.1141",
+    "lon": "16.1902"
+  },
+  {
+    "name": "Moravské Budějovice",
+    "lat": "49.0526",
+    "lon": "15.8093"
+  },
+  {
+    "name": "Modrá",
+    "lat": "49.1120",
+    "lon": "17.4034"
+  },
+  {
+    "name": "Moravské Málkovice",
+    "lat": "49.2570",
+    "lon": "17.0905"
+  },
+  {
+    "name": "Mouřínov",
+    "lat": "49.1215",
+    "lon": "16.9785"
+  },
+  {
+    "name": "Morašice",
+    "lat": "49.8677",
+    "lon": "16.2322"
+  },
+  {
+    "name": "Moravský Krumlov",
+    "lat": "49.0493",
+    "lon": "16.3115"
+  },
+  {
+    "name": "Moravec",
+    "lat": "49.4400",
+    "lon": "16.1431"
+  },
+  {
+    "name": "Moravecké Pavlovice",
+    "lat": "49.4254",
+    "lon": "16.2563"
+  },
+  {
+    "name": "Moravskoslezský Kočov",
+    "lat": "49.9605",
+    "lon": "17.4410"
+  },
+  {
+    "name": "Morávka",
+    "lat": "49.5961",
+    "lon": "18.5247"
+  },
+  {
+    "name": "Mosty u Jablunkova",
+    "lat": "49.5276",
+    "lon": "18.7541"
+  },
+  {
+    "name": "Mořkov",
+    "lat": "49.5370",
+    "lon": "18.0597"
+  },
+  {
+    "name": "Mošnov",
+    "lat": "49.6892",
+    "lon": "18.1319"
+  },
+  {
+    "name": "Moravský Beroun",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mokré Lazce",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Moravice",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mohelnice",
+    "lat": "49.7769",
+    "lon": "16.9196"
+  },
+  {
+    "name": "Moravičany",
+    "lat": "49.7569",
+    "lon": "16.9604"
+  }
+]

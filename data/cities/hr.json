@@ -1,0 +1,387 @@
+[
+  {
+    "name": "Hradiště",
+    "lat": "49.7105",
+    "lon": "13.3963"
+  },
+  {
+    "name": "Hradečno",
+    "lat": "50.1883",
+    "lon": "13.9913"
+  },
+  {
+    "name": "Hrdlív",
+    "lat": "50.1994",
+    "lon": "14.0726"
+  },
+  {
+    "name": "Hradešín",
+    "lat": "50.0388",
+    "lon": "14.7567"
+  },
+  {
+    "name": "Hraběšín",
+    "lat": "49.8525",
+    "lon": "15.3318"
+  },
+  {
+    "name": "Hrdlořezy",
+    "lat": "50.4514",
+    "lon": "14.8754"
+  },
+  {
+    "name": "Hrušov",
+    "lat": "50.3449",
+    "lon": "14.8464"
+  },
+  {
+    "name": "Hradčany",
+    "lat": "49.3279",
+    "lon": "16.4423"
+  },
+  {
+    "name": "Hradištko",
+    "lat": "50.1655",
+    "lon": "14.9351"
+  },
+  {
+    "name": "Hrubý Jeseník",
+    "lat": "50.2511",
+    "lon": "15.0940"
+  },
+  {
+    "name": "Hrusice",
+    "lat": "49.9098",
+    "lon": "14.7381"
+  },
+  {
+    "name": "Hradištko",
+    "lat": "50.1655",
+    "lon": "14.9351"
+  },
+  {
+    "name": "Hracholusky",
+    "lat": "50.0031",
+    "lon": "13.7737"
+  },
+  {
+    "name": "Hradce",
+    "lat": "48.9340",
+    "lon": "14.3595"
+  },
+  {
+    "name": "Hranice",
+    "lat": "49.5482",
+    "lon": "17.7347"
+  },
+  {
+    "name": "Hrdějovice",
+    "lat": "49.0189",
+    "lon": "14.4786"
+  },
+  {
+    "name": "Hrachoviště",
+    "lat": "48.9291",
+    "lon": "14.7708"
+  },
+  {
+    "name": "Hrazany",
+    "lat": "49.5228",
+    "lon": "14.3349"
+  },
+  {
+    "name": "Hrejkovice",
+    "lat": "49.4744",
+    "lon": "14.2908"
+  },
+  {
+    "name": "Hracholusky",
+    "lat": "50.0031",
+    "lon": "13.7737"
+  },
+  {
+    "name": "Hradiště",
+    "lat": "49.7105",
+    "lon": "13.3963"
+  },
+  {
+    "name": "Hranice",
+    "lat": "49.5482",
+    "lon": "17.7347"
+  },
+  {
+    "name": "Hradiště",
+    "lat": "49.7105",
+    "lon": "13.3963"
+  },
+  {
+    "name": "Hroznětín",
+    "lat": "50.3094",
+    "lon": "12.8718"
+  },
+  {
+    "name": "Hrádek",
+    "lat": "48.7731",
+    "lon": "16.2718"
+  },
+  {
+    "name": "Hradešice",
+    "lat": "49.3233",
+    "lon": "13.5965"
+  },
+  {
+    "name": "Hradec",
+    "lat": "49.7072",
+    "lon": "15.2955"
+  },
+  {
+    "name": "Hradiště",
+    "lat": "49.4393",
+    "lon": "13.7561"
+  },
+  {
+    "name": "Hromnice",
+    "lat": "49.8472",
+    "lon": "13.4395"
+  },
+  {
+    "name": "Hrádek",
+    "lat": "48.7731",
+    "lon": "16.2718"
+  },
+  {
+    "name": "Hradiště",
+    "lat": "49.4393",
+    "lon": "13.7561"
+  },
+  {
+    "name": "Hrušovany",
+    "lat": "50.3867",
+    "lon": "13.4979"
+  },
+  {
+    "name": "Hrádek nad Nisou",
+    "lat": "50.8522",
+    "lon": "14.8437"
+  },
+  {
+    "name": "Hrobce",
+    "lat": "50.4625",
+    "lon": "14.2308"
+  },
+  {
+    "name": "Hrob",
+    "lat": "50.6591",
+    "lon": "13.7255"
+  },
+  {
+    "name": "Hrobčice",
+    "lat": "50.5173",
+    "lon": "13.7856"
+  },
+  {
+    "name": "Hradec",
+    "lat": "49.7072",
+    "lon": "15.2955"
+  },
+  {
+    "name": "Hradec Králové",
+    "lat": "50.2092",
+    "lon": "15.8328"
+  },
+  {
+    "name": "Hrádek",
+    "lat": "48.7731",
+    "lon": "16.2718"
+  },
+  {
+    "name": "Hrochův Týnec",
+    "lat": "49.9595",
+    "lon": "15.9105"
+  },
+  {
+    "name": "Hroubovice",
+    "lat": "49.8825",
+    "lon": "15.9907"
+  },
+  {
+    "name": "Hronov",
+    "lat": "50.4800",
+    "lon": "16.1820"
+  },
+  {
+    "name": "Hrobice",
+    "lat": "50.1034",
+    "lon": "15.7888"
+  },
+  {
+    "name": "Hrubá Skála",
+    "lat": "50.5409",
+    "lon": "15.1992"
+  },
+  {
+    "name": "Hradec nad Svitavou",
+    "lat": "49.7113",
+    "lon": "16.4805"
+  },
+  {
+    "name": "Hrádek",
+    "lat": "48.7731",
+    "lon": "16.2718"
+  },
+  {
+    "name": "Hrušová",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Hradčany",
+    "lat": "49.3279",
+    "lon": "16.4423"
+  },
+  {
+    "name": "Hrušovany u Brna",
+    "lat": "49.0389",
+    "lon": "16.5944"
+  },
+  {
+    "name": "Hrušky",
+    "lat": "48.7927",
+    "lon": "16.9740"
+  },
+  {
+    "name": "Hrobice",
+    "lat": "50.1034",
+    "lon": "15.7888"
+  },
+  {
+    "name": "Hroznová Lhota",
+    "lat": "48.9078",
+    "lon": "17.4170"
+  },
+  {
+    "name": "Hrubá Vrbka",
+    "lat": "48.8719",
+    "lon": "17.4770"
+  },
+  {
+    "name": "Hrutov",
+    "lat": "49.2553",
+    "lon": "15.6801"
+  },
+  {
+    "name": "Hradčany-Kobeřice",
+    "lat": "49.3689",
+    "lon": "17.1200"
+  },
+  {
+    "name": "Hrdibořice",
+    "lat": "49.4785",
+    "lon": "17.2204"
+  },
+  {
+    "name": "Hrubčice",
+    "lat": "49.4500",
+    "lon": "17.1931"
+  },
+  {
+    "name": "Hruška",
+    "lat": "49.3586",
+    "lon": "17.2264"
+  },
+  {
+    "name": "Hrotovice",
+    "lat": "49.1077",
+    "lon": "16.0607"
+  },
+  {
+    "name": "Hroznatín",
+    "lat": "49.2977",
+    "lon": "15.9083"
+  },
+  {
+    "name": "Hradčovice",
+    "lat": "49.0498",
+    "lon": "17.5821"
+  },
+  {
+    "name": "Hrušky",
+    "lat": "48.7927",
+    "lon": "16.9740"
+  },
+  {
+    "name": "Hrabětice",
+    "lat": "48.7967",
+    "lon": "16.3955"
+  },
+  {
+    "name": "Hrádek",
+    "lat": "48.7731",
+    "lon": "16.2718"
+  },
+  {
+    "name": "Hrušovany nad Jevišovkou",
+    "lat": "48.8299",
+    "lon": "16.4022"
+  },
+  {
+    "name": "Hrádek",
+    "lat": "48.7731",
+    "lon": "16.2718"
+  },
+  {
+    "name": "Hrčava",
+    "lat": "49.5202",
+    "lon": "18.8332"
+  },
+  {
+    "name": "Hraničné Petrovice",
+    "lat": "49.7392",
+    "lon": "17.4022"
+  },
+  {
+    "name": "Hrabyně",
+    "lat": "49.8816",
+    "lon": "18.0544"
+  },
+  {
+    "name": "Hradec nad Moravicí",
+    "lat": "49.8709",
+    "lon": "17.8755"
+  },
+  {
+    "name": "Hrabůvka",
+    "lat": "49.5784",
+    "lon": "17.6897"
+  },
+  {
+    "name": "Hradčany",
+    "lat": "49.3279",
+    "lon": "16.4423"
+  },
+  {
+    "name": "Hranice",
+    "lat": "49.5482",
+    "lon": "17.7347"
+  },
+  {
+    "name": "Hraběšice",
+    "lat": "49.9766",
+    "lon": "17.0795"
+  },
+  {
+    "name": "Hrabišín",
+    "lat": "49.9140",
+    "lon": "17.0361"
+  },
+  {
+    "name": "Hrabová",
+    "lat": "49.8455",
+    "lon": "16.9538"
+  },
+  {
+    "name": "Hradec-Nová Ves",
+    "lat": "50.2832",
+    "lon": "17.2799"
+  }
+]

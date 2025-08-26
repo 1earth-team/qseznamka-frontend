@@ -672,6 +672,7 @@
 
       async function searchTyping() {
               let citySearch = search.value;
+              let cities;
               if (citySearch.length > 1) {
                 const search = id("search");
                 const results = document.querySelector("#place .results");
@@ -679,10 +680,10 @@
                 const name = citySearch.substring(0, 2).toLowerCase();
               try {
                 if (lastIns == name) {
-                  const cities = lastRes;
+                  cities = lastRes;
                 } else {
                   const response = await fetch(`/data/cities/${name}.json`);
-                  const cities = await response.json();
+                  cities = await response.json();
 
                   lastRes = cities;
                   lastIns = name;

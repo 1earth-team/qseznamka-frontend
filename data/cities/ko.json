@@ -1,892 +1,1107 @@
 [
   {
     "name": "Kondrac",
-    "lat": "49.6669",
-    "lon": "14.8840"
-  },
-  {
-    "name": "Kozmice",
-    "lat": "49.8248",
-    "lon": "14.7961"
-  },
-  {
-    "name": "Komárov",
-    "lat": "49.8066",
-    "lon": "13.8565"
+    "lat": 49.6669,
+    "lon": 14.884
   },
   {
     "name": "Koněprusy",
-    "lat": "49.9209",
-    "lon": "14.0658"
+    "lat": 49.9209,
+    "lon": 14.0658
   },
   {
     "name": "Korno",
-    "lat": "49.9205",
-    "lon": "14.1369"
+    "lat": 49.9205,
+    "lon": 14.1369
   },
   {
     "name": "Kotopeky",
-    "lat": "49.8567",
-    "lon": "13.9251"
+    "lat": 49.8567,
+    "lon": 13.9251
   },
   {
     "name": "Koleč",
-    "lat": "50.1988",
-    "lon": "14.2234"
+    "lat": 50.1988,
+    "lon": 14.2234
   },
   {
     "name": "Kolín",
-    "lat": "50.0289",
-    "lon": "15.2012"
+    "lat": 50.0289,
+    "lon": 15.2012
   },
   {
     "name": "Konárovice",
-    "lat": "50.0415",
-    "lon": "15.2842"
+    "lat": 50.0415,
+    "lon": 15.2842
   },
   {
     "name": "Kořenice",
-    "lat": "49.9771",
-    "lon": "15.1409"
+    "lat": 49.9771,
+    "lon": 15.1409
   },
   {
     "name": "Kouřim",
-    "lat": "50.0034",
-    "lon": "14.9770"
-  },
-  {
-    "name": "Kobylnice",
-    "lat": "49.1380",
-    "lon": "16.7318"
-  },
-  {
-    "name": "Košice",
-    "lat": "49.8958",
-    "lon": "15.1508"
-  },
-  {
-    "name": "Kojetice",
-    "lat": "49.1578",
-    "lon": "15.8180"
+    "lat": 50.0034,
+    "lon": 14.977
   },
   {
     "name": "Kokořín",
-    "lat": "50.4298",
-    "lon": "14.5668"
+    "lat": 50.4298,
+    "lon": 14.5668
   },
   {
     "name": "Kostelec nad Labem",
-    "lat": "50.2265",
-    "lon": "14.5855"
+    "lat": 50.2265,
+    "lon": 14.5855
   },
   {
     "name": "Kozomín",
-    "lat": "50.2369",
-    "lon": "14.3710"
-  },
-  {
-    "name": "Kobylnice",
-    "lat": "49.1380",
-    "lon": "16.7318"
+    "lat": 50.2369,
+    "lon": 14.371
   },
   {
     "name": "Kochánky",
-    "lat": "50.2770",
-    "lon": "14.7802"
+    "lat": 50.277,
+    "lon": 14.7802
   },
   {
     "name": "Kolomuty",
-    "lat": "50.4021",
-    "lon": "14.9790"
-  },
-  {
-    "name": "Koryta",
-    "lat": "49.9005",
-    "lon": "13.4748"
+    "lat": 50.4021,
+    "lon": 14.979
   },
   {
     "name": "Kosmonosy",
-    "lat": "50.4390",
-    "lon": "14.9305"
+    "lat": 50.439,
+    "lon": 14.9305
   },
   {
     "name": "Kosořice",
-    "lat": "50.3334",
-    "lon": "14.9696"
+    "lat": 50.3334,
+    "lon": 14.9696
   },
   {
     "name": "Košátky",
-    "lat": "50.3178",
-    "lon": "14.6688"
+    "lat": 50.3178,
+    "lon": 14.6688
   },
   {
     "name": "Kováň",
-    "lat": "50.4233",
-    "lon": "14.7778"
+    "lat": 50.4233,
+    "lon": 14.7778
   },
   {
     "name": "Kovanec",
-    "lat": "50.4177",
-    "lon": "14.7766"
+    "lat": 50.4177,
+    "lon": 14.7766
   },
   {
     "name": "Kolaje",
-    "lat": "50.1554",
-    "lon": "15.2384"
+    "lat": 50.1554,
+    "lon": 15.2384
   },
   {
     "name": "Kostelní Lhota",
-    "lat": "50.1293",
-    "lon": "15.0242"
+    "lat": 50.1293,
+    "lon": 15.0242
   },
   {
     "name": "Kostomlátky",
-    "lat": "50.1710",
-    "lon": "14.9840"
+    "lat": 50.171,
+    "lon": 14.984
   },
   {
     "name": "Kostomlaty nad Labem",
-    "lat": "50.1845",
-    "lon": "14.9540"
+    "lat": 50.1845,
+    "lon": 14.954
   },
   {
     "name": "Košík",
-    "lat": "50.3183",
-    "lon": "15.1340"
+    "lat": 50.3183,
+    "lon": 15.134
   },
   {
     "name": "Kounice",
-    "lat": "50.1092",
-    "lon": "14.8550"
-  },
-  {
-    "name": "Kouty",
-    "lat": "49.3147",
-    "lon": "15.7927"
+    "lat": 50.1092,
+    "lon": 14.855
   },
   {
     "name": "Kovanice",
-    "lat": "50.1695",
-    "lon": "15.0708"
+    "lat": 50.1695,
+    "lon": 15.0708
   },
   {
     "name": "Konětopy",
-    "lat": "50.2764",
-    "lon": "14.6538"
+    "lat": 50.2764,
+    "lon": 14.6538
   },
   {
     "name": "Konojedy",
-    "lat": "49.9486",
-    "lon": "14.8512"
+    "lat": 49.9486,
+    "lon": 14.8512
   },
   {
     "name": "Kostelec nad Černými lesy",
-    "lat": "49.9919",
-    "lon": "14.8558"
+    "lat": 49.9919,
+    "lon": 14.8558
   },
   {
     "name": "Kostelec u Křížků",
-    "lat": "49.9070",
-    "lon": "14.5572"
+    "lat": 49.907,
+    "lon": 14.5572
   },
   {
     "name": "Kostelní Hlavno",
-    "lat": "50.2574",
-    "lon": "14.6990"
-  },
-  {
-    "name": "Kozojedy",
-    "lat": "49.9965",
-    "lon": "14.8143"
+    "lat": 50.2574,
+    "lon": 14.699
   },
   {
     "name": "Kosoř",
-    "lat": "49.9870",
-    "lon": "14.3269"
+    "lat": 49.987,
+    "lon": 14.3269
   },
   {
     "name": "Korkyně",
-    "lat": "49.7798",
-    "lon": "14.3512"
+    "lat": 49.7798,
+    "lon": 14.3512
   },
   {
     "name": "Kosova Hora",
-    "lat": "49.6538",
-    "lon": "14.4724"
+    "lat": 49.6538,
+    "lon": 14.4724
   },
   {
     "name": "Kotenčice",
-    "lat": "49.7362",
-    "lon": "14.0937"
+    "lat": 49.7362,
+    "lon": 14.0937
   },
   {
     "name": "Koupě",
-    "lat": "49.5147",
-    "lon": "13.9184"
+    "lat": 49.5147,
+    "lon": 13.9184
   },
   {
     "name": "Kozárovice",
-    "lat": "49.5555",
-    "lon": "14.1065"
+    "lat": 49.5555,
+    "lon": 14.1065
   },
   {
     "name": "Kolešov",
-    "lat": "50.1571",
-    "lon": "13.5100"
+    "lat": 50.1571,
+    "lon": 13.51
   },
   {
     "name": "Kolešovice",
-    "lat": "50.1396",
-    "lon": "13.6103"
-  },
-  {
-    "name": "Kounov",
-    "lat": "50.2129",
-    "lon": "13.6751"
-  },
-  {
-    "name": "Kozojedy",
-    "lat": "49.9965",
-    "lon": "14.8143"
+    "lat": 50.1396,
+    "lon": 13.6103
   },
   {
     "name": "Komařice",
-    "lat": "48.8784",
-    "lon": "14.5457"
+    "lat": 48.8784,
+    "lon": 14.5457
   },
   {
     "name": "Kostelní Radouň",
-    "lat": "49.2254",
-    "lon": "15.0087"
+    "lat": 49.2254,
+    "lon": 15.0087
   },
   {
     "name": "Kostelní Vydří",
-    "lat": "49.1078",
-    "lon": "15.4227"
+    "lat": 49.1078,
+    "lon": 15.4227
   },
   {
     "name": "Koberovice",
-    "lat": "49.5877",
-    "lon": "15.2632"
+    "lat": 49.5877,
+    "lon": 15.2632
   },
   {
     "name": "Kojčice",
-    "lat": "49.4761",
-    "lon": "15.2558"
+    "lat": 49.4761,
+    "lon": 15.2558
   },
   {
     "name": "Komorovice",
-    "lat": "49.5087",
-    "lon": "15.3455"
+    "lat": 49.5087,
+    "lon": 15.3455
   },
   {
     "name": "Košetice",
-    "lat": "49.5583",
-    "lon": "15.1162"
+    "lat": 49.5583,
+    "lon": 15.1162
   },
   {
     "name": "Kostelec nad Vltavou",
-    "lat": "49.4999",
-    "lon": "14.2118"
+    "lat": 49.4999,
+    "lon": 14.2118
   },
   {
     "name": "Kovářov",
-    "lat": "49.5180",
-    "lon": "14.2778"
-  },
-  {
-    "name": "Kožlí",
-    "lat": "49.6703",
-    "lon": "15.2532"
+    "lat": 49.518,
+    "lon": 14.2778
   },
   {
     "name": "Kocelovice",
-    "lat": "49.4652",
-    "lon": "13.8283"
-  },
-  {
-    "name": "Komárov",
-    "lat": "49.8066",
-    "lon": "13.8565"
-  },
-  {
-    "name": "Košice",
-    "lat": "49.8958",
-    "lon": "15.1508"
+    "lat": 49.4652,
+    "lon": 13.8283
   },
   {
     "name": "Košín",
-    "lat": "49.4564",
-    "lon": "14.6584"
+    "lat": 49.4564,
+    "lon": 14.6584
   },
   {
     "name": "Koloveč",
-    "lat": "49.4868",
-    "lon": "13.1088"
+    "lat": 49.4868,
+    "lon": 13.1088
   },
   {
     "name": "Kout na Šumavě",
-    "lat": "49.4023",
-    "lon": "13.0026"
+    "lat": 49.4023,
+    "lon": 13.0026
   },
   {
     "name": "Kolová",
-    "lat": "50.1874",
-    "lon": "12.9033"
+    "lat": 50.1874,
+    "lon": 12.9033
   },
   {
     "name": "Kolinec",
-    "lat": "49.2989",
-    "lon": "13.4390"
+    "lat": 49.2989,
+    "lon": 13.439
   },
   {
     "name": "Kovčín",
-    "lat": "49.4159",
-    "lon": "13.6063"
+    "lat": 49.4159,
+    "lon": 13.6063
   },
   {
     "name": "Kotovice",
-    "lat": "49.6720",
-    "lon": "13.1545"
-  },
-  {
-    "name": "Kozlovice",
-    "lat": "49.4650",
-    "lon": "13.5828"
+    "lat": 49.672,
+    "lon": 13.1545
   },
   {
     "name": "Kočín",
-    "lat": "49.9304",
-    "lon": "13.4761"
+    "lat": 49.9304,
+    "lon": 13.4761
   },
   {
     "name": "Kopidlo",
-    "lat": "49.9431",
-    "lon": "13.4640"
-  },
-  {
-    "name": "Koryta",
-    "lat": "49.9005",
-    "lon": "13.4748"
-  },
-  {
-    "name": "Kozojedy",
-    "lat": "49.9965",
-    "lon": "14.8143"
+    "lat": 49.9431,
+    "lon": 13.464
   },
   {
     "name": "Kozolupy",
-    "lat": "49.7639",
-    "lon": "13.2535"
+    "lat": 49.7639,
+    "lon": 13.2535
   },
   {
     "name": "Kožlany",
-    "lat": "49.9939",
-    "lon": "13.5411"
+    "lat": 49.9939,
+    "lon": 13.5411
   },
   {
     "name": "Kornatice",
-    "lat": "49.6589",
-    "lon": "13.5921"
+    "lat": 49.6589,
+    "lon": 13.5921
   },
   {
     "name": "Kočov",
-    "lat": "49.8087",
-    "lon": "12.7366"
+    "lat": 49.8087,
+    "lon": 12.7366
   },
   {
     "name": "Kokašice",
-    "lat": "49.8785",
-    "lon": "12.9471"
+    "lat": 49.8785,
+    "lon": 12.9471
   },
   {
     "name": "Konstantinovy Lázně",
-    "lat": "49.8814",
-    "lon": "12.9817"
-  },
-  {
-    "name": "Kostelec",
-    "lat": "49.3613",
-    "lon": "15.4907"
-  },
-  {
-    "name": "Kozly",
-    "lat": "50.6553",
-    "lon": "14.4568"
+    "lat": 49.8814,
+    "lon": 12.9817
   },
   {
     "name": "Kovářská",
-    "lat": "50.4382",
-    "lon": "13.0539"
+    "lat": 50.4382,
+    "lon": 13.0539
   },
   {
     "name": "Koberovy",
-    "lat": "50.6247",
-    "lon": "15.2282"
+    "lat": 50.6247,
+    "lon": 15.2282
   },
   {
     "name": "Kořenov",
-    "lat": "50.7596",
-    "lon": "15.3659"
+    "lat": 50.7596,
+    "lon": 15.3659
   },
   {
     "name": "Kobyly",
-    "lat": "50.6099",
-    "lon": "15.0069"
+    "lat": 50.6099,
+    "lon": 15.0069
   },
   {
     "name": "Kostomlaty pod Řípem",
-    "lat": "50.3828",
-    "lon": "14.3332"
+    "lat": 50.3828,
+    "lon": 14.3332
   },
   {
     "name": "Koštice",
-    "lat": "50.4027",
-    "lon": "13.9419"
-  },
-  {
-    "name": "Kozly",
-    "lat": "",
-    "lon": ""
+    "lat": 50.4027,
+    "lon": 13.9419
   },
   {
     "name": "Korozluky",
-    "lat": "50.4786",
-    "lon": "13.7230"
+    "lat": 50.4786,
+    "lon": 13.723
   },
   {
     "name": "Kostomlaty pod Milešovkou",
-    "lat": "50.5602",
-    "lon": "13.8729"
+    "lat": 50.5602,
+    "lon": 13.8729
   },
   {
     "name": "Košťany",
-    "lat": "50.6550",
-    "lon": "13.7546"
+    "lat": 50.655,
+    "lon": 13.7546
   },
   {
     "name": "Kochánov",
-    "lat": "49.5342",
-    "lon": "15.5402"
-  },
-  {
-    "name": "Kojetín",
-    "lat": "49.3523",
-    "lon": "17.3026"
-  },
-  {
-    "name": "Kouty",
-    "lat": "49.3147",
-    "lon": "15.7927"
-  },
-  {
-    "name": "Kozlov",
-    "lat": "49.3791",
-    "lon": "16.0787"
-  },
-  {
-    "name": "Kožlí",
-    "lat": "49.6703",
-    "lon": "15.2532"
+    "lat": 49.5342,
+    "lon": 15.5402
   },
   {
     "name": "Kobylice",
-    "lat": "50.2458",
-    "lon": "15.5871"
+    "lat": 50.2458,
+    "lon": 15.5871
   },
   {
     "name": "Kosice",
-    "lat": "50.1797",
-    "lon": "15.5350"
+    "lat": 50.1797,
+    "lon": 15.535
   },
   {
     "name": "Kosičky",
-    "lat": "50.1790",
-    "lon": "15.5551"
+    "lat": 50.179,
+    "lon": 15.5551
   },
   {
     "name": "Kočí",
-    "lat": "49.9472",
-    "lon": "15.8554"
+    "lat": 49.9472,
+    "lon": 15.8554
   },
   {
     "name": "Kostelec u Heřmanova Městce",
-    "lat": "49.9233",
-    "lon": "15.6515"
+    "lat": 49.9233,
+    "lon": 15.6515
   },
   {
     "name": "Konecchlumí",
-    "lat": "50.4022",
-    "lon": "15.4802"
+    "lat": 50.4022,
+    "lon": 15.4802
   },
   {
     "name": "Kopidlno",
-    "lat": "49.9431",
-    "lon": "13.4640"
-  },
-  {
-    "name": "Kostelec",
-    "lat": "49.3613",
-    "lon": "15.4907"
+    "lat": 49.9431,
+    "lon": 13.464
   },
   {
     "name": "Kovač",
-    "lat": "50.3962",
-    "lon": "15.4710"
-  },
-  {
-    "name": "Kozojedy",
-    "lat": "49.9965",
-    "lon": "14.8143"
+    "lat": 50.3962,
+    "lon": 15.471
   },
   {
     "name": "Kojice",
-    "lat": "50.0430",
-    "lon": "15.3866"
+    "lat": 50.043,
+    "lon": 15.3866
   },
   {
     "name": "Kostěnice",
-    "lat": "50.0096",
-    "lon": "15.9037"
+    "lat": 50.0096,
+    "lon": 15.9037
   },
   {
     "name": "Kostelec nad Orlicí",
-    "lat": "50.1228",
-    "lon": "16.2122"
+    "lat": 50.1228,
+    "lon": 16.2122
   },
   {
     "name": "Kostelecké Horky",
-    "lat": "50.0517",
-    "lon": "16.2069"
-  },
-  {
-    "name": "Kounov",
-    "lat": "50.2129",
-    "lon": "13.6751"
+    "lat": 50.0517,
+    "lon": 16.2069
   },
   {
     "name": "Košťálov",
-    "lat": "50.5717",
-    "lon": "15.4040"
+    "lat": 50.5717,
+    "lon": 15.404
   },
   {
     "name": "Koclířov",
-    "lat": "49.7664",
-    "lon": "16.5387"
+    "lat": 49.7664,
+    "lon": 16.5387
   },
   {
     "name": "Korouhev",
-    "lat": "49.6713",
-    "lon": "16.2458"
+    "lat": 49.6713,
+    "lon": 16.2458
   },
   {
     "name": "Koruna",
-    "lat": "49.8468",
-    "lon": "16.7149"
+    "lat": 49.8468,
+    "lon": 16.7149
   },
   {
     "name": "Kocbeře",
-    "lat": "50.4537",
-    "lon": "15.8587"
+    "lat": 50.4537,
+    "lon": 15.8587
   },
   {
     "name": "Kohoutov",
-    "lat": "50.4513",
-    "lon": "15.9048"
+    "lat": 50.4513,
+    "lon": 15.9048
   },
   {
     "name": "Koldín",
-    "lat": "50.0368",
-    "lon": "16.2516"
+    "lat": 50.0368,
+    "lon": 16.2516
   },
   {
     "name": "Kosořín",
-    "lat": "49.9790",
-    "lon": "16.2339"
+    "lat": 49.979,
+    "lon": 16.2339
   },
   {
     "name": "Kořenec",
-    "lat": "49.5300",
-    "lon": "16.7538"
+    "lat": 49.53,
+    "lon": 16.7538
   },
   {
     "name": "Kotvrdovice",
-    "lat": "49.3551",
-    "lon": "16.7844"
+    "lat": 49.3551,
+    "lon": 16.7844
   },
   {
     "name": "Kozárov",
-    "lat": "49.4438",
-    "lon": "16.4587"
-  },
-  {
-    "name": "Kobylnice",
-    "lat": "49.1380",
-    "lon": "16.7318"
+    "lat": 49.4438,
+    "lon": 16.4587
   },
   {
     "name": "Kovalovice",
-    "lat": "49.2046",
-    "lon": "16.8190"
+    "lat": 49.2046,
+    "lon": 16.819
   },
   {
     "name": "Kobylí",
-    "lat": "48.9329",
-    "lon": "16.8916"
+    "lat": 48.9329,
+    "lon": 16.8916
   },
   {
     "name": "Kostice",
-    "lat": "48.7469",
-    "lon": "16.9787"
-  },
-  {
-    "name": "Komárov",
-    "lat": "49.8066",
-    "lon": "13.8565"
-  },
-  {
-    "name": "Kostelec",
-    "lat": "49.3613",
-    "lon": "15.4907"
+    "lat": 48.7469,
+    "lon": 16.9787
   },
   {
     "name": "Kozojídky",
-    "lat": "48.9186",
-    "lon": "17.3996"
-  },
-  {
-    "name": "Kostelec",
-    "lat": "49.3613",
-    "lon": "15.4907"
+    "lat": 48.9186,
+    "lon": 17.3996
   },
   {
     "name": "Kostelní Myslová",
-    "lat": "49.1478",
-    "lon": "15.4289"
-  },
-  {
-    "name": "Kozlov",
-    "lat": "49.3791",
-    "lon": "16.0787"
+    "lat": 49.1478,
+    "lon": 15.4289
   },
   {
     "name": "Komárno",
-    "lat": "49.4346",
-    "lon": "17.7803"
+    "lat": 49.4346,
+    "lon": 17.7803
   },
   {
     "name": "Koryčany",
-    "lat": "49.1064",
-    "lon": "17.1643"
+    "lat": 49.1064,
+    "lon": 17.1643
   },
   {
     "name": "Kostelany",
-    "lat": "49.2030",
-    "lon": "17.3828"
+    "lat": 49.203,
+    "lon": 17.3828
   },
   {
     "name": "Kostelec u Holešova",
-    "lat": "49.3744",
-    "lon": "17.5134"
+    "lat": 49.3744,
+    "lon": 17.5134
   },
   {
     "name": "Konice",
-    "lat": "49.5905",
-    "lon": "16.8894"
+    "lat": 49.5905,
+    "lon": 16.8894
   },
   {
     "name": "Kostelec na Hané",
-    "lat": "49.5140",
-    "lon": "17.0582"
+    "lat": 49.514,
+    "lon": 17.0582
   },
   {
     "name": "Koválovice-Osíčany",
-    "lat": "49.2805",
-    "lon": "17.1735"
+    "lat": 49.2805,
+    "lon": 17.1735
   },
   {
     "name": "Kojatice",
-    "lat": "48.9988",
-    "lon": "15.7031"
+    "lat": 48.9988,
+    "lon": 15.7031
   },
   {
     "name": "Kojatín",
-    "lat": "49.2428",
-    "lon": "16.0088"
-  },
-  {
-    "name": "Kojetice",
-    "lat": "49.1578",
-    "lon": "15.8180"
+    "lat": 49.2428,
+    "lon": 16.0088
   },
   {
     "name": "Komárovice",
-    "lat": "49.0702",
-    "lon": "15.7012"
+    "lat": 49.0702,
+    "lon": 15.7012
   },
   {
     "name": "Koněšín",
-    "lat": "49.1906",
-    "lon": "16.0411"
+    "lat": 49.1906,
+    "lon": 16.0411
   },
   {
     "name": "Kostníky",
-    "lat": "48.9747",
-    "lon": "15.6398"
-  },
-  {
-    "name": "Kouty",
-    "lat": "49.3147",
-    "lon": "15.7927"
-  },
-  {
-    "name": "Kozlany",
-    "lat": "49.1797",
-    "lon": "16.0612"
+    "lat": 48.9747,
+    "lon": 15.6398
   },
   {
     "name": "Kožichovice",
-    "lat": "49.1999",
-    "lon": "15.9219"
+    "lat": 49.1999,
+    "lon": 15.9219
   },
   {
     "name": "Komňa",
-    "lat": "48.9938",
-    "lon": "17.8007"
+    "lat": 48.9938,
+    "lon": 17.8007
   },
   {
     "name": "Korytná",
-    "lat": "48.9411",
-    "lon": "17.6653"
+    "lat": 48.9411,
+    "lon": 17.6653
   },
   {
     "name": "Kostelany nad Moravou",
-    "lat": "49.0455",
-    "lon": "17.4069"
+    "lat": 49.0455,
+    "lon": 17.4069
   },
   {
     "name": "Košíky",
-    "lat": "49.1575",
-    "lon": "17.4168"
+    "lat": 49.1575,
+    "lon": 17.4168
   },
   {
     "name": "Kobeřice u Brna",
-    "lat": "49.0922",
-    "lon": "16.8858"
+    "lat": 49.0922,
+    "lon": 16.8858
   },
   {
     "name": "Kojátky",
-    "lat": "49.1718",
-    "lon": "17.0261"
+    "lat": 49.1718,
+    "lon": 17.0261
   },
   {
     "name": "Komořany",
-    "lat": "49.2163",
-    "lon": "16.9068"
-  },
-  {
-    "name": "Kozlany",
-    "lat": "49.1797",
-    "lon": "16.0612"
+    "lat": 49.2163,
+    "lon": 16.9068
   },
   {
     "name": "Kožušice",
-    "lat": "49.1551",
-    "lon": "17.1848"
+    "lat": 49.1551,
+    "lon": 17.1848
   },
   {
     "name": "Korolupy",
-    "lat": "48.9302",
-    "lon": "15.6459"
+    "lat": 48.9302,
+    "lon": 15.6459
   },
   {
     "name": "Koroužné",
-    "lat": "49.5275",
-    "lon": "16.3476"
+    "lat": 49.5275,
+    "lon": 16.3476
   },
   {
     "name": "Kotlasy",
-    "lat": "49.4927",
-    "lon": "15.9461"
-  },
-  {
-    "name": "Kozlov",
-    "lat": "49.3791",
-    "lon": "16.0787"
+    "lat": 49.4927,
+    "lon": 15.9461
   },
   {
     "name": "Komorní Lhotka",
-    "lat": "49.6582",
-    "lon": "18.5276"
+    "lat": 49.6582,
+    "lon": 18.5276
   },
   {
     "name": "Košařiska",
-    "lat": "49.5901",
-    "lon": "18.6946"
-  },
-  {
-    "name": "Kozlovice",
-    "lat": "49.4650",
-    "lon": "13.5828"
+    "lat": 49.5901,
+    "lon": 18.6946
   },
   {
     "name": "Kopřivnice",
-    "lat": "49.5989",
-    "lon": "18.1452"
-  },
-  {
-    "name": "Komárov",
-    "lat": "49.8066",
-    "lon": "13.8565"
-  },
-  {
-    "name": "Kozlov",
-    "lat": "49.3791",
-    "lon": "16.0787"
+    "lat": 49.5989,
+    "lon": 18.1452
   },
   {
     "name": "Kožušany-Tážaly",
-    "lat": "49.5359",
-    "lon": "17.2539"
+    "lat": 49.5359,
+    "lon": 17.2539
   },
   {
     "name": "Kobeřice",
-    "lat": "49.9855",
-    "lon": "18.0521"
-  },
-  {
-    "name": "Kozmice",
-    "lat": "49.8248",
-    "lon": "14.7961"
-  },
-  {
-    "name": "Kojetín",
-    "lat": "49.3523",
-    "lon": "17.3026"
+    "lat": 49.9855,
+    "lon": 18.0521
   },
   {
     "name": "Kokory",
-    "lat": "49.4947",
-    "lon": "17.3744"
+    "lat": 49.4947,
+    "lon": 17.3744
   },
   {
     "name": "Kolšov",
-    "lat": "49.9031",
-    "lon": "16.9474"
+    "lat": 49.9031,
+    "lon": 16.9474
   },
   {
     "name": "Kopřivná",
-    "lat": "50.0464",
-    "lon": "16.9468"
+    "lat": 50.0464,
+    "lon": 16.9468
   },
   {
     "name": "Kosov",
-    "lat": "49.8831",
-    "lon": "16.7987"
+    "lat": 49.8831,
+    "lon": 16.7987
   },
   {
     "name": "Kobylá nad Vidnavkou",
-    "lat": "50.3423",
-    "lon": "17.1238"
+    "lat": 50.3423,
+    "lon": 17.1238
+  },
+  {
+    "name": "Kozmice (Benešov)",
+    "lat": 49.8248,
+    "lon": 14.7961
+  },
+  {
+    "name": "Kozmice (Opava)",
+    "lat": 49.9128,
+    "lon": 18.1558
+  },
+  {
+    "name": "Kozmice (Mladá Boleslav)",
+    "lat": 50.6136,
+    "lon": 14.9234
+  },
+  {
+    "name": "Kozmice (Tábor)",
+    "lat": 49.3869,
+    "lon": 14.8673
+  },
+  {
+    "name": "Komárov (Beroun)",
+    "lat": 49.8066,
+    "lon": 13.8565
+  },
+  {
+    "name": "Komárov (Olomouc)",
+    "lat": 49.7639,
+    "lon": 17.2409
+  },
+  {
+    "name": "Komárov (Tábor)",
+    "lat": 49.2501,
+    "lon": 14.594
+  },
+  {
+    "name": "Komárov (Zlín)",
+    "lat": 49.1507,
+    "lon": 17.5689
+  },
+  {
+    "name": "Komárov (Brno-město)",
+    "lat": 49.1781,
+    "lon": 16.6247
+  },
+  {
+    "name": "Komárov (Opava)",
+    "lat": 49.914,
+    "lon": 17.9688
+  },
+  {
+    "name": "Komárov (Hradec Králové)",
+    "lat": 50.2437,
+    "lon": 15.6426
+  },
+  {
+    "name": "Komárov (Pardubice)",
+    "lat": 50.0892,
+    "lon": 15.4912
+  },
+  {
+    "name": "Komárov (Semily)",
+    "lat": 50.5899,
+    "lon": 15.2775
+  },
+  {
+    "name": "Kobylnice (Brno-venkov)",
+    "lat": 49.138,
+    "lon": 16.7318
+  },
+  {
+    "name": "Kobylnice (Mladá Boleslav)",
+    "lat": 50.3716,
+    "lon": 15.0539
+  },
+  {
+    "name": "Kobylnice (Kutná Hora)",
+    "lat": 50.0063,
+    "lon": 15.3757
+  },
+  {
+    "name": "Kobylnice (Žďár nad Sázavou)",
+    "lat": 49.5364,
+    "lon": 16.3305
+  },
+  {
+    "name": "Kobylnice (Český Krumlov)",
+    "lat": 48.6371,
+    "lon": 14.199
+  },
+  {
+    "name": "Košice (Kutná Hora)",
+    "lat": 49.8958,
+    "lon": 15.1508
+  },
+  {
+    "name": "Košice (Tábor)",
+    "lat": 49.3252,
+    "lon": 14.7505
+  },
+  {
+    "name": "Košice (Hradec Králové)",
+    "lat": 50.1797,
+    "lon": 15.535
+  },
+  {
+    "name": "Kojetice (Třebíč)",
+    "lat": 49.1578,
+    "lon": 15.818
+  },
+  {
+    "name": "Kojetice (Mělník)",
+    "lat": 50.238,
+    "lon": 14.504
+  },
+  {
+    "name": "Kojetice (Ústí nad Labem)",
+    "lat": 50.6448,
+    "lon": 14.0888
+  },
+  {
+    "name": "Koryta (Plzeň-sever)",
+    "lat": 49.9005,
+    "lon": 13.4748
+  },
+  {
+    "name": "Koryta (Mladá Boleslav)",
+    "lat": 50.572,
+    "lon": 15.0117
+  },
+  {
+    "name": "Koryta (Rychnov nad Kněžnou)",
+    "lat": 50.0989,
+    "lon": 16.2091
+  },
+  {
+    "name": "Kouty (Nymburk)",
+    "lat": 50.1931,
+    "lon": 15.1487
+  },
+  {
+    "name": "Kouty (Třebíč)",
+    "lat": 49.3147,
+    "lon": 15.7927
+  },
+  {
+    "name": "Kouty (Havlíčkův Brod)",
+    "lat": 49.6488,
+    "lon": 15.293
+  },
+  {
+    "name": "Kouty (Kladno)",
+    "lat": 50.0585,
+    "lon": 14.0077
+  },
+  {
+    "name": "Kouty (Chrudim)",
+    "lat": 49.7536,
+    "lon": 15.8953
+  },
+  {
+    "name": "Kouty (Ústí nad Orlicí)",
+    "lat": 49.9964,
+    "lon": 16.2648
+  },
+  {
+    "name": "Kouty (Frýdek-Místek)",
+    "lat": 49.7317,
+    "lon": 18.3654
+  },
+  {
+    "name": "Kouty (Nový Jičín)",
+    "lat": 49.5698,
+    "lon": 18.1446
+  },
+  {
+    "name": "Kouty (Semily)",
+    "lat": 50.5301,
+    "lon": 15.2547
+  },
+  {
+    "name": "Kouty (Opava)",
+    "lat": 49.9281,
+    "lon": 18.0313
+  },
+  {
+    "name": "Kozojedy (Plzeň-sever)",
+    "lat": 49.9313,
+    "lon": 13.5439
+  },
+  {
+    "name": "Kozojedy (Praha-východ)",
+    "lat": 49.9965,
+    "lon": 14.8143
+  },
+  {
+    "name": "Kozojedy (Rakovník)",
+    "lat": 50.2553,
+    "lon": 13.8156
+  },
+  {
+    "name": "Kozojedy (Jičín)",
+    "lat": 50.3164,
+    "lon": 15.3748
+  },
+  {
+    "name": "Kozojedy (Chrudim)",
+    "lat": 49.9455,
+    "lon": 15.757
+  },
+  {
+    "name": "Kounov (Rakovník)",
+    "lat": 50.2129,
+    "lon": 13.6751
+  },
+  {
+    "name": "Kounov (Rychnov nad Kněžnou)",
+    "lat": 50.2988,
+    "lon": 16.258
+  },
+  {
+    "name": "Kožlí (Havlíčkův Brod)",
+    "lat": 49.6703,
+    "lon": 15.2532
+  },
+  {
+    "name": "Kožlí (Písek)",
+    "lat": 49.5158,
+    "lon": 14.1467
+  },
+  {
+    "name": "Kožlí (Benešov)",
+    "lat": 49.7695,
+    "lon": 14.622
+  },
+  {
+    "name": "Kožlí (Strakonice)",
+    "lat": 49.4574,
+    "lon": 13.9802
+  },
+  {
+    "name": "Kozlovice (Plzeň-jih)",
+    "lat": 49.465,
+    "lon": 13.5828
+  },
+  {
+    "name": "Kozlovice (Frýdek-Místek)",
+    "lat": 49.5905,
+    "lon": 18.2563
+  },
+  {
+    "name": "Kozlovice (Přerov)",
+    "lat": 49.4643,
+    "lon": 17.4882
+  },
+  {
+    "name": "Kozlovice (Litoměřice)",
+    "lat": 50.4571,
+    "lon": 14.3112
+  },
+  {
+    "name": "Kostelec (Jihlava)",
+    "lat": 49.3613,
+    "lon": 15.4907
+  },
+  {
+    "name": "Kostelec (Hodonín)",
+    "lat": 49.0268,
+    "lon": 17.1532
+  },
+  {
+    "name": "Kostelec (Jičín)",
+    "lat": 50.381,
+    "lon": 15.3279
+  },
+  {
+    "name": "Kostelec (Tachov)",
+    "lat": 49.6743,
+    "lon": 13.0262
+  },
+  {
+    "name": "Kostelec (Nový Jičín)",
+    "lat": 49.7235,
+    "lon": 17.9343
+  },
+  {
+    "name": "Kostelec (České Budějovice)",
+    "lat": 49.1388,
+    "lon": 14.4748
+  },
+  {
+    "name": "Kostelec (Plzeň-sever)",
+    "lat": 49.8338,
+    "lon": 13.5095
+  },
+  {
+    "name": "Kostelec (Karviná)",
+    "lat": 49.7584,
+    "lon": 18.5246
+  },
+  {
+    "name": "Kostelec (Zlín)",
+    "lat": 49.2604,
+    "lon": 17.7024
+  },
+  {
+    "name": "Kostelec (Česká Lípa)",
+    "lat": 50.5708,
+    "lon": 14.4568
+  },
+  {
+    "name": "Kozly (Česká Lípa)",
+    "lat": 50.6553,
+    "lon": 14.4568
+  },
+  {
+    "name": "Kozly (Louny)",
+    "lat": 50.4568,
+    "lon": 13.7844
+  },
+  {
+    "name": "Kozly (Mělník)",
+    "lat": 50.2561,
+    "lon": 14.5598
+  },
+  {
+    "name": "Kozly (Praha-východ)",
+    "lat": 49.9126,
+    "lon": 14.8663
+  },
+  {
+    "name": "Kozly (Cheb)",
+    "lat": 50.0129,
+    "lon": 12.4237
+  },
+  {
+    "name": "Kojetín (Přerov)",
+    "lat": 49.3523,
+    "lon": 17.3026
+  },
+  {
+    "name": "Kojetín (Havlíčkův Brod)",
+    "lat": 49.6571,
+    "lon": 15.6581
+  },
+  {
+    "name": "Kojetín (Chomutov)",
+    "lat": 50.3096,
+    "lon": 13.2295
+  },
+  {
+    "name": "Kojetín (Příbram)",
+    "lat": 49.5432,
+    "lon": 14.3462
+  },
+  {
+    "name": "Kojetín (Nový Jičín)",
+    "lat": 49.5615,
+    "lon": 17.9827
+  },
+  {
+    "name": "Kozlov (Olomouc)",
+    "lat": 49.6036,
+    "lon": 17.5357
+  },
+  {
+    "name": "Kozlov (Žďár nad Sázavou)",
+    "lat": 49.3791,
+    "lon": 16.0787
+  },
+  {
+    "name": "Kozlov (Jihlava)",
+    "lat": 49.413,
+    "lon": 15.7005
+  },
+  {
+    "name": "Kozlov (Havlíčkův Brod)",
+    "lat": 49.7346,
+    "lon": 15.293
+  },
+  {
+    "name": "Kozlov (Semily)",
+    "lat": 50.51,
+    "lon": 15.3388
+  },
+  {
+    "name": "Kozlov (Jičín)",
+    "lat": 50.495,
+    "lon": 15.128
+  },
+  {
+    "name": "Kozlov (Ústí nad Orlicí)",
+    "lat": 49.8818,
+    "lon": 16.4134
+  },
+  {
+    "name": "Kozlov (Pelhřimov)",
+    "lat": 49.293,
+    "lon": 15.2345
+  },
+  {
+    "name": "Kozlov (Strakonice)",
+    "lat": 49.2979,
+    "lon": 13.7489
+  },
+  {
+    "name": "Kozlany (Třebíč)",
+    "lat": 49.1797,
+    "lon": 16.0612
+  },
+  {
+    "name": "Kozlany (Vyškov)",
+    "lat": 49.2041,
+    "lon": 17.0352
+  },
+  {
+    "name": "Kozlany (Plzeň-sever)",
+    "lat": 49.9939,
+    "lon": 13.5411
+  },
+  {
+    "name": "Kozlany (Žďár nad Sázavou)",
+    "lat": 49.5012,
+    "lon": 16.3293
   }
 ]

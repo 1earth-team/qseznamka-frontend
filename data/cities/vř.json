@@ -1,37 +1,37 @@
 [
   {
     "name": "Vřeskovice",
-    "lat": "49.5254",
-    "lon": "13.2711"
+    "lat": 49.5254,
+    "lon": 13.2711
   },
   {
     "name": "Vřesová",
-    "lat": "50.2597",
-    "lon": "12.6958"
+    "lat": 50.2597,
+    "lon": 12.6958
   },
   {
     "name": "Vřesník",
-    "lat": "50.4380",
-    "lon": "15.6282"
+    "lat": 50.438,
+    "lon": 15.6282
   },
   {
-    "name": "Vřesovice",
-    "lat": "49.0591",
-    "lon": "17.2150"
+    "name": "Vřesovice (Hodonín)",
+    "lat": 49.0591,
+    "lon": 17.215
   },
   {
-    "name": "Vřesovice",
-    "lat": "49.0591",
-    "lon": "17.2150"
+    "name": "Vřesovice (Prostějov)",
+    "lat": 49.4018,
+    "lon": 17.139
   },
   {
-    "name": "Vřesina",
-    "lat": "49.9458",
-    "lon": "18.1901"
+    "name": "Vřesina (Opava)",
+    "lat": 49.9458,
+    "lon": 18.1901
   },
   {
-    "name": "Vřesina",
-    "lat": "49.9458",
-    "lon": "18.1901"
+    "name": "Vřesina (Ostrava-město)",
+    "lat": 49.8239,
+    "lon": 18.1256
   }
 ]

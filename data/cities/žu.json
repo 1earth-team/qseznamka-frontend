@@ -1,22 +1,22 @@
 [
   {
-    "name": "Županovice",
-    "lat": "49.7078",
-    "lon": "14.2987"
-  },
-  {
-    "name": "Županovice",
-    "lat": "49.7078",
-    "lon": "14.2987"
-  },
-  {
     "name": "Žumberk",
-    "lat": "49.8727",
-    "lon": "15.8581"
+    "lat": 49.8727,
+    "lon": 15.8581
   },
   {
     "name": "Žulová",
-    "lat": "50.3093",
-    "lon": "17.0982"
+    "lat": 50.3093,
+    "lon": 17.0982
+  },
+  {
+    "name": "Županovice (Příbram)",
+    "lat": 49.7078,
+    "lon": 14.2987
+  },
+  {
+    "name": "Županovice (Jindřichův Hradec)",
+    "lat": 48.9571,
+    "lon": 15.5061
   }
 ]

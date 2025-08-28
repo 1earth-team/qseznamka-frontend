@@ -1,187 +1,207 @@
 [
   {
     "name": "Vodslivy",
-    "lat": "49.8495",
-    "lon": "14.8372"
+    "lat": 49.8495,
+    "lon": 14.8372
   },
   {
     "name": "Vojkov",
-    "lat": "49.6522",
-    "lon": "14.5198"
-  },
-  {
-    "name": "Votice",
-    "lat": "49.6403",
-    "lon": "14.6380"
+    "lat": 49.6522,
+    "lon": 14.5198
   },
   {
     "name": "Volárna",
-    "lat": "50.0918",
-    "lon": "15.2404"
+    "lat": 50.0918,
+    "lon": 15.2404
   },
   {
     "name": "Vodranty",
-    "lat": "49.8904",
-    "lon": "15.3363"
-  },
-  {
-    "name": "Vojkovice",
-    "lat": "49.0514",
-    "lon": "16.6082"
+    "lat": 49.8904,
+    "lon": 15.3363
   },
   {
     "name": "Vodochody",
-    "lat": "50.2069",
-    "lon": "14.3978"
+    "lat": 50.2069,
+    "lon": 14.3978
   },
   {
     "name": "Vonoklasy",
-    "lat": "49.9503",
-    "lon": "14.2767"
-  },
-  {
-    "name": "Volenice",
-    "lat": "49.2524",
-    "lon": "13.7479"
+    "lat": 49.9503,
+    "lon": 14.2767
   },
   {
     "name": "Voznice",
-    "lat": "49.8172",
-    "lon": "14.2167"
+    "lat": 49.8172,
+    "lon": 14.2167
   },
   {
     "name": "Volfířov",
-    "lat": "49.1068",
-    "lon": "15.3703"
+    "lat": 49.1068,
+    "lon": 15.3703
   },
   {
     "name": "Vojslavice",
-    "lat": "49.5931",
-    "lon": "15.2290"
+    "lat": 49.5931,
+    "lon": 15.229
   },
   {
     "name": "Vokov",
-    "lat": "49.3955",
-    "lon": "15.2198"
+    "lat": 49.3955,
+    "lon": 15.2198
   },
   {
     "name": "Vojníkov",
-    "lat": "49.3537",
-    "lon": "14.1771"
+    "lat": 49.3537,
+    "lon": 14.1771
   },
   {
     "name": "Volary",
-    "lat": "48.9096",
-    "lon": "13.8884"
+    "lat": 48.9096,
+    "lon": 13.8884
   },
   {
     "name": "Vodňany",
-    "lat": "49.1479",
-    "lon": "14.1755"
-  },
-  {
-    "name": "Volenice",
-    "lat": "49.2524",
-    "lon": "13.7479"
+    "lat": 49.1479,
+    "lon": 14.1755
   },
   {
     "name": "Volyně",
-    "lat": "49.1665",
-    "lon": "13.8867"
+    "lat": 49.1665,
+    "lon": 13.8867
   },
   {
     "name": "Vodice",
-    "lat": "49.4643",
-    "lon": "14.9090"
+    "lat": 49.4643,
+    "lon": 14.909
   },
   {
     "name": "Vojtanov",
-    "lat": "50.1684",
-    "lon": "12.3169"
-  },
-  {
-    "name": "Vojkovice",
-    "lat": "49.0514",
-    "lon": "16.6082"
+    "lat": 50.1684,
+    "lon": 12.3169
   },
   {
     "name": "Vochov",
-    "lat": "49.7570",
-    "lon": "13.2786"
+    "lat": 49.757,
+    "lon": 13.2786
   },
   {
     "name": "Volduchy",
-    "lat": "49.7760",
-    "lon": "13.6227"
+    "lat": 49.776,
+    "lon": 13.6227
   },
   {
     "name": "Volfartice",
-    "lat": "50.7301",
-    "lon": "14.4529"
-  },
-  {
-    "name": "Volevčice",
-    "lat": "49.2110",
-    "lon": "15.4446"
+    "lat": 50.7301,
+    "lon": 14.4529
   },
   {
     "name": "Vojtěchov",
-    "lat": "49.7885",
-    "lon": "15.9735"
+    "lat": 49.7885,
+    "lon": 15.9735
   },
   {
     "name": "Vortová",
-    "lat": "49.7130",
-    "lon": "15.9362"
+    "lat": 49.713,
+    "lon": 15.9362
   },
   {
     "name": "Volanice",
-    "lat": "50.3355",
-    "lon": "15.3983"
+    "lat": 50.3355,
+    "lon": 15.3983
   },
   {
     "name": "Voleč",
-    "lat": "50.1173",
-    "lon": "15.5727"
-  },
-  {
-    "name": "Voděrady",
-    "lat": "49.9496",
-    "lon": "16.2851"
-  },
-  {
-    "name": "Voděrady",
-    "lat": "49.9496",
-    "lon": "16.2851"
-  },
-  {
-    "name": "Voděrady",
-    "lat": "49.9496",
-    "lon": "16.2851"
+    "lat": 50.1173,
+    "lon": 15.5727
   },
   {
     "name": "Vohančice",
-    "lat": "49.3216",
-    "lon": "16.3939"
-  },
-  {
-    "name": "Vojkovice",
-    "lat": "49.0514",
-    "lon": "16.6082"
-  },
-  {
-    "name": "Volevčice",
-    "lat": "49.2110",
-    "lon": "15.4446"
+    "lat": 49.3216,
+    "lon": 16.3939
   },
   {
     "name": "Vojnův Městec",
-    "lat": "49.6795",
-    "lon": "15.8783"
+    "lat": 49.6795,
+    "lon": 15.8783
   },
   {
-    "name": "Vojkovice",
-    "lat": "49.0514",
-    "lon": "16.6082"
+    "name": "Vojkovice (Brno-venkov)",
+    "lat": 49.0514,
+    "lon": 16.6082
+  },
+  {
+    "name": "Vojkovice (Frýdek-Místek)",
+    "lat": 49.682,
+    "lon": 18.4685
+  },
+  {
+    "name": "Vojkovice (Karlovy Vary)",
+    "lat": 50.3033,
+    "lon": 13.0162
+  },
+  {
+    "name": "Vojkovice (Mělník)",
+    "lat": 50.2961,
+    "lon": 14.3752
+  },
+  {
+    "name": "Volenice (Strakonice)",
+    "lat": 49.2524,
+    "lon": 13.7479
+  },
+  {
+    "name": "Volenice (Příbram)",
+    "lat": 49.5478,
+    "lon": 13.8837
+  },
+  {
+    "name": "Volenice (Louny)",
+    "lat": 50.3914,
+    "lon": 13.9312
+  },
+  {
+    "name": "Volevčice (Jihlava)",
+    "lat": 49.211,
+    "lon": 15.4446
+  },
+  {
+    "name": "Volevčice (Most)",
+    "lat": 50.4349,
+    "lon": 13.6904
+  },
+  {
+    "name": "Voděrady (Ústí nad Orlicí)",
+    "lat": 49.9496,
+    "lon": 16.2851
+  },
+  {
+    "name": "Voděrady (Blansko)",
+    "lat": 49.4815,
+    "lon": 16.5581
+  },
+  {
+    "name": "Voděrady (Rychnov nad Kněžnou)",
+    "lat": 50.2087,
+    "lon": 16.1531
+  },
+  {
+    "name": "Voděrady (Jablonec nad Nisou)",
+    "lat": 50.6366,
+    "lon": 15.1618
+  },
+  {
+    "name": "Voděrady (Chomutov)",
+    "lat": 50.4217,
+    "lon": 13.5167
+  },
+  {
+    "name": "Voděrady (Mladá Boleslav)",
+    "lat": 50.3367,
+    "lon": 14.9449
+  },
+  {
+    "name": "Votice",
+    "lat": 49.6403939,
+    "lon": 14.6380296
   }
 ]

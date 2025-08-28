@@ -1,597 +1,717 @@
 [
   {
-    "name": "Borovnice",
-    "lat": "49.6672",
-    "lon": "16.2025"
-  },
-  {
     "name": "Bohdaneč",
-    "lat": "50.0764",
-    "lon": "15.6798"
+    "lat": 50.0764,
+    "lon": 15.6798
   },
   {
     "name": "Boreč",
-    "lat": "50.4074",
-    "lon": "14.7324"
+    "lat": 50.4074,
+    "lon": 14.7324
   },
   {
     "name": "Boseň",
-    "lat": "50.5042",
-    "lon": "15.0230"
+    "lat": 50.5042,
+    "lon": 15.023
   },
   {
     "name": "Bobnice",
-    "lat": "50.2196",
-    "lon": "15.0535"
-  },
-  {
-    "name": "Borek",
-    "lat": "50.2226",
-    "lon": "14.6474"
+    "lat": 50.2196,
+    "lon": 15.0535
   },
   {
     "name": "Bořanovice",
-    "lat": "50.1786",
-    "lon": "14.4803"
-  },
-  {
-    "name": "Bojanovice",
-    "lat": "48.9682",
-    "lon": "15.9891"
+    "lat": 50.1786,
+    "lon": 14.4803
   },
   {
     "name": "Bohostice",
-    "lat": "49.6021",
-    "lon": "14.1381"
-  },
-  {
-    "name": "Bohutín",
-    "lat": "49.6555",
-    "lon": "13.9439"
-  },
-  {
-    "name": "Borotice",
-    "lat": "48.8573",
-    "lon": "16.2426"
-  },
-  {
-    "name": "Borek",
-    "lat": "50.2226",
-    "lon": "14.6474"
-  },
-  {
-    "name": "Borovany",
-    "lat": "48.8999",
-    "lon": "14.6420"
-  },
-  {
-    "name": "Borovnice",
-    "lat": "49.6672",
-    "lon": "16.2025"
+    "lat": 49.6021,
+    "lon": 14.1381
   },
   {
     "name": "Boršov nad Vltavou",
-    "lat": "48.9220",
-    "lon": "14.4346"
+    "lat": 48.922,
+    "lon": 14.4346
   },
   {
     "name": "Bošilec",
-    "lat": "49.1492",
-    "lon": "14.6461"
+    "lat": 49.1492,
+    "lon": 14.6461
   },
   {
     "name": "Bohdalovice",
-    "lat": "48.7427",
-    "lon": "14.2865"
+    "lat": 48.7427,
+    "lon": 14.2865
   },
   {
     "name": "Boletice",
-    "lat": "48.8480",
-    "lon": "14.0727"
-  },
-  {
-    "name": "Bořetín",
-    "lat": "49.3104",
-    "lon": "14.9476"
+    "lat": 48.848,
+    "lon": 14.0727
   },
   {
     "name": "Bohdalín",
-    "lat": "49.3077",
-    "lon": "15.0158"
-  },
-  {
-    "name": "Bořetice",
-    "lat": "49.4961",
-    "lon": "15.1099"
-  },
-  {
-    "name": "Bořetín",
-    "lat": "49.3104",
-    "lon": "14.9476"
+    "lat": 49.3077,
+    "lon": 15.0158
   },
   {
     "name": "Božejov",
-    "lat": "49.3621",
-    "lon": "15.1558"
-  },
-  {
-    "name": "Borovany",
-    "lat": "48.8999",
-    "lon": "14.6420"
+    "lat": 49.3621,
+    "lon": 15.1558
   },
   {
     "name": "Boudy",
-    "lat": "49.4480",
-    "lon": "14.0355"
+    "lat": 49.448,
+    "lon": 14.0355
   },
   {
     "name": "Božetice",
-    "lat": "49.4510",
-    "lon": "14.4439"
+    "lat": 49.451,
+    "lon": 14.4439
   },
   {
     "name": "Bohumilice",
-    "lat": "49.0961",
-    "lon": "13.8163"
+    "lat": 49.0961,
+    "lon": 13.8163
   },
   {
     "name": "Bohunice",
-    "lat": "49.1324",
-    "lon": "13.9732"
+    "lat": 49.1324,
+    "lon": 13.9732
   },
   {
     "name": "Borová Lada",
-    "lat": "48.9899",
-    "lon": "13.6598"
+    "lat": 48.9899,
+    "lon": 13.6598
   },
   {
     "name": "Bošice",
-    "lat": "49.0893",
-    "lon": "13.8403"
+    "lat": 49.0893,
+    "lon": 13.8403
   },
   {
     "name": "Borkovice",
-    "lat": "49.2079",
-    "lon": "14.6434"
-  },
-  {
-    "name": "Borotín",
-    "lat": "49.5813",
-    "lon": "16.6715"
+    "lat": 49.2079,
+    "lon": 14.6434
   },
   {
     "name": "Bochov",
-    "lat": "50.1504",
-    "lon": "13.0454"
+    "lat": 50.1504,
+    "lon": 13.0454
   },
   {
     "name": "Boží Dar",
-    "lat": "50.4097",
-    "lon": "12.9245"
+    "lat": 50.4097,
+    "lon": 12.9245
   },
   {
     "name": "Božičany",
-    "lat": "50.2579",
-    "lon": "12.7689"
+    "lat": 50.2579,
+    "lon": 12.7689
   },
   {
     "name": "Bolešiny",
-    "lat": "49.4099",
-    "lon": "13.3616"
+    "lat": 49.4099,
+    "lon": 13.3616
   },
   {
     "name": "Bolkov",
-    "lat": "49.5336",
-    "lon": "13.2239"
+    "lat": 49.5336,
+    "lon": 13.2239
   },
   {
     "name": "Borovno",
-    "lat": "49.6220",
-    "lon": "13.6904"
+    "lat": 49.622,
+    "lon": 13.6904
   },
   {
     "name": "Borovy",
-    "lat": "49.5251",
-    "lon": "13.3023"
+    "lat": 49.5251,
+    "lon": 13.3023
   },
   {
     "name": "Bohy",
-    "lat": "49.9379",
-    "lon": "13.5757"
+    "lat": 49.9379,
+    "lon": 13.5757
   },
   {
     "name": "Bor",
-    "lat": "49.7117",
-    "lon": "12.7752"
+    "lat": 49.7117,
+    "lon": 12.7752
   },
   {
     "name": "Boleboř",
-    "lat": "50.5401",
-    "lon": "13.4137"
+    "lat": 50.5401,
+    "lon": 13.4137
   },
   {
     "name": "Bohušovice nad Ohří",
-    "lat": "50.4932",
-    "lon": "14.1505"
+    "lat": 50.4932,
+    "lon": 14.1505
   },
   {
     "name": "Bořislav",
-    "lat": "50.5794",
-    "lon": "13.9292"
+    "lat": 50.5794,
+    "lon": 13.9292
   },
   {
     "name": "Bojiště",
-    "lat": "49.6678",
-    "lon": "15.2868"
+    "lat": 49.6678,
+    "lon": 15.2868
   },
   {
     "name": "Boňkov",
-    "lat": "49.5470",
-    "lon": "15.4475"
-  },
-  {
-    "name": "Borek",
-    "lat": "50.2226",
-    "lon": "14.6474"
+    "lat": 49.547,
+    "lon": 15.4475
   },
   {
     "name": "Boharyně",
-    "lat": "50.2038",
-    "lon": "15.6307"
+    "lat": 50.2038,
+    "lon": 15.6307
   },
   {
     "name": "Bojanov",
-    "lat": "49.8413",
-    "lon": "15.7049"
+    "lat": 49.8413,
+    "lon": 15.7049
   },
   {
     "name": "Bor u Skutče",
-    "lat": "49.8223",
-    "lon": "16.1269"
+    "lat": 49.8223,
+    "lon": 16.1269
   },
   {
     "name": "Bořice",
-    "lat": "49.9767",
-    "lon": "15.9255"
+    "lat": 49.9767,
+    "lon": 15.9255
   },
   {
     "name": "Bousov",
-    "lat": "49.9017",
-    "lon": "15.5354"
+    "lat": 49.9017,
+    "lon": 15.5354
   },
   {
     "name": "Boháňka",
-    "lat": "50.3658",
-    "lon": "15.7084"
-  },
-  {
-    "name": "Borek",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Bohuslavice",
-    "lat": "49.1492",
-    "lon": "15.5756"
-  },
-  {
-    "name": "Borová",
-    "lat": "49.7412",
-    "lon": "16.1627"
+    "lat": 50.3658,
+    "lon": 15.7084
   },
   {
     "name": "Božanov",
-    "lat": "50.5269",
-    "lon": "16.3651"
-  },
-  {
-    "name": "Borek",
-    "lat": "50.2226",
-    "lon": "14.6474"
+    "lat": 50.5269,
+    "lon": 16.3651
   },
   {
     "name": "Bohdašín",
-    "lat": "50.3385",
-    "lon": "16.2250"
+    "lat": 50.3385,
+    "lon": 16.225
   },
   {
     "name": "Bolehošť",
-    "lat": "50.2138",
-    "lon": "16.0769"
+    "lat": 50.2138,
+    "lon": 16.0769
   },
   {
     "name": "Borohrádek",
-    "lat": "50.0978",
-    "lon": "16.0933"
-  },
-  {
-    "name": "Borovnice",
-    "lat": "49.6672",
-    "lon": "16.2025"
+    "lat": 50.0978,
+    "lon": 16.0933
   },
   {
     "name": "Bozkov",
-    "lat": "50.6401",
-    "lon": "15.3371"
-  },
-  {
-    "name": "Bohuňov",
-    "lat": "49.5991",
-    "lon": "16.4638"
-  },
-  {
-    "name": "Bohuňovice",
-    "lat": "49.9079",
-    "lon": "16.2629"
-  },
-  {
-    "name": "Borová",
-    "lat": "49.7412",
-    "lon": "16.1627"
+    "lat": 50.6401,
+    "lon": 15.3371
   },
   {
     "name": "Borušov",
-    "lat": "49.7760",
-    "lon": "16.7357"
-  },
-  {
-    "name": "Borovnice",
-    "lat": "49.6672",
-    "lon": "16.2025"
+    "lat": 49.776,
+    "lon": 16.7357
   },
   {
     "name": "Borovnička",
-    "lat": "50.5009",
-    "lon": "15.6672"
+    "lat": 50.5009,
+    "lon": 15.6672
   },
   {
     "name": "Bošín",
-    "lat": "50.0341",
-    "lon": "16.2030"
-  },
-  {
-    "name": "Borotín",
-    "lat": "49.5813",
-    "lon": "16.6715"
+    "lat": 50.0341,
+    "lon": 16.203
   },
   {
     "name": "Bořitov",
-    "lat": "49.4266",
-    "lon": "16.5904"
+    "lat": 49.4266,
+    "lon": 16.5904
   },
   {
     "name": "Boskovice",
-    "lat": "49.4878",
-    "lon": "16.6602"
+    "lat": 49.4878,
+    "lon": 16.6602
   },
   {
     "name": "Borač",
-    "lat": "49.4008",
-    "lon": "16.3611"
+    "lat": 49.4008,
+    "lon": 16.3611
   },
   {
     "name": "Borovník",
-    "lat": "49.3556",
-    "lon": "16.2294"
+    "lat": 49.3556,
+    "lon": 16.2294
   },
   {
     "name": "Boleradice",
-    "lat": "48.9667",
-    "lon": "16.8139"
+    "lat": 48.9667,
+    "lon": 16.8139
   },
   {
     "name": "Borkovany",
-    "lat": "49.0282",
-    "lon": "16.8101"
-  },
-  {
-    "name": "Bořetice",
-    "lat": "49.4961",
-    "lon": "15.1099"
+    "lat": 49.0282,
+    "lon": 16.8101
   },
   {
     "name": "Bohuslavice nad Vláří",
-    "lat": "49.0902",
-    "lon": "17.9266"
+    "lat": 49.0902,
+    "lon": 17.9266
   },
   {
     "name": "Bohuslavice u Zlína",
-    "lat": "49.1631",
-    "lon": "17.6368"
-  },
-  {
-    "name": "Bohuslavice",
-    "lat": "49.1492",
-    "lon": "15.5756"
+    "lat": 49.1631,
+    "lon": 17.6368
   },
   {
     "name": "Borovná",
-    "lat": "49.1646",
-    "lon": "15.3946"
+    "lat": 49.1646,
+    "lon": 15.3946
   },
   {
     "name": "Boršov",
-    "lat": "49.4042",
-    "lon": "15.4345"
+    "lat": 49.4042,
+    "lon": 15.4345
   },
   {
     "name": "Bořenovice",
-    "lat": "49.3615",
-    "lon": "17.5644"
-  },
-  {
-    "name": "Bohuslavice",
-    "lat": "49.1492",
-    "lon": "15.5756"
+    "lat": 49.3615,
+    "lon": 17.5644
   },
   {
     "name": "Bousín",
-    "lat": "49.4551",
-    "lon": "16.8897"
+    "lat": 49.4551,
+    "lon": 16.8897
   },
   {
     "name": "Bohušice",
-    "lat": "49.0851",
-    "lon": "15.8521"
+    "lat": 49.0851,
+    "lon": 15.8521
   },
   {
     "name": "Bochovice",
-    "lat": "49.3208",
-    "lon": "15.8963"
+    "lat": 49.3208,
+    "lon": 15.8963
   },
   {
     "name": "Bojkovice",
-    "lat": "49.0389",
-    "lon": "17.8148"
+    "lat": 49.0389,
+    "lon": 17.8148
   },
   {
     "name": "Boršice",
-    "lat": "49.0626",
-    "lon": "17.3510"
+    "lat": 49.0626,
+    "lon": 17.351
   },
   {
     "name": "Boršice u Blatnice",
-    "lat": "48.9322",
-    "lon": "17.5758"
+    "lat": 48.9322,
+    "lon": 17.5758
   },
   {
     "name": "Bohaté Málkovice",
-    "lat": "49.1889",
-    "lon": "17.0164"
+    "lat": 49.1889,
+    "lon": 17.0164
   },
   {
     "name": "Bohdalice-Pavlovice",
-    "lat": "49.2162",
-    "lon": "17.0652"
+    "lat": 49.2162,
+    "lon": 17.0652
   },
   {
     "name": "Bošovice",
-    "lat": "49.0535",
-    "lon": "16.8368"
+    "lat": 49.0535,
+    "lon": 16.8368
   },
   {
     "name": "Bohutice",
-    "lat": "48.9913",
-    "lon": "16.3572"
-  },
-  {
-    "name": "Bojanovice",
-    "lat": "48.9682",
-    "lon": "15.9891"
-  },
-  {
-    "name": "Borotice",
-    "lat": "48.8573",
-    "lon": "16.2426"
+    "lat": 48.9913,
+    "lon": 16.3572
   },
   {
     "name": "Boskovštejn",
-    "lat": "48.9827",
-    "lon": "15.9296"
+    "lat": 48.9827,
+    "lon": 15.9296
   },
   {
     "name": "Božice",
-    "lat": "48.8369",
-    "lon": "16.2888"
+    "lat": 48.8369,
+    "lon": 16.2888
   },
   {
     "name": "Bobrová",
-    "lat": "49.4756",
-    "lon": "16.1185"
+    "lat": 49.4756,
+    "lon": 16.1185
   },
   {
     "name": "Bobrůvka",
-    "lat": "49.4484",
-    "lon": "16.0959"
+    "lat": 49.4484,
+    "lon": 16.0959
   },
   {
     "name": "Bohdalec",
-    "lat": "49.4743",
-    "lon": "16.0599"
+    "lat": 49.4743,
+    "lon": 16.0599
   },
   {
     "name": "Bohdalov",
-    "lat": "49.4792",
-    "lon": "15.8758"
-  },
-  {
-    "name": "Bohuňov",
-    "lat": "49.5991",
-    "lon": "16.4638"
-  },
-  {
-    "name": "Borovnice",
-    "lat": "49.6672",
-    "lon": "16.2025"
+    "lat": 49.4792,
+    "lon": 15.8758
   },
   {
     "name": "Bory",
-    "lat": "49.4255",
-    "lon": "16.0247"
+    "lat": 49.4255,
+    "lon": 16.0247
   },
   {
     "name": "Bohušov",
-    "lat": "50.2433",
-    "lon": "17.7139"
+    "lat": 50.2433,
+    "lon": 17.7139
   },
   {
     "name": "Bocanovice",
-    "lat": "49.5691",
-    "lon": "18.7384"
+    "lat": 49.5691,
+    "lon": 18.7384
   },
   {
     "name": "Bohumín",
-    "lat": "49.9042",
-    "lon": "18.3574"
+    "lat": 49.9042,
+    "lon": 18.3574
   },
   {
     "name": "Bordovice",
-    "lat": "49.5469",
-    "lon": "18.1526"
-  },
-  {
-    "name": "Bohuňovice",
-    "lat": "49.9079",
-    "lon": "16.2629"
+    "lat": 49.5469,
+    "lon": 18.1526
   },
   {
     "name": "Bouzov",
-    "lat": "49.7043",
-    "lon": "16.8929"
-  },
-  {
-    "name": "Bohuslavice",
-    "lat": "49.1492",
-    "lon": "15.5756"
+    "lat": 49.7043,
+    "lon": 16.8929
   },
   {
     "name": "Bolatice",
-    "lat": "49.9518",
-    "lon": "18.0835"
+    "lat": 49.9518,
+    "lon": 18.0835
   },
   {
     "name": "Bohuslávky",
-    "lat": "49.5552",
-    "lon": "17.5678"
+    "lat": 49.5552,
+    "lon": 17.5678
   },
   {
     "name": "Bochoř",
-    "lat": "49.4214",
-    "lon": "17.4284"
+    "lat": 49.4214,
+    "lon": 17.4284
   },
   {
     "name": "Bohdíkov",
-    "lat": "50.0100",
-    "lon": "16.9043"
+    "lat": 50.01,
+    "lon": 16.9043
   },
   {
-    "name": "Bohuslavice",
-    "lat": "49.1492",
-    "lon": "15.5756"
+    "name": "Borovnice (Žďár nad Sázavou)",
+    "lat": 49.6672,
+    "lon": 16.2025
   },
   {
-    "name": "Bohutín",
-    "lat": "49.6555",
-    "lon": "13.9439"
+    "name": "Borovnice (Benešov)",
+    "lat": 49.6487,
+    "lon": 15.0183
+  },
+  {
+    "name": "Borovnice (České Budějovice)",
+    "lat": 48.9121,
+    "lon": 14.519
+  },
+  {
+    "name": "Borovnice (Rychnov nad Kněžnou)",
+    "lat": 50.0629,
+    "lon": 16.2453
+  },
+  {
+    "name": "Borovnice (Trutnov)",
+    "lat": 50.5092,
+    "lon": 15.6172
+  },
+  {
+    "name": "Borek (Praha-východ)",
+    "lat": 50.2226,
+    "lon": 14.6474
+  },
+  {
+    "name": "Borek (Havlíčkův Brod)",
+    "lat": 49.7918,
+    "lon": 15.59
+  },
+  {
+    "name": "Borek (České Budějovice)",
+    "lat": 49.0234,
+    "lon": 14.5009
+  },
+  {
+    "name": "Borek (Jičín)",
+    "lat": 50.4389,
+    "lon": 15.6542
+  },
+  {
+    "name": "Borek (Pardubice)",
+    "lat": 50.127,
+    "lon": 15.8568
+  },
+  {
+    "name": "Borek (Jablonec nad Nisou)",
+    "lat": 50.6228,
+    "lon": 15.1724
+  },
+  {
+    "name": "Borek (Kutná Hora)",
+    "lat": 49.9814,
+    "lon": 15.4232
+  },
+  {
+    "name": "Borek (Děčín)",
+    "lat": 50.7195,
+    "lon": 14.1736
+  },
+  {
+    "name": "Borek (Semily)",
+    "lat": 50.5372,
+    "lon": 15.2311
+  },
+  {
+    "name": "Borek (Rokycany)",
+    "lat": 49.751,
+    "lon": 13.622
+  },
+  {
+    "name": "Bojanovice (Znojmo)",
+    "lat": 48.9682,
+    "lon": 15.9891
+  },
+  {
+    "name": "Bojanovice (Praha-západ)",
+    "lat": 49.8547,
+    "lon": 14.3521
+  },
+  {
+    "name": "Bojanovice (Klatovy)",
+    "lat": 49.2936,
+    "lon": 13.6374
+  },
+  {
+    "name": "Bojanovice (Kroměříž)",
+    "lat": 49.3097,
+    "lon": 17.3123
+  },
+  {
+    "name": "Bohutín (Příbram)",
+    "lat": 49.6555,
+    "lon": 13.9439
+  },
+  {
+    "name": "Bohutín (Šumperk)",
+    "lat": 49.9535,
+    "lon": 16.8815
+  },
+  {
+    "name": "Bohutín (Pelhřimov)",
+    "lat": 49.3599,
+    "lon": 15.0254
+  },
+  {
+    "name": "Borotice (Znojmo)",
+    "lat": 48.8573,
+    "lon": 16.2426
+  },
+  {
+    "name": "Borotice (Příbram)",
+    "lat": 49.735,
+    "lon": 14.2797
+  },
+  {
+    "name": "Borovany (České Budějovice)",
+    "lat": 48.8999,
+    "lon": 14.642
+  },
+  {
+    "name": "Borovany (Písek)",
+    "lat": 49.343,
+    "lon": 14.3925
+  },
+  {
+    "name": "Borovany (Tachov)",
+    "lat": 49.6937,
+    "lon": 12.8517
+  },
+  {
+    "name": "Bořetín (Pelhřimov)",
+    "lat": 49.3104,
+    "lon": 14.9476
+  },
+  {
+    "name": "Bořetín (Jindřichův Hradec)",
+    "lat": 49.1892,
+    "lon": 15.2118
+  },
+  {
+    "name": "Bořetín (Česká Lípa)",
+    "lat": 50.6693,
+    "lon": 14.4735
+  },
+  {
+    "name": "Bořetice (Pelhřimov)",
+    "lat": 49.4961,
+    "lon": 15.1099
+  },
+  {
+    "name": "Bořetice (Břeclav)",
+    "lat": 48.913,
+    "lon": 16.8531
+  },
+  {
+    "name": "Bořetice (Kolín)",
+    "lat": 49.9666,
+    "lon": 15.1689
+  },
+  {
+    "name": "Bořetice (Benešov)",
+    "lat": 49.612,
+    "lon": 14.7084
+  },
+  {
+    "name": "Borotín (Blansko)",
+    "lat": 49.5813,
+    "lon": 16.6715
+  },
+  {
+    "name": "Borotín (Tábor)",
+    "lat": 49.5047,
+    "lon": 14.6128
+  },
+  {
+    "name": "Bohuslavice (Jihlava)",
+    "lat": 49.1492,
+    "lon": 15.5756
+  },
+  {
+    "name": "Bohuslavice (Zlín)",
+    "lat": 49.1631,
+    "lon": 17.6368
+  },
+  {
+    "name": "Bohuslavice (Prostějov)",
+    "lat": 49.6209,
+    "lon": 16.9544
+  },
+  {
+    "name": "Bohuslavice (Náchod)",
+    "lat": 50.3126,
+    "lon": 16.0883
+  },
+  {
+    "name": "Bohuslavice (Šumperk)",
+    "lat": 49.8261,
+    "lon": 16.9405
+  },
+  {
+    "name": "Bohuslavice (Opava)",
+    "lat": 49.9423,
+    "lon": 18.1287
+  },
+  {
+    "name": "Bohuslavice (Trutnov)",
+    "lat": 50.5487,
+    "lon": 15.9809
+  },
+  {
+    "name": "Bohuslavice (Hodonín)",
+    "lat": 49.0504,
+    "lon": 17.1223
+  },
+  {
+    "name": "Borová (Svitavy)",
+    "lat": 49.7412,
+    "lon": 16.1627
+  },
+  {
+    "name": "Borová (Havlíčkův Brod)",
+    "lat": 49.6363,
+    "lon": 15.7812
+  },
+  {
+    "name": "Borová (Náchod)",
+    "lat": 50.386,
+    "lon": 16.2532
+  },
+  {
+    "name": "Borová (Opava)",
+    "lat": 49.9585,
+    "lon": 18.104
+  },
+  {
+    "name": "Borová (Český Krumlov)",
+    "lat": 48.8784,
+    "lon": 14.2147
+  },
+  {
+    "name": "Borová (Plzeň-sever)",
+    "lat": 49.9949,
+    "lon": 13.1664
+  },
+  {
+    "name": "Borová (Česká Lípa)",
+    "lat": 50.6172,
+    "lon": 14.809
+  },
+  {
+    "name": "Borová (Semily)",
+    "lat": 50.5507,
+    "lon": 15.1844
+  },
+  {
+    "name": "Borová (Jindřichův Hradec)",
+    "lat": 49.0777,
+    "lon": 15.5931
+  },
+  {
+    "name": "Borová (Kutná Hora)",
+    "lat": 49.798,
+    "lon": 15.1821
+  },
+  {
+    "name": "Bohuňov (Svitavy)",
+    "lat": 49.5991,
+    "lon": 16.4638
+  },
+  {
+    "name": "Bohuňov (Žďár nad Sázavou)",
+    "lat": 49.5604,
+    "lon": 16.2024
+  },
+  {
+    "name": "Bohuňovice (Svitavy)",
+    "lat": 49.9079,
+    "lon": 16.2629
+  },
+  {
+    "name": "Bohuňovice (Olomouc)",
+    "lat": 49.6629,
+    "lon": 17.2864
+  },
+  {
+    "name": "Bohatice",
+    "lat": 50.6688538,
+    "lon": 14.6791104
   }
 ]

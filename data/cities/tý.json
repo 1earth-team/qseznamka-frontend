@@ -1,52 +1,77 @@
 [
   {
     "name": "Týnec nad Sázavou",
-    "lat": "49.8335",
-    "lon": "14.5900"
+    "lat": 49.8335,
+    "lon": 14.59
   },
   {
     "name": "Týnec nad Labem",
-    "lat": "50.0419",
-    "lon": "15.3581"
+    "lat": 50.0419,
+    "lon": 15.3581
   },
   {
     "name": "Týn nad Vltavou",
-    "lat": "49.2234",
-    "lon": "14.4211"
-  },
-  {
-    "name": "Týnec",
-    "lat": "48.7794",
-    "lon": "17.0132"
+    "lat": 49.2234,
+    "lon": 14.4211
   },
   {
     "name": "Týniště",
-    "lat": "49.5211",
-    "lon": "13.4176"
+    "lat": 49.5211,
+    "lon": 13.4176
   },
   {
     "name": "Týček",
-    "lat": "49.8692",
-    "lon": "13.7943"
+    "lat": 49.8692,
+    "lon": 13.7943
   },
   {
     "name": "Týniště nad Orlicí",
-    "lat": "50.1514",
-    "lon": "16.0777"
+    "lat": 50.1514,
+    "lon": 16.0777
   },
   {
     "name": "Týnišťko",
-    "lat": "49.9989",
-    "lon": "16.0971"
-  },
-  {
-    "name": "Týnec",
-    "lat": "48.7794",
-    "lon": "17.0132"
+    "lat": 49.9989,
+    "lon": 16.0971
   },
   {
     "name": "Týn nad Bečvou",
-    "lat": "49.5170",
-    "lon": "17.6181"
+    "lat": 49.517,
+    "lon": 17.6181
+  },
+  {
+    "name": "Týnec (Břeclav)",
+    "lat": 48.7794,
+    "lon": 17.0132
+  },
+  {
+    "name": "Týnec (Klatovy)",
+    "lat": 49.3471,
+    "lon": 13.2637
+  },
+  {
+    "name": "Týnec (Mladá Boleslav)",
+    "lat": 50.3749,
+    "lon": 14.98
+  },
+  {
+    "name": "Týnec (Plzeň-jih)",
+    "lat": 49.6712,
+    "lon": 13.195
+  },
+  {
+    "name": "Týnec (Kolín)",
+    "lat": 50.0419,
+    "lon": 15.3581
+  },
+  {
+    "name": "Týnec (Chrudim)",
+    "lat": 49.9595,
+    "lon": 15.9105
+  },
+  {
+    "name": "Týnec (Olomouc)",
+    "lat": 49.5509,
+    "lon": 17.3337
   }
 ]

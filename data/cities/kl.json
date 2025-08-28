@@ -1,257 +1,292 @@
 [
   {
-    "name": "Kladruby",
-    "lat": "49.7232",
-    "lon": "14.9500"
-  },
-  {
-    "name": "Kladno",
-    "lat": "49.7725",
-    "lon": "15.9823"
-  },
-  {
     "name": "Klobuky",
-    "lat": "50.2940",
-    "lon": "13.9874"
+    "lat": 50.294,
+    "lon": 13.9874
   },
   {
     "name": "Klášterní Skalice",
-    "lat": "50.0236",
-    "lon": "14.9856"
-  },
-  {
-    "name": "Klučov",
-    "lat": "49.1670",
-    "lon": "15.9351"
-  },
-  {
-    "name": "Kluky",
-    "lat": "50.4402",
-    "lon": "14.7252"
+    "lat": 50.0236,
+    "lon": 14.9856
   },
   {
     "name": "Kly",
-    "lat": "50.3088",
-    "lon": "14.5015"
+    "lat": 50.3088,
+    "lon": 14.5015
   },
   {
     "name": "Klášter Hradiště nad Jizerou",
-    "lat": "50.5235",
-    "lon": "14.9450"
-  },
-  {
-    "name": "Kluky",
-    "lat": "50.4402",
-    "lon": "14.7252"
+    "lat": 50.5235,
+    "lon": 14.945
   },
   {
     "name": "Klecany",
-    "lat": "50.1757",
-    "lon": "14.4117"
+    "lat": 50.1757,
+    "lon": 14.4117
   },
   {
     "name": "Klíčany",
-    "lat": "50.2019",
-    "lon": "14.4342"
+    "lat": 50.2019,
+    "lon": 14.4342
   },
   {
     "name": "Klokočná",
-    "lat": "49.9584",
-    "lon": "14.7185"
+    "lat": 49.9584,
+    "lon": 14.7185
   },
   {
     "name": "Klínec",
-    "lat": "49.9008",
-    "lon": "14.3423"
+    "lat": 49.9008,
+    "lon": 14.3423
   },
   {
     "name": "Klučenice",
-    "lat": "49.5531",
-    "lon": "14.2120"
+    "lat": 49.5531,
+    "lon": 14.212
   },
   {
     "name": "Klec",
-    "lat": "49.0995",
-    "lon": "14.7481"
-  },
-  {
-    "name": "Kluky",
-    "lat": "50.4402",
-    "lon": "14.7252"
-  },
-  {
-    "name": "Kladruby",
-    "lat": "49.7232",
-    "lon": "14.9500"
+    "lat": 49.0995,
+    "lon": 14.7481
   },
   {
     "name": "Klenovice",
-    "lat": "49.2788",
-    "lon": "14.7157"
+    "lat": 49.2788,
+    "lon": 14.7157
   },
   {
     "name": "Klenčí pod Čerchovem",
-    "lat": "49.4350",
-    "lon": "12.8144"
+    "lat": 49.435,
+    "lon": 12.8144
   },
   {
     "name": "Klatovy",
-    "lat": "49.3951",
-    "lon": "13.2936"
+    "lat": 49.3951,
+    "lon": 13.2936
   },
   {
     "name": "Klenová",
-    "lat": "49.3334",
-    "lon": "13.2332"
+    "lat": 49.3334,
+    "lon": 13.2332
   },
   {
     "name": "Klášter",
-    "lat": "49.5019",
-    "lon": "13.5766"
+    "lat": 49.5019,
+    "lon": 13.5766
   },
   {
     "name": "Klabava",
-    "lat": "49.7534",
-    "lon": "13.5393"
-  },
-  {
-    "name": "Kladruby",
-    "lat": "49.7232",
-    "lon": "14.9500"
-  },
-  {
-    "name": "Kladruby",
-    "lat": "49.7232",
-    "lon": "14.9500"
+    "lat": 49.7534,
+    "lon": 13.5393
   },
   {
     "name": "Klášterec nad Ohří",
-    "lat": "50.3843",
-    "lon": "13.1710"
+    "lat": 50.3843,
+    "lon": 13.171
   },
   {
     "name": "Klapý",
-    "lat": "50.4314",
-    "lon": "14.0065"
+    "lat": 50.4314,
+    "lon": 14.0065
   },
   {
     "name": "Kleneč",
-    "lat": "50.3925",
-    "lon": "14.2483"
+    "lat": 50.3925,
+    "lon": 14.2483
   },
   {
     "name": "Klíny",
-    "lat": "50.6349",
-    "lon": "13.5572"
-  },
-  {
-    "name": "Kladruby",
-    "lat": "49.7232",
-    "lon": "14.9500"
+    "lat": 50.6349,
+    "lon": 13.5572
   },
   {
     "name": "Klokočov",
-    "lat": "49.8033",
-    "lon": "15.6732"
+    "lat": 49.8033,
+    "lon": 15.6732
   },
   {
     "name": "Klamoš",
-    "lat": "50.1256",
-    "lon": "15.5013"
-  },
-  {
-    "name": "Kladno",
-    "lat": "49.7725",
-    "lon": "15.9823"
+    "lat": 50.1256,
+    "lon": 15.5013
   },
   {
     "name": "Klešice",
-    "lat": "49.9636",
-    "lon": "15.6813"
+    "lat": 49.9636,
+    "lon": 15.6813
   },
   {
     "name": "Kladruby nad Labem",
-    "lat": "50.0577",
-    "lon": "15.4871"
-  },
-  {
-    "name": "Klokočí",
-    "lat": "49.5602",
-    "lon": "17.6823"
+    "lat": 50.0577,
+    "lon": 15.4871
   },
   {
     "name": "Klášterská Lhota",
-    "lat": "50.5597",
-    "lon": "15.6636"
+    "lat": 50.5597,
+    "lon": 15.6636
   },
   {
     "name": "Klášterec nad Orlicí",
-    "lat": "50.1116",
-    "lon": "16.5545"
+    "lat": 50.1116,
+    "lon": 16.5545
   },
   {
     "name": "Klentnice",
-    "lat": "48.8447",
-    "lon": "16.6449"
+    "lat": 48.8447,
+    "lon": 16.6449
   },
   {
     "name": "Klobouky u Brna",
-    "lat": "48.9952",
-    "lon": "16.8597"
+    "lat": 48.9952,
+    "lon": 16.8597
   },
   {
     "name": "Klatovec",
-    "lat": "49.2224",
-    "lon": "15.2947"
+    "lat": 49.2224,
+    "lon": 15.2947
   },
   {
     "name": "Kladky",
-    "lat": "49.6502",
-    "lon": "16.8421"
+    "lat": 49.6502,
+    "lon": 16.8421
   },
   {
     "name": "Klenovice na Hané",
-    "lat": "49.4029",
-    "lon": "17.2111"
+    "lat": 49.4029,
+    "lon": 17.2111
   },
   {
     "name": "Klopotovice",
-    "lat": "49.4461",
-    "lon": "17.2508"
+    "lat": 49.4461,
+    "lon": 17.2508
   },
   {
     "name": "Kladeruby nad Oslavou",
-    "lat": "49.1446",
-    "lon": "16.1717"
-  },
-  {
-    "name": "Klučov",
-    "lat": "49.1670",
-    "lon": "15.9351"
+    "lat": 49.1446,
+    "lon": 16.1717
   },
   {
     "name": "Klimkovice",
-    "lat": "49.7884",
-    "lon": "18.1254"
+    "lat": 49.7884,
+    "lon": 18.1254
   },
   {
     "name": "Kladníky",
-    "lat": "49.4838",
-    "lon": "17.6035"
-  },
-  {
-    "name": "Klokočí",
-    "lat": "49.5602",
-    "lon": "17.6823"
+    "lat": 49.4838,
+    "lon": 17.6035
   },
   {
     "name": "Klopina",
-    "lat": "49.8186",
-    "lon": "17.0194"
+    "lat": 49.8186,
+    "lon": 17.0194
   },
   {
     "name": "Kladeruby",
-    "lat": "49.4924",
-    "lon": "17.8654"
+    "lat": 49.4924,
+    "lon": 17.8654
+  },
+  {
+    "name": "Kladruby (Benešov)",
+    "lat": 49.7232,
+    "lon": 14.95
+  },
+  {
+    "name": "Kladruby (Strakonice)",
+    "lat": 49.2687,
+    "lon": 13.7635
+  },
+  {
+    "name": "Kladruby (Tachov)",
+    "lat": 49.7153,
+    "lon": 12.98
+  },
+  {
+    "name": "Kladruby (Rokycany)",
+    "lat": 49.9129,
+    "lon": 13.6317
+  },
+  {
+    "name": "Kladruby (Teplice)",
+    "lat": 50.6145,
+    "lon": 13.8262
+  },
+  {
+    "name": "Kladruby (Tábor)",
+    "lat": 49.4176,
+    "lon": 14.8451
+  },
+  {
+    "name": "Kladruby (Hradec Králové)",
+    "lat": 50.1486,
+    "lon": 15.482
+  },
+  {
+    "name": "Kladruby (Trutnov)",
+    "lat": 50.4414,
+    "lon": 15.9229
+  },
+  {
+    "name": "Kladruby (Havlíčkův Brod)",
+    "lat": 49.7448,
+    "lon": 15.7444
+  },
+  {
+    "name": "Kladruby (Cheb)",
+    "lat": 49.996,
+    "lon": 12.9199
+  },
+  {
+    "name": "Kladno (Chrudim)",
+    "lat": 49.7725,
+    "lon": 15.9823
+  },
+  {
+    "name": "Kladno (Kladno)",
+    "lat": 50.1478,
+    "lon": 14.1025
+  },
+  {
+    "name": "Klučov (Třebíč)",
+    "lat": 49.167,
+    "lon": 15.9351
+  },
+  {
+    "name": "Klučov (Kolín)",
+    "lat": 50.0949,
+    "lon": 14.9092
+  },
+  {
+    "name": "Kluky (Mladá Boleslav)",
+    "lat": 50.4402,
+    "lon": 14.7252
+  },
+  {
+    "name": "Kluky (Kutná Hora)",
+    "lat": 49.908,
+    "lon": 15.3242
+  },
+  {
+    "name": "Kluky (Písek)",
+    "lat": 49.3168,
+    "lon": 14.2453
+  },
+  {
+    "name": "Kluky (Hradec Králové)",
+    "lat": 50.1736,
+    "lon": 15.8453
+  },
+  {
+    "name": "Klokočí (Přerov)",
+    "lat": 49.5602,
+    "lon": 17.6823
+  },
+  {
+    "name": "Klokočí (Semily)",
+    "lat": 50.5997,
+    "lon": 15.2216
+  },
+  {
+    "name": "Klokočí (Zlín)",
+    "lat": 49.1765,
+    "lon": 17.85
   }
 ]

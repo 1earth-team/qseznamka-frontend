@@ -1,167 +1,187 @@
 [
   {
     "name": "Blažejovice",
-    "lat": "49.6200",
-    "lon": "15.1999"
+    "lat": 49.62,
+    "lon": 15.1999
   },
   {
     "name": "Blevice",
-    "lat": "50.2097",
-    "lon": "14.2362"
-  },
-  {
-    "name": "Bludov",
-    "lat": "49.8075",
-    "lon": "15.2552"
+    "lat": 50.2097,
+    "lon": 14.2362
   },
   {
     "name": "Blažejov",
-    "lat": "49.1422",
-    "lon": "15.0965"
+    "lat": 49.1422,
+    "lon": 15.0965
   },
   {
     "name": "Blatná",
-    "lat": "49.4240",
-    "lon": "13.8841"
+    "lat": 49.424,
+    "lon": 13.8841
   },
   {
     "name": "Blížejov",
-    "lat": "49.5002",
-    "lon": "12.9892"
+    "lat": 49.5002,
+    "lon": 12.9892
   },
   {
     "name": "Blovice",
-    "lat": "49.5822",
-    "lon": "13.5404"
-  },
-  {
-    "name": "Blatnice",
-    "lat": "49.0701",
-    "lon": "15.8713"
-  },
-  {
-    "name": "Blažim",
-    "lat": "49.9159",
-    "lon": "13.0476"
-  },
-  {
-    "name": "Blatce",
-    "lat": "",
-    "lon": ""
+    "lat": 49.5822,
+    "lon": 13.5404
   },
   {
     "name": "Blíževedly",
-    "lat": "50.6084",
-    "lon": "14.3965"
-  },
-  {
-    "name": "Blatce",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Blatce",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Blatce",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Blatno",
-    "lat": "50.0970",
-    "lon": "13.3895"
-  },
-  {
-    "name": "Blatno",
-    "lat": "50.0970",
-    "lon": "13.3895"
-  },
-  {
-    "name": "Blažim",
-    "lat": "49.9159",
-    "lon": "13.0476"
+    "lat": 50.6084,
+    "lon": 14.3965
   },
   {
     "name": "Blšany",
-    "lat": "50.2173",
-    "lon": "13.4712"
+    "lat": 50.2173,
+    "lon": 13.4712
   },
   {
     "name": "Blšany u Loun",
-    "lat": "50.3470",
-    "lon": "13.8526"
+    "lat": 50.347,
+    "lon": 13.8526
   },
   {
     "name": "Blešno",
-    "lat": "50.2139",
-    "lon": "15.9306"
+    "lat": 50.2139,
+    "lon": 15.9306
   },
   {
     "name": "Blansko",
-    "lat": "49.3636",
-    "lon": "16.6442"
+    "lat": 49.3636,
+    "lon": 16.6442
   },
   {
     "name": "Blažovice",
-    "lat": "49.1657",
-    "lon": "16.7858"
+    "lat": 49.1657,
+    "lon": 16.7858
   },
   {
     "name": "Blučina",
-    "lat": "49.0552",
-    "lon": "16.6451"
+    "lat": 49.0552,
+    "lon": 16.6451
   },
   {
     "name": "Blatnice pod Svatým Antonínkem",
-    "lat": "48.9467",
-    "lon": "17.4660"
+    "lat": 48.9467,
+    "lon": 17.466
   },
   {
     "name": "Blatnička",
-    "lat": "48.9357",
-    "lon": "17.5294"
+    "lat": 48.9357,
+    "lon": 17.5294
   },
   {
     "name": "Blazice",
-    "lat": "49.4425",
-    "lon": "17.6453"
-  },
-  {
-    "name": "Blatnice",
-    "lat": "49.0701",
-    "lon": "15.8713"
+    "lat": 49.4425,
+    "lon": 17.6453
   },
   {
     "name": "Blanné",
-    "lat": "48.9919",
-    "lon": "15.8832"
+    "lat": 48.9919,
+    "lon": 15.8832
   },
   {
     "name": "Blížkovice",
-    "lat": "49.0000",
-    "lon": "15.8352"
+    "lat": 49.0,
+    "lon": 15.8352
   },
   {
     "name": "Blažkov",
-    "lat": "49.4731",
-    "lon": "16.1852"
+    "lat": 49.4731,
+    "lon": 16.1852
   },
   {
     "name": "Blízkov",
-    "lat": "49.4005",
-    "lon": "15.9087"
+    "lat": 49.4005,
+    "lon": 15.9087
   },
   {
     "name": "Blatec",
-    "lat": "49.5284",
-    "lon": "17.2377"
+    "lat": 49.5284,
+    "lon": 17.2377
   },
   {
-    "name": "Bludov",
-    "lat": "49.8075",
-    "lon": "15.2552"
+    "name": "Bludov (Kutná Hora)",
+    "lat": 49.8075,
+    "lon": 15.2552
+  },
+  {
+    "name": "Bludov (Šumperk)",
+    "lat": 49.9408,
+    "lon": 16.9284
+  },
+  {
+    "name": "Bludov (Český Krumlov)",
+    "lat": 48.6306,
+    "lon": 14.4172
+  },
+  {
+    "name": "Blatnice (Třebíč)",
+    "lat": 49.0701,
+    "lon": 15.8713
+  },
+  {
+    "name": "Blatnice (Plzeň-sever)",
+    "lat": 49.7197,
+    "lon": 13.156
+  },
+  {
+    "name": "Blatnice (Znojmo)",
+    "lat": 48.9348,
+    "lon": 15.5738
+  },
+  {
+    "name": "Blatnice (Příbram)",
+    "lat": 49.6555,
+    "lon": 14.2525
+  },
+  {
+    "name": "Blatnice (Havlíčkův Brod)",
+    "lat": 49.7632,
+    "lon": 15.6986
+  },
+  {
+    "name": "Blatnice (Tábor)",
+    "lat": 49.5127,
+    "lon": 14.8992
+  },
+  {
+    "name": "Blažim (Plzeň-sever)",
+    "lat": 49.9159,
+    "lon": 13.0476
+  },
+  {
+    "name": "Blažim (Louny)",
+    "lat": 50.4068,
+    "lon": 13.6286
+  },
+  {
+    "name": "Blažim (Benešov)",
+    "lat": 49.7619,
+    "lon": 14.4533
+  },
+  {
+    "name": "Blatno (Louny)",
+    "lat": 50.097,
+    "lon": 13.3895
+  },
+  {
+    "name": "Blatno (Chomutov)",
+    "lat": 50.5118,
+    "lon": 13.3582
+  },
+  {
+    "name": "Blatno (Chrudim)",
+    "lat": 49.7597,
+    "lon": 15.9233
+  },
+  {
+    "name": "Blatce",
+    "lat": 50.5028838,
+    "lon": 14.6031414
   }
 ]

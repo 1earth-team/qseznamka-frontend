@@ -1,17 +1,22 @@
 [
   {
-    "name": "Andělská Hora",
-    "lat": "50.0608",
-    "lon": "17.3891"
-  },
-  {
     "name": "Anenská Studánka",
-    "lat": "49.8493",
-    "lon": "16.5399"
+    "lat": 49.8493,
+    "lon": 16.5399
   },
   {
-    "name": "Andělská Hora",
-    "lat": "50.0608",
-    "lon": "17.3891"
+    "name": "Andělská Hora (Bruntál)",
+    "lat": 50.0608,
+    "lon": 17.3891
+  },
+  {
+    "name": "Andělská Hora (Karlovy Vary)",
+    "lat": 50.2045,
+    "lon": 12.963
+  },
+  {
+    "name": "Andělská Hora (Liberec)",
+    "lat": 50.8008,
+    "lon": 14.9567
   }
 ]

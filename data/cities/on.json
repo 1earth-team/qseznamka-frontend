@@ -1,32 +1,42 @@
 [
   {
     "name": "Onomyšl",
-    "lat": "49.8992",
-    "lon": "15.1243"
-  },
-  {
-    "name": "Ondřejov",
-    "lat": "49.3927",
-    "lon": "15.1772"
-  },
-  {
-    "name": "Ondřejov",
-    "lat": "49.3927",
-    "lon": "15.1772"
-  },
-  {
-    "name": "Onšov",
-    "lat": "49.5782",
-    "lon": "15.1364"
+    "lat": 49.8992,
+    "lon": 15.1243
   },
   {
     "name": "Ondratice",
-    "lat": "49.3632",
-    "lon": "17.0637"
+    "lat": 49.3632,
+    "lon": 17.0637
   },
   {
-    "name": "Onšov",
-    "lat": "49.5782",
-    "lon": "15.1364"
+    "name": "Ondřejov (Pelhřimov)",
+    "lat": 49.3927,
+    "lon": 15.1772
+  },
+  {
+    "name": "Ondřejov (Praha-východ)",
+    "lat": 49.9046,
+    "lon": 14.7831
+  },
+  {
+    "name": "Ondřejov (Plzeň-sever)",
+    "lat": 49.9667,
+    "lon": 13.3389
+  },
+  {
+    "name": "Ondřejov (Bruntál)",
+    "lat": 49.9165,
+    "lon": 17.288
+  },
+  {
+    "name": "Onšov (Pelhřimov)",
+    "lat": 49.5782,
+    "lon": 15.1364
+  },
+  {
+    "name": "Onšov (Znojmo)",
+    "lat": 48.9053,
+    "lon": 15.8342
   }
 ]

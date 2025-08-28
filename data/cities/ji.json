@@ -1,217 +1,272 @@
 [
   {
-    "name": "Jivina",
-    "lat": "49.7934",
-    "lon": "13.8376"
-  },
-  {
-    "name": "Jivina",
-    "lat": "49.7934",
-    "lon": "13.8376"
-  },
-  {
     "name": "Jizerní Vtelno",
-    "lat": "50.3694",
-    "lon": "14.8532"
-  },
-  {
-    "name": "Jiřice",
-    "lat": "49.5532",
-    "lon": "15.3183"
+    "lat": 50.3694,
+    "lon": 14.8532
   },
   {
     "name": "Jizbice",
-    "lat": "50.2577",
-    "lon": "14.9939"
+    "lat": 50.2577,
+    "lon": 14.9939
   },
   {
     "name": "Jirny",
-    "lat": "50.1158",
-    "lon": "14.6992"
+    "lat": 50.1158,
+    "lon": 14.6992
   },
   {
     "name": "Jinočany",
-    "lat": "50.0328",
-    "lon": "14.2685"
+    "lat": 50.0328,
+    "lon": 14.2685
   },
   {
     "name": "Jince",
-    "lat": "49.7862",
-    "lon": "13.9787"
+    "lat": 49.7862,
+    "lon": 13.9787
   },
   {
     "name": "Jivno",
-    "lat": "48.9955",
-    "lon": "14.5692"
-  },
-  {
-    "name": "Jilem",
-    "lat": "49.7134",
-    "lon": "15.5834"
+    "lat": 48.9955,
+    "lon": 14.5692
   },
   {
     "name": "Jindřichův Hradec",
-    "lat": "49.1443",
-    "lon": "15.0034"
-  },
-  {
-    "name": "Jiřice",
-    "lat": "49.5532",
-    "lon": "15.3183"
+    "lat": 49.1443,
+    "lon": 15.0034
   },
   {
     "name": "Jickovice",
-    "lat": "49.4506",
-    "lon": "14.2159"
+    "lat": 49.4506,
+    "lon": 14.2159
   },
   {
     "name": "Jinín",
-    "lat": "49.2278",
-    "lon": "13.9826"
+    "lat": 49.2278,
+    "lon": 13.9826
   },
   {
     "name": "Jistebnice",
-    "lat": "49.4856",
-    "lon": "14.5277"
-  },
-  {
-    "name": "Jindřichovice",
-    "lat": "49.1377",
-    "lon": "15.6387"
+    "lat": 49.4856,
+    "lon": 14.5277
   },
   {
     "name": "Jiřetín pod Jedlovou",
-    "lat": "50.8771",
-    "lon": "14.5763"
-  },
-  {
-    "name": "Jiříkov",
-    "lat": "49.8543",
-    "lon": "17.2783"
+    "lat": 50.8771,
+    "lon": 14.5763
   },
   {
     "name": "Jirkov",
-    "lat": "50.5001",
-    "lon": "13.4476"
+    "lat": 50.5001,
+    "lon": 13.4476
   },
   {
     "name": "Jiřetín pod Bukovou",
-    "lat": "50.7559",
-    "lon": "15.2631"
+    "lat": 50.7559,
+    "lon": 15.2631
   },
   {
     "name": "Jindřichovice pod Smrkem",
-    "lat": "50.9608",
-    "lon": "15.2495"
+    "lat": 50.9608,
+    "lon": 15.2495
   },
   {
     "name": "Jimlín",
-    "lat": "50.3177",
-    "lon": "13.7449"
-  },
-  {
-    "name": "Jilem",
-    "lat": "49.7134",
-    "lon": "15.5834"
+    "lat": 50.3177,
+    "lon": 13.7449
   },
   {
     "name": "Jitkov",
-    "lat": "49.6626",
-    "lon": "15.7285"
+    "lat": 49.6626,
+    "lon": 15.7285
   },
   {
     "name": "Jičín",
-    "lat": "50.4370",
-    "lon": "15.3517"
+    "lat": 50.437,
+    "lon": 15.3517
   },
   {
     "name": "Jičíněves",
-    "lat": "50.3731",
-    "lon": "15.3373"
+    "lat": 50.3731,
+    "lon": 15.3373
   },
   {
     "name": "Jinolice",
-    "lat": "50.4787",
-    "lon": "15.3297"
+    "lat": 50.4787,
+    "lon": 15.3297
   },
   {
     "name": "Jilemnice",
-    "lat": "50.6092",
-    "lon": "15.5065"
+    "lat": 50.6092,
+    "lon": 15.5065
   },
   {
     "name": "Jinačovice",
-    "lat": "49.2678",
-    "lon": "16.5295"
+    "lat": 49.2678,
+    "lon": 16.5295
   },
   {
     "name": "Jiříkovice",
-    "lat": "49.1671",
-    "lon": "16.7585"
+    "lat": 49.1671,
+    "lon": 16.7585
   },
   {
     "name": "Jihlava",
-    "lat": "49.3961",
-    "lon": "15.5903"
+    "lat": 49.3961,
+    "lon": 15.5903
   },
   {
     "name": "Jihlávka",
-    "lat": "49.2611",
-    "lon": "15.2925"
-  },
-  {
-    "name": "Jindřichovice",
-    "lat": "49.1377",
-    "lon": "15.6387"
+    "lat": 49.2611,
+    "lon": 15.2925
   },
   {
     "name": "Jinošov",
-    "lat": "49.2314",
-    "lon": "16.1935"
+    "lat": 49.2314,
+    "lon": 16.1935
   },
   {
     "name": "Jiratice",
-    "lat": "48.9831",
-    "lon": "15.6128"
+    "lat": 48.9831,
+    "lon": 15.6128
   },
   {
     "name": "Jiřice u Miroslavi",
-    "lat": "48.9206",
-    "lon": "16.3918"
+    "lat": 48.9206,
+    "lon": 16.3918
   },
   {
     "name": "Jiřice u Moravských Budějovic",
-    "lat": "48.9939",
-    "lon": "15.9254"
+    "lat": 48.9939,
+    "lon": 15.9254
   },
   {
     "name": "Jimramov",
-    "lat": "49.6370",
-    "lon": "16.2259"
-  },
-  {
-    "name": "Jindřichov",
-    "lat": "49.6446",
-    "lon": "17.7482"
-  },
-  {
-    "name": "Jiříkov",
-    "lat": "49.8543",
-    "lon": "17.2783"
+    "lat": 49.637,
+    "lon": 16.2259
   },
   {
     "name": "Jistebník",
-    "lat": "49.7540",
-    "lon": "18.1306"
+    "lat": 49.754,
+    "lon": 18.1306
   },
   {
-    "name": "Jindřichov",
-    "lat": "49.6446",
-    "lon": "17.7482"
+    "name": "Jivina (Beroun)",
+    "lat": 49.7934,
+    "lon": 13.8376
   },
   {
-    "name": "Jindřichov",
-    "lat": "49.6446",
-    "lon": "17.7482"
+    "name": "Jivina (Mladá Boleslav)",
+    "lat": 50.5547,
+    "lon": 14.9473
+  },
+  {
+    "name": "Jivina (Semily)",
+    "lat": 50.5133,
+    "lon": 15.2184
+  },
+  {
+    "name": "Jivina (Bruntál)",
+    "lat": 50.2051,
+    "lon": 17.5144
+  },
+  {
+    "name": "Jivina (Liberec)",
+    "lat": 50.6265,
+    "lon": 15.0593
+  },
+  {
+    "name": "Jiřice (Pelhřimov)",
+    "lat": 49.5532,
+    "lon": 15.3183
+  },
+  {
+    "name": "Jiřice (Nymburk)",
+    "lat": 50.2524,
+    "lon": 14.8369
+  },
+  {
+    "name": "Jiřice (Mělník)",
+    "lat": 50.2349,
+    "lon": 14.5597
+  },
+  {
+    "name": "Jiřice (Kutná Hora)",
+    "lat": 49.771,
+    "lon": 15.1023
+  },
+  {
+    "name": "Jiřice (Znojmo)",
+    "lat": 48.9206,
+    "lon": 16.3918
+  },
+  {
+    "name": "Jilem (Havlíčkův Brod)",
+    "lat": 49.7134,
+    "lon": 15.5834
+  },
+  {
+    "name": "Jilem (Jindřichův Hradec)",
+    "lat": 49.1767,
+    "lon": 15.2688
+  },
+  {
+    "name": "Jindřichovice (Jihlava)",
+    "lat": 49.1377,
+    "lon": 15.6387
+  },
+  {
+    "name": "Jindřichovice (Sokolov)",
+    "lat": 50.2826,
+    "lon": 12.6023
+  },
+  {
+    "name": "Jindřichovice (Klatovy)",
+    "lat": 49.2977,
+    "lon": 13.3953
+  },
+  {
+    "name": "Jindřichovice (Strakonice)",
+    "lat": 49.3883,
+    "lon": 13.8565
+  },
+  {
+    "name": "Jiříkov (Bruntál)",
+    "lat": 49.8543,
+    "lon": 17.2783
+  },
+  {
+    "name": "Jiříkov (Děčín)",
+    "lat": 50.9951,
+    "lon": 14.5691
+  },
+  {
+    "name": "Jiříkov (Svitavy)",
+    "lat": 49.845,
+    "lon": 16.2541
+  },
+  {
+    "name": "Jindřichov (Přerov)",
+    "lat": 49.6446,
+    "lon": 17.7482
+  },
+  {
+    "name": "Jindřichov (Šumperk)",
+    "lat": 50.0958,
+    "lon": 16.9849
+  },
+  {
+    "name": "Jindřichov (Bruntál)",
+    "lat": 50.2518,
+    "lon": 17.519
+  },
+  {
+    "name": "Jindřichov (Jablonec nad Nisou)",
+    "lat": 50.7512,
+    "lon": 15.194
+  },
+  {
+    "name": "Jindřichov (Cheb)",
+    "lat": 50.1058,
+    "lon": 12.4003
   }
 ]

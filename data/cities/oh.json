@@ -1,52 +1,67 @@
 [
   {
     "name": "Ohaře",
-    "lat": "50.0978",
-    "lon": "15.2950"
+    "lat": 50.0978,
+    "lon": 15.295
   },
   {
     "name": "Ohrobec",
-    "lat": "49.9418",
-    "lon": "14.4316"
-  },
-  {
-    "name": "Ohrazenice",
-    "lat": "49.7870",
-    "lon": "13.9595"
+    "lat": 49.9418,
+    "lon": 14.4316
   },
   {
     "name": "Ohníč",
-    "lat": "50.5872",
-    "lon": "13.8444"
+    "lat": 50.5872,
+    "lon": 13.8444
   },
   {
     "name": "Ohnišťany",
-    "lat": "50.3295",
-    "lon": "15.5110"
+    "lat": 50.3295,
+    "lon": 15.511
   },
   {
     "name": "Ohařice",
-    "lat": "50.4542",
-    "lon": "15.2586"
+    "lat": 50.4542,
+    "lon": 15.2586
   },
   {
     "name": "Ohaveč",
-    "lat": "50.4494",
-    "lon": "15.3091"
+    "lat": 50.4494,
+    "lon": 15.3091
   },
   {
     "name": "Ohnišov",
-    "lat": "50.3226",
-    "lon": "16.2138"
-  },
-  {
-    "name": "Ohrazenice",
-    "lat": "49.7870",
-    "lon": "13.9595"
+    "lat": 50.3226,
+    "lon": 16.2138
   },
   {
     "name": "Ohrozim",
-    "lat": "49.4864",
-    "lon": "17.0205"
+    "lat": 49.4864,
+    "lon": 17.0205
+  },
+  {
+    "name": "Ohrazenice (Příbram)",
+    "lat": 49.787,
+    "lon": 13.9595
+  },
+  {
+    "name": "Ohrazenice (Semily)",
+    "lat": 50.5976,
+    "lon": 15.1259
+  },
+  {
+    "name": "Ohrazenice (Pardubice)",
+    "lat": 50.0625,
+    "lon": 15.7573
+  },
+  {
+    "name": "Ohrazenice (Třebíč)",
+    "lat": 49.0556,
+    "lon": 15.8928
+  },
+  {
+    "name": "Ohrazenice (Strakonice)",
+    "lat": 49.2345,
+    "lon": 13.746
   }
 ]

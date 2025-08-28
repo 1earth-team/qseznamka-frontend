@@ -1,167 +1,197 @@
 [
   {
     "name": "Mezno",
-    "lat": "49.5345",
-    "lon": "14.6449"
+    "lat": 49.5345,
+    "lon": 14.6449
   },
   {
     "name": "Mezouň",
-    "lat": "50.0043",
-    "lon": "14.2142"
+    "lat": 50.0043,
+    "lon": 14.2142
   },
   {
     "name": "Medonosy",
-    "lat": "50.4942",
-    "lon": "14.4869"
+    "lat": 50.4942,
+    "lon": 14.4869
   },
   {
     "name": "Mečeříž",
-    "lat": "50.2904",
-    "lon": "14.7368"
-  },
-  {
-    "name": "Mezilesí",
-    "lat": "49.5409",
-    "lon": "14.9491"
-  },
-  {
-    "name": "Mezná",
-    "lat": "49.3470",
-    "lon": "15.2114"
+    "lat": 50.2904,
+    "lon": 14.7368
   },
   {
     "name": "Mečichov",
-    "lat": "49.3478",
-    "lon": "13.8120"
+    "lat": 49.3478,
+    "lon": 13.812
   },
   {
     "name": "Meziříčí",
-    "lat": "49.4366",
-    "lon": "14.5749"
-  },
-  {
-    "name": "Mezná",
-    "lat": "49.3470",
-    "lon": "15.2114"
+    "lat": 49.4366,
+    "lon": 14.5749
   },
   {
     "name": "Meclov",
-    "lat": "49.5061",
-    "lon": "12.8807"
-  },
-  {
-    "name": "Mezholezy",
-    "lat": "49.6248",
-    "lon": "12.9050"
-  },
-  {
-    "name": "Mezholezy",
-    "lat": "49.6248",
-    "lon": "12.9050"
-  },
-  {
-    "name": "Merklín",
-    "lat": "49.5605",
-    "lon": "13.1980"
+    "lat": 49.5061,
+    "lon": 12.8807
   },
   {
     "name": "Mezihoří",
-    "lat": "49.4884",
-    "lon": "13.2546"
-  },
-  {
-    "name": "Merklín",
-    "lat": "49.5605",
-    "lon": "13.1980"
+    "lat": 49.4884,
+    "lon": 13.2546
   },
   {
     "name": "Medový Újezd",
-    "lat": "49.7738",
-    "lon": "13.7189"
+    "lat": 49.7738,
+    "lon": 13.7189
   },
   {
     "name": "Mešno",
-    "lat": "49.6561",
-    "lon": "13.6220"
+    "lat": 49.6561,
+    "lon": 13.622
   },
   {
     "name": "Merboltice",
-    "lat": "50.6831",
-    "lon": "14.3398"
+    "lat": 50.6831,
+    "lon": 14.3398
   },
   {
     "name": "Meziboří",
-    "lat": "50.6215",
-    "lon": "13.6000"
+    "lat": 50.6215,
+    "lon": 13.6
   },
   {
     "name": "Mezilečí",
-    "lat": "50.4534",
-    "lon": "15.9832"
-  },
-  {
-    "name": "Mezilesí",
-    "lat": "49.5409",
-    "lon": "14.9491"
+    "lat": 50.4534,
+    "lon": 15.9832
   },
   {
     "name": "Meziměstí",
-    "lat": "50.6257",
-    "lon": "16.2395"
-  },
-  {
-    "name": "Medlov",
-    "lat": "49.7875",
-    "lon": "17.0626"
+    "lat": 50.6257,
+    "lon": 16.2395
   },
   {
     "name": "Menhartice",
-    "lat": "48.9900",
-    "lon": "15.5525"
-  },
-  {
-    "name": "Meziříčko",
-    "lat": "49.4051",
-    "lon": "15.8443"
-  },
-  {
-    "name": "Medlovice",
-    "lat": "49.2743",
-    "lon": "17.0927"
-  },
-  {
-    "name": "Medlovice",
-    "lat": "49.2743",
-    "lon": "17.0927"
+    "lat": 48.99,
+    "lon": 15.5525
   },
   {
     "name": "Medlice",
-    "lat": "49.0030",
-    "lon": "16.1213"
-  },
-  {
-    "name": "Meziříčko",
-    "lat": "49.4051",
-    "lon": "15.8443"
+    "lat": 49.003,
+    "lon": 16.1213
   },
   {
     "name": "Mezina",
-    "lat": "49.9585",
-    "lon": "17.4771"
+    "lat": 49.9585,
+    "lon": 17.4771
   },
   {
     "name": "Metylovice",
-    "lat": "49.6067",
-    "lon": "18.3391"
+    "lat": 49.6067,
+    "lon": 18.3391
   },
   {
-    "name": "Medlov",
-    "lat": "49.7875",
-    "lon": "17.0626"
+    "name": "Mezilesí (Pelhřimov)",
+    "lat": 49.5409,
+    "lon": 14.9491
+  },
+  {
+    "name": "Mezilesí (Náchod)",
+    "lat": 50.3561,
+    "lon": 16.217
+  },
+  {
+    "name": "Mezilesí (Chomutov)",
+    "lat": 50.4417,
+    "lon": 13.1052
+  },
+  {
+    "name": "Mezilesí (České Budějovice)",
+    "lat": 48.8117,
+    "lon": 14.6453
+  },
+  {
+    "name": "Mezilesí (Ústí nad Orlicí)",
+    "lat": 49.9333,
+    "lon": 16.6787
+  },
+  {
+    "name": "Mezná (Pelhřimov)",
+    "lat": 49.347,
+    "lon": 15.2114
+  },
+  {
+    "name": "Mezná (Tábor)",
+    "lat": 49.2583,
+    "lon": 14.8005
+  },
+  {
+    "name": "Mezná (Děčín)",
+    "lat": 50.8688,
+    "lon": 14.2993
+  },
+  {
+    "name": "Mezholezy (Domažlice)",
+    "lat": 49.6248,
+    "lon": 12.905
+  },
+  {
+    "name": "Mezholezy (Kutná Hora)",
+    "lat": 49.9359,
+    "lon": 15.1927
+  },
+  {
+    "name": "Merklín (Plzeň-jih)",
+    "lat": 49.5605,
+    "lon": 13.198
+  },
+  {
+    "name": "Merklín (Karlovy Vary)",
+    "lat": 50.3281,
+    "lon": 12.8635
+  },
+  {
+    "name": "Medlov (Olomouc)",
+    "lat": 49.7875,
+    "lon": 17.0626
+  },
+  {
+    "name": "Medlov (Brno-venkov)",
+    "lat": 49.0351,
+    "lon": 16.5224
+  },
+  {
+    "name": "Medlov (Kroměříž)",
+    "lat": 49.2612,
+    "lon": 17.266
+  },
+  {
+    "name": "Meziříčko (Žďár nad Sázavou)",
+    "lat": 49.4051,
+    "lon": 15.8443
+  },
+  {
+    "name": "Meziříčko (Třebíč)",
+    "lat": 49.1093,
+    "lon": 15.6602
+  },
+  {
+    "name": "Meziříčko (Blansko)",
+    "lat": 49.566,
+    "lon": 16.5555
+  },
+  {
+    "name": "Medlovice (Vyškov)",
+    "lat": 49.2743,
+    "lon": 17.0927
+  },
+  {
+    "name": "Medlovice (Uherské Hradiště)",
+    "lat": 49.0496,
+    "lon": 17.2708
   },
   {
     "name": "Melč",
-    "lat": "",
-    "lon": ""
+    "lat": 49.8499267,
+    "lon": 17.7577991
   }
 ]

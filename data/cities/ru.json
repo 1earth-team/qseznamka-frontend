@@ -1,107 +1,127 @@
 [
   {
-    "name": "Rudná",
-    "lat": "49.6594",
-    "lon": "16.5732"
-  },
-  {
-    "name": "Ruda",
-    "lat": "49.3225",
-    "lon": "16.1227"
-  },
-  {
     "name": "Rudolfov",
-    "lat": "48.9936",
-    "lon": "14.5412"
+    "lat": 48.9936,
+    "lon": 14.5412
   },
   {
     "name": "Rumburk",
-    "lat": "50.9518",
-    "lon": "14.5569"
+    "lat": 50.9518,
+    "lon": 14.5569
   },
   {
     "name": "Rušinov",
-    "lat": "49.7919",
-    "lon": "15.6830"
-  },
-  {
-    "name": "Rudná",
-    "lat": "49.6594",
-    "lon": "16.5732"
+    "lat": 49.7919,
+    "lon": 15.683
   },
   {
     "name": "Rudník",
-    "lat": "50.5785",
-    "lon": "15.7373"
+    "lat": 50.5785,
+    "lon": 15.7373
   },
   {
     "name": "Rudoltice",
-    "lat": "49.8979",
-    "lon": "16.5702"
-  },
-  {
-    "name": "Rudice",
-    "lat": "49.3373",
-    "lon": "16.7257"
+    "lat": 49.8979,
+    "lon": 16.5702
   },
   {
     "name": "Rudka",
-    "lat": "49.2420",
-    "lon": "16.3328"
+    "lat": 49.242,
+    "lon": 16.3328
   },
   {
     "name": "Rudimov",
-    "lat": "49.0798",
-    "lon": "17.8280"
+    "lat": 49.0798,
+    "lon": 17.828
   },
   {
     "name": "Rusava",
-    "lat": "49.3470",
-    "lon": "17.6846"
+    "lat": 49.347,
+    "lon": 17.6846
   },
   {
     "name": "Rudíkov",
-    "lat": "49.2894",
-    "lon": "15.9489"
-  },
-  {
-    "name": "Rudice",
-    "lat": "49.3373",
-    "lon": "16.7257"
+    "lat": 49.2894,
+    "lon": 15.9489
   },
   {
     "name": "Ruprechtov",
-    "lat": "49.3287",
-    "lon": "16.8514"
+    "lat": 49.3287,
+    "lon": 16.8514
   },
   {
     "name": "Rudlice",
-    "lat": "48.9485",
-    "lon": "16.0657"
-  },
-  {
-    "name": "Ruda",
-    "lat": "49.3225",
-    "lon": "16.1227"
+    "lat": 48.9485,
+    "lon": 16.0657
   },
   {
     "name": "Rudolec",
-    "lat": "49.4768",
-    "lon": "15.8302"
+    "lat": 49.4768,
+    "lon": 15.8302
   },
   {
     "name": "Rudná pod Pradědem",
-    "lat": "50.0185",
-    "lon": "17.3447"
+    "lat": 50.0185,
+    "lon": 17.3447
   },
   {
     "name": "Rusín",
-    "lat": "50.2098",
-    "lon": "17.7342"
+    "lat": 50.2098,
+    "lon": 17.7342
   },
   {
     "name": "Ruda nad Moravou",
-    "lat": "49.9810",
-    "lon": "16.8778"
+    "lat": 49.981,
+    "lon": 16.8778
+  },
+  {
+    "name": "Rudná (Svitavy)",
+    "lat": 49.6594,
+    "lon": 16.5732
+  },
+  {
+    "name": "Rudná (Praha-západ)",
+    "lat": 50.0338,
+    "lon": 14.2312
+  },
+  {
+    "name": "Rudná (Bruntál)",
+    "lat": 50.0284,
+    "lon": 17.4986
+  },
+  {
+    "name": "Ruda (Žďár nad Sázavou)",
+    "lat": 49.3225,
+    "lon": 16.1227
+  },
+  {
+    "name": "Ruda (Rakovník)",
+    "lat": 50.1408,
+    "lon": 13.8757
+  },
+  {
+    "name": "Ruda (Bruntál)",
+    "lat": 49.8633,
+    "lon": 17.1873
+  },
+  {
+    "name": "Ruda (České Budějovice)",
+    "lat": 48.943,
+    "lon": 14.775
+  },
+  {
+    "name": "Ruda (Chrudim)",
+    "lat": 49.7425,
+    "lon": 16.0791
+  },
+  {
+    "name": "Rudice (Blansko)",
+    "lat": 49.3373,
+    "lon": 16.7257
+  },
+  {
+    "name": "Rudice (Uherské Hradiště)",
+    "lat": 49.0563,
+    "lon": 17.7374
   }
 ]

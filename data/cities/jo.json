@@ -1,22 +1,47 @@
 [
   {
-    "name": "Josefův Důl",
-    "lat": "50.7819",
-    "lon": "15.2315"
+    "name": "Josefův Důl (Jablonec nad Nisou)",
+    "lat": 50.7819,
+    "lon": 15.2315
+  },
+  {
+    "name": "Josefův Důl (Mladá Boleslav)",
+    "lat": 50.4534,
+    "lon": 14.8937
+  },
+  {
+    "name": "Josefov (Hodonín)",
+    "lat": 48.8394,
+    "lon": 17.0096
   },
   {
     "name": "Josefov",
-    "lat": "48.8394",
-    "lon": "17.0096"
+    "lat": 50.09,
+    "lon": 14.418
   },
   {
-    "name": "Josefův Důl",
-    "lat": "50.7819",
-    "lon": "15.2315"
+    "name": "Josefov (Sokolov)",
+    "lat": 50.2118,
+    "lon": 12.5794
   },
   {
-    "name": "Josefov",
-    "lat": "48.8394",
-    "lon": "17.0096"
+    "name": "Josefov (Náchod)",
+    "lat": 50.3389,
+    "lon": 15.9304
+  },
+  {
+    "name": "Josefov (Žďár nad Sázavou)",
+    "lat": 49.4782,
+    "lon": 16.2646
+  },
+  {
+    "name": "Josefov (Blansko)",
+    "lat": 49.3094,
+    "lon": 16.6897
+  },
+  {
+    "name": "Josefov (Kutná Hora)",
+    "lat": 49.9813,
+    "lon": 15.4483
   }
 ]

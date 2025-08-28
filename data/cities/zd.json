@@ -1,92 +1,97 @@
 [
   {
     "name": "Zdislavice",
-    "lat": "49.6865",
-    "lon": "14.9745"
+    "lat": 49.6865,
+    "lon": 14.9745
   },
   {
     "name": "Zdice",
-    "lat": "49.9120",
-    "lon": "13.9780"
-  },
-  {
-    "name": "Zdětín",
-    "lat": "50.3126",
-    "lon": "14.8124"
+    "lat": 49.912,
+    "lon": 13.978
   },
   {
     "name": "Zdiby",
-    "lat": "50.1679",
-    "lon": "14.4515"
+    "lat": 50.1679,
+    "lon": 14.4515
   },
   {
     "name": "Zduchovice",
-    "lat": "49.6385",
-    "lon": "14.2091"
+    "lat": 49.6385,
+    "lon": 14.2091
   },
   {
     "name": "Zdíkov",
-    "lat": "49.0846",
-    "lon": "13.6974"
+    "lat": 49.0846,
+    "lon": 13.6974
   },
   {
     "name": "Zdemyslice",
-    "lat": "49.6070",
-    "lon": "13.5198"
+    "lat": 49.607,
+    "lon": 13.5198
   },
   {
     "name": "Zdislava",
-    "lat": "50.7650",
-    "lon": "14.8763"
-  },
-  {
-    "name": "Zdechovice",
-    "lat": "50.0129",
-    "lon": "15.4695"
+    "lat": 50.765,
+    "lon": 14.8763
   },
   {
     "name": "Zderaz",
-    "lat": "49.8285",
-    "lon": "16.1001"
-  },
-  {
-    "name": "Zdechovice",
-    "lat": "50.0129",
-    "lon": "15.4695"
+    "lat": 49.8285,
+    "lon": 16.1001
   },
   {
     "name": "Zdelov",
-    "lat": "50.1007",
-    "lon": "16.1422"
+    "lat": 50.1007,
+    "lon": 16.1422
   },
   {
     "name": "Zdobnice",
-    "lat": "50.2381",
-    "lon": "16.4079"
+    "lat": 50.2381,
+    "lon": 16.4079
   },
   {
     "name": "Zdobín",
-    "lat": "50.4153",
-    "lon": "15.7050"
+    "lat": 50.4153,
+    "lon": 15.705
   },
   {
     "name": "Zdeňkov",
-    "lat": "49.1405",
-    "lon": "15.6189"
+    "lat": 49.1405,
+    "lon": 15.6189
   },
   {
     "name": "Zdounky",
-    "lat": "49.2281",
-    "lon": "17.3207"
-  },
-  {
-    "name": "Zdětín",
-    "lat": "50.3126",
-    "lon": "14.8124"
+    "lat": 49.2281,
+    "lon": 17.3207
   },
   {
     "name": "Zděchov",
-    "lat": "49.2610",
-    "lon": "18.0778"
+    "lat": 49.261,
+    "lon": 18.0778
+  },
+  {
+    "name": "Zdětín (Mladá Boleslav)",
+    "lat": 50.3126,
+    "lon": 14.8124
+  },
+  {
+    "name": "Zdětín (Prostějov)",
+    "lat": 49.5059,
+    "lon": 16.9888
+  },
+  {
+    "name": "Zdechovice (Pardubice)",
+    "lat": 50.0129,
+    "lon": 15.4695
+  },
+  {
+    "name": "Zdechovice (Hradec Králové)",
+    "lat": 50.2247,
+    "lon": 15.5617
+  },
+  {
+    "name": "Zdechovice (Chrudim)",
+    "lat": 49.9197,
+    "lon": 15.6747
   }
 ]

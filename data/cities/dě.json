@@ -1,82 +1,92 @@
 [
   {
     "name": "Děkanovice",
-    "lat": "49.6186",
-    "lon": "15.1482"
+    "lat": 49.6186,
+    "lon": 15.1482
   },
   {
     "name": "Děkov",
-    "lat": "50.1712",
-    "lon": "13.5544"
+    "lat": 50.1712,
+    "lon": 13.5544
   },
   {
     "name": "Děpoltovice",
-    "lat": "50.2945",
-    "lon": "12.8141"
+    "lat": 50.2945,
+    "lon": 12.8141
   },
   {
     "name": "Děčín",
-    "lat": "50.7824",
-    "lon": "14.2147"
-  },
-  {
-    "name": "Dětřichov",
-    "lat": "49.8000",
-    "lon": "16.5326"
+    "lat": 50.7824,
+    "lon": 14.2147
   },
   {
     "name": "Děčany",
-    "lat": "50.4386",
-    "lon": "13.9085"
+    "lat": 50.4386,
+    "lon": 13.9085
   },
   {
     "name": "Dědová",
-    "lat": "49.7611",
-    "lon": "15.9865"
+    "lat": 49.7611,
+    "lon": 15.9865
   },
   {
     "name": "Dětenice",
-    "lat": "50.3681",
-    "lon": "15.1702"
-  },
-  {
-    "name": "Dětřichov",
-    "lat": "49.8000",
-    "lon": "16.5326"
+    "lat": 50.3681,
+    "lon": 15.1702
   },
   {
     "name": "Dětřichov u Moravské Třebové",
-    "lat": "49.7875",
-    "lon": "16.7102"
-  },
-  {
-    "name": "Dětkovice",
-    "lat": "49.2727",
-    "lon": "17.1442"
+    "lat": 49.7875,
+    "lon": 16.7102
   },
   {
     "name": "Dědice",
-    "lat": "49.0296",
-    "lon": "15.7290"
-  },
-  {
-    "name": "Dětkovice",
-    "lat": "49.2727",
-    "lon": "17.1442"
+    "lat": 49.0296,
+    "lon": 15.729
   },
   {
     "name": "Dětřichov nad Bystřicí",
-    "lat": "49.8322",
-    "lon": "17.4014"
+    "lat": 49.8322,
+    "lon": 17.4014
   },
   {
     "name": "Dětmarovice",
-    "lat": "49.8943",
-    "lon": "18.4605"
+    "lat": 49.8943,
+    "lon": 18.4605
   },
   {
     "name": "Děhylov",
-    "lat": "49.8694",
-    "lon": "18.1633"
+    "lat": 49.8694,
+    "lon": 18.1633
+  },
+  {
+    "name": "Dětřichov (Svitavy)",
+    "lat": 49.8,
+    "lon": 16.5326
+  },
+  {
+    "name": "Dětřichov (Liberec)",
+    "lat": 50.8926,
+    "lon": 15.0366
+  },
+  {
+    "name": "Dětřichov (Olomouc)",
+    "lat": 49.7334,
+    "lon": 17.12
+  },
+  {
+    "name": "Dětřichov (Jeseník)",
+    "lat": 50.21,
+    "lon": 17.2278
+  },
+  {
+    "name": "Dětkovice (Vyškov)",
+    "lat": 49.2727,
+    "lon": 17.1442
+  },
+  {
+    "name": "Dětkovice (Prostějov)",
+    "lat": 49.4154,
+    "lon": 17.0822
   }
 ]

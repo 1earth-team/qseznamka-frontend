@@ -1,82 +1,122 @@
 [
   {
     "name": "Knovíz",
-    "lat": "50.2126",
-    "lon": "14.1369"
+    "lat": 50.2126,
+    "lon": 14.1369
   },
   {
     "name": "Kněžmost",
-    "lat": "50.4892",
-    "lon": "15.0383"
-  },
-  {
-    "name": "Kněžice",
-    "lat": "49.2704",
-    "lon": "15.6727"
+    "lat": 50.4892,
+    "lon": 15.0383
   },
   {
     "name": "Kněžičky",
-    "lat": "50.1741",
-    "lon": "15.3449"
-  },
-  {
-    "name": "Kněževes",
-    "lat": "49.4565",
-    "lon": "15.9808"
-  },
-  {
-    "name": "Kněževes",
-    "lat": "49.4565",
-    "lon": "15.9808"
+    "lat": 50.1741,
+    "lon": 15.3449
   },
   {
     "name": "Knyk",
-    "lat": "49.6469",
-    "lon": "15.5786"
-  },
-  {
-    "name": "Kněžice",
-    "lat": "49.2704",
-    "lon": "15.6727"
+    "lat": 49.6469,
+    "lon": 15.5786
   },
   {
     "name": "Kněžnice",
-    "lat": "50.4923",
-    "lon": "15.3236"
-  },
-  {
-    "name": "Kněževes",
-    "lat": "49.4565",
-    "lon": "15.9808"
-  },
-  {
-    "name": "Knínice",
-    "lat": "49.5397",
-    "lon": "16.6950"
+    "lat": 50.4923,
+    "lon": 15.3236
   },
   {
     "name": "Kněždub",
-    "lat": "48.8867",
-    "lon": "17.3955"
-  },
-  {
-    "name": "Kněžice",
-    "lat": "49.2704",
-    "lon": "15.6727"
-  },
-  {
-    "name": "Knínice",
-    "lat": "49.5397",
-    "lon": "16.6950"
+    "lat": 48.8867,
+    "lon": 17.3955
   },
   {
     "name": "Kněžpole",
-    "lat": "49.0985",
-    "lon": "17.5167"
+    "lat": 49.0985,
+    "lon": 17.5167
   },
   {
-    "name": "Kněževes",
-    "lat": "49.4565",
-    "lon": "15.9808"
+    "name": "Kněžice (Jihlava)",
+    "lat": 49.2704,
+    "lon": 15.6727
+  },
+  {
+    "name": "Kněžice (Nymburk)",
+    "lat": 50.2572,
+    "lon": 15.3354
+  },
+  {
+    "name": "Kněžice (Chrudim)",
+    "lat": 49.8618,
+    "lon": 15.5274
+  },
+  {
+    "name": "Kněžice (Liberec)",
+    "lat": 50.7902,
+    "lon": 14.7721
+  },
+  {
+    "name": "Kněžice (Louny)",
+    "lat": 50.2887,
+    "lon": 13.4296
+  },
+  {
+    "name": "Kněžice (Klatovy)",
+    "lat": 49.3176,
+    "lon": 13.2896
+  },
+  {
+    "name": "Kněževes (Žďár nad Sázavou)",
+    "lat": 49.4565,
+    "lon": 15.9808
+  },
+  {
+    "name": "Kněževes (Blansko)",
+    "lat": 49.587,
+    "lon": 16.4241
+  },
+  {
+    "name": "Kněževes (Rakovník)",
+    "lat": 50.1466,
+    "lon": 13.6371
+  },
+  {
+    "name": "Kněževes (Praha-západ)",
+    "lat": 50.1201,
+    "lon": 14.2604
+  },
+  {
+    "name": "Knínice (Blansko)",
+    "lat": 49.5397,
+    "lon": 16.695
+  },
+  {
+    "name": "Knínice (Jihlava)",
+    "lat": 49.094,
+    "lon": 15.6039
+  },
+  {
+    "name": "Knínice (Litoměřice)",
+    "lat": 50.6438,
+    "lon": 14.2378
+  },
+  {
+    "name": "Knínice (Ústí nad Labem)",
+    "lat": 50.7355,
+    "lon": 14.0009
+  },
+  {
+    "name": "Knínice (Karlovy Vary)",
+    "lat": 50.1261,
+    "lon": 13.1309
+  },
+  {
+    "name": "Knínice (Brno-venkov)",
+    "lat": 49.2935,
+    "lon": 16.5012
+  },
+  {
+    "name": "Knínice (Znojmo)",
+    "lat": 48.9775,
+    "lon": 16.322
   }
 ]

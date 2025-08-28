@@ -1,407 +1,507 @@
 [
   {
     "name": "Kamberk",
-    "lat": "49.5969",
-    "lon": "14.8403"
+    "lat": 49.5969,
+    "lon": 14.8403
   },
   {
     "name": "Karlštejn",
-    "lat": "49.9338",
-    "lon": "14.1833"
+    "lat": 49.9338,
+    "lon": 14.1833
   },
   {
     "name": "Kačice",
-    "lat": "50.1626",
-    "lon": "13.9880"
+    "lat": 50.1626,
+    "lon": 13.988
   },
   {
     "name": "Kamenné Žehrovice",
-    "lat": "50.1288",
-    "lon": "14.0203"
+    "lat": 50.1288,
+    "lon": 14.0203
   },
   {
     "name": "Kamenný Most",
-    "lat": "50.2414",
-    "lon": "14.2057"
+    "lat": 50.2414,
+    "lon": 14.2057
   },
   {
     "name": "Kadlín",
-    "lat": "50.3995",
-    "lon": "14.6997"
+    "lat": 50.3995,
+    "lon": 14.6997
   },
   {
     "name": "Kanina",
-    "lat": "50.4247",
-    "lon": "14.5999"
+    "lat": 50.4247,
+    "lon": 14.5999
   },
   {
     "name": "Katusice",
-    "lat": "50.4451",
-    "lon": "14.7774"
+    "lat": 50.4451,
+    "lon": 14.7774
   },
   {
     "name": "Kamenné Zboží",
-    "lat": "50.1929",
-    "lon": "14.9994"
-  },
-  {
-    "name": "Kaliště",
-    "lat": "49.5925",
-    "lon": "15.3033"
-  },
-  {
-    "name": "Kamenice",
-    "lat": "49.9015",
-    "lon": "14.5825"
+    "lat": 50.1929,
+    "lon": 14.9994
   },
   {
     "name": "Kamenný Přívoz",
-    "lat": "49.8629",
-    "lon": "14.5032"
+    "lat": 49.8629,
+    "lon": 14.5032
   },
   {
     "name": "Karlík",
-    "lat": "49.9354",
-    "lon": "14.2595"
+    "lat": 49.9354,
+    "lon": 14.2595
   },
   {
     "name": "Kamýk nad Vltavou",
-    "lat": "49.6390",
-    "lon": "14.2532"
+    "lat": 49.639,
+    "lon": 14.2532
   },
   {
     "name": "Kalivody",
-    "lat": "50.2084",
-    "lon": "13.8419"
+    "lat": 50.2084,
+    "lon": 13.8419
   },
   {
     "name": "Karlova Ves",
-    "lat": "49.9873",
-    "lon": "13.8624"
-  },
-  {
-    "name": "Kamenná",
-    "lat": "49.2724",
-    "lon": "16.0604"
-  },
-  {
-    "name": "Kamenný Újezd",
-    "lat": "48.8975",
-    "lon": "14.4464"
+    "lat": 49.9873,
+    "lon": 13.8624
   },
   {
     "name": "Kaplice",
-    "lat": "48.7389",
-    "lon": "14.4937"
+    "lat": 48.7389,
+    "lon": 14.4937
   },
   {
     "name": "Kačlehy",
-    "lat": "49.1091",
-    "lon": "15.0773"
+    "lat": 49.1091,
+    "lon": 15.0773
   },
   {
     "name": "Kamenný Malíkov",
-    "lat": "49.2119",
-    "lon": "15.1223"
+    "lat": 49.2119,
+    "lon": 15.1223
   },
   {
     "name": "Kardašova Řečice",
-    "lat": "49.1848",
-    "lon": "14.8532"
-  },
-  {
-    "name": "Kaliště",
-    "lat": "49.5925",
-    "lon": "15.3033"
+    "lat": 49.1848,
+    "lon": 14.8532
   },
   {
     "name": "Kamenice nad Lipou",
-    "lat": "49.3031",
-    "lon": "15.0755"
-  },
-  {
-    "name": "Kadov",
-    "lat": "49.6326",
-    "lon": "16.0792"
+    "lat": 49.3031,
+    "lon": 15.0755
   },
   {
     "name": "Kalenice",
-    "lat": "49.2715",
-    "lon": "13.7166"
+    "lat": 49.2715,
+    "lon": 13.7166
   },
   {
     "name": "Katovice",
-    "lat": "49.2737",
-    "lon": "13.8298"
-  },
-  {
-    "name": "Katov",
-    "lat": "49.3327",
-    "lon": "16.2788"
-  },
-  {
-    "name": "Kanice",
-    "lat": "49.2638",
-    "lon": "16.7142"
+    "lat": 49.2737,
+    "lon": 13.8298
   },
   {
     "name": "Kaničky",
-    "lat": "49.4745",
-    "lon": "13.1455"
+    "lat": 49.4745,
+    "lon": 13.1455
   },
   {
     "name": "Karlovy Vary",
-    "lat": "50.2306",
-    "lon": "12.8701"
+    "lat": 50.2306,
+    "lon": 12.8701
   },
   {
     "name": "Kašperské Hory",
-    "lat": "49.1435",
-    "lon": "13.5561"
+    "lat": 49.1435,
+    "lon": 13.5561
   },
   {
     "name": "Kasejovice",
-    "lat": "49.4625",
-    "lon": "13.7407"
-  },
-  {
-    "name": "Kaceřov",
-    "lat": "49.8687",
-    "lon": "13.5130"
+    "lat": 49.4625,
+    "lon": 13.7407
   },
   {
     "name": "Kaznějov",
-    "lat": "49.8931",
-    "lon": "13.3829"
+    "lat": 49.8931,
+    "lon": 13.3829
   },
   {
     "name": "Kakejcov",
-    "lat": "49.6666",
-    "lon": "13.6239"
+    "lat": 49.6666,
+    "lon": 13.6239
   },
   {
     "name": "Kamenec",
-    "lat": "49.8809",
-    "lon": "13.5971"
-  },
-  {
-    "name": "Kamenný Újezd",
-    "lat": "48.8975",
-    "lon": "14.4464"
+    "lat": 49.8809,
+    "lon": 13.5971
   },
   {
     "name": "Kařez",
-    "lat": "49.8216",
-    "lon": "13.7825"
+    "lat": 49.8216,
+    "lon": 13.7825
   },
   {
     "name": "Kařízek",
-    "lat": "49.8133",
-    "lon": "13.7991"
-  },
-  {
-    "name": "Kaceřov",
-    "lat": "49.8687",
-    "lon": "13.5130"
+    "lat": 49.8133,
+    "lon": 13.7991
   },
   {
     "name": "Kamenický Šenov",
-    "lat": "50.7736",
-    "lon": "14.4729"
+    "lat": 50.7736,
+    "lon": 14.4729
   },
   {
     "name": "Kadaň",
-    "lat": "50.3762",
-    "lon": "13.2710"
+    "lat": 50.3762,
+    "lon": 13.271
   },
   {
     "name": "Kalek",
-    "lat": "50.5777",
-    "lon": "13.3220"
+    "lat": 50.5777,
+    "lon": 13.322
   },
   {
     "name": "Kamýk",
-    "lat": "50.5581",
-    "lon": "14.0777"
+    "lat": 50.5581,
+    "lon": 14.0777
   },
   {
     "name": "Kamenná Lhota",
-    "lat": "49.6438",
-    "lon": "15.2752"
+    "lat": 49.6438,
+    "lon": 15.2752
   },
   {
     "name": "Kameničky",
-    "lat": "49.7360",
-    "lon": "15.9747"
+    "lat": 49.736,
+    "lon": 15.9747
   },
   {
     "name": "Kacákova Lhota",
-    "lat": "50.4095",
-    "lon": "15.4192"
+    "lat": 50.4095,
+    "lon": 15.4192
   },
   {
     "name": "Kasalice",
-    "lat": "50.1180",
-    "lon": "15.6097"
+    "lat": 50.118,
+    "lon": 15.6097
   },
   {
     "name": "Kacanovy",
-    "lat": "50.5507",
-    "lon": "15.1453"
-  },
-  {
-    "name": "Karlovice",
-    "lat": "49.1764",
-    "lon": "17.5860"
+    "lat": 50.5507,
+    "lon": 15.1453
   },
   {
     "name": "Kamenec u Poličky",
-    "lat": "49.7095",
-    "lon": "16.2366"
+    "lat": 49.7095,
+    "lon": 16.2366
   },
   {
     "name": "Kamenná Horka",
-    "lat": "49.7382",
-    "lon": "16.5239"
+    "lat": 49.7382,
+    "lon": 16.5239
   },
   {
     "name": "Karle",
-    "lat": "49.7660",
-    "lon": "16.3647"
+    "lat": 49.766,
+    "lon": 16.3647
   },
   {
     "name": "Kameničná",
-    "lat": "50.1202",
-    "lon": "16.4349"
+    "lat": 50.1202,
+    "lon": 16.4349
   },
   {
     "name": "Kaly",
-    "lat": "49.3793",
-    "lon": "16.3516"
-  },
-  {
-    "name": "Kanice",
-    "lat": "49.2638",
-    "lon": "16.7142"
-  },
-  {
-    "name": "Katov",
-    "lat": "49.3327",
-    "lon": "16.2788"
+    "lat": 49.3793,
+    "lon": 16.3516
   },
   {
     "name": "Kašnice",
-    "lat": "48.9964",
-    "lon": "16.8828"
-  },
-  {
-    "name": "Kaňovice",
-    "lat": "49.7445",
-    "lon": "18.3959"
-  },
-  {
-    "name": "Karlovice",
-    "lat": "49.1764",
-    "lon": "17.5860"
+    "lat": 48.9964,
+    "lon": 16.8828
   },
   {
     "name": "Kašava",
-    "lat": "49.2955",
-    "lon": "17.7856"
+    "lat": 49.2955,
+    "lon": 17.7856
   },
   {
     "name": "Karlín",
-    "lat": "50.0962",
-    "lon": "14.4591"
+    "lat": 50.0962,
+    "lon": 14.4591
   },
   {
     "name": "Kalhov",
-    "lat": "49.4810",
-    "lon": "15.4414"
-  },
-  {
-    "name": "Kaliště",
-    "lat": "49.5925",
-    "lon": "15.3033"
-  },
-  {
-    "name": "Kamenice",
-    "lat": "49.9015",
-    "lon": "14.5825"
-  },
-  {
-    "name": "Kamenná",
-    "lat": "49.2724",
-    "lon": "16.0604"
+    "lat": 49.481,
+    "lon": 15.4414
   },
   {
     "name": "Karolín",
-    "lat": "49.2306",
-    "lon": "17.4345"
-  },
-  {
-    "name": "Kamenná",
-    "lat": "49.2724",
-    "lon": "16.0604"
-  },
-  {
-    "name": "Kadov",
-    "lat": "49.6326",
-    "lon": "16.0792"
+    "lat": 49.2306,
+    "lon": 17.4345
   },
   {
     "name": "Kadolec",
-    "lat": "49.3747",
-    "lon": "16.1414"
-  },
-  {
-    "name": "Kadov",
-    "lat": "49.6326",
-    "lon": "16.0792"
+    "lat": 49.3747,
+    "lon": 16.1414
   },
   {
     "name": "Karlov",
-    "lat": "49.6467",
-    "lon": "15.9153"
+    "lat": 49.6467,
+    "lon": 15.9153
   },
   {
     "name": "Karlova Studánka",
-    "lat": "50.0731",
-    "lon": "17.3066"
-  },
-  {
-    "name": "Karlovice",
-    "lat": "49.1764",
-    "lon": "17.5860"
-  },
-  {
-    "name": "Kaňovice",
-    "lat": "49.7445",
-    "lon": "18.3959"
+    "lat": 50.0731,
+    "lon": 17.3066
   },
   {
     "name": "Karviná",
-    "lat": "49.8543",
-    "lon": "18.5417"
-  },
-  {
-    "name": "Kateřinice",
-    "lat": "49.3821",
-    "lon": "17.8858"
-  },
-  {
-    "name": "Kamenná",
-    "lat": "49.2724",
-    "lon": "16.0604"
+    "lat": 49.8543,
+    "lon": 18.5417
   },
   {
     "name": "Karolinka",
-    "lat": "49.3513",
-    "lon": "18.2401"
+    "lat": 49.3513,
+    "lon": 18.2401
   },
   {
-    "name": "Kateřinice",
-    "lat": "49.3821",
-    "lon": "17.8858"
+    "name": "Kaliště (Pelhřimov)",
+    "lat": 49.5925,
+    "lon": 15.3033
+  },
+  {
+    "name": "Kaliště (Praha-východ)",
+    "lat": 49.8827,
+    "lon": 14.7745
+  },
+  {
+    "name": "Kaliště (Jihlava)",
+    "lat": 49.2416,
+    "lon": 15.301
+  },
+  {
+    "name": "Kaliště (České Budějovice)",
+    "lat": 48.9653,
+    "lon": 14.5753
+  },
+  {
+    "name": "Kaliště (Benešov)",
+    "lat": 49.6604,
+    "lon": 14.6865
+  },
+  {
+    "name": "Kaliště (Příbram)",
+    "lat": 49.6487,
+    "lon": 14.1942
+  },
+  {
+    "name": "Kaliště (Liberec)",
+    "lat": 50.7604,
+    "lon": 14.9718
+  },
+  {
+    "name": "Kaliště (Český Krumlov)",
+    "lat": 48.8883,
+    "lon": 13.9694
+  },
+  {
+    "name": "Kaliště (Ústí nad Orlicí)",
+    "lat": 50.0089,
+    "lon": 16.3112
+  },
+  {
+    "name": "Kamenice (Praha-východ)",
+    "lat": 49.9015,
+    "lon": 14.5825
+  },
+  {
+    "name": "Kamenice (Jihlava)",
+    "lat": 49.3666,
+    "lon": 15.7802
+  },
+  {
+    "name": "Kamenice",
+    "lat": 50.7384,
+    "lon": 15.2716
+  },
+  {
+    "name": "Kamenice (Česká Lípa)",
+    "lat": 50.6951,
+    "lon": 14.6812
+  },
+  {
+    "name": "Kamenice (Havlíčkův Brod)",
+    "lat": 49.5218,
+    "lon": 15.4263
+  },
+  {
+    "name": "Kamenice (Příbram)",
+    "lat": 49.606,
+    "lon": 14.4391
+  },
+  {
+    "name": "Kamenice (Olomouc)",
+    "lat": 49.6502,
+    "lon": 16.9763
+  },
+  {
+    "name": "Kamenná (České Budějovice)",
+    "lat": 48.7799,
+    "lon": 14.6703
+  },
+  {
+    "name": "Kamenná (Šumperk)",
+    "lat": 49.8593,
+    "lon": 17.031
+  },
+  {
+    "name": "Kamenná (Jeseník)",
+    "lat": 50.2855,
+    "lon": 17.0458
+  },
+  {
+    "name": "Kamenná (Třebíč)",
+    "lat": 49.2724,
+    "lon": 16.0604
+  },
+  {
+    "name": "Kamenná (Jihlava)",
+    "lat": 49.5099,
+    "lon": 15.6526
+  },
+  {
+    "name": "Kamenná (Příbram)",
+    "lat": 49.6241,
+    "lon": 13.9918
+  },
+  {
+    "name": "Kamenná (Beroun)",
+    "lat": 50.0158,
+    "lon": 14.0806
+  },
+  {
+    "name": "Kamenná (Prachatice)",
+    "lat": 48.8179,
+    "lon": 13.8124
+  },
+  {
+    "name": "Kamenný Újezd (České Budějovice)",
+    "lat": 48.8975,
+    "lon": 14.4464
+  },
+  {
+    "name": "Kamenný Újezd (Rokycany)",
+    "lat": 49.7237,
+    "lon": 13.6188
+  },
+  {
+    "name": "Kamenný Újezd (Plzeň-sever)",
+    "lat": 49.7226,
+    "lon": 13.1835
+  },
+  {
+    "name": "Kadov (Strakonice)",
+    "lat": 49.4028,
+    "lon": 13.7748
+  },
+  {
+    "name": "Kadov (Žďár nad Sázavou)",
+    "lat": 49.6326,
+    "lon": 16.0792
+  },
+  {
+    "name": "Kadov (Znojmo)",
+    "lat": 48.9824,
+    "lon": 16.2873
+  },
+  {
+    "name": "Katov (Brno-venkov)",
+    "lat": 49.3327,
+    "lon": 16.2788
+  },
+  {
+    "name": "Katov (Tábor)",
+    "lat": 49.2817,
+    "lon": 14.8285
+  },
+  {
+    "name": "Kanice (Brno-venkov)",
+    "lat": 49.2638,
+    "lon": 16.7142
+  },
+  {
+    "name": "Kanice (Domažlice)",
+    "lat": 49.475,
+    "lon": 13.0727
+  },
+  {
+    "name": "Kaceřov (Plzeň-sever)",
+    "lat": 49.8687,
+    "lon": 13.513
+  },
+  {
+    "name": "Kaceřov (Sokolov)",
+    "lat": 50.1489,
+    "lon": 12.5043
+  },
+  {
+    "name": "Karlovice (Zlín)",
+    "lat": 49.1764,
+    "lon": 17.586
+  },
+  {
+    "name": "Karlovice (Bruntál)",
+    "lat": 50.1056,
+    "lon": 17.4456
+  },
+  {
+    "name": "Karlovice (Semily)",
+    "lat": 50.563,
+    "lon": 15.2097
+  },
+  {
+    "name": "Karlovice (Ústí nad Orlicí)",
+    "lat": 50.0697,
+    "lon": 16.4679
+  },
+  {
+    "name": "Karlovice (Kroměříž)",
+    "lat": 49.384,
+    "lon": 17.5176
+  },
+  {
+    "name": "Karlovice (Kutná Hora)",
+    "lat": 49.8865,
+    "lon": 14.9698
+  },
+  {
+    "name": "Karlovice (Nový Jičín)",
+    "lat": 49.7936,
+    "lon": 18.0079
+  },
+  {
+    "name": "Kaňovice (Frýdek-Místek)",
+    "lat": 49.7445,
+    "lon": 18.3959
+  },
+  {
+    "name": "Kaňovice (Zlín)",
+    "lat": 49.1091,
+    "lon": 17.6987
+  },
+  {
+    "name": "Kateřinice (Vsetín)",
+    "lat": 49.3821,
+    "lon": 17.8858
+  },
+  {
+    "name": "Kateřinice (Nový Jičín)",
+    "lat": 49.6692,
+    "lon": 18.1882
   }
 ]

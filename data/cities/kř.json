@@ -1,252 +1,287 @@
 [
   {
     "name": "Křečovice",
-    "lat": "49.7213",
-    "lon": "14.4755"
+    "lat": 49.7213,
+    "lon": 14.4755
   },
   {
     "name": "Křivsoudov",
-    "lat": "49.6330",
-    "lon": "15.0874"
+    "lat": 49.633,
+    "lon": 15.0874
   },
   {
     "name": "Křečhoř",
-    "lat": "50.0255",
-    "lon": "15.1268"
+    "lat": 50.0255,
+    "lon": 15.1268
   },
   {
     "name": "Křesetice",
-    "lat": "49.9072",
-    "lon": "15.2627"
+    "lat": 49.9072,
+    "lon": 15.2627
   },
   {
     "name": "Křečkov",
-    "lat": "50.1800",
-    "lon": "15.1143"
+    "lat": 50.18,
+    "lon": 15.1143
   },
   {
     "name": "Křinec",
-    "lat": "50.2659",
-    "lon": "15.1394"
+    "lat": 50.2659,
+    "lon": 15.1394
   },
   {
     "name": "Křenek",
-    "lat": "50.2295",
-    "lon": "14.6295"
-  },
-  {
-    "name": "Křenice",
-    "lat": "50.0310",
-    "lon": "14.6685"
+    "lat": 50.2295,
+    "lon": 14.6295
   },
   {
     "name": "Křížkový Újezdec",
-    "lat": "49.9308",
-    "lon": "14.5854"
-  },
-  {
-    "name": "Křepenice",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Křešín",
-    "lat": "",
-    "lon": ""
+    "lat": 49.9308,
+    "lon": 14.5854
   },
   {
     "name": "Křivoklát",
-    "lat": "50.0378",
-    "lon": "13.8704"
+    "lat": 50.0378,
+    "lon": 13.8704
   },
   {
     "name": "Křemže",
-    "lat": "48.9050",
-    "lon": "14.3050"
+    "lat": 48.905,
+    "lon": 14.305
   },
   {
     "name": "Křeč",
-    "lat": "49.3893",
-    "lon": "14.9170"
-  },
-  {
-    "name": "Křelovice",
-    "lat": "49.5367",
-    "lon": "15.1682"
-  },
-  {
-    "name": "Křešín",
-    "lat": "49.7992",
-    "lon": "13.9483"
-  },
-  {
-    "name": "Křenovice",
-    "lat": "49.3303",
-    "lon": "17.2724"
-  },
-  {
-    "name": "Křižanov",
-    "lat": "49.3884",
-    "lon": "16.1110"
+    "lat": 49.3893,
+    "lon": 14.917
   },
   {
     "name": "Křišťanov",
-    "lat": "48.9087",
-    "lon": "14.0206"
+    "lat": 48.9087,
+    "lon": 14.0206
   },
   {
     "name": "Křenovy",
-    "lat": "49.5394",
-    "lon": "13.0220"
+    "lat": 49.5394,
+    "lon": 13.022
   },
   {
     "name": "Křižovatka",
-    "lat": "50.1942",
-    "lon": "12.3931"
-  },
-  {
-    "name": "Křenice",
-    "lat": "50.0310",
-    "lon": "14.6685"
-  },
-  {
-    "name": "Křelovice",
-    "lat": "49.5367",
-    "lon": "15.1682"
+    "lat": 50.1942,
+    "lon": 12.3931
   },
   {
     "name": "Křimov",
-    "lat": "50.4860",
-    "lon": "13.3015"
+    "lat": 50.486,
+    "lon": 13.3015
   },
   {
     "name": "Křižany",
-    "lat": "50.7385",
-    "lon": "14.9013"
+    "lat": 50.7385,
+    "lon": 14.9013
   },
   {
     "name": "Křesín",
-    "lat": "50.3945",
-    "lon": "13.9807"
+    "lat": 50.3945,
+    "lon": 13.9807
   },
   {
     "name": "Křešice",
-    "lat": "50.5226",
-    "lon": "14.2145"
-  },
-  {
-    "name": "Křižanovice",
-    "lat": "49.8594",
-    "lon": "15.7617"
+    "lat": 50.5226,
+    "lon": 14.2145
   },
   {
     "name": "Křinice",
-    "lat": "50.5717",
-    "lon": "16.3060"
+    "lat": 50.5717,
+    "lon": 16.306
   },
   {
     "name": "Křičeň",
-    "lat": "50.1095",
-    "lon": "15.6516"
+    "lat": 50.1095,
+    "lon": 15.6516
   },
   {
     "name": "Křenov",
-    "lat": "49.6798",
-    "lon": "16.6287"
+    "lat": 49.6798,
+    "lon": 16.6287
   },
   {
     "name": "Křetín",
-    "lat": "49.5631",
-    "lon": "16.5044"
+    "lat": 49.5631,
+    "lon": 16.5044
   },
   {
     "name": "Křtěnov",
-    "lat": "49.5453",
-    "lon": "16.4194"
+    "lat": 49.5453,
+    "lon": 16.4194
   },
   {
     "name": "Křtiny",
-    "lat": "49.2969",
-    "lon": "16.7433"
+    "lat": 49.2969,
+    "lon": 16.7433
   },
   {
     "name": "Křižínkov",
-    "lat": "49.3258",
-    "lon": "16.2701"
-  },
-  {
-    "name": "Křepice",
-    "lat": "48.9874",
-    "lon": "16.0974"
+    "lat": 49.3258,
+    "lon": 16.2701
   },
   {
     "name": "Křekov",
-    "lat": "49.1295",
-    "lon": "17.9678"
-  },
-  {
-    "name": "Křenovice",
-    "lat": "49.3303",
-    "lon": "17.2724"
-  },
-  {
-    "name": "Křižanovice",
-    "lat": "49.8594",
-    "lon": "15.7617"
+    "lat": 49.1295,
+    "lon": 17.9678
   },
   {
     "name": "Křižanovice u Vyškova",
-    "lat": "49.2877",
-    "lon": "17.0402"
-  },
-  {
-    "name": "Křepice",
-    "lat": "48.9874",
-    "lon": "16.0974"
+    "lat": 49.2877,
+    "lon": 17.0402
   },
   {
     "name": "Křídlůvky",
-    "lat": "48.7821",
-    "lon": "16.2377"
+    "lat": 48.7821,
+    "lon": 16.2377
   },
   {
     "name": "Křídla",
-    "lat": "49.5272",
-    "lon": "16.1223"
+    "lat": 49.5272,
+    "lon": 16.1223
   },
   {
     "name": "Křižánky",
-    "lat": "49.6866",
-    "lon": "16.0649"
-  },
-  {
-    "name": "Křižanov",
-    "lat": "49.3884",
-    "lon": "16.1110"
+    "lat": 49.6866,
+    "lon": 16.0649
   },
   {
     "name": "Křoví",
-    "lat": "49.3061",
-    "lon": "16.2643"
+    "lat": 49.3061,
+    "lon": 16.2643
   },
   {
     "name": "Křišťanovice",
-    "lat": "49.8508",
-    "lon": "17.5110"
+    "lat": 49.8508,
+    "lon": 17.511
   },
   {
     "name": "Křelov-Břuchotín",
-    "lat": "49.6185",
-    "lon": "17.1885"
-  },
-  {
-    "name": "Křenovice",
-    "lat": "49.3303",
-    "lon": "17.2724"
+    "lat": 49.6185,
+    "lon": 17.1885
   },
   {
     "name": "Křtomil",
-    "lat": "49.4091",
-    "lon": "17.6261"
+    "lat": 49.4091,
+    "lon": 17.6261
+  },
+  {
+    "name": "Křenice (Praha-východ)",
+    "lat": 50.031,
+    "lon": 14.6685
+  },
+  {
+    "name": "Křenice (Klatovy)",
+    "lat": 49.5027,
+    "lon": 13.1999
+  },
+  {
+    "name": "Křenice (Český Krumlov)",
+    "lat": 48.5987,
+    "lon": 14.1368
+  },
+  {
+    "name": "Křešín (Příbram)",
+    "lat": 49.7992,
+    "lon": 13.9483
+  },
+  {
+    "name": "Křešín (Pelhřimov)",
+    "lat": 49.5817,
+    "lon": 15.0437
+  },
+  {
+    "name": "Křešín (Litoměřice)",
+    "lat": 50.3945,
+    "lon": 13.9807
+  },
+  {
+    "name": "Křelovice (Pelhřimov)",
+    "lat": 49.5367,
+    "lon": 15.1682
+  },
+  {
+    "name": "Křelovice (Plzeň-sever)",
+    "lat": 49.8743,
+    "lon": 13.0758
+  },
+  {
+    "name": "Křenovice (Přerov)",
+    "lat": 49.3303,
+    "lon": 17.2724
+  },
+  {
+    "name": "Křenovice (Vyškov)",
+    "lat": 49.1422,
+    "lon": 16.8293
+  },
+  {
+    "name": "Křenovice (Písek)",
+    "lat": 49.3673,
+    "lon": 14.3429
+  },
+  {
+    "name": "Křenovice (České Budějovice)",
+    "lat": 48.9862,
+    "lon": 14.3604
+  },
+  {
+    "name": "Křižanov (Žďár nad Sázavou)",
+    "lat": 49.3884,
+    "lon": 16.111
+  },
+  {
+    "name": "Křižanov (Písek)",
+    "lat": 49.3987,
+    "lon": 14.3781
+  },
+  {
+    "name": "Křižanov (Teplice)",
+    "lat": 50.6508,
+    "lon": 13.7137
+  },
+  {
+    "name": "Křižanov (Šumperk)",
+    "lat": 49.836,
+    "lon": 16.7951
+  },
+  {
+    "name": "Křižanov (Náchod)",
+    "lat": 50.4627,
+    "lon": 15.9969
+  },
+  {
+    "name": "Křižanovice (Chrudim)",
+    "lat": 49.8594,
+    "lon": 15.7617
+  },
+  {
+    "name": "Křižanovice (Vyškov)",
+    "lat": 49.1423,
+    "lon": 16.939
+  },
+  {
+    "name": "Křepice (Znojmo)",
+    "lat": 48.9874,
+    "lon": 16.0974
+  },
+  {
+    "name": "Křepice (Břeclav)",
+    "lat": 48.9997,
+    "lon": 16.7214
+  },
+  {
+    "name": "Křepice (Strakonice)",
+    "lat": 49.1245,
+    "lon": 14.1382
+  },
+  {
+    "name": "Křepenice",
+    "lat": 49.7028939,
+    "lon": 14.3475603
   }
 ]

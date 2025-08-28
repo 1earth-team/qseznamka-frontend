@@ -1,257 +1,357 @@
 [
   {
-    "name": "Benešov",
-    "lat": "49.7819",
-    "lon": "14.6869"
-  },
-  {
-    "name": "Bernartice",
-    "lat": "49.6753",
-    "lon": "15.1272"
-  },
-  {
     "name": "Beroun",
-    "lat": "49.9640",
-    "lon": "14.0734"
+    "lat": 49.964,
+    "lon": 14.0734
   },
   {
     "name": "Beřovice",
-    "lat": "50.2690",
-    "lon": "14.1236"
+    "lat": 50.269,
+    "lon": 14.1236
   },
   {
     "name": "Bečváry",
-    "lat": "49.9567",
-    "lon": "15.0798"
+    "lat": 49.9567,
+    "lon": 15.0798
   },
   {
     "name": "Bernardov",
-    "lat": "50.0141",
-    "lon": "15.3987"
+    "lat": 50.0141,
+    "lon": 15.3987
   },
   {
     "name": "Benátky nad Jizerou",
-    "lat": "50.2918",
-    "lon": "14.8260"
+    "lat": 50.2918,
+    "lon": 14.826
   },
   {
     "name": "Bezno",
-    "lat": "50.3673",
-    "lon": "14.7957"
+    "lat": 50.3673,
+    "lon": 14.7957
   },
   {
     "name": "Bezděkov pod Třemšínem",
-    "lat": "49.5771",
-    "lon": "13.8785"
-  },
-  {
-    "name": "Bečice",
-    "lat": "49.2154",
-    "lon": "14.5019"
+    "lat": 49.5771,
+    "lon": 13.8785
   },
   {
     "name": "Benešov nad Černou",
-    "lat": "48.7294",
-    "lon": "14.6272"
+    "lat": 48.7294,
+    "lon": 14.6272
   },
   {
     "name": "Besednice",
-    "lat": "48.7896",
-    "lon": "14.5559"
+    "lat": 48.7896,
+    "lon": 14.5559
   },
   {
     "name": "Bednárec",
-    "lat": "49.1952",
-    "lon": "15.0932"
+    "lat": 49.1952,
+    "lon": 15.0932
   },
   {
     "name": "Bednáreček",
-    "lat": "49.2101",
-    "lon": "15.1439"
-  },
-  {
-    "name": "Bernartice",
-    "lat": "49.6753",
-    "lon": "15.1272"
+    "lat": 49.2101,
+    "lon": 15.1439
   },
   {
     "name": "Bezdědovice",
-    "lat": "49.4442",
-    "lon": "13.8801"
-  },
-  {
-    "name": "Bečice",
-    "lat": "49.2154",
-    "lon": "14.5019"
+    "lat": 49.4442,
+    "lon": 13.8801
   },
   {
     "name": "Bechyně",
-    "lat": "49.2954",
-    "lon": "14.4688"
+    "lat": 49.2954,
+    "lon": 14.4688
   },
   {
     "name": "Bečov nad Teplou",
-    "lat": "50.0835",
-    "lon": "12.8387"
-  },
-  {
-    "name": "Bezděkov",
-    "lat": "49.7327",
-    "lon": "15.7304"
+    "lat": 50.0835,
+    "lon": 12.8387
   },
   {
     "name": "Bezvěrov",
-    "lat": "49.9950",
-    "lon": "13.0590"
-  },
-  {
-    "name": "Bezděkov",
-    "lat": "49.7327",
-    "lon": "15.7304"
+    "lat": 49.995,
+    "lon": 13.059
   },
   {
     "name": "Benešovice",
-    "lat": "49.7271",
-    "lon": "12.9017"
+    "lat": 49.7271,
+    "lon": 12.9017
   },
   {
     "name": "Bezdružice",
-    "lat": "49.9072",
-    "lon": "12.9711"
-  },
-  {
-    "name": "Bezděz",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Bezděz",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Bezděz",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Bezděz",
-    "lat": "",
-    "lon": ""
+    "lat": 49.9072,
+    "lon": 12.9711
   },
   {
     "name": "Benešov nad Ploučnicí",
-    "lat": "50.7413",
-    "lon": "14.3112"
-  },
-  {
-    "name": "Bedřichov",
-    "lat": "49.4612",
-    "lon": "16.4653"
+    "lat": 50.7413,
+    "lon": 14.3112
   },
   {
     "name": "Bechlín",
-    "lat": "50.4162",
-    "lon": "14.3407"
+    "lat": 50.4162,
+    "lon": 14.3407
   },
   {
     "name": "Bečov",
-    "lat": "50.4497",
-    "lon": "13.7178"
-  },
-  {
-    "name": "Bezděkov",
-    "lat": "49.7327",
-    "lon": "15.7304"
-  },
-  {
-    "name": "Benátky",
-    "lat": "49.8542",
-    "lon": "16.3267"
+    "lat": 50.4497,
+    "lon": 13.7178
   },
   {
     "name": "Bezděkov nad Metují",
-    "lat": "50.5096",
-    "lon": "16.2291"
-  },
-  {
-    "name": "Bezděkov",
-    "lat": "49.7327",
-    "lon": "15.7304"
+    "lat": 50.5096,
+    "lon": 16.2291
   },
   {
     "name": "Benecko",
-    "lat": "50.6663",
-    "lon": "15.5482"
+    "lat": 50.6663,
+    "lon": 15.5482
   },
   {
     "name": "Benešov u Semil",
-    "lat": "50.6035",
-    "lon": "15.3684"
-  },
-  {
-    "name": "Benátky",
-    "lat": "49.8542",
-    "lon": "16.3267"
+    "lat": 50.6035,
+    "lon": 15.3684
   },
   {
     "name": "Bezděčí u Trnávky",
-    "lat": "49.6924",
-    "lon": "16.7634"
-  },
-  {
-    "name": "Bernartice",
-    "lat": "49.6753",
-    "lon": "15.1272"
-  },
-  {
-    "name": "Bedřichov",
-    "lat": "49.4612",
-    "lon": "16.4653"
-  },
-  {
-    "name": "Benešov",
-    "lat": "49.7819",
-    "lon": "14.6869"
+    "lat": 49.6924,
+    "lon": 16.7634
   },
   {
     "name": "Bezměrov",
-    "lat": "49.3298",
-    "lon": "17.3348"
+    "lat": 49.3298,
+    "lon": 17.3348
   },
   {
     "name": "Bedihošť",
-    "lat": "49.4483",
-    "lon": "17.1663"
+    "lat": 49.4483,
+    "lon": 17.1663
   },
   {
     "name": "Benetice",
-    "lat": "49.2976",
-    "lon": "15.8673"
+    "lat": 49.2976,
+    "lon": 15.8673
   },
   {
     "name": "Bezkov",
-    "lat": "48.8712",
-    "lon": "15.9513"
+    "lat": 48.8712,
+    "lon": 15.9513
   },
   {
     "name": "Bernartice nad Odrou",
-    "lat": "49.6101",
-    "lon": "17.9478"
+    "lat": 49.6101,
+    "lon": 17.9478
   },
   {
     "name": "Beňov",
-    "lat": "49.4175",
-    "lon": "17.5026"
+    "lat": 49.4175,
+    "lon": 17.5026
   },
   {
     "name": "Bezuchov",
-    "lat": "49.4628",
-    "lon": "17.6092"
+    "lat": 49.4628,
+    "lon": 17.6092
   },
   {
-    "name": "Bernartice",
-    "lat": "49.6753",
-    "lon": "15.1272"
+    "name": "Benešov (Benešov)",
+    "lat": 49.7819,
+    "lon": 14.6869
+  },
+  {
+    "name": "Benešov (Blansko)",
+    "lat": 49.5095,
+    "lon": 16.7702
+  },
+  {
+    "name": "Benešov (Náchod)",
+    "lat": 50.6138,
+    "lon": 16.3477
+  },
+  {
+    "name": "Benešov (Pelhřimov)",
+    "lat": 49.3367,
+    "lon": 15.0065
+  },
+  {
+    "name": "Benešov (Žďár nad Sázavou)",
+    "lat": 49.3714,
+    "lon": 15.8607
+  },
+  {
+    "name": "Bernartice (Benešov)",
+    "lat": 49.6753,
+    "lon": 15.1272
+  },
+  {
+    "name": "Bernartice (Písek)",
+    "lat": 49.3689,
+    "lon": 14.38
+  },
+  {
+    "name": "Bernartice (Trutnov)",
+    "lat": 50.6461,
+    "lon": 15.9652
+  },
+  {
+    "name": "Bernartice (Jeseník)",
+    "lat": 50.3898,
+    "lon": 17.0783
+  },
+  {
+    "name": "Bernartice (Tachov)",
+    "lat": 49.6268,
+    "lon": 12.8006
+  },
+  {
+    "name": "Bernartice (Klatovy)",
+    "lat": 49.3194,
+    "lon": 13.3832
+  },
+  {
+    "name": "Bečice (České Budějovice)",
+    "lat": 49.2154,
+    "lon": 14.5019
+  },
+  {
+    "name": "Bečice (Tábor)",
+    "lat": 49.3829,
+    "lon": 14.5537
+  },
+  {
+    "name": "Bezděkov (Pardubice)",
+    "lat": 50.0088,
+    "lon": 15.6447
+  },
+  {
+    "name": "Bezděkov (Havlíčkův Brod)",
+    "lat": 49.7327,
+    "lon": 15.7304
+  },
+  {
+    "name": "Bezděkov (Klatovy)",
+    "lat": 49.3806,
+    "lon": 13.2275
+  },
+  {
+    "name": "Bezděkov (Rokycany)",
+    "lat": 49.8242,
+    "lon": 13.5967
+  },
+  {
+    "name": "Bezděkov (Plzeň-jih)",
+    "lat": 49.4151,
+    "lon": 13.7407
+  },
+  {
+    "name": "Bezděkov (Pelhřimov)",
+    "lat": 49.573,
+    "lon": 14.9692
+  },
+  {
+    "name": "Bezděkov (Olomouc)",
+    "lat": 49.7126,
+    "lon": 16.8697
+  },
+  {
+    "name": "Bezděkov (Benešov)",
+    "lat": 49.6837,
+    "lon": 15.1627
+  },
+  {
+    "name": "Bedřichov (Blansko)",
+    "lat": 49.4612,
+    "lon": 16.4653
+  },
+  {
+    "name": "Bedřichov (Jablonec nad Nisou)",
+    "lat": 50.791,
+    "lon": 15.1426
+  },
+  {
+    "name": "Bedřichov (Šumperk)",
+    "lat": 49.931,
+    "lon": 17.155
+  },
+  {
+    "name": "Bedřichov (Kolín)",
+    "lat": 50.0452,
+    "lon": 15.1364
+  },
+  {
+    "name": "Bedřichov (Pelhřimov)",
+    "lat": 49.4752,
+    "lon": 14.9602
+  },
+  {
+    "name": "Bedřichov (Kutná Hora)",
+    "lat": 49.8825,
+    "lon": 15.1717
+  },
+  {
+    "name": "Bedřichov (Jihlava)",
+    "lat": 49.4175,
+    "lon": 15.5896
+  },
+  {
+    "name": "Bedřichov (České Budějovice)",
+    "lat": 48.7581,
+    "lon": 14.7211
+  },
+  {
+    "name": "Bedřichov (Trutnov)",
+    "lat": 50.726,
+    "lon": 15.5967
+  },
+  {
+    "name": "Benátky (Svitavy)",
+    "lat": 49.8542,
+    "lon": 16.3267
+  },
+  {
+    "name": "Benátky (Hradec Králové)",
+    "lat": 50.3102,
+    "lon": 15.736
+  },
+  {
+    "name": "Benátky (Havlíčkův Brod)",
+    "lat": 49.7091,
+    "lon": 15.8455
+  },
+  {
+    "name": "Benátky (Pelhřimov)",
+    "lat": 49.3446,
+    "lon": 15.2487
+  },
+  {
+    "name": "Benátky (Kutná Hora)",
+    "lat": 49.9021,
+    "lon": 14.9323
+  },
+  {
+    "name": "Benátky (Žďár nad Sázavou)",
+    "lat": 49.6317,
+    "lon": 16.2263
+  },
+  {
+    "name": "Benátky (Jindřichův Hradec)",
+    "lat": 48.9023,
+    "lon": 14.862
+  },
+  {
+    "name": "Benátky (Přerov)",
+    "lat": 49.5357,
+    "lon": 17.606
+  },
+  {
+    "name": "Benátky (Semily)",
+    "lat": 50.5895,
+    "lon": 15.1748
+  },
+  {
+    "name": "Bezděz",
+    "lat": 50.5337837,
+    "lon": 14.7217684
   }
 ]

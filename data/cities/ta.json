@@ -1,77 +1,97 @@
 [
   {
     "name": "Tatce",
-    "lat": "50.0911",
-    "lon": "14.9772"
+    "lat": 50.0911,
+    "lon": 14.9772
   },
   {
     "name": "Tachlovice",
-    "lat": "50.0145",
-    "lon": "14.2407"
+    "lat": 50.0145,
+    "lon": 14.2407
   },
   {
     "name": "Tatiná",
-    "lat": "49.8488",
-    "lon": "13.2996"
+    "lat": 49.8488,
+    "lon": 13.2996
   },
   {
     "name": "Tatrovice",
-    "lat": "50.2768",
-    "lon": "12.6974"
-  },
-  {
-    "name": "Tachov",
-    "lat": "50.5433",
-    "lon": "14.6384"
-  },
-  {
-    "name": "Tachov",
-    "lat": "50.5433",
-    "lon": "14.6384"
+    "lat": 50.2768,
+    "lon": 12.6974
   },
   {
     "name": "Tanvald",
-    "lat": "50.7379",
-    "lon": "15.3038"
+    "lat": 50.7379,
+    "lon": 15.3038
   },
   {
     "name": "Tašov",
-    "lat": "50.6145",
-    "lon": "14.1358"
+    "lat": 50.6145,
+    "lon": 14.1358
   },
   {
     "name": "Tatobity",
-    "lat": "50.5712",
-    "lon": "15.2732"
+    "lat": 50.5712,
+    "lon": 15.2732
   },
   {
     "name": "Tatenice",
-    "lat": "49.8710",
-    "lon": "16.6972"
-  },
-  {
-    "name": "Tasovice",
-    "lat": "48.8361",
-    "lon": "16.1556"
-  },
-  {
-    "name": "Tasov",
-    "lat": "49.2882",
-    "lon": "16.0940"
-  },
-  {
-    "name": "Tasovice",
-    "lat": "48.8361",
-    "lon": "16.1556"
+    "lat": 49.871,
+    "lon": 16.6972
   },
   {
     "name": "Tavíkovice",
-    "lat": "49.0337",
-    "lon": "16.1032"
+    "lat": 49.0337,
+    "lon": 16.1032
   },
   {
-    "name": "Tasov",
-    "lat": "49.2882",
-    "lon": "16.0940"
+    "name": "Tachov (Česká Lípa)",
+    "lat": 50.5433,
+    "lon": 14.6384
+  },
+  {
+    "name": "Tachov (Tachov)",
+    "lat": 49.7955,
+    "lon": 12.633
+  },
+  {
+    "name": "Tachov (Semily)",
+    "lat": 50.5176,
+    "lon": 15.2214
+  },
+  {
+    "name": "Tasovice (Znojmo)",
+    "lat": 48.8361,
+    "lon": 16.1556
+  },
+  {
+    "name": "Tasovice (Blansko)",
+    "lat": 49.496,
+    "lon": 16.4413
+  },
+  {
+    "name": "Tasovice (Chrudim)",
+    "lat": 49.906,
+    "lon": 15.6421
+  },
+  {
+    "name": "Tasov (Žďár nad Sázavou)",
+    "lat": 49.2882,
+    "lon": 16.094
+  },
+  {
+    "name": "Tasov (Hodonín)",
+    "lat": 48.9069,
+    "lon": 17.4297
+  },
+  {
+    "name": "Tasov (Ústí nad Labem)",
+    "lat": 50.6145,
+    "lon": 14.1358
+  },
+  {
+    "name": "Tasov (Louny)",
+    "lat": 50.2711,
+    "lon": 13.5973
   }
 ]

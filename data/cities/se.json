@@ -1,297 +1,362 @@
 [
   {
     "name": "Semtěš",
-    "lat": "49.9597",
-    "lon": "15.5134"
-  },
-  {
-    "name": "Sedlec",
-    "lat": "49.1676",
-    "lon": "16.1347"
+    "lat": 49.9597,
+    "lon": 15.5134
   },
   {
     "name": "Semčice",
-    "lat": "50.3684",
-    "lon": "15.0067"
-  },
-  {
-    "name": "Sezemice",
-    "lat": "50.0663",
-    "lon": "15.8526"
+    "lat": 50.3684,
+    "lon": 15.0067
   },
   {
     "name": "Seletice",
-    "lat": "50.3203",
-    "lon": "15.0970"
+    "lat": 50.3203,
+    "lon": 15.097
   },
   {
     "name": "Semice",
-    "lat": "50.1643",
-    "lon": "14.8749"
+    "lat": 50.1643,
+    "lon": 14.8749
   },
   {
     "name": "Senice",
-    "lat": "50.1842",
-    "lon": "15.2076"
-  },
-  {
-    "name": "Sedlec",
-    "lat": "49.1676",
-    "lon": "16.1347"
+    "lat": 50.1842,
+    "lon": 15.2076
   },
   {
     "name": "Senohraby",
-    "lat": "49.8954",
-    "lon": "14.7181"
+    "lat": 49.8954,
+    "lon": 14.7181
   },
   {
     "name": "Sedlčany",
-    "lat": "49.6582",
-    "lon": "14.4255"
+    "lat": 49.6582,
+    "lon": 14.4255
   },
   {
     "name": "Sedlec-Prčice",
-    "lat": "49.5726",
-    "lon": "14.5327"
-  },
-  {
-    "name": "Sedlice",
-    "lat": "49.5151",
-    "lon": "15.2563"
+    "lat": 49.5726,
+    "lon": 14.5327
   },
   {
     "name": "Senec",
-    "lat": "50.0667",
-    "lon": "13.7069"
+    "lat": 50.0667,
+    "lon": 13.7069
   },
   {
     "name": "Senomaty",
-    "lat": "50.0978",
-    "lon": "13.6544"
-  },
-  {
-    "name": "Sedlec",
-    "lat": "49.1676",
-    "lon": "16.1347"
-  },
-  {
-    "name": "Sedlice",
-    "lat": "49.5151",
-    "lon": "15.2563"
+    "lat": 50.0978,
+    "lon": 13.6544
   },
   {
     "name": "Senožaty",
-    "lat": "49.5691",
-    "lon": "15.1980"
+    "lat": 49.5691,
+    "lon": 15.198
   },
   {
     "name": "Sepekov",
-    "lat": "49.4284",
-    "lon": "14.4180"
-  },
-  {
-    "name": "Sedlice",
-    "lat": "49.5151",
-    "lon": "15.2563"
+    "lat": 49.4284,
+    "lon": 14.418
   },
   {
     "name": "Sedlečko u Soběslavě",
-    "lat": "49.2825",
-    "lon": "14.7426"
+    "lat": 49.2825,
+    "lon": 14.7426
   },
   {
     "name": "Sezimovo Ústí",
-    "lat": "49.3854",
-    "lon": "14.6844"
+    "lat": 49.3854,
+    "lon": 14.6844
   },
   {
     "name": "Semněvice",
-    "lat": "49.5978",
-    "lon": "12.9290"
-  },
-  {
-    "name": "Seč",
-    "lat": "49.8474",
-    "lon": "15.6571"
-  },
-  {
-    "name": "Sedliště",
-    "lat": "49.8939",
-    "lon": "16.2748"
-  },
-  {
-    "name": "Sedlec",
-    "lat": "49.1676",
-    "lon": "16.1347"
+    "lat": 49.5978,
+    "lon": 12.929
   },
   {
     "name": "Sebečice",
-    "lat": "49.8699",
-    "lon": "13.6921"
-  },
-  {
-    "name": "Sedlec",
-    "lat": "49.1676",
-    "lon": "16.1347"
+    "lat": 49.8699,
+    "lon": 13.6921
   },
   {
     "name": "Sedletín",
-    "lat": "49.7085",
-    "lon": "15.5644"
+    "lat": 49.7085,
+    "lon": 15.5644
   },
   {
     "name": "Sendražice",
-    "lat": "50.2899",
-    "lon": "15.7960"
-  },
-  {
-    "name": "Seč",
-    "lat": "49.8474",
-    "lon": "15.6571"
-  },
-  {
-    "name": "Sedliště",
-    "lat": "49.8939",
-    "lon": "16.2748"
+    "lat": 50.2899,
+    "lon": 15.796
   },
   {
     "name": "Sekeřice",
-    "lat": "50.2863",
-    "lon": "15.3809"
+    "lat": 50.2863,
+    "lon": 15.3809
   },
   {
     "name": "Sendraž",
-    "lat": "50.3676",
-    "lon": "16.2021"
+    "lat": 50.3676,
+    "lon": 16.2021
   },
   {
     "name": "Selmice",
-    "lat": "50.0501",
-    "lon": "15.4408"
+    "lat": 50.0501,
+    "lon": 15.4408
   },
   {
     "name": "Semín",
-    "lat": "50.0531",
-    "lon": "15.5197"
-  },
-  {
-    "name": "Sezemice",
-    "lat": "50.0663",
-    "lon": "15.8526"
+    "lat": 50.0531,
+    "lon": 15.5197
   },
   {
     "name": "Sedloňov",
-    "lat": "50.3383",
-    "lon": "16.3155"
+    "lat": 50.3383,
+    "lon": 16.3155
   },
   {
     "name": "Semechnice",
-    "lat": "50.2602",
-    "lon": "16.1484"
+    "lat": 50.2602,
+    "lon": 16.1484
   },
   {
     "name": "Semily",
-    "lat": "50.6022",
-    "lon": "15.3353"
-  },
-  {
-    "name": "Sebranice",
-    "lat": "49.4983",
-    "lon": "16.5728"
-  },
-  {
-    "name": "Sedliště",
-    "lat": "49.8939",
-    "lon": "16.2748"
-  },
-  {
-    "name": "Seč",
-    "lat": "49.8474",
-    "lon": "15.6571"
+    "lat": 50.6022,
+    "lon": 15.3353
   },
   {
     "name": "Semanín",
-    "lat": "49.8693",
-    "lon": "16.4529"
-  },
-  {
-    "name": "Sebranice",
-    "lat": "49.4983",
-    "lon": "16.5728"
+    "lat": 49.8693,
+    "lon": 16.4529
   },
   {
     "name": "Senetářov",
-    "lat": "49.3548",
-    "lon": "16.8040"
+    "lat": 49.3548,
+    "lon": 16.804
   },
   {
     "name": "Senorady",
-    "lat": "49.1242",
-    "lon": "16.2458"
+    "lat": 49.1242,
+    "lon": 16.2458
   },
   {
     "name": "Sentice",
-    "lat": "49.3107",
-    "lon": "16.4464"
-  },
-  {
-    "name": "Sedlec",
-    "lat": "49.1676",
-    "lon": "16.1347"
+    "lat": 49.3107,
+    "lon": 16.4464
   },
   {
     "name": "Sehradice",
-    "lat": "49.1443",
-    "lon": "17.8242"
+    "lat": 49.1443,
+    "lon": 17.8242
   },
   {
     "name": "Sedlatice",
-    "lat": "49.1922",
-    "lon": "15.6135"
+    "lat": 49.1922,
+    "lon": 15.6135
   },
   {
     "name": "Sedlejov",
-    "lat": "49.2275",
-    "lon": "15.4956"
+    "lat": 49.2275,
+    "lon": 15.4956
   },
   {
     "name": "Seloutky",
-    "lat": "49.4414",
-    "lon": "17.0633"
-  },
-  {
-    "name": "Sedlec",
-    "lat": "49.1676",
-    "lon": "16.1347"
+    "lat": 49.4414,
+    "lon": 17.0633
   },
   {
     "name": "Sejřek",
-    "lat": "49.4361",
-    "lon": "16.3093"
-  },
-  {
-    "name": "Sedliště",
-    "lat": "49.8939",
-    "lon": "16.2748"
+    "lat": 49.4361,
+    "lon": 16.3093
   },
   {
     "name": "Sedlnice",
-    "lat": "49.6578",
-    "lon": "18.0876"
+    "lat": 49.6578,
+    "lon": 18.0876
   },
   {
     "name": "Senice na Hané",
-    "lat": "49.6240",
-    "lon": "17.0858"
+    "lat": 49.624,
+    "lon": 17.0858
   },
   {
     "name": "Senička",
-    "lat": "49.6322",
-    "lon": "17.0563"
+    "lat": 49.6322,
+    "lon": 17.0563
   },
   {
     "name": "Seninka",
-    "lat": "49.2732",
-    "lon": "17.9648"
+    "lat": 49.2732,
+    "lon": 17.9648
+  },
+  {
+    "name": "Sedlec (Třebíč)",
+    "lat": 49.1676,
+    "lon": 16.1347
+  },
+  {
+    "name": "Sedlec (Mladá Boleslav)",
+    "lat": 50.3007,
+    "lon": 14.7957
+  },
+  {
+    "name": "Sedlec (Praha-východ)",
+    "lat": 50.1868,
+    "lon": 14.4582
+  },
+  {
+    "name": "Sedlec (České Budějovice)",
+    "lat": 49.0726,
+    "lon": 14.2865
+  },
+  {
+    "name": "Sedlec (Litoměřice)",
+    "lat": 50.4501,
+    "lon": 14.0163
+  },
+  {
+    "name": "Sedlec (Plzeň-sever)",
+    "lat": 50.0063,
+    "lon": 13.4272
+  },
+  {
+    "name": "Sedlec (Břeclav)",
+    "lat": 48.7789,
+    "lon": 16.6933
+  },
+  {
+    "name": "Sedlec",
+    "lat": 50.1308,
+    "lon": 14.3914
+  },
+  {
+    "name": "Sedlec (Kutná Hora)",
+    "lat": 49.9615,
+    "lon": 15.2893
+  },
+  {
+    "name": "Sedlec (Karlovy Vary)",
+    "lat": 50.2453,
+    "lon": 12.8607
+  },
+  {
+    "name": "Sezemice (Pardubice)",
+    "lat": 50.0663,
+    "lon": 15.8526
+  },
+  {
+    "name": "Sezemice (Mladá Boleslav)",
+    "lat": 50.5855,
+    "lon": 15.0051
+  },
+  {
+    "name": "Sezemice (Teplice)",
+    "lat": 50.6139,
+    "lon": 13.9049
+  },
+  {
+    "name": "Sedlice (Pelhřimov)",
+    "lat": 49.5151,
+    "lon": 15.2563
+  },
+  {
+    "name": "Sedlice (Strakonice)",
+    "lat": 49.3772,
+    "lon": 13.9395
+  },
+  {
+    "name": "Sedlice (Příbram)",
+    "lat": 49.6216,
+    "lon": 13.8808
+  },
+  {
+    "name": "Sedlice (Domažlice)",
+    "lat": 49.4367,
+    "lon": 12.9922
+  },
+  {
+    "name": "Sedlice (Český Krumlov)",
+    "lat": 48.7734,
+    "lon": 14.3913
+  },
+  {
+    "name": "Sedlice (Hradec Králové)",
+    "lat": 50.1532,
+    "lon": 15.7292
+  },
+  {
+    "name": "Sedlice (Benešov)",
+    "lat": 49.6861,
+    "lon": 15.0902
+  },
+  {
+    "name": "Seč (Chrudim)",
+    "lat": 49.8474,
+    "lon": 15.6571
+  },
+  {
+    "name": "Seč (Ústí nad Orlicí)",
+    "lat": 50.0255,
+    "lon": 16.2948
+  },
+  {
+    "name": "Seč (Plzeň-jih)",
+    "lat": 49.588,
+    "lon": 13.5049
+  },
+  {
+    "name": "Seč (Prostějov)",
+    "lat": 49.5215,
+    "lon": 16.8822
+  },
+  {
+    "name": "Seč",
+    "lat": 49.7439,
+    "lon": 15.3381
+  },
+  {
+    "name": "Sedliště (Svitavy)",
+    "lat": 49.8939,
+    "lon": 16.2748
+  },
+  {
+    "name": "Sedliště (Plzeň-jih)",
+    "lat": 49.5275,
+    "lon": 13.6322
+  },
+  {
+    "name": "Sedliště (Jičín)",
+    "lat": 50.3941,
+    "lon": 15.219
+  },
+  {
+    "name": "Sedliště (Frýdek-Místek)",
+    "lat": 49.7184,
+    "lon": 18.3687
+  },
+  {
+    "name": "Sedliště (Pelhřimov)",
+    "lat": 49.438,
+    "lon": 15.339
+  },
+  {
+    "name": "Sedliště (Strakonice)",
+    "lat": 49.2152,
+    "lon": 14.0682
+  },
+  {
+    "name": "Sedliště (Žďár nad Sázavou)",
+    "lat": 49.6483,
+    "lon": 16.2281
+  },
+  {
+    "name": "Sebranice (Blansko)",
+    "lat": 49.4983,
+    "lon": 16.5728
+  },
+  {
+    "name": "Sebranice (Svitavy)",
+    "lat": 49.7714,
+    "lon": 16.2492
   }
 ]

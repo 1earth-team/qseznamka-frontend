@@ -1,262 +1,347 @@
 [
   {
-    "name": "Březová",
-    "lat": "49.9041",
-    "lon": "13.8830"
-  },
-  {
     "name": "Břežany I",
-    "lat": "50.0349",
-    "lon": "15.0788"
+    "lat": 50.0349,
+    "lon": 15.0788
   },
   {
     "name": "Břežany II",
-    "lat": "50.0938",
-    "lon": "14.8047"
-  },
-  {
-    "name": "Březina",
-    "lat": "49.2816",
-    "lon": "16.7495"
-  },
-  {
-    "name": "Březno",
-    "lat": "50.4062",
-    "lon": "15.0055"
+    "lat": 50.0938,
+    "lon": 14.8047
   },
   {
     "name": "Březovice",
-    "lat": "50.4707",
-    "lon": "14.7336"
+    "lat": 50.4707,
+    "lon": 14.7336
   },
   {
     "name": "Bříství",
-    "lat": "50.1338",
-    "lon": "14.8415"
-  },
-  {
-    "name": "Březí",
-    "lat": "49.3436",
-    "lon": "16.2152"
+    "lat": 50.1338,
+    "lon": 14.8415
   },
   {
     "name": "Březová-Oleško",
-    "lat": "49.9146",
-    "lon": "14.4162"
-  },
-  {
-    "name": "Březnice",
-    "lat": "49.5574",
-    "lon": "13.9508"
-  },
-  {
-    "name": "Břežany",
-    "lat": "48.8699",
-    "lon": "16.3417"
+    "lat": 49.9146,
+    "lon": 14.4162
   },
   {
     "name": "Břehov",
-    "lat": "49.0222",
-    "lon": "14.3290"
-  },
-  {
-    "name": "Březina",
-    "lat": "49.2816",
-    "lon": "16.7495"
-  },
-  {
-    "name": "Březí",
-    "lat": "49.3436",
-    "lon": "16.2152"
-  },
-  {
-    "name": "Březnice",
-    "lat": "49.5574",
-    "lon": "13.9508"
-  },
-  {
-    "name": "Březová",
-    "lat": "49.9041",
-    "lon": "13.8830"
-  },
-  {
-    "name": "Břežany",
-    "lat": "48.8699",
-    "lon": "16.3417"
+    "lat": 49.0222,
+    "lon": 14.329
   },
   {
     "name": "Břasy",
-    "lat": "49.8376",
-    "lon": "13.5778"
-  },
-  {
-    "name": "Březina",
-    "lat": "49.2816",
-    "lon": "16.7495"
-  },
-  {
-    "name": "Březová",
-    "lat": "49.9041",
-    "lon": "13.8830"
-  },
-  {
-    "name": "Březno",
-    "lat": "50.4062",
-    "lon": "15.0055"
+    "lat": 49.8376,
+    "lon": 13.5778
   },
   {
     "name": "Bříza",
-    "lat": "50.3605",
-    "lon": "14.2163"
+    "lat": 50.3605,
+    "lon": 14.2163
   },
   {
     "name": "Břvany",
-    "lat": "50.4011",
-    "lon": "13.7215"
+    "lat": 50.4011,
+    "lon": 13.7215
   },
   {
     "name": "Břevnice",
-    "lat": "49.6313",
-    "lon": "15.6126"
-  },
-  {
-    "name": "Březina",
-    "lat": "49.2816",
-    "lon": "16.7495"
+    "lat": 49.6313,
+    "lon": 15.6126
   },
   {
     "name": "Bříšťany",
-    "lat": "50.3163",
-    "lon": "15.6212"
+    "lat": 50.3163,
+    "lon": 15.6212
   },
   {
     "name": "Břehy",
-    "lat": "50.0519",
-    "lon": "15.5775"
-  },
-  {
-    "name": "Březina",
-    "lat": "49.2816",
-    "lon": "16.7495"
+    "lat": 50.0519,
+    "lon": 15.5775
   },
   {
     "name": "Březinky",
-    "lat": "49.6627",
-    "lon": "16.7869"
+    "lat": 49.6627,
+    "lon": 16.7869
   },
   {
     "name": "Březiny",
-    "lat": "49.6906",
-    "lon": "16.1181"
+    "lat": 49.6906,
+    "lon": 16.1181
   },
   {
     "name": "Březová nad Svitavou",
-    "lat": "49.6448",
-    "lon": "16.5174"
-  },
-  {
-    "name": "Březina",
-    "lat": "49.2816",
-    "lon": "16.7495"
-  },
-  {
-    "name": "Březina",
-    "lat": "49.2816",
-    "lon": "16.7495"
+    "lat": 49.6448,
+    "lon": 16.5174
   },
   {
     "name": "Břeclav",
-    "lat": "48.7594",
-    "lon": "16.8813"
-  },
-  {
-    "name": "Březí",
-    "lat": "49.3436",
-    "lon": "16.2152"
-  },
-  {
-    "name": "Březnice",
-    "lat": "49.5574",
-    "lon": "13.9508"
-  },
-  {
-    "name": "Březová",
-    "lat": "49.9041",
-    "lon": "13.8830"
+    "lat": 48.7594,
+    "lon": 16.8813
   },
   {
     "name": "Březůvky",
-    "lat": "49.1533",
-    "lon": "17.6996"
+    "lat": 49.1533,
+    "lon": 17.6996
   },
   {
     "name": "Břest",
-    "lat": "49.3508",
-    "lon": "17.4414"
+    "lat": 49.3508,
+    "lon": 17.4414
   },
   {
     "name": "Březsko",
-    "lat": "49.6086",
-    "lon": "16.8924"
+    "lat": 49.6086,
+    "lon": 16.8924
   },
   {
     "name": "Březník",
-    "lat": "49.1720",
-    "lon": "16.1946"
+    "lat": 49.172,
+    "lon": 16.1946
   },
   {
     "name": "Břestek",
-    "lat": "49.0949",
-    "lon": "17.3559"
+    "lat": 49.0949,
+    "lon": 17.3559
   },
   {
     "name": "Březolupy",
-    "lat": "49.1214",
-    "lon": "17.5803"
-  },
-  {
-    "name": "Březová",
-    "lat": "49.9041",
-    "lon": "13.8830"
-  },
-  {
-    "name": "Březina",
-    "lat": "49.2816",
-    "lon": "16.7495"
-  },
-  {
-    "name": "Břežany",
-    "lat": "48.8699",
-    "lon": "16.3417"
+    "lat": 49.1214,
+    "lon": 17.5803
   },
   {
     "name": "Březejc",
-    "lat": "49.3463",
-    "lon": "16.0915"
-  },
-  {
-    "name": "Březí",
-    "lat": "49.3436",
-    "lon": "16.2152"
+    "lat": 49.3463,
+    "lon": 16.0915
   },
   {
     "name": "Březí nad Oslavou",
-    "lat": "49.5029",
-    "lon": "15.9356"
+    "lat": 49.5029,
+    "lon": 15.9356
   },
   {
     "name": "Březské",
-    "lat": "49.3301",
-    "lon": "16.2379"
+    "lat": 49.3301,
+    "lon": 16.2379
   },
   {
     "name": "Břidličná",
-    "lat": "49.9117",
-    "lon": "17.3711"
+    "lat": 49.9117,
+    "lon": 17.3711
   },
   {
-    "name": "Březová",
-    "lat": "49.9041",
-    "lon": "13.8830"
+    "name": "Březová (Beroun)",
+    "lat": 49.9041,
+    "lon": 13.883
+  },
+  {
+    "name": "Březová (Uherské Hradiště)",
+    "lat": 48.9254,
+    "lon": 17.7397
+  },
+  {
+    "name": "Březová (Zlín)",
+    "lat": 49.2602,
+    "lon": 17.7911
+  },
+  {
+    "name": "Březová (Opava)",
+    "lat": 49.7916,
+    "lon": 17.8656
+  },
+  {
+    "name": "Březová (Karlovy Vary)",
+    "lat": 50.1979,
+    "lon": 12.8714
+  },
+  {
+    "name": "Březová (Sokolov)",
+    "lat": 50.1473,
+    "lon": 12.6468
+  },
+  {
+    "name": "Březová (Liberec)",
+    "lat": 50.6323,
+    "lon": 14.9728
+  },
+  {
+    "name": "Březová (Semily)",
+    "lat": 50.5476,
+    "lon": 15.1974
+  },
+  {
+    "name": "Březová (Ústí nad Labem)",
+    "lat": 50.8009,
+    "lon": 14.0385
+  },
+  {
+    "name": "Březina (Brno-venkov)",
+    "lat": 49.2816,
+    "lon": 16.7495
+  },
+  {
+    "name": "Březina (Mladá Boleslav)",
+    "lat": 50.5485,
+    "lon": 15.0329
+  },
+  {
+    "name": "Březina (Jindřichův Hradec)",
+    "lat": 49.2905,
+    "lon": 14.9097
+  },
+  {
+    "name": "Březina (Svitavy)",
+    "lat": 49.651,
+    "lon": 16.6145
+  },
+  {
+    "name": "Březina (Jičín)",
+    "lat": 50.4343,
+    "lon": 15.3133
+  },
+  {
+    "name": "Březina (Rokycany)",
+    "lat": 49.8075,
+    "lon": 13.5968
+  },
+  {
+    "name": "Březina (Vyškov)",
+    "lat": 49.3681,
+    "lon": 16.9616
+  },
+  {
+    "name": "Březina (Olomouc)",
+    "lat": 49.665,
+    "lon": 16.9186
+  },
+  {
+    "name": "Březina (Jihlava)",
+    "lat": 49.3866,
+    "lon": 15.4324
+  },
+  {
+    "name": "Březina (Klatovy)",
+    "lat": 49.2704,
+    "lon": 13.5074
+  },
+  {
+    "name": "Březno (Mladá Boleslav)",
+    "lat": 50.4062,
+    "lon": 15.0055
+  },
+  {
+    "name": "Březno (Chomutov)",
+    "lat": 50.402,
+    "lon": 13.4215
+  },
+  {
+    "name": "Březno (Litoměřice)",
+    "lat": 50.5247,
+    "lon": 13.9745
+  },
+  {
+    "name": "Březno (Louny)",
+    "lat": 50.3566,
+    "lon": 13.7328
+  },
+  {
+    "name": "Březí (Strakonice)",
+    "lat": 49.5005,
+    "lon": 13.8017
+  },
+  {
+    "name": "Březí (Břeclav)",
+    "lat": 48.8201,
+    "lon": 16.5654
+  },
+  {
+    "name": "Březí (Žďár nad Sázavou)",
+    "lat": 49.3436,
+    "lon": 16.2152
+  },
+  {
+    "name": "Březí (Praha-východ)",
+    "lat": 50.0147,
+    "lon": 14.6993
+  },
+  {
+    "name": "Březí (Ústí nad Labem)",
+    "lat": 50.6447,
+    "lon": 14.1157
+  },
+  {
+    "name": "Březí (Domažlice)",
+    "lat": 49.4879,
+    "lon": 12.8803
+  },
+  {
+    "name": "Březí (Příbram)",
+    "lat": 49.5609,
+    "lon": 14.4463
+  },
+  {
+    "name": "Březí (Plzeň-sever)",
+    "lat": 49.8424,
+    "lon": 13.1325
+  },
+  {
+    "name": "Březí (Plzeň-jih)",
+    "lat": 49.5016,
+    "lon": 13.4649
+  },
+  {
+    "name": "Březí (Zlín)",
+    "lat": 49.0783,
+    "lon": 17.6864
+  },
+  {
+    "name": "Březnice (Příbram)",
+    "lat": 49.5574,
+    "lon": 13.9508
+  },
+  {
+    "name": "Březnice (Tábor)",
+    "lat": 49.2516,
+    "lon": 14.514
+  },
+  {
+    "name": "Březnice (Zlín)",
+    "lat": 49.1864,
+    "lon": 17.6628
+  },
+  {
+    "name": "Březnice (Uherské Hradiště)",
+    "lat": 49.1315,
+    "lon": 17.5949
+  },
+  {
+    "name": "Březnice (Louny)",
+    "lat": 50.1622,
+    "lon": 13.4688
+  },
+  {
+    "name": "Břežany (Znojmo)",
+    "lat": 48.8699,
+    "lon": 16.3417
+  },
+  {
+    "name": "Břežany (Rakovník)",
+    "lat": 50.0069,
+    "lon": 13.5838
+  },
+  {
+    "name": "Břežany (Klatovy)",
+    "lat": 49.3488,
+    "lon": 13.6174
+  },
+  {
+    "name": "Břežany (Louny)",
+    "lat": 50.3502,
+    "lon": 13.4617
+  },
+  {
+    "name": "Břežany (Benešov)",
+    "lat": 49.8376,
+    "lon": 14.5286
   }
 ]

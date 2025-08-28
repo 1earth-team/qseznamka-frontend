@@ -1,82 +1,132 @@
 [
   {
-    "name": "Písková Lhota",
-    "lat": "50.1313",
-    "lon": "15.0658"
-  },
-  {
-    "name": "Písková Lhota",
-    "lat": "50.1313",
-    "lon": "15.0658"
-  },
-  {
     "name": "Písty",
-    "lat": "50.1645",
-    "lon": "15.0013"
-  },
-  {
-    "name": "Písečné",
-    "lat": "48.9648",
-    "lon": "15.4622"
+    "lat": 50.1645,
+    "lon": 15.0013
   },
   {
     "name": "Pístina",
-    "lat": "49.0494",
-    "lon": "14.9013"
-  },
-  {
-    "name": "Píšť",
-    "lat": "49.6017",
-    "lon": "15.2034"
-  },
-  {
-    "name": "Písek",
-    "lat": "50.1554",
-    "lon": "15.5017"
+    "lat": 49.0494,
+    "lon": 14.9013
   },
   {
     "name": "Píšťany",
-    "lat": "50.5192",
-    "lon": "14.0691"
-  },
-  {
-    "name": "Písek",
-    "lat": "50.1554",
-    "lon": "15.5017"
-  },
-  {
-    "name": "Písečná",
-    "lat": "50.0456",
-    "lon": "16.4522"
-  },
-  {
-    "name": "Písečné",
-    "lat": "48.9648",
-    "lon": "15.4622"
-  },
-  {
-    "name": "Písečná",
-    "lat": "50.0456",
-    "lon": "16.4522"
-  },
-  {
-    "name": "Písek",
-    "lat": "50.1554",
-    "lon": "15.5017"
-  },
-  {
-    "name": "Píšť",
-    "lat": "",
-    "lon": ""
+    "lat": 50.5192,
+    "lon": 14.0691
   },
   {
     "name": "Písařov",
-    "lat": "50.0050",
-    "lon": "16.8015"
+    "lat": 50.005,
+    "lon": 16.8015
   },
   {
-    "name": "Písečná",
-    "lat": "50.0456",
-    "lon": "16.4522"
+    "name": "Písková Lhota (Nymburk)",
+    "lat": 50.1313,
+    "lon": 15.0658
+  },
+  {
+    "name": "Písková Lhota (Mladá Boleslav)",
+    "lat": 50.3661,
+    "lon": 14.8733
+  },
+  {
+    "name": "Písečné (Jindřichův Hradec)",
+    "lat": 48.9648,
+    "lon": 15.4622
+  },
+  {
+    "name": "Písečné (Žďár nad Sázavou)",
+    "lat": 49.5679,
+    "lon": 16.2367
+  },
+  {
+    "name": "Píšť (Pelhřimov)",
+    "lat": 49.6017,
+    "lon": 15.2034
+  },
+  {
+    "name": "Píšť (Opava)",
+    "lat": 49.9783,
+    "lon": 18.1933
+  },
+  {
+    "name": "Písek (Hradec Králové)",
+    "lat": 50.1554,
+    "lon": 15.5017
+  },
+  {
+    "name": "Písek (Písek)",
+    "lat": 49.309,
+    "lon": 14.1478
+  },
+  {
+    "name": "Písek (Frýdek-Místek)",
+    "lat": 49.5595,
+    "lon": 18.802
+  },
+  {
+    "name": "Písek (Příbram)",
+    "lat": 49.7847,
+    "lon": 14.036
+  },
+  {
+    "name": "Písek (Plzeň-sever)",
+    "lat": 49.8103,
+    "lon": 13.1887
+  },
+  {
+    "name": "Písek (Praha-východ)",
+    "lat": 50.1927,
+    "lon": 14.6877
+  },
+  {
+    "name": "Písečná (Ústí nad Orlicí)",
+    "lat": 50.0456,
+    "lon": 16.4522
+  },
+  {
+    "name": "Písečná (Frýdek-Místek)",
+    "lat": 49.5747,
+    "lon": 18.7874
+  },
+  {
+    "name": "Písečná (Jeseník)",
+    "lat": 50.2734,
+    "lon": 17.2537
+  },
+  {
+    "name": "Písečná (Česká Lípa)",
+    "lat": 50.7002,
+    "lon": 14.5794
+  },
+  {
+    "name": "Písečná (Příbram)",
+    "lat": 49.5887,
+    "lon": 14.1868
+  },
+  {
+    "name": "Písečná (Vyškov)",
+    "lat": 49.0624,
+    "lon": 16.8918
+  },
+  {
+    "name": "Písečná (Děčín)",
+    "lat": 50.9307,
+    "lon": 14.5589
+  },
+  {
+    "name": "Písečná (Svitavy)",
+    "lat": 49.7004,
+    "lon": 16.5731
+  },
+  {
+    "name": "Písečná (Most)",
+    "lat": 50.6045,
+    "lon": 13.5796
+  },
+  {
+    "name": "Písečná (Písek)",
+    "lat": 49.21,
+    "lon": 14.1099
   }
 ]

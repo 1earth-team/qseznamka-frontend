@@ -1,27 +1,27 @@
 [
   {
     "name": "Ořech",
-    "lat": "50.0216",
-    "lon": "14.2968"
+    "lat": 50.0216,
+    "lon": 14.2968
   },
   {
-    "name": "Ořechov",
-    "lat": "49.1112",
-    "lon": "16.5233"
+    "name": "Ořechov (Uherské Hradiště)",
+    "lat": 49.0307,
+    "lon": 17.3006
   },
   {
-    "name": "Ořechov",
-    "lat": "49.1112",
-    "lon": "16.5233"
+    "name": "Ořechov (Brno-venkov)",
+    "lat": 49.1112,
+    "lon": 16.5233
   },
   {
-    "name": "Ořechov",
-    "lat": "49.1112",
-    "lon": "16.5233"
+    "name": "Ořechov (Žďár nad Sázavou)",
+    "lat": 49.3503,
+    "lon": 16.1388
   },
   {
-    "name": "Ořechov",
-    "lat": "49.1112",
-    "lon": "16.5233"
+    "name": "Ořechov (Jihlava)",
+    "lat": 49.1999,
+    "lon": 15.532
   }
 ]

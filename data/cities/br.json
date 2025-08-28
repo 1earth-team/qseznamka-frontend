@@ -1,352 +1,367 @@
 [
   {
     "name": "Broumy",
-    "lat": "49.9551",
-    "lon": "13.8523"
+    "lat": 49.9551,
+    "lon": 13.8523
   },
   {
     "name": "Brandýsek",
-    "lat": "50.1892",
-    "lon": "14.1620"
+    "lat": 50.1892,
+    "lon": 14.162
   },
   {
     "name": "Braškov",
-    "lat": "50.1021",
-    "lon": "14.1007"
-  },
-  {
-    "name": "Bratronice",
-    "lat": "50.0677",
-    "lon": "14.0140"
+    "lat": 50.1021,
+    "lon": 14.1007
   },
   {
     "name": "Brambory",
-    "lat": "49.9781",
-    "lon": "15.4698"
-  },
-  {
-    "name": "Bratčice",
-    "lat": "49.0651",
-    "lon": "16.5231"
+    "lat": 49.9781,
+    "lon": 15.4698
   },
   {
     "name": "Bradlec",
-    "lat": "50.4514",
-    "lon": "14.9102"
+    "lat": 50.4514,
+    "lon": 14.9102
   },
   {
     "name": "Branžež",
-    "lat": "50.5076",
-    "lon": "15.0579"
+    "lat": 50.5076,
+    "lon": 15.0579
   },
   {
     "name": "Brodce",
-    "lat": "50.3307",
-    "lon": "14.8687"
+    "lat": 50.3307,
+    "lon": 14.8687
   },
   {
     "name": "Brandýs nad Labem-Stará Boleslav",
-    "lat": "50.1912",
-    "lon": "14.6650"
+    "lat": 50.1912,
+    "lon": 14.665
   },
   {
     "name": "Brázdim",
-    "lat": "50.1831",
-    "lon": "14.5873"
+    "lat": 50.1831,
+    "lon": 14.5873
   },
   {
     "name": "Bratřínov",
-    "lat": "49.8426",
-    "lon": "14.3394"
+    "lat": 49.8426,
+    "lon": 14.3394
   },
   {
     "name": "Bratkovice",
-    "lat": "49.7404",
-    "lon": "13.9993"
+    "lat": 49.7404,
+    "lon": 13.9993
   },
   {
     "name": "Branov",
-    "lat": "50.0129",
-    "lon": "13.8429"
+    "lat": 50.0129,
+    "lon": 13.8429
   },
   {
     "name": "Branišov",
-    "lat": "48.9787",
-    "lon": "14.3957"
-  },
-  {
-    "name": "Brloh",
-    "lat": "50.0004",
-    "lon": "15.5562"
-  },
-  {
-    "name": "Bratřice",
-    "lat": "",
-    "lon": ""
+    "lat": 48.9787,
+    "lon": 14.3957
   },
   {
     "name": "Branice",
-    "lat": "49.4025",
-    "lon": "14.3395"
-  },
-  {
-    "name": "Bratronice",
-    "lat": "50.0677",
-    "lon": "14.0140"
+    "lat": 49.4025,
+    "lon": 14.3395
   },
   {
     "name": "Bradáčov",
-    "lat": "49.4910",
-    "lon": "14.8711"
+    "lat": 49.491,
+    "lon": 14.8711
   },
   {
     "name": "Brnířov",
-    "lat": "49.3826",
-    "lon": "13.0496"
+    "lat": 49.3826,
+    "lon": 13.0496
   },
   {
     "name": "Bražec",
-    "lat": "50.1746",
-    "lon": "13.0466"
+    "lat": 50.1746,
+    "lon": 13.0466
   },
   {
     "name": "Brodeslavy",
-    "lat": "49.9537",
-    "lon": "13.5570"
+    "lat": 49.9537,
+    "lon": 13.557
   },
   {
     "name": "Brod nad Tichou",
-    "lat": "49.8353",
-    "lon": "12.7411"
-  },
-  {
-    "name": "Broumov",
-    "lat": "50.5853",
-    "lon": "16.3325"
+    "lat": 49.8353,
+    "lon": 12.7411
   },
   {
     "name": "Brniště",
-    "lat": "50.7292",
-    "lon": "14.7034"
+    "lat": 50.7292,
+    "lon": 14.7034
   },
   {
     "name": "Brňany",
-    "lat": "50.4810",
-    "lon": "14.1419"
+    "lat": 50.481,
+    "lon": 14.1419
   },
   {
     "name": "Brozany nad Ohří",
-    "lat": "50.4537",
-    "lon": "14.1454"
+    "lat": 50.4537,
+    "lon": 14.1454
   },
   {
     "name": "Brzánky",
-    "lat": "50.4618",
-    "lon": "14.3012"
+    "lat": 50.4618,
+    "lon": 14.3012
   },
   {
     "name": "Brodec",
-    "lat": "50.2949",
-    "lon": "13.8016"
+    "lat": 50.2949,
+    "lon": 13.8016
   },
   {
     "name": "Braňany",
-    "lat": "50.5428",
-    "lon": "13.7001"
+    "lat": 50.5428,
+    "lon": 13.7001
   },
   {
     "name": "Brandov",
-    "lat": "50.6320",
-    "lon": "13.3907"
-  },
-  {
-    "name": "Brada-Rybníček",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Broumov",
-    "lat": "50.5853",
-    "lon": "16.3325"
+    "lat": 50.632,
+    "lon": 13.3907
   },
   {
     "name": "Brzice",
-    "lat": "50.4444",
-    "lon": "15.9583"
-  },
-  {
-    "name": "Brloh",
-    "lat": "",
-    "lon": ""
+    "lat": 50.4444,
+    "lon": 15.9583
   },
   {
     "name": "Bradlecká Lhota",
-    "lat": "50.4886",
-    "lon": "15.3962"
+    "lat": 50.4886,
+    "lon": 15.3962
   },
   {
     "name": "Brněnec",
-    "lat": "49.6274",
-    "lon": "16.5218"
+    "lat": 49.6274,
+    "lon": 16.5218
   },
   {
     "name": "Brandýs nad Orlicí",
-    "lat": "50.0019",
-    "lon": "16.2853"
+    "lat": 50.0019,
+    "lon": 16.2853
   },
   {
     "name": "Brťov-Jeneč",
-    "lat": "49.4138",
-    "lon": "16.5169"
+    "lat": 49.4138,
+    "lon": 16.5169
   },
   {
     "name": "Brno",
-    "lat": "49.1922",
-    "lon": "16.6113"
+    "lat": 49.1922,
+    "lon": 16.6113
   },
   {
     "name": "Braníškov",
-    "lat": "49.2944",
-    "lon": "16.3457"
+    "lat": 49.2944,
+    "lon": 16.3457
   },
   {
     "name": "Branišovice",
-    "lat": "48.9628",
-    "lon": "16.4318"
-  },
-  {
-    "name": "Bratčice",
-    "lat": "49.0651",
-    "lon": "16.5231"
+    "lat": 48.9628,
+    "lon": 16.4318
   },
   {
     "name": "Brumov",
-    "lat": "49.4624",
-    "lon": "16.4258"
+    "lat": 49.4624,
+    "lon": 16.4258
   },
   {
     "name": "Brod nad Dyjí",
-    "lat": "48.8752",
-    "lon": "16.5354"
-  },
-  {
-    "name": "Brumovice",
-    "lat": "48.9610",
-    "lon": "16.8963"
+    "lat": 48.8752,
+    "lon": 16.5354
   },
   {
     "name": "Bratřejov",
-    "lat": "49.2223",
-    "lon": "17.9135"
+    "lat": 49.2223,
+    "lon": 17.9135
   },
   {
     "name": "Brumov-Bylnice",
-    "lat": "49.0915",
-    "lon": "18.0227"
+    "lat": 49.0915,
+    "lon": 18.0227
   },
   {
     "name": "Brtnice",
-    "lat": "49.3068",
-    "lon": "15.6767"
+    "lat": 49.3068,
+    "lon": 15.6767
   },
   {
     "name": "Brtnička",
-    "lat": "49.2376",
-    "lon": "15.6225"
+    "lat": 49.2376,
+    "lon": 15.6225
   },
   {
     "name": "Brzkov",
-    "lat": "49.5259",
-    "lon": "15.7267"
+    "lat": 49.5259,
+    "lon": 15.7267
   },
   {
     "name": "Brusné",
-    "lat": "49.3634",
-    "lon": "17.6604"
+    "lat": 49.3634,
+    "lon": 17.6604
   },
   {
     "name": "Brodek u Konice",
-    "lat": "49.5487",
-    "lon": "16.8329"
+    "lat": 49.5487,
+    "lon": 16.8329
   },
   {
     "name": "Brodek u Prostějova",
-    "lat": "49.3700",
-    "lon": "17.0901"
+    "lat": 49.37,
+    "lon": 17.0901
   },
   {
     "name": "Bransouze",
-    "lat": "49.3026",
-    "lon": "15.7520"
+    "lat": 49.3026,
+    "lon": 15.752
   },
   {
     "name": "Brankovice",
-    "lat": "49.1560",
-    "lon": "17.1348"
+    "lat": 49.156,
+    "lon": 17.1348
   },
   {
     "name": "Brantice",
-    "lat": "50.0636",
-    "lon": "17.6290"
+    "lat": 50.0636,
+    "lon": 17.629
   },
   {
     "name": "Bruntál",
-    "lat": "49.9885",
-    "lon": "17.4653"
+    "lat": 49.9885,
+    "lon": 17.4653
   },
   {
     "name": "Brušperk",
-    "lat": "49.7004",
-    "lon": "18.2216"
+    "lat": 49.7004,
+    "lon": 18.2216
   },
   {
     "name": "Bruzovice",
-    "lat": "49.7176",
-    "lon": "18.4098"
+    "lat": 49.7176,
+    "lon": 18.4098
   },
   {
     "name": "Bravantice",
-    "lat": "49.7571",
-    "lon": "18.0828"
+    "lat": 49.7571,
+    "lon": 18.0828
   },
   {
     "name": "Branka u Opavy",
-    "lat": "49.8880",
-    "lon": "17.8826"
+    "lat": 49.888,
+    "lon": 17.8826
   },
   {
     "name": "Bratříkovice",
-    "lat": "49.9325",
-    "lon": "17.6881"
-  },
-  {
-    "name": "Brumovice",
-    "lat": "48.9610",
-    "lon": "16.8963"
+    "lat": 49.9325,
+    "lon": 17.6881
   },
   {
     "name": "Brodek u Přerova",
-    "lat": "49.4842",
-    "lon": "17.3382"
+    "lat": 49.4842,
+    "lon": 17.3382
   },
   {
     "name": "Branná",
-    "lat": "50.1532",
-    "lon": "17.0115"
+    "lat": 50.1532,
+    "lon": 17.0115
   },
   {
     "name": "Bratrušov",
-    "lat": "50.0093",
-    "lon": "16.9496"
+    "lat": 50.0093,
+    "lon": 16.9496
   },
   {
     "name": "Brníčko",
-    "lat": "49.8949",
-    "lon": "16.9682"
+    "lat": 49.8949,
+    "lon": 16.9682
   },
   {
     "name": "Branky",
-    "lat": "49.4609",
-    "lon": "17.8931"
+    "lat": 49.4609,
+    "lon": 17.8931
+  },
+  {
+    "name": "Bratronice (Kladno)",
+    "lat": 50.0677,
+    "lon": 14.014
+  },
+  {
+    "name": "Bratronice (Strakonice)",
+    "lat": 49.3653,
+    "lon": 13.8423
+  },
+  {
+    "name": "Bratronice (Mladá Boleslav)",
+    "lat": 50.2997,
+    "lon": 14.9557
+  },
+  {
+    "name": "Bratčice (Brno-venkov)",
+    "lat": 49.0651,
+    "lon": 16.5231
+  },
+  {
+    "name": "Bratčice (Kutná Hora)",
+    "lat": 49.8552,
+    "lon": 15.4304
+  },
+  {
+    "name": "Brloh (Pardubice)",
+    "lat": 50.0004,
+    "lon": 15.5562
+  },
+  {
+    "name": "Brloh (Český Krumlov)",
+    "lat": 48.9297,
+    "lon": 14.2189
+  },
+  {
+    "name": "Brloh (Louny)",
+    "lat": 50.3186,
+    "lon": 13.8259
+  },
+  {
+    "name": "Brloh (Písek)",
+    "lat": 49.3268,
+    "lon": 14.0185
+  },
+  {
+    "name": "Broumov (Náchod)",
+    "lat": 50.5853,
+    "lon": 16.3325
+  },
+  {
+    "name": "Broumov (Tachov)",
+    "lat": 49.8894,
+    "lon": 12.6062
+  },
+  {
+    "name": "Brumovice (Břeclav)",
+    "lat": 48.961,
+    "lon": 16.8963
+  },
+  {
+    "name": "Brumovice (Opava)",
+    "lat": 50.0153,
+    "lon": 17.7504
+  },
+  {
+    "name": "Bratřice",
+    "lat": 49.5164508,
+    "lon": 15.0012236
+  },
+  {
+    "name": "Brada-Rybníček",
+    "lat": 50.462366,
+    "lon": 15.335019
   }
 ]

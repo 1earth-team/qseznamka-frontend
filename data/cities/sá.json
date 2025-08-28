@@ -1,37 +1,67 @@
 [
   {
-    "name": "Sázava",
-    "lat": "49.5598",
-    "lon": "15.8574"
-  },
-  {
     "name": "Sány",
-    "lat": "50.1245",
-    "lon": "15.2480"
-  },
-  {
-    "name": "Sádek",
-    "lat": "49.6926",
-    "lon": "16.2256"
+    "lat": 50.1245,
+    "lon": 15.248
   },
   {
     "name": "Sázavka",
-    "lat": "49.7344",
-    "lon": "15.4105"
+    "lat": 49.7344,
+    "lon": 15.4105
   },
   {
-    "name": "Sádek",
-    "lat": "49.6926",
-    "lon": "16.2256"
+    "name": "Sázava (Ústí nad Orlicí)",
+    "lat": 49.9082,
+    "lon": 16.6409
+  },
+  {
+    "name": "Sázava (Žďár nad Sázavou)",
+    "lat": 49.5598,
+    "lon": 15.8574
+  },
+  {
+    "name": "Sázava (Benešov)",
+    "lat": 49.8718,
+    "lon": 14.8967
   },
   {
     "name": "Sázava",
-    "lat": "49.5598",
-    "lon": "15.8574"
+    "lat": 49.7196,
+    "lon": 15.2001
   },
   {
-    "name": "Sázava",
-    "lat": "49.5598",
-    "lon": "15.8574"
+    "name": "Sázava (Pelhřimov)",
+    "lat": 49.3936,
+    "lon": 15.3299
+  },
+  {
+    "name": "Sádek (Svitavy)",
+    "lat": 49.6926,
+    "lon": 16.2256
+  },
+  {
+    "name": "Sádek (Příbram)",
+    "lat": 49.7331,
+    "lon": 13.9827
+  },
+  {
+    "name": "Sádek (Opava)",
+    "lat": 49.9523,
+    "lon": 17.7483
+  },
+  {
+    "name": "Sádek (Žďár nad Sázavou)",
+    "lat": 49.4619,
+    "lon": 15.8303
+  },
+  {
+    "name": "Sádek (Domažlice)",
+    "lat": 49.4293,
+    "lon": 12.7822
+  },
+  {
+    "name": "Sádek (Třebíč)",
+    "lat": 49.1548,
+    "lon": 15.797
   }
 ]

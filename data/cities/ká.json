@@ -1,37 +1,62 @@
 [
   {
     "name": "Kácov",
-    "lat": "49.7776",
-    "lon": "15.0285"
+    "lat": 49.7776,
+    "lon": 15.0285
   },
   {
     "name": "Káraný",
-    "lat": "50.1748",
-    "lon": "14.7370"
+    "lat": 50.1748,
+    "lon": 14.737
   },
   {
     "name": "Kájov",
-    "lat": "48.8110",
-    "lon": "14.2584"
-  },
-  {
-    "name": "Kámen",
-    "lat": "49.4233",
-    "lon": "15.0159"
-  },
-  {
-    "name": "Kámen",
-    "lat": "49.4233",
-    "lon": "15.0159"
-  },
-  {
-    "name": "Kámen",
-    "lat": "49.4233",
-    "lon": "15.0159"
+    "lat": 48.811,
+    "lon": 14.2584
   },
   {
     "name": "Káranice",
-    "lat": "50.1530",
-    "lon": "15.5575"
+    "lat": 50.153,
+    "lon": 15.5575
+  },
+  {
+    "name": "Kámen (Pelhřimov)",
+    "lat": 49.4233,
+    "lon": 15.0159
+  },
+  {
+    "name": "Kámen (Havlíčkův Brod)",
+    "lat": 49.7128,
+    "lon": 15.5199
+  },
+  {
+    "name": "Kámen (Děčín)",
+    "lat": 50.8102,
+    "lon": 14.2684
+  },
+  {
+    "name": "Kámen (Jindřichův Hradec)",
+    "lat": 49.172,
+    "lon": 15.2329
+  },
+  {
+    "name": "Kámen (Domažlice)",
+    "lat": 49.3738,
+    "lon": 13.1221
+  },
+  {
+    "name": "Kámen (Plzeň-jih)",
+    "lat": 49.5281,
+    "lon": 13.5772
+  },
+  {
+    "name": "Kámen (Klatovy)",
+    "lat": 49.4948,
+    "lon": 13.2134
+  },
+  {
+    "name": "Kámen (Sokolov)",
+    "lat": 50.3025,
+    "lon": 12.4157
   }
 ]

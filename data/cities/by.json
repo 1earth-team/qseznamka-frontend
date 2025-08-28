@@ -1,102 +1,127 @@
 [
   {
-    "name": "Bystřice",
-    "lat": "49.7321",
-    "lon": "14.6674"
-  },
-  {
     "name": "Bykoš",
-    "lat": "49.8830",
-    "lon": "14.0636"
+    "lat": 49.883,
+    "lon": 14.0636
   },
   {
     "name": "Byšice",
-    "lat": "50.3102",
-    "lon": "14.6116"
+    "lat": 50.3102,
+    "lon": 14.6116
   },
   {
     "name": "Bystrá",
-    "lat": "49.5085",
-    "lon": "15.3712"
+    "lat": 49.5085,
+    "lon": 15.3712
   },
   {
     "name": "Bynovec",
-    "lat": "50.8208",
-    "lon": "14.2642"
+    "lat": 50.8208,
+    "lon": 14.2642
   },
   {
     "name": "Bystřany",
-    "lat": "50.6285",
-    "lon": "13.8644"
+    "lat": 50.6285,
+    "lon": 13.8644
   },
   {
     "name": "Bylany",
-    "lat": "49.9569",
-    "lon": "15.7332"
-  },
-  {
-    "name": "Bystřice",
-    "lat": "49.7321",
-    "lon": "14.6674"
-  },
-  {
-    "name": "Bystré",
-    "lat": "49.6283",
-    "lon": "16.3470"
+    "lat": 49.9569,
+    "lon": 15.7332
   },
   {
     "name": "Byzhradec",
-    "lat": "50.2158",
-    "lon": "16.1902"
+    "lat": 50.2158,
+    "lon": 16.1902
   },
   {
     "name": "Bystrá nad Jizerou",
-    "lat": "50.6047",
-    "lon": "15.4015"
-  },
-  {
-    "name": "Bystré",
-    "lat": "49.6283",
-    "lon": "16.3470"
+    "lat": 50.6047,
+    "lon": 15.4015
   },
   {
     "name": "Bystřec",
-    "lat": "50.0117",
-    "lon": "16.6190"
+    "lat": 50.0117,
+    "lon": 16.619
   },
   {
     "name": "Bystřice pod Hostýnem",
-    "lat": "49.3995",
-    "lon": "17.6738"
+    "lat": 49.3995,
+    "lon": 17.6738
   },
   {
     "name": "Bystřice pod Lopeníkem",
-    "lat": "48.9748",
-    "lon": "17.7640"
+    "lat": 48.9748,
+    "lon": 17.764
   },
   {
     "name": "Bystřice nad Pernštejnem",
-    "lat": "49.5230",
-    "lon": "16.2611"
-  },
-  {
-    "name": "Bystřice",
-    "lat": "49.7321",
-    "lon": "14.6674"
+    "lat": 49.523,
+    "lon": 16.2611
   },
   {
     "name": "Bystročice",
-    "lat": "49.5362",
-    "lon": "17.1935"
+    "lat": 49.5362,
+    "lon": 17.1935
   },
   {
     "name": "Bystrovany",
-    "lat": "49.5962",
-    "lon": "17.3250"
+    "lat": 49.5962,
+    "lon": 17.325
   },
   {
     "name": "Bystřička",
-    "lat": "49.4157",
-    "lon": "17.9739"
+    "lat": 49.4157,
+    "lon": 17.9739
+  },
+  {
+    "name": "Bystřice (Benešov)",
+    "lat": 49.7321,
+    "lon": 14.6674
+  },
+  {
+    "name": "Bystřice (Frýdek-Místek)",
+    "lat": 49.6363,
+    "lon": 18.7205
+  },
+  {
+    "name": "Bystřice (Jičín)",
+    "lat": 50.3929,
+    "lon": 15.2441
+  },
+  {
+    "name": "Bystřice",
+    "lat": 50.2868,
+    "lon": 15.6804
+  },
+  {
+    "name": "Bystřice (Domažlice)",
+    "lat": 49.5698,
+    "lon": 12.702
+  },
+  {
+    "name": "Bystřice (Žďár nad Sázavou)",
+    "lat": 49.5303,
+    "lon": 16.2387
+  },
+  {
+    "name": "Bystřice (Teplice)",
+    "lat": 50.6685,
+    "lon": 13.8061
+  },
+  {
+    "name": "Bystré (Svitavy)",
+    "lat": 49.6283,
+    "lon": 16.347
+  },
+  {
+    "name": "Bystré (Rychnov nad Kněžnou)",
+    "lat": 50.3215,
+    "lon": 16.2552
+  },
+  {
+    "name": "Bystré (Frýdek-Místek)",
+    "lat": 49.5768,
+    "lon": 18.8284
   }
 ]

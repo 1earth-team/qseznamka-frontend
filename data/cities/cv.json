@@ -1,17 +1,27 @@
 [
   {
-    "name": "Cvrčovice",
-    "lat": "48.9937",
-    "lon": "16.5145"
-  },
-  {
     "name": "Cvikov",
-    "lat": "50.7767",
-    "lon": "14.6330"
+    "lat": 50.7767,
+    "lon": 14.633
   },
   {
-    "name": "Cvrčovice",
-    "lat": "48.9937",
-    "lon": "16.5145"
+    "name": "Cvrčovice (Brno-venkov)",
+    "lat": 48.9937,
+    "lon": 16.5145
+  },
+  {
+    "name": "Cvrčovice (Kladno)",
+    "lat": 50.1798,
+    "lon": 14.1548
+  },
+  {
+    "name": "Cvrčovice (Praha-východ)",
+    "lat": 50.1654,
+    "lon": 14.6075
+  },
+  {
+    "name": "Cvrčovice (Kroměříž)",
+    "lat": 49.2243,
+    "lon": 17.3378
   }
 ]

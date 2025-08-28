@@ -1,37 +1,82 @@
 [
   {
-    "name": "Dvory",
-    "lat": "50.2117",
-    "lon": "14.9951"
-  },
-  {
     "name": "Dvory nad Lužnicí",
-    "lat": "48.8527",
-    "lon": "14.9005"
-  },
-  {
-    "name": "Dvory",
-    "lat": "50.2117",
-    "lon": "14.9951"
+    "lat": 48.8527,
+    "lon": 14.9005
   },
   {
     "name": "Dvakačovice",
-    "lat": "49.9791",
-    "lon": "15.8945"
+    "lat": 49.9791,
+    "lon": 15.8945
   },
   {
     "name": "Dvůr Králové nad Labem",
-    "lat": "50.4320",
-    "lon": "15.8140"
+    "lat": 50.432,
+    "lon": 15.814
   },
   {
-    "name": "Dvorce",
-    "lat": "49.3754",
-    "lon": "15.4904"
+    "name": "Dvory (Nymburk)",
+    "lat": 50.2117,
+    "lon": 14.9951
   },
   {
-    "name": "Dvorce",
-    "lat": "49.3754",
-    "lon": "15.4904"
+    "name": "Dvory (Prachatice)",
+    "lat": 49.0394,
+    "lon": 13.9461
+  },
+  {
+    "name": "Dvory (České Budějovice)",
+    "lat": 48.994,
+    "lon": 14.4074
+  },
+  {
+    "name": "Dvory (Karlovy Vary)",
+    "lat": 50.2245,
+    "lon": 12.8324
+  },
+  {
+    "name": "Dvory (Brno-venkov)",
+    "lat": 49.3831,
+    "lon": 16.5142
+  },
+  {
+    "name": "Dvorce (Jihlava)",
+    "lat": 49.3754,
+    "lon": 15.4904
+  },
+  {
+    "name": "Dvorce (Bruntál)",
+    "lat": 49.8333,
+    "lon": 17.5476
+  },
+  {
+    "name": "Dvorce (Příbram)",
+    "lat": 49.5597,
+    "lon": 14.5851
+  },
+  {
+    "name": "Dvorce (Nymburk)",
+    "lat": 50.2073,
+    "lon": 14.7967
+  },
+  {
+    "name": "Dvorce (Tábor)",
+    "lat": 49.2851,
+    "lon": 14.7858
+  },
+  {
+    "name": "Dvorce (Jindřichův Hradec)",
+    "lat": 49.0015,
+    "lon": 14.7281
+  },
+  {
+    "name": "Dvorce (Havlíčkův Brod)",
+    "lat": 49.6175,
+    "lon": 15.6177
+  },
+  {
+    "name": "Dvorce (Jičín)",
+    "lat": 50.4379,
+    "lon": 15.4039
   }
 ]

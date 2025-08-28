@@ -1,247 +1,302 @@
 [
   {
-    "name": "Lešany",
-    "lat": "49.8445",
-    "lon": "14.5248"
-  },
-  {
-    "name": "Ledce",
-    "lat": "49.0515",
-    "lon": "16.5570"
-  },
-  {
     "name": "Ledečko",
-    "lat": "49.8499",
-    "lon": "14.9493"
+    "lat": 49.8499,
+    "lon": 14.9493
   },
   {
     "name": "Ledčice",
-    "lat": "50.3409",
-    "lon": "14.2945"
-  },
-  {
-    "name": "Ledce",
-    "lat": "49.0515",
-    "lon": "16.5570"
-  },
-  {
-    "name": "Lety",
-    "lat": "49.9214",
-    "lon": "14.2555"
-  },
-  {
-    "name": "Lešetice",
-    "lat": "",
-    "lon": ""
+    "lat": 50.3409,
+    "lon": 14.2945
   },
   {
     "name": "Ledenice",
-    "lat": "48.9333",
-    "lon": "14.6189"
+    "lat": 48.9333,
+    "lon": 14.6189
   },
   {
     "name": "Leskovice",
-    "lat": "49.4299",
-    "lon": "15.0811"
-  },
-  {
-    "name": "Lesná",
-    "lat": "48.9072",
-    "lon": "15.8687"
-  },
-  {
-    "name": "Lety",
-    "lat": "49.9214",
-    "lon": "14.2555"
+    "lat": 49.4299,
+    "lon": 15.0811
   },
   {
     "name": "Lenora",
-    "lat": "48.9232",
-    "lon": "13.7950"
+    "lat": 48.9232,
+    "lon": 13.795
   },
   {
     "name": "Letkov",
-    "lat": "49.7299",
-    "lon": "13.4621"
+    "lat": 49.7299,
+    "lon": 13.4621
   },
   {
     "name": "Letiny",
-    "lat": "49.5398",
-    "lon": "13.4547"
-  },
-  {
-    "name": "Ledce",
-    "lat": "49.0515",
-    "lon": "16.5570"
-  },
-  {
-    "name": "Lesná",
-    "lat": "48.9072",
-    "lon": "15.8687"
+    "lat": 49.5398,
+    "lon": 13.4547
   },
   {
     "name": "Lestkov",
-    "lat": "49.8829",
-    "lon": "12.8710"
+    "lat": 49.8829,
+    "lon": 12.871
   },
   {
     "name": "Levín",
-    "lat": "50.6138",
-    "lon": "14.2842"
+    "lat": 50.6138,
+    "lon": 14.2842
   },
   {
     "name": "Lenešice",
-    "lat": "50.3752",
-    "lon": "13.7659"
+    "lat": 50.3752,
+    "lon": 13.7659
   },
   {
     "name": "Ledvice",
-    "lat": "50.5850",
-    "lon": "13.7720"
+    "lat": 50.585,
+    "lon": 13.772
   },
   {
     "name": "Ledeč nad Sázavou",
-    "lat": "49.6950",
-    "lon": "15.2778"
+    "lat": 49.695,
+    "lon": 15.2778
   },
   {
     "name": "Leškovice",
-    "lat": "49.7629",
-    "lon": "15.5370"
+    "lat": 49.7629,
+    "lon": 15.537
   },
   {
     "name": "Leština u Světlé",
-    "lat": "49.7613",
-    "lon": "15.3976"
-  },
-  {
-    "name": "Ledce",
-    "lat": "49.0515",
-    "lon": "16.5570"
+    "lat": 49.7613,
+    "lon": 15.3976
   },
   {
     "name": "Lejšovka",
-    "lat": "50.2977",
-    "lon": "15.9423"
+    "lat": 50.2977,
+    "lon": 15.9423
   },
   {
     "name": "Leštinka",
-    "lat": "49.8452",
-    "lon": "15.9589"
+    "lat": 49.8452,
+    "lon": 15.9589
   },
   {
     "name": "Levínská Olešnice",
-    "lat": "50.5282",
-    "lon": "15.5407"
-  },
-  {
-    "name": "Leština",
-    "lat": "49.8677",
-    "lon": "16.1178"
+    "lat": 50.5282,
+    "lon": 15.5407
   },
   {
     "name": "Letohrad",
-    "lat": "50.0361",
-    "lon": "16.4986"
+    "lat": 50.0361,
+    "lon": 16.4986
   },
   {
     "name": "Letovice",
-    "lat": "49.5467",
-    "lon": "16.5739"
-  },
-  {
-    "name": "Ledce",
-    "lat": "49.0515",
-    "lon": "16.5570"
+    "lat": 49.5467,
+    "lon": 16.5739
   },
   {
     "name": "Lelekovice",
-    "lat": "49.2951",
-    "lon": "16.5828"
+    "lat": 49.2951,
+    "lon": 16.5828
   },
   {
     "name": "Lesní Hluboké",
-    "lat": "49.2688",
-    "lon": "16.3063"
+    "lat": 49.2688,
+    "lon": 16.3063
   },
   {
     "name": "Lednice",
-    "lat": "48.8001",
-    "lon": "16.8040"
+    "lat": 48.8001,
+    "lon": 16.804
   },
   {
     "name": "Lechotice",
-    "lat": "49.2739",
-    "lon": "17.5876"
-  },
-  {
-    "name": "Lešany",
-    "lat": "49.8445",
-    "lon": "14.5248"
-  },
-  {
-    "name": "Lesná",
-    "lat": "",
-    "lon": ""
+    "lat": 49.2739,
+    "lon": 17.5876
   },
   {
     "name": "Lesní Jakubov",
-    "lat": "49.2058",
-    "lon": "16.2434"
-  },
-  {
-    "name": "Lesonice",
-    "lat": "49.1082",
-    "lon": "15.7566"
+    "lat": 49.2058,
+    "lon": 16.2434
   },
   {
     "name": "Lesůňky",
-    "lat": "49.1071",
-    "lon": "15.8423"
+    "lat": 49.1071,
+    "lon": 15.8423
   },
   {
     "name": "Letonice",
-    "lat": "49.1773",
-    "lon": "16.9591"
+    "lat": 49.1773,
+    "lon": 16.9591
   },
   {
     "name": "Lechovice",
-    "lat": "48.8729",
-    "lon": "16.2218"
-  },
-  {
-    "name": "Lesná",
-    "lat": "48.9072",
-    "lon": "15.8687"
-  },
-  {
-    "name": "Lesonice",
-    "lat": "49.1082",
-    "lon": "15.7566"
+    "lat": 48.8729,
+    "lon": 16.2218
   },
   {
     "name": "Leskovec nad Moravicí",
-    "lat": "49.9059",
-    "lon": "17.5745"
+    "lat": 49.9059,
+    "lon": 17.5745
   },
   {
     "name": "Lesnice",
-    "lat": "49.8838",
-    "lon": "16.9412"
-  },
-  {
-    "name": "Leština",
-    "lat": "49.8677",
-    "lon": "16.1178"
+    "lat": 49.8838,
+    "lon": 16.9412
   },
   {
     "name": "Leskovec",
-    "lat": "49.2842",
-    "lon": "17.9987"
+    "lat": 49.2842,
+    "lon": 17.9987
   },
   {
     "name": "Lešná",
-    "lat": "49.5204",
-    "lon": "17.9299"
+    "lat": 49.5204,
+    "lon": 17.9299
+  },
+  {
+    "name": "Lešany (Benešov)",
+    "lat": 49.8445,
+    "lon": 14.5248
+  },
+  {
+    "name": "Lešany (Prostějov)",
+    "lat": 49.4997,
+    "lon": 17.0241
+  },
+  {
+    "name": "Lešany (Chrudim)",
+    "lat": 49.8164,
+    "lon": 16.0311
+  },
+  {
+    "name": "Lešany (Mělník)",
+    "lat": 50.2558,
+    "lon": 14.2854
+  },
+  {
+    "name": "Ledce (Brno-venkov)",
+    "lat": 49.0515,
+    "lon": 16.557
+  },
+  {
+    "name": "Ledce (Mladá Boleslav)",
+    "lat": 50.3559,
+    "lon": 15.082
+  },
+  {
+    "name": "Ledce (Hradec Králové)",
+    "lat": 50.2238,
+    "lon": 16.0425
+  },
+  {
+    "name": "Ledce (Plzeň-sever)",
+    "lat": 49.8215,
+    "lon": 13.3284
+  },
+  {
+    "name": "Ledce (Kladno)",
+    "lat": 50.1964,
+    "lon": 14.005
+  },
+  {
+    "name": "Ledce (Benešov)",
+    "lat": 49.8548,
+    "lon": 14.6225
+  },
+  {
+    "name": "Lety (Praha-západ)",
+    "lat": 49.9214,
+    "lon": 14.2555
+  },
+  {
+    "name": "Lety (Písek)",
+    "lat": 49.5169,
+    "lon": 14.0878
+  },
+  {
+    "name": "Lesná (Pelhřimov)",
+    "lat": 49.5179,
+    "lon": 15.0576
+  },
+  {
+    "name": "Lesná (Znojmo)",
+    "lat": 48.9072,
+    "lon": 15.8687
+  },
+  {
+    "name": "Lesná (Třebíč)",
+    "lat": 49.1729,
+    "lon": 15.6788
+  },
+  {
+    "name": "Lesná (Tachov)",
+    "lat": 49.7542,
+    "lon": 12.5377
+  },
+  {
+    "name": "Lesná (Brno-město)",
+    "lat": 49.2261,
+    "lon": 16.6272
+  },
+  {
+    "name": "Lesná (Děčín)",
+    "lat": 50.7243,
+    "lon": 14.2306
+  },
+  {
+    "name": "Lesná (Uherské Hradiště)",
+    "lat": 48.8978,
+    "lon": 17.6494
+  },
+  {
+    "name": "Lesná (Vsetín)",
+    "lat": 49.5204,
+    "lon": 17.9299
+  },
+  {
+    "name": "Leština (Ústí nad Orlicí)",
+    "lat": 49.8677,
+    "lon": 16.1178
+  },
+  {
+    "name": "Leština (Šumperk)",
+    "lat": 49.8688,
+    "lon": 16.9275
+  },
+  {
+    "name": "Leština (Ústí nad Labem)",
+    "lat": 50.6584,
+    "lon": 14.2001
+  },
+  {
+    "name": "Leština (Havlíčkův Brod)",
+    "lat": 49.7681,
+    "lon": 15.3731
+  },
+  {
+    "name": "Leština (Jindřichův Hradec)",
+    "lat": 49.1427,
+    "lon": 15.2134
+  },
+  {
+    "name": "Leština (Pelhřimov)",
+    "lat": 49.5472,
+    "lon": 15.2301
+  },
+  {
+    "name": "Lesonice (Třebíč)",
+    "lat": 49.1082,
+    "lon": 15.7566
+  },
+  {
+    "name": "Lesonice (Znojmo)",
+    "lat": 49.0034,
+    "lon": 16.3104
+  },
+  {
+    "name": "Lešetice",
+    "lat": 49.6471104,
+    "lon": 14.020938
   }
 ]

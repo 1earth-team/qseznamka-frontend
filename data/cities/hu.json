@@ -1,97 +1,102 @@
 [
   {
     "name": "Hulice",
-    "lat": "49.7096",
-    "lon": "15.0876"
+    "lat": 49.7096,
+    "lon": 15.0876
   },
   {
     "name": "Hudlice",
-    "lat": "49.9610",
-    "lon": "13.9706"
+    "lat": 49.961,
+    "lon": 13.9706
   },
   {
     "name": "Husí Lhota",
-    "lat": "50.4355",
-    "lon": "15.0047"
-  },
-  {
-    "name": "Husinec",
-    "lat": "50.1737",
-    "lon": "14.3751"
+    "lat": 50.4355,
+    "lon": 15.0047
   },
   {
     "name": "Hudčice",
-    "lat": "49.5317",
-    "lon": "13.9225"
+    "lat": 49.5317,
+    "lon": 13.9225
   },
   {
     "name": "Humpolec",
-    "lat": "49.5419",
-    "lon": "15.3587"
-  },
-  {
-    "name": "Husinec",
-    "lat": "50.1737",
-    "lon": "14.3751"
+    "lat": 49.5419,
+    "lon": 15.3587
   },
   {
     "name": "Huntířov",
-    "lat": "50.7894",
-    "lon": "14.3034"
+    "lat": 50.7894,
+    "lon": 14.3034
   },
   {
     "name": "Hurtova Lhota",
-    "lat": "49.5963",
-    "lon": "15.5091"
+    "lat": 49.5963,
+    "lon": 15.5091
   },
   {
     "name": "Humburky",
-    "lat": "50.2260",
-    "lon": "15.5115"
+    "lat": 50.226,
+    "lon": 15.5115
   },
   {
     "name": "Hustopeče",
-    "lat": "48.9400",
-    "lon": "16.7370"
+    "lat": 48.94,
+    "lon": 16.737
   },
   {
     "name": "Hubenov",
-    "lat": "49.3924",
-    "lon": "15.4690"
+    "lat": 49.3924,
+    "lon": 15.469
   },
   {
     "name": "Hulín",
-    "lat": "49.3170",
-    "lon": "17.4635"
+    "lat": 49.317,
+    "lon": 17.4635
   },
   {
     "name": "Huštěnovice",
-    "lat": "49.1066",
-    "lon": "17.4657"
+    "lat": 49.1066,
+    "lon": 17.4657
   },
   {
     "name": "Hukvaldy",
-    "lat": "49.6238",
-    "lon": "18.2219"
+    "lat": 49.6238,
+    "lon": 18.2219
   },
   {
     "name": "Huzová",
-    "lat": "49.8202",
-    "lon": "17.2984"
+    "lat": 49.8202,
+    "lon": 17.2984
   },
   {
     "name": "Hustopeče nad Bečvou",
-    "lat": "49.5302",
-    "lon": "17.8703"
+    "lat": 49.5302,
+    "lon": 17.8703
   },
   {
     "name": "Huslenky",
-    "lat": "49.3032",
-    "lon": "18.0904"
+    "lat": 49.3032,
+    "lon": 18.0904
   },
   {
     "name": "Hutisko-Solanec",
-    "lat": "49.4313",
-    "lon": "18.2141"
+    "lat": 49.4313,
+    "lon": 18.2141
+  },
+  {
+    "name": "Husinec (Praha-východ)",
+    "lat": 50.1737,
+    "lon": 14.3751
+  },
+  {
+    "name": "Husinec (Prachatice)",
+    "lat": 49.055,
+    "lon": 13.987
+  },
+  {
+    "name": "Husinec (Kutná Hora)",
+    "lat": 49.96,
+    "lon": 15.5196
   }
 ]

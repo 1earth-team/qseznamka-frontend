@@ -1,17 +1,17 @@
 [
   {
-    "name": "Nučice",
-    "lat": "49.9555",
-    "lon": "14.8844"
-  },
-  {
     "name": "Nupaky",
-    "lat": "49.9939",
-    "lon": "14.6022"
+    "lat": 49.9939,
+    "lon": 14.6022
   },
   {
-    "name": "Nučice",
-    "lat": "49.9555",
-    "lon": "14.8844"
+    "name": "Nučice (Praha-východ)",
+    "lat": 49.9555,
+    "lon": 14.8844
+  },
+  {
+    "name": "Nučice (Praha-západ)",
+    "lat": 50.0175,
+    "lon": 14.232
   }
 ]

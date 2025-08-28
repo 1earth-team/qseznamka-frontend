@@ -1,82 +1,87 @@
 [
   {
-    "name": "Němčice",
-    "lat": "50.3468",
-    "lon": "14.9266"
-  },
-  {
-    "name": "Němčice",
-    "lat": "50.3468",
-    "lon": "14.9266"
-  },
-  {
-    "name": "Němčice",
-    "lat": "50.3468",
-    "lon": "14.9266"
-  },
-  {
-    "name": "Němčice",
-    "lat": "50.3468",
-    "lon": "14.9266"
-  },
-  {
     "name": "Němětice",
-    "lat": "49.1946",
-    "lon": "13.8790"
-  },
-  {
-    "name": "Němčice",
-    "lat": "50.3468",
-    "lon": "14.9266"
+    "lat": 49.1946,
+    "lon": 13.879
   },
   {
     "name": "Němčovice",
-    "lat": "49.8769",
-    "lon": "13.5749"
-  },
-  {
-    "name": "Němčice",
-    "lat": "50.3468",
-    "lon": "14.9266"
-  },
-  {
-    "name": "Němčice",
-    "lat": "50.3468",
-    "lon": "14.9266"
-  },
-  {
-    "name": "Němčice",
-    "lat": "50.3468",
-    "lon": "14.9266"
-  },
-  {
-    "name": "Němčičky",
-    "lat": "49.0506",
-    "lon": "16.5009"
-  },
-  {
-    "name": "Němčičky",
-    "lat": "49.0506",
-    "lon": "16.5009"
-  },
-  {
-    "name": "Němčice",
-    "lat": "50.3468",
-    "lon": "14.9266"
+    "lat": 49.8769,
+    "lon": 13.5749
   },
   {
     "name": "Němčice nad Hanou",
-    "lat": "49.3421",
-    "lon": "17.2057"
+    "lat": 49.3421,
+    "lon": 17.2057
   },
   {
     "name": "Němčany",
-    "lat": "49.1645",
-    "lon": "16.9195"
+    "lat": 49.1645,
+    "lon": 16.9195
   },
   {
-    "name": "Němčičky",
-    "lat": "49.0506",
-    "lon": "16.5009"
+    "name": "Němčice (Mladá Boleslav)",
+    "lat": 50.3468,
+    "lon": 14.9266
+  },
+  {
+    "name": "Němčice (Blansko)",
+    "lat": 49.45,
+    "lon": 16.718
+  },
+  {
+    "name": "Němčice (Strakonice)",
+    "lat": 49.1927,
+    "lon": 13.8001
+  },
+  {
+    "name": "Němčice (Kolín)",
+    "lat": 50.0844,
+    "lon": 15.294
+  },
+  {
+    "name": "Němčice (Pardubice)",
+    "lat": 50.0929,
+    "lon": 15.8058
+  },
+  {
+    "name": "Němčice (Svitavy)",
+    "lat": 49.8906,
+    "lon": 16.3432
+  },
+  {
+    "name": "Němčice (Domažlice)",
+    "lat": 49.4251,
+    "lon": 13.0775
+  },
+  {
+    "name": "Němčice (Prachatice)",
+    "lat": 49.0318,
+    "lon": 14.2712
+  },
+  {
+    "name": "Němčice (Kroměříž)",
+    "lat": 49.3645,
+    "lon": 17.4986
+  },
+  {
+    "name": "Němčice (Benešov)",
+    "lat": 49.6729,
+    "lon": 15.1025
+  },
+  {
+    "name": "Němčičky (Břeclav)",
+    "lat": 48.9356,
+    "lon": 16.8243
+  },
+  {
+    "name": "Němčičky (Brno-venkov)",
+    "lat": 49.0506,
+    "lon": 16.5009
+  },
+  {
+    "name": "Němčičky (Znojmo)",
+    "lat": 48.9422,
+    "lon": 16.0884
   }
 ]

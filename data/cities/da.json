@@ -1,87 +1,97 @@
 [
   {
-    "name": "Dalovice",
-    "lat": "50.4257",
-    "lon": "14.8799"
-  },
-  {
     "name": "Davle",
-    "lat": "49.8922",
-    "lon": "14.4004"
+    "lat": 49.8922,
+    "lon": 14.4004
   },
   {
     "name": "Daleké Dušníky",
-    "lat": "49.7275",
-    "lon": "14.1865"
+    "lat": 49.7275,
+    "lon": 14.1865
   },
   {
     "name": "Dasný",
-    "lat": "49.0193",
-    "lon": "14.4068"
+    "lat": 49.0193,
+    "lon": 14.4068
   },
   {
     "name": "Dačice",
-    "lat": "49.0818",
-    "lon": "15.4372"
-  },
-  {
-    "name": "Dalovice",
-    "lat": "50.4257",
-    "lon": "14.8799"
+    "lat": 49.0818,
+    "lon": 15.4372
   },
   {
     "name": "Dasnice",
-    "lat": "50.1465",
-    "lon": "12.5672"
-  },
-  {
-    "name": "Dalešice",
-    "lat": "49.1290",
-    "lon": "16.0817"
+    "lat": 50.1465,
+    "lon": 12.5672
   },
   {
     "name": "Dašice",
-    "lat": "50.0284",
-    "lon": "15.9124"
+    "lat": 50.0284,
+    "lon": 15.9124
   },
   {
     "name": "Damníkov",
-    "lat": "49.8709",
-    "lon": "16.5610"
+    "lat": 49.8709,
+    "lon": 16.561
   },
   {
     "name": "Dambořice",
-    "lat": "49.0383",
-    "lon": "16.9176"
-  },
-  {
-    "name": "Dalešice",
-    "lat": "49.1290",
-    "lon": "16.0817"
+    "lat": 49.0383,
+    "lon": 16.9176
   },
   {
     "name": "Damnice",
-    "lat": "48.9203",
-    "lon": "16.3741"
+    "lat": 48.9203,
+    "lon": 16.3741
   },
   {
     "name": "Dalečín",
-    "lat": "49.5916",
-    "lon": "16.2404"
+    "lat": 49.5916,
+    "lon": 16.2404
   },
   {
     "name": "Daňkovice",
-    "lat": "49.6540",
-    "lon": "16.1486"
+    "lat": 49.654,
+    "lon": 16.1486
   },
   {
     "name": "Daskabát",
-    "lat": "49.5785",
-    "lon": "17.4472"
+    "lat": 49.5785,
+    "lon": 17.4472
   },
   {
     "name": "Darkovice",
-    "lat": "49.9359",
-    "lon": "18.2221"
+    "lat": 49.9359,
+    "lon": 18.2221
+  },
+  {
+    "name": "Dalovice (Mladá Boleslav)",
+    "lat": 50.4257,
+    "lon": 14.8799
+  },
+  {
+    "name": "Dalovice (Karlovy Vary)",
+    "lat": 50.2478,
+    "lon": 12.8958
+  },
+  {
+    "name": "Dalešice (Třebíč)",
+    "lat": 49.129,
+    "lon": 16.0817
+  },
+  {
+    "name": "Dalešice (Jablonec nad Nisou)",
+    "lat": 50.6818,
+    "lon": 15.1846
+  },
+  {
+    "name": "Dalešice (Mladá Boleslav)",
+    "lat": 50.4593,
+    "lon": 14.907
+  },
+  {
+    "name": "Dalešice (Benešov)",
+    "lat": 49.7882,
+    "lon": 14.4803
   }
 ]

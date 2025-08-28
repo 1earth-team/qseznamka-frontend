@@ -1,212 +1,257 @@
 [
   {
     "name": "Trhový Štěpánov",
-    "lat": "49.7117",
-    "lon": "15.0135"
+    "lat": 49.7117,
+    "lon": 15.0135
   },
   {
     "name": "Trubín",
-    "lat": "49.9437",
-    "lon": "14.0022"
+    "lat": 49.9437,
+    "lon": 14.0022
   },
   {
     "name": "Trubská",
-    "lat": "49.9549",
-    "lon": "13.9934"
-  },
-  {
-    "name": "Trnová",
-    "lat": "49.8610",
-    "lon": "13.3232"
+    "lat": 49.9549,
+    "lon": 13.9934
   },
   {
     "name": "Trhové Dušníky",
-    "lat": "49.7138",
-    "lon": "14.0123"
+    "lat": 49.7138,
+    "lon": 14.0123
   },
   {
     "name": "Trhové Sviny",
-    "lat": "48.8426",
-    "lon": "14.6392"
+    "lat": 48.8426,
+    "lon": 14.6392
   },
   {
     "name": "Truskovice",
-    "lat": "49.1042",
-    "lon": "14.1609"
+    "lat": 49.1042,
+    "lon": 14.1609
   },
   {
     "name": "Trhanov",
-    "lat": "49.4237",
-    "lon": "12.8420"
-  },
-  {
-    "name": "Trstěnice",
-    "lat": "48.9868",
-    "lon": "16.1954"
-  },
-  {
-    "name": "Trnová",
-    "lat": "49.8610",
-    "lon": "13.3232"
+    "lat": 49.4237,
+    "lon": 12.842
   },
   {
     "name": "Trokavec",
-    "lat": "49.6469",
-    "lon": "13.7022"
+    "lat": 49.6469,
+    "lon": 13.7022
   },
   {
     "name": "Trpísty",
-    "lat": "49.8228",
-    "lon": "13.0583"
+    "lat": 49.8228,
+    "lon": 13.0583
   },
   {
     "name": "Travčice",
-    "lat": "50.5033",
-    "lon": "14.1898"
+    "lat": 50.5033,
+    "lon": 14.1898
   },
   {
     "name": "Trnovany",
-    "lat": "50.5432",
-    "lon": "14.1789"
+    "lat": 50.5432,
+    "lon": 14.1789
   },
   {
     "name": "Trmice",
-    "lat": "50.6428",
-    "lon": "13.9943"
+    "lat": 50.6428,
+    "lon": 13.9943
   },
   {
     "name": "Trpišovice",
-    "lat": "49.6552",
-    "lon": "15.3322"
+    "lat": 49.6552,
+    "lon": 15.3322
   },
   {
     "name": "Trhová Kamenice",
-    "lat": "49.7866",
-    "lon": "15.8161"
+    "lat": 49.7866,
+    "lon": 15.8161
   },
   {
     "name": "Trojovice",
-    "lat": "49.9328",
-    "lon": "15.9196"
-  },
-  {
-    "name": "Trnávka",
-    "lat": "50.0327",
-    "lon": "15.4610"
+    "lat": 49.9328,
+    "lon": 15.9196
   },
   {
     "name": "Trusnov",
-    "lat": "50.0001",
-    "lon": "16.0440"
+    "lat": 50.0001,
+    "lon": 16.044
   },
   {
     "name": "Trnov",
-    "lat": "50.2447",
-    "lon": "16.1644"
+    "lat": 50.2447,
+    "lon": 16.1644
   },
   {
     "name": "Troskovice",
-    "lat": "50.5116",
-    "lon": "15.2223"
+    "lat": 50.5116,
+    "lon": 15.2223
   },
   {
     "name": "Trpín",
-    "lat": "49.5952",
-    "lon": "16.4016"
-  },
-  {
-    "name": "Trstěnice",
-    "lat": "48.9868",
-    "lon": "16.1954"
+    "lat": 49.5952,
+    "lon": 16.4016
   },
   {
     "name": "Tržek",
-    "lat": "49.8867",
-    "lon": "16.2599"
+    "lat": 49.8867,
+    "lon": 16.2599
   },
   {
     "name": "Trotina",
-    "lat": "50.4096",
-    "lon": "15.7162"
+    "lat": 50.4096,
+    "lon": 15.7162
   },
   {
     "name": "Trutnov",
-    "lat": "50.5609",
-    "lon": "15.9130"
+    "lat": 50.5609,
+    "lon": 15.913
   },
   {
     "name": "Trpík",
-    "lat": "49.8487",
-    "lon": "16.5696"
+    "lat": 49.8487,
+    "lon": 16.5696
   },
   {
     "name": "Trboušany",
-    "lat": "49.0508",
-    "lon": "16.4627"
+    "lat": 49.0508,
+    "lon": 16.4627
   },
   {
     "name": "Troskotovice",
-    "lat": "48.9190",
-    "lon": "16.4375"
+    "lat": 48.919,
+    "lon": 16.4375
   },
   {
     "name": "Troubsko",
-    "lat": "49.1695",
-    "lon": "16.5107"
-  },
-  {
-    "name": "Trnava",
-    "lat": "49.2547",
-    "lon": "15.9241"
+    "lat": 49.1695,
+    "lon": 16.5107
   },
   {
     "name": "Troubky-Zdislavice",
-    "lat": "49.2271",
-    "lon": "17.2654"
-  },
-  {
-    "name": "Trnava",
-    "lat": "49.2547",
-    "lon": "15.9241"
+    "lat": 49.2271,
+    "lon": 17.2654
   },
   {
     "name": "Traplice",
-    "lat": "49.1310",
-    "lon": "17.4362"
+    "lat": 49.131,
+    "lon": 17.4362
   },
   {
     "name": "Trnové Pole",
-    "lat": "48.9449",
-    "lon": "16.4095"
-  },
-  {
-    "name": "Trstěnice",
-    "lat": "48.9868",
-    "lon": "16.1954"
-  },
-  {
-    "name": "Trnávka",
-    "lat": "50.0327",
-    "lon": "15.4610"
+    "lat": 48.9449,
+    "lon": 16.4095
   },
   {
     "name": "Trojanovice",
-    "lat": "49.5204",
-    "lon": "18.2380"
+    "lat": 49.5204,
+    "lon": 18.238
   },
   {
     "name": "Troubelice",
-    "lat": "49.8172",
-    "lon": "17.0811"
+    "lat": 49.8172,
+    "lon": 17.0811
   },
   {
     "name": "Tršice",
-    "lat": "49.5412",
-    "lon": "17.4270"
+    "lat": 49.5412,
+    "lon": 17.427
   },
   {
     "name": "Troubky",
-    "lat": "49.4321",
-    "lon": "17.3491"
+    "lat": 49.4321,
+    "lon": 17.3491
+  },
+  {
+    "name": "Trnová (Plzeň-sever)",
+    "lat": 49.861,
+    "lon": 13.3232
+  },
+  {
+    "name": "Trnová (Praha-západ)",
+    "lat": 49.9162,
+    "lon": 14.3542
+  },
+  {
+    "name": "Trnová (Pardubice)",
+    "lat": 50.0559,
+    "lon": 15.7581
+  },
+  {
+    "name": "Trnová (Příbram)",
+    "lat": 49.7948,
+    "lon": 14.1336
+  },
+  {
+    "name": "Trnová (Mladá Boleslav)",
+    "lat": 50.4479,
+    "lon": 14.7186
+  },
+  {
+    "name": "Trnová (Litoměřice)",
+    "lat": 50.5282,
+    "lon": 14.2793
+  },
+  {
+    "name": "Trstěnice (Znojmo)",
+    "lat": 48.9868,
+    "lon": 16.1954
+  },
+  {
+    "name": "Trstěnice (Svitavy)",
+    "lat": 49.7941,
+    "lon": 16.3487
+  },
+  {
+    "name": "Trstěnice (Cheb)",
+    "lat": 49.9191,
+    "lon": 12.676
+  },
+  {
+    "name": "Trnávka (Pardubice)",
+    "lat": 50.0327,
+    "lon": 15.461
+  },
+  {
+    "name": "Trnávka (Nový Jičín)",
+    "lat": 49.6853,
+    "lon": 18.1779
+  },
+  {
+    "name": "Trnávka (Přerov)",
+    "lat": 49.5476,
+    "lon": 17.5701
+  },
+  {
+    "name": "Trnava (Třebíč)",
+    "lat": 49.2547,
+    "lon": 15.9241
+  },
+  {
+    "name": "Trnava (Zlín)",
+    "lat": 49.296,
+    "lon": 17.8419
+  },
+  {
+    "name": "Trnava",
+    "lat": 49.4989,
+    "lon": 15.0553
+  },
+  {
+    "name": "Trnava (Hradec Králové)",
+    "lat": 50.1918,
+    "lon": 15.6025
+  },
+  {
+    "name": "Trnava (Vsetín)",
+    "lat": 49.425,
+    "lon": 18.0751
+  },
+  {
+    "name": "Trnava (Olomouc)",
+    "lat": 49.6395,
+    "lon": 17.4296
   }
 ]

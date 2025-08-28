@@ -1,47 +1,57 @@
 [
   {
-    "name": "Ždánice",
-    "lat": "49.5475",
-    "lon": "16.2621"
-  },
-  {
     "name": "Ždánov",
-    "lat": "49.4659",
-    "lon": "12.8560"
-  },
-  {
-    "name": "Ždírec",
-    "lat": "49.4550",
-    "lon": "15.6788"
-  },
-  {
-    "name": "Ždírec",
-    "lat": "49.4550",
-    "lon": "15.6788"
-  },
-  {
-    "name": "Ždírec",
-    "lat": "49.4550",
-    "lon": "15.6788"
+    "lat": 49.4659,
+    "lon": 12.856
   },
   {
     "name": "Ždírec nad Doubravou",
-    "lat": "49.6960",
-    "lon": "15.8136"
+    "lat": 49.696,
+    "lon": 15.8136
   },
   {
-    "name": "Ždánice",
-    "lat": "49.5475",
-    "lon": "16.2621"
+    "name": "Ždánice (Žďár nad Sázavou)",
+    "lat": 49.5475,
+    "lon": 16.2621
   },
   {
-    "name": "Ždírec",
-    "lat": "49.4550",
-    "lon": "15.6788"
+    "name": "Ždánice (Kolín)",
+    "lat": 49.9694,
+    "lon": 14.9591
   },
   {
-    "name": "Ždánice",
-    "lat": "49.5475",
-    "lon": "16.2621"
+    "name": "Ždánice (Hodonín)",
+    "lat": 49.0673,
+    "lon": 17.0275
+  },
+  {
+    "name": "Ždánice (Havlíčkův Brod)",
+    "lat": 49.7941,
+    "lon": 15.5543
+  },
+  {
+    "name": "Ždírec (Jihlava)",
+    "lat": 49.455,
+    "lon": 15.6788
+  },
+  {
+    "name": "Ždírec (Havlíčkův Brod)",
+    "lat": 49.6292,
+    "lon": 15.6419
+  },
+  {
+    "name": "Ždírec (Plzeň-jih)",
+    "lat": 49.5529,
+    "lon": 13.5728
+  },
+  {
+    "name": "Ždírec (Česká Lípa)",
+    "lat": 50.5155,
+    "lon": 14.6243
+  },
+  {
+    "name": "Ždírec (Semily)",
+    "lat": 50.5287,
+    "lon": 15.5041
   }
 ]

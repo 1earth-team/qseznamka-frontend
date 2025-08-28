@@ -1,62 +1,102 @@
 [
   {
-    "name": "Dešná",
-    "lat": "48.9576",
-    "lon": "15.5428"
-  },
-  {
-    "name": "Deštná",
-    "lat": "49.2652",
-    "lon": "14.9238"
-  },
-  {
     "name": "Dehtáře",
-    "lat": "49.4861",
-    "lon": "15.2753"
+    "lat": 49.4861,
+    "lon": 15.2753
   },
   {
     "name": "Dešenice",
-    "lat": "49.2743",
-    "lon": "13.1709"
-  },
-  {
-    "name": "Desná",
-    "lat": "49.8075",
-    "lon": "16.2240"
+    "lat": 49.2743,
+    "lon": 13.1709
   },
   {
     "name": "Deštnice",
-    "lat": "50.2306",
-    "lon": "13.6098"
+    "lat": 50.2306,
+    "lon": 13.6098
   },
   {
     "name": "Deštné v Orlických horách",
-    "lat": "50.3049",
-    "lon": "16.3506"
-  },
-  {
-    "name": "Desná",
-    "lat": "49.8075",
-    "lon": "16.2240"
-  },
-  {
-    "name": "Deštná",
-    "lat": "49.2652",
-    "lon": "14.9238"
+    "lat": 50.3049,
+    "lon": 16.3506
   },
   {
     "name": "Deblín",
-    "lat": "49.3205",
-    "lon": "16.3462"
-  },
-  {
-    "name": "Dešná",
-    "lat": "48.9576",
-    "lon": "15.5428"
+    "lat": 49.3205,
+    "lon": 16.3462
   },
   {
     "name": "Dešov",
-    "lat": "48.9856",
-    "lon": "15.7009"
+    "lat": 48.9856,
+    "lon": 15.7009
+  },
+  {
+    "name": "Dešná (Jindřichův Hradec)",
+    "lat": 48.9576,
+    "lon": 15.5428
+  },
+  {
+    "name": "Dešná (Zlín)",
+    "lat": 49.2667,
+    "lon": 17.8464
+  },
+  {
+    "name": "Dešná (Svitavy)",
+    "lat": 49.8075,
+    "lon": 16.224
+  },
+  {
+    "name": "Dešná (Jablonec nad Nisou)",
+    "lat": 50.7601,
+    "lon": 15.3028
+  },
+  {
+    "name": "Dešná (Prostějov)",
+    "lat": 49.5454,
+    "lon": 16.8482
+  },
+  {
+    "name": "Dešná",
+    "lat": 50.0315,
+    "lon": 17.06
+  },
+  {
+    "name": "Deštná (Jindřichův Hradec)",
+    "lat": 49.2652,
+    "lon": 14.9238
+  },
+  {
+    "name": "Deštná (Blansko)",
+    "lat": 49.6126,
+    "lon": 16.5636
+  },
+  {
+    "name": "Deštná (Česká Lípa)",
+    "lat": 50.5223,
+    "lon": 14.5161
+  },
+  {
+    "name": "Desná (Svitavy)",
+    "lat": 49.8075,
+    "lon": 16.224
+  },
+  {
+    "name": "Desná (Jablonec nad Nisou)",
+    "lat": 50.7601,
+    "lon": 15.3028
+  },
+  {
+    "name": "Desná",
+    "lat": 50.0315,
+    "lon": 17.06
+  },
+  {
+    "name": "Desná (Jindřichův Hradec)",
+    "lat": 48.9576,
+    "lon": 15.5428
+  },
+  {
+    "name": "Desná (Zlín)",
+    "lat": 49.2667,
+    "lon": 17.8464
   }
 ]

@@ -1,307 +1,367 @@
 [
   {
     "name": "Lužce",
-    "lat": "49.9841",
-    "lon": "14.1967"
+    "lat": 49.9841,
+    "lon": 14.1967
   },
   {
     "name": "Lužec nad Vltavou",
-    "lat": "50.3216",
-    "lon": "14.4007"
+    "lat": 50.3216,
+    "lon": 14.4007
   },
   {
     "name": "Luštěnice",
-    "lat": "50.3229",
-    "lon": "14.9362"
-  },
-  {
-    "name": "Lubná",
-    "lat": "50.0772",
-    "lon": "13.7006"
-  },
-  {
-    "name": "Lužná",
-    "lat": "50.1238",
-    "lon": "13.7700"
+    "lat": 50.3229,
+    "lon": 14.9362
   },
   {
     "name": "Lužnice",
-    "lat": "49.0626",
-    "lon": "14.7567"
-  },
-  {
-    "name": "Lukavec",
-    "lat": "49.5654",
-    "lon": "14.9904"
-  },
-  {
-    "name": "Lužice",
-    "lat": "49.7157",
-    "lon": "17.2606"
+    "lat": 49.0626,
+    "lon": 14.7567
   },
   {
     "name": "Luženičky",
-    "lat": "49.4588",
-    "lon": "12.8978"
+    "lat": 49.4588,
+    "lon": 12.8978
   },
   {
     "name": "Luby",
-    "lat": "50.2525",
-    "lon": "12.4059"
-  },
-  {
-    "name": "Lužany",
-    "lat": "49.5466",
-    "lon": "13.3157"
+    "lat": 50.2525,
+    "lon": 12.4059
   },
   {
     "name": "Luka",
-    "lat": "50.5124",
-    "lon": "14.6641"
+    "lat": 50.5124,
+    "lon": 14.6641
   },
   {
     "name": "Ludvíkovice",
-    "lat": "50.7941",
-    "lon": "14.2564"
+    "lat": 50.7941,
+    "lon": 14.2564
   },
   {
     "name": "Lučany nad Nisou",
-    "lat": "50.7414",
-    "lon": "15.2205"
-  },
-  {
-    "name": "Lukavec",
-    "lat": "49.5654",
-    "lon": "14.9904"
+    "lat": 50.7414,
+    "lon": 15.2205
   },
   {
     "name": "Lubenec",
-    "lat": "50.1321",
-    "lon": "13.3132"
-  },
-  {
-    "name": "Lužice",
-    "lat": "49.7157",
-    "lon": "17.2606"
-  },
-  {
-    "name": "Lukov",
-    "lat": "48.8616",
-    "lon": "15.9107"
+    "lat": 50.1321,
+    "lon": 13.3132
   },
   {
     "name": "Lučice",
-    "lat": "49.6627",
-    "lon": "15.4965"
-  },
-  {
-    "name": "Lužany",
-    "lat": "49.5466",
-    "lon": "13.3157"
+    "lat": 49.6627,
+    "lon": 15.4965
   },
   {
     "name": "Lužec nad Cidlinou",
-    "lat": "50.2135",
-    "lon": "15.4119"
-  },
-  {
-    "name": "Lukavice",
-    "lat": "50.0603",
-    "lon": "16.4821"
+    "lat": 50.2135,
+    "lon": 15.4119
   },
   {
     "name": "Luže",
-    "lat": "49.8934",
-    "lon": "16.0284"
+    "lat": 49.8934,
+    "lon": 16.0284
   },
   {
     "name": "Lukavec u Hořic",
-    "lat": "50.3957",
-    "lon": "15.6169"
-  },
-  {
-    "name": "Lužany",
-    "lat": "49.5466",
-    "lon": "13.3157"
-  },
-  {
-    "name": "Lukavice",
-    "lat": "50.0603",
-    "lon": "16.4821"
+    "lat": 50.3957,
+    "lon": 15.6169
   },
   {
     "name": "Lupenice",
-    "lat": "50.1329",
-    "lon": "16.2738"
-  },
-  {
-    "name": "Lubná",
-    "lat": "50.0772",
-    "lon": "13.7006"
+    "lat": 50.1329,
+    "lon": 16.2738
   },
   {
     "name": "Lubník",
-    "lat": "49.8887",
-    "lon": "16.6614"
-  },
-  {
-    "name": "Lukavice",
-    "lat": "50.0603",
-    "lon": "16.4821"
+    "lat": 49.8887,
+    "lon": 16.6614
   },
   {
     "name": "Luková",
-    "lat": "49.8759",
-    "lon": "16.6030"
+    "lat": 49.8759,
+    "lon": 16.603
   },
   {
     "name": "Lubě",
-    "lat": "49.3962",
-    "lon": "16.5260"
+    "lat": 49.3962,
+    "lon": 16.526
   },
   {
     "name": "Ludíkov",
-    "lat": "49.4554",
-    "lon": "16.7318"
+    "lat": 49.4554,
+    "lon": 16.7318
   },
   {
     "name": "Lubné",
-    "lat": "49.3542",
-    "lon": "16.2752"
+    "lat": 49.3542,
+    "lon": 16.2752
   },
   {
     "name": "Lukovany",
-    "lat": "49.1625",
-    "lon": "16.2978"
+    "lat": 49.1625,
+    "lon": 16.2978
   },
   {
     "name": "Ludkovice",
-    "lat": "49.1147",
-    "lon": "17.7266"
+    "lat": 49.1147,
+    "lon": 17.7266
   },
   {
     "name": "Luhačovice",
-    "lat": "49.0997",
-    "lon": "17.7577"
-  },
-  {
-    "name": "Lukov",
-    "lat": "48.8616",
-    "lon": "15.9107"
+    "lat": 49.0997,
+    "lon": 17.7577
   },
   {
     "name": "Lukoveček",
-    "lat": "49.3033",
-    "lon": "17.6688"
+    "lat": 49.3033,
+    "lon": 17.6688
   },
   {
     "name": "Lutonina",
-    "lat": "49.2385",
-    "lon": "17.8828"
-  },
-  {
-    "name": "Lužice",
-    "lat": "49.7157",
-    "lon": "17.2606"
+    "lat": 49.2385,
+    "lon": 17.8828
   },
   {
     "name": "Luka nad Jihlavou",
-    "lat": "49.3740",
-    "lon": "15.7019"
-  },
-  {
-    "name": "Lubná",
-    "lat": "50.0772",
-    "lon": "13.7006"
+    "lat": 49.374,
+    "lon": 15.7019
   },
   {
     "name": "Ludslavice",
-    "lat": "49.2995",
-    "lon": "17.5408"
+    "lat": 49.2995,
+    "lon": 17.5408
   },
   {
     "name": "Lutopecny",
-    "lat": "49.3014",
-    "lon": "17.3444"
+    "lat": 49.3014,
+    "lon": 17.3444
   },
   {
     "name": "Ludmírov",
-    "lat": "49.6413",
-    "lon": "16.8732"
-  },
-  {
-    "name": "Lukov",
-    "lat": "48.8616",
-    "lon": "15.9107"
+    "lat": 49.6413,
+    "lon": 16.8732
   },
   {
     "name": "Luleč",
-    "lat": "49.2535",
-    "lon": "16.9286"
+    "lat": 49.2535,
+    "lon": 16.9286
   },
   {
     "name": "Lubnice",
-    "lat": "48.9389",
-    "lon": "15.6138"
-  },
-  {
-    "name": "Lukov",
-    "lat": "48.8616",
-    "lon": "15.9107"
+    "lat": 48.9389,
+    "lon": 15.6138
   },
   {
     "name": "Ludvíkov",
-    "lat": "50.1074",
-    "lon": "17.3422"
+    "lat": 50.1074,
+    "lon": 17.3422
   },
   {
     "name": "Lučina",
-    "lat": "49.7164",
-    "lon": "18.4496"
+    "lat": 49.7164,
+    "lon": 18.4496
   },
   {
     "name": "Luboměř",
-    "lat": "49.6887",
-    "lon": "17.7065"
+    "lat": 49.6887,
+    "lon": 17.7065
   },
   {
     "name": "Luběnice",
-    "lat": "49.5762",
-    "lon": "17.1205"
+    "lat": 49.5762,
+    "lon": 17.1205
   },
   {
     "name": "Luká",
-    "lat": "49.6491",
-    "lon": "16.9473"
+    "lat": 49.6491,
+    "lon": 16.9473
   },
   {
     "name": "Lutín",
-    "lat": "49.5587",
-    "lon": "17.1373"
-  },
-  {
-    "name": "Lužice",
-    "lat": "49.7157",
-    "lon": "17.2606"
-  },
-  {
-    "name": "Ludgeřovice",
-    "lat": "",
-    "lon": ""
+    "lat": 49.5587,
+    "lon": 17.1373
   },
   {
     "name": "Luboměř pod Strážnou",
-    "lat": "49.6891",
-    "lon": "17.6637"
+    "lat": 49.6891,
+    "lon": 17.6637
   },
   {
-    "name": "Lukavice",
-    "lat": "50.0603",
-    "lon": "16.4821"
+    "name": "Lubná (Rakovník)",
+    "lat": 50.0772,
+    "lon": 13.7006
   },
   {
-    "name": "Lužná",
-    "lat": "50.1238",
-    "lon": "13.7700"
+    "name": "Lubná (Svitavy)",
+    "lat": 49.7741,
+    "lon": 16.2237
+  },
+  {
+    "name": "Lubná (Kroměříž)",
+    "lat": 49.2207,
+    "lon": 17.3979
+  },
+  {
+    "name": "Lužná (Rakovník)",
+    "lat": 50.1238,
+    "lon": 13.77
+  },
+  {
+    "name": "Lužná (Vsetín)",
+    "lat": 49.2415,
+    "lon": 18.0202
+  },
+  {
+    "name": "Lužná (Český Krumlov)",
+    "lat": 48.7624,
+    "lon": 14.2988
+  },
+  {
+    "name": "Lužná (Šumperk)",
+    "lat": 50.034,
+    "lon": 16.9375
+  },
+  {
+    "name": "Lužná (Tachov)",
+    "lat": 49.7189,
+    "lon": 12.7324
+  },
+  {
+    "name": "Lužná (Cheb)",
+    "lat": 50.123,
+    "lon": 12.2745
+  },
+  {
+    "name": "Lužná (Bruntál)",
+    "lat": 50.207,
+    "lon": 17.6744
+  },
+  {
+    "name": "Lužná (Děčín)",
+    "lat": 50.8075,
+    "lon": 14.3521
+  },
+  {
+    "name": "Lukavec (Pelhřimov)",
+    "lat": 49.5654,
+    "lon": 14.9904
+  },
+  {
+    "name": "Lukavec (Litoměřice)",
+    "lat": 50.5016,
+    "lon": 14.0857
+  },
+  {
+    "name": "Lukavec (Nový Jičín)",
+    "lat": 49.7518,
+    "lon": 17.9199
+  },
+  {
+    "name": "Lužice (Olomouc)",
+    "lat": 49.7157,
+    "lon": 17.2606
+  },
+  {
+    "name": "Lužice (Hodonín)",
+    "lat": 48.841,
+    "lon": 17.071
+  },
+  {
+    "name": "Lužice (Prachatice)",
+    "lat": 49.0316,
+    "lon": 14.205
+  },
+  {
+    "name": "Lužice (Most)",
+    "lat": 50.4918,
+    "lon": 13.7541
+  },
+  {
+    "name": "Lužany (Plzeň-jih)",
+    "lat": 49.5466,
+    "lon": 13.3157
+  },
+  {
+    "name": "Lužany (Hradec Králové)",
+    "lat": 50.3383,
+    "lon": 15.7913
+  },
+  {
+    "name": "Lužany (Jičín)",
+    "lat": 50.4309,
+    "lon": 15.47
+  },
+  {
+    "name": "Lužany (Rychnov nad Kněžnou)",
+    "lat": 50.3587,
+    "lon": 16.2857
+  },
+  {
+    "name": "Lukov (Teplice)",
+    "lat": 50.5281,
+    "lon": 13.8854
+  },
+  {
+    "name": "Lukov (Znojmo)",
+    "lat": 48.8616,
+    "lon": 15.9107
+  },
+  {
+    "name": "Lukov (Třebíč)",
+    "lat": 49.0735,
+    "lon": 15.8242
+  },
+  {
+    "name": "Lukov (Zlín)",
+    "lat": 49.2923,
+    "lon": 17.7331
+  },
+  {
+    "name": "Lukov (Litoměřice)",
+    "lat": 50.6039,
+    "lon": 14.3684
+  },
+  {
+    "name": "Lukov (Kladno)",
+    "lat": 50.338,
+    "lon": 14.0544
+  },
+  {
+    "name": "Lukavice (Ústí nad Orlicí)",
+    "lat": 50.0603,
+    "lon": 16.4821
+  },
+  {
+    "name": "Lukavice (Chrudim)",
+    "lat": 49.8898,
+    "lon": 15.8382
+  },
+  {
+    "name": "Lukavice (Šumperk)",
+    "lat": 49.8229,
+    "lon": 16.9204
+  },
+  {
+    "name": "Lukavice (Rychnov nad Kněžnou)",
+    "lat": 50.2002,
+    "lon": 16.2936
+  },
+  {
+    "name": "Lukavice (Klatovy)",
+    "lat": 49.3108,
+    "lon": 13.273
+  },
+  {
+    "name": "Lukavice (Plzeň-jih)",
+    "lat": 49.6029,
+    "lon": 13.3449
+  },
+  {
+    "name": "Ludgeřovice",
+    "lat": 49.8903906,
+    "lon": 18.2401116
   }
 ]

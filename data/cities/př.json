@@ -1,382 +1,427 @@
 [
   {
     "name": "Přestavlky u Čerčan",
-    "lat": "49.8530",
-    "lon": "14.7441"
+    "lat": 49.853,
+    "lon": 14.7441
   },
   {
     "name": "Přelíc",
-    "lat": "50.2057",
-    "lon": "14.0459"
+    "lat": 50.2057,
+    "lon": 14.0459
   },
   {
     "name": "Přehvozdí",
-    "lat": "50.0281",
-    "lon": "14.8396"
+    "lat": 50.0281,
+    "lon": 14.8396
   },
   {
     "name": "Přistoupim",
-    "lat": "50.0541",
-    "lon": "14.8786"
+    "lat": 50.0541,
+    "lon": 14.8786
   },
   {
     "name": "Přišimasy",
-    "lat": "50.0506",
-    "lon": "14.7625"
+    "lat": 50.0506,
+    "lon": 14.7625
   },
   {
     "name": "Předměřice nad Jizerou",
-    "lat": "50.2558",
-    "lon": "14.7815"
-  },
-  {
-    "name": "Přepeře",
-    "lat": "50.5829",
-    "lon": "15.1128"
+    "lat": 50.2558,
+    "lon": 14.7815
   },
   {
     "name": "Přerov nad Labem",
-    "lat": "50.1601",
-    "lon": "14.8245"
+    "lat": 50.1601,
+    "lon": 14.8245
   },
   {
     "name": "Předboj",
-    "lat": "50.2254",
-    "lon": "14.4767"
+    "lat": 50.2254,
+    "lon": 14.4767
   },
   {
     "name": "Přezletice",
-    "lat": "50.1555",
-    "lon": "14.5759"
+    "lat": 50.1555,
+    "lon": 14.5759
   },
   {
     "name": "Příbram",
-    "lat": "49.6901",
-    "lon": "14.0104"
+    "lat": 49.6901,
+    "lon": 14.0104
   },
   {
     "name": "Příčovy",
-    "lat": "49.6720",
-    "lon": "14.3896"
+    "lat": 49.672,
+    "lon": 14.3896
   },
   {
     "name": "Přerubenice",
-    "lat": "50.2172",
-    "lon": "13.8410"
+    "lat": 50.2172,
+    "lon": 13.841
   },
   {
     "name": "Příčina",
-    "lat": "50.0657",
-    "lon": "13.6673"
-  },
-  {
-    "name": "Přílepy",
-    "lat": "50.1232",
-    "lon": "13.6326"
+    "lat": 50.0657,
+    "lon": 13.6673
   },
   {
     "name": "Přední Výtoň",
-    "lat": "48.6312",
-    "lon": "14.1646"
+    "lat": 48.6312,
+    "lon": 14.1646
   },
   {
     "name": "Přídolí",
-    "lat": "48.7817",
-    "lon": "14.3525"
+    "lat": 48.7817,
+    "lon": 14.3525
   },
   {
     "name": "Přísečná",
-    "lat": "48.8331",
-    "lon": "14.3454"
+    "lat": 48.8331,
+    "lon": 14.3454
   },
   {
     "name": "Příbraz",
-    "lat": "49.0512",
-    "lon": "14.9376"
+    "lat": 49.0512,
+    "lon": 14.9376
   },
   {
     "name": "Přeborov",
-    "lat": "49.4795",
-    "lon": "14.3571"
+    "lat": 49.4795,
+    "lon": 14.3571
   },
   {
     "name": "Předotice",
-    "lat": "49.3648",
-    "lon": "14.0542"
+    "lat": 49.3648,
+    "lon": 14.0542
   },
   {
     "name": "Přeštěnice",
-    "lat": "49.4797",
-    "lon": "14.4203"
+    "lat": 49.4797,
+    "lon": 14.4203
   },
   {
     "name": "Předmíř",
-    "lat": "49.4893",
-    "lon": "13.7704"
+    "lat": 49.4893,
+    "lon": 13.7704
   },
   {
     "name": "Přední Zborovice",
-    "lat": "49.2186",
-    "lon": "13.8923"
+    "lat": 49.2186,
+    "lon": 13.8923
   },
   {
     "name": "Předslavice",
-    "lat": "49.1320",
-    "lon": "13.9351"
+    "lat": 49.132,
+    "lon": 13.9351
   },
   {
     "name": "Přechovice",
-    "lat": "49.1795",
-    "lon": "13.8949"
+    "lat": 49.1795,
+    "lon": 13.8949
   },
   {
     "name": "Přešťovice",
-    "lat": "49.2772",
-    "lon": "13.9743"
+    "lat": 49.2772,
+    "lon": 13.9743
   },
   {
     "name": "Přehořov",
-    "lat": "49.2476",
-    "lon": "14.7562"
+    "lat": 49.2476,
+    "lon": 14.7562
   },
   {
     "name": "Předslav",
-    "lat": "49.4475",
-    "lon": "13.3544"
+    "lat": 49.4475,
+    "lon": 13.3544
   },
   {
     "name": "Předenice",
-    "lat": "49.6244",
-    "lon": "13.3966"
-  },
-  {
-    "name": "Přestavlky",
-    "lat": "49.3900",
-    "lon": "17.4799"
+    "lat": 49.6244,
+    "lon": 13.3966
   },
   {
     "name": "Přeštice",
-    "lat": "49.5726",
-    "lon": "13.3296"
+    "lat": 49.5726,
+    "lon": 13.3296
   },
   {
     "name": "Příchovice",
-    "lat": "49.5620",
-    "lon": "13.3394"
+    "lat": 49.562,
+    "lon": 13.3394
   },
   {
     "name": "Přehýšov",
-    "lat": "49.7026",
-    "lon": "13.1268"
+    "lat": 49.7026,
+    "lon": 13.1268
   },
   {
     "name": "Příšov",
-    "lat": "49.8117",
-    "lon": "13.3041"
+    "lat": 49.8117,
+    "lon": 13.3041
   },
   {
     "name": "Příkosice",
-    "lat": "49.6683",
-    "lon": "13.6634"
+    "lat": 49.6683,
+    "lon": 13.6634
   },
   {
     "name": "Přívětice",
-    "lat": "49.8349",
-    "lon": "13.6122"
+    "lat": 49.8349,
+    "lon": 13.6122
   },
   {
     "name": "Přebuz",
-    "lat": "50.3658",
-    "lon": "12.6200"
+    "lat": 50.3658,
+    "lon": 12.62
   },
   {
     "name": "Přimda",
-    "lat": "49.6746",
-    "lon": "12.6763"
+    "lat": 49.6746,
+    "lon": 12.6763
   },
   {
     "name": "Příšovice",
-    "lat": "50.5781",
-    "lon": "15.0839"
-  },
-  {
-    "name": "Přestavlky",
-    "lat": "49.3900",
-    "lon": "17.4799"
+    "lat": 50.5781,
+    "lon": 15.0839
   },
   {
     "name": "Přestanov",
-    "lat": "50.6867",
-    "lon": "13.9203"
-  },
-  {
-    "name": "Přibyslav",
-    "lat": "49.5768",
-    "lon": "15.7385"
+    "lat": 50.6867,
+    "lon": 13.9203
   },
   {
     "name": "Příseka",
-    "lat": "49.6708",
-    "lon": "15.4256"
+    "lat": 49.6708,
+    "lon": 15.4256
   },
   {
     "name": "Předměřice nad Labem",
-    "lat": "50.2563",
-    "lon": "15.8156"
+    "lat": 50.2563,
+    "lon": 15.8156
   },
   {
     "name": "Převýšov",
-    "lat": "50.1515",
-    "lon": "15.4104"
+    "lat": 50.1515,
+    "lon": 15.4104
   },
   {
     "name": "Předhradí",
-    "lat": "49.8317",
-    "lon": "16.0391"
-  },
-  {
-    "name": "Přestavlky",
-    "lat": "49.3900",
-    "lon": "17.4799"
-  },
-  {
-    "name": "Přibyslav",
-    "lat": "49.5768",
-    "lon": "15.7385"
+    "lat": 49.8317,
+    "lon": 16.0391
   },
   {
     "name": "Přelouč",
-    "lat": "50.0394",
-    "lon": "15.5607"
+    "lat": 50.0394,
+    "lon": 15.5607
   },
   {
     "name": "Přelovice",
-    "lat": "50.0734",
-    "lon": "15.6147"
-  },
-  {
-    "name": "Přepychy",
-    "lat": "50.1064",
-    "lon": "15.5199"
-  },
-  {
-    "name": "Přepychy",
-    "lat": "50.1064",
-    "lon": "15.5199"
-  },
-  {
-    "name": "Přepeře",
-    "lat": "50.5829",
-    "lon": "15.1128"
+    "lat": 50.0734,
+    "lon": 15.6147
   },
   {
     "name": "Příkrý",
-    "lat": "50.6249",
-    "lon": "15.3645"
+    "lat": 50.6249,
+    "lon": 15.3645
   },
   {
     "name": "Příluka",
-    "lat": "49.8649",
-    "lon": "16.1565"
+    "lat": 49.8649,
+    "lon": 16.1565
   },
   {
     "name": "Přívrat",
-    "lat": "49.9246",
-    "lon": "16.3970"
+    "lat": 49.9246,
+    "lon": 16.397
   },
   {
     "name": "Předklášteří",
-    "lat": "49.3525",
-    "lon": "16.4024"
+    "lat": 49.3525,
+    "lon": 16.4024
   },
   {
     "name": "Přibice",
-    "lat": "48.9616",
-    "lon": "16.5733"
+    "lat": 48.9616,
+    "lon": 16.5733
   },
   {
     "name": "Příbram na Moravě",
-    "lat": "49.1955",
-    "lon": "16.2991"
-  },
-  {
-    "name": "Přibyslavice",
-    "lat": "49.2788",
-    "lon": "16.2656"
+    "lat": 49.1955,
+    "lon": 16.2991
   },
   {
     "name": "Přísnotice",
-    "lat": "49.0032",
-    "lon": "16.6133"
+    "lat": 49.0032,
+    "lon": 16.6133
   },
   {
     "name": "Přítluky",
-    "lat": "48.8550",
-    "lon": "16.7741"
-  },
-  {
-    "name": "Přílepy",
-    "lat": "50.1232",
-    "lon": "13.6326"
+    "lat": 48.855,
+    "lon": 16.7741
   },
   {
     "name": "Přemyslovice",
-    "lat": "49.5564",
-    "lon": "16.9558"
+    "lat": 49.5564,
+    "lon": 16.9558
   },
   {
     "name": "Přeckov",
-    "lat": "49.2758",
-    "lon": "15.9163"
+    "lat": 49.2758,
+    "lon": 15.9163
   },
   {
     "name": "Předín",
-    "lat": "49.1983",
-    "lon": "15.6737"
+    "lat": 49.1983,
+    "lon": 15.6737
   },
   {
     "name": "Přešovice",
-    "lat": "49.0501",
-    "lon": "16.0613"
-  },
-  {
-    "name": "Přibyslavice",
-    "lat": "49.2788",
-    "lon": "16.2656"
+    "lat": 49.0501,
+    "lon": 16.0613
   },
   {
     "name": "Příštpo",
-    "lat": "49.0738",
-    "lon": "15.9349"
+    "lat": 49.0738,
+    "lon": 15.9349
   },
   {
     "name": "Přeskače",
-    "lat": "49.0124",
-    "lon": "16.1069"
+    "lat": 49.0124,
+    "lon": 16.1069
   },
   {
     "name": "Příbor",
-    "lat": "49.6401",
-    "lon": "18.1438"
+    "lat": 49.6401,
+    "lon": 18.1438
   },
   {
     "name": "Přáslavice",
-    "lat": "49.5872",
-    "lon": "17.3877"
+    "lat": 49.5872,
+    "lon": 17.3877
   },
   {
     "name": "Příkazy",
-    "lat": "49.6436",
-    "lon": "17.1434"
+    "lat": 49.6436,
+    "lon": 17.1434
   },
   {
     "name": "Přerov",
-    "lat": "49.4554",
-    "lon": "17.4509"
+    "lat": 49.4554,
+    "lon": 17.4509
   },
   {
-    "name": "Přestavlky",
-    "lat": "49.3900",
-    "lon": "17.4799"
+    "name": "Přepeře (Semily)",
+    "lat": 50.5829,
+    "lon": 15.1128
+  },
+  {
+    "name": "Přepeře (Mladá Boleslav)",
+    "lat": 50.4676,
+    "lon": 15.1019
+  },
+  {
+    "name": "Přílepy (Rakovník)",
+    "lat": 50.1232,
+    "lon": 13.6326
+  },
+  {
+    "name": "Přílepy (Kroměříž)",
+    "lat": 49.3208,
+    "lon": 17.6138
+  },
+  {
+    "name": "Přílepy (Praha-západ)",
+    "lat": 50.1606,
+    "lon": 14.3141
+  },
+  {
+    "name": "Přestavlky (Přerov)",
+    "lat": 49.39,
+    "lon": 17.4799
+  },
+  {
+    "name": "Přestavlky (Plzeň-jih)",
+    "lat": 49.5994,
+    "lon": 13.2455
+  },
+  {
+    "name": "Přestavlky (Chrudim)",
+    "lat": 49.938,
+    "lon": 15.9262
+  },
+  {
+    "name": "Přestavlky (Litoměřice)",
+    "lat": 50.4035,
+    "lon": 14.1939
+  },
+  {
+    "name": "Přestavlky (Olomouc)",
+    "lat": 49.5376,
+    "lon": 17.3758
+  },
+  {
+    "name": "Přestavlky (Příbram)",
+    "lat": 49.5694,
+    "lon": 14.551
+  },
+  {
+    "name": "Přestavlky (Rychnov nad Kněžnou)",
+    "lat": 50.0679,
+    "lon": 16.2314
+  },
+  {
+    "name": "Přestavlky (Kolín)",
+    "lat": 49.9114,
+    "lon": 14.9571
+  },
+  {
+    "name": "Přibyslav (Havlíčkův Brod)",
+    "lat": 49.5768,
+    "lon": 15.7385
+  },
+  {
+    "name": "Přibyslav (Náchod)",
+    "lat": 50.3736,
+    "lon": 16.1686
+  },
+  {
+    "name": "Přibyslav (Jičín)",
+    "lat": 50.4751,
+    "lon": 15.5466
+  },
+  {
+    "name": "Přibyslav (Český Krumlov)",
+    "lat": 48.7021,
+    "lon": 14.4198
+  },
+  {
+    "name": "Přepychy (Pardubice)",
+    "lat": 50.1064,
+    "lon": 15.5199
+  },
+  {
+    "name": "Přepychy (Rychnov nad Kněžnou)",
+    "lat": 50.2359,
+    "lon": 16.1065
+  },
+  {
+    "name": "Přibyslavice (Brno-venkov)",
+    "lat": 49.2788,
+    "lon": 16.2656
+  },
+  {
+    "name": "Přibyslavice (Třebíč)",
+    "lat": 49.2606,
+    "lon": 15.7783
+  },
+  {
+    "name": "Přibyslavice (Kutná Hora)",
+    "lat": 49.8423,
+    "lon": 15.406
+  },
+  {
+    "name": "Přibyslavice (Liberec)",
+    "lat": 50.6092,
+    "lon": 14.938
   }
 ]

@@ -1,222 +1,282 @@
 [
   {
-    "name": "Vysoký Újezd",
-    "lat": "49.9924",
-    "lon": "14.2066"
-  },
-  {
-    "name": "Vysoký Újezd",
-    "lat": "49.9924",
-    "lon": "14.2066"
-  },
-  {
-    "name": "Vysoká",
-    "lat": "49.6636",
-    "lon": "16.8101"
-  },
-  {
     "name": "Vykáň",
-    "lat": "50.1199",
-    "lon": "14.8167"
+    "lat": 50.1199,
+    "lon": 14.8167
   },
   {
     "name": "Vyšehořovice",
-    "lat": "50.1178",
-    "lon": "14.7737"
+    "lat": 50.1178,
+    "lon": 14.7737
   },
   {
     "name": "Vyžlovka",
-    "lat": "49.9840",
-    "lon": "14.7892"
+    "lat": 49.984,
+    "lon": 14.7892
   },
   {
     "name": "Vysoká u Příbramě",
-    "lat": "49.6338",
-    "lon": "13.9479"
+    "lat": 49.6338,
+    "lon": 13.9479
   },
   {
     "name": "Vysoký Chlumec",
-    "lat": "49.6177",
-    "lon": "14.3898"
+    "lat": 49.6177,
+    "lon": 14.3898
   },
   {
     "name": "Vyšší Brod",
-    "lat": "48.6154",
-    "lon": "14.3120"
+    "lat": 48.6154,
+    "lon": 14.312
   },
   {
     "name": "Vydří",
-    "lat": "49.0924",
-    "lon": "14.9456"
+    "lat": 49.0924,
+    "lon": 14.9456
   },
   {
     "name": "Vyklantice",
-    "lat": "49.5545",
-    "lon": "15.0404"
+    "lat": 49.5545,
+    "lon": 15.0404
   },
   {
     "name": "Vyskytná",
-    "lat": "49.4291",
-    "lon": "15.3653"
+    "lat": 49.4291,
+    "lon": 15.3653
   },
   {
     "name": "Vysoká Lhota",
-    "lat": "49.4167",
-    "lon": "15.0423"
+    "lat": 49.4167,
+    "lon": 15.0423
   },
   {
     "name": "Vystrkov",
-    "lat": "49.5197",
-    "lon": "15.3488"
-  },
-  {
-    "name": "Vysoká Pec",
-    "lat": "50.5203",
-    "lon": "13.4703"
+    "lat": 49.5197,
+    "lon": 15.3488
   },
   {
     "name": "Vysoká Libyně",
-    "lat": "50.0216",
-    "lon": "13.4512"
-  },
-  {
-    "name": "Vysoká Pec",
-    "lat": "50.5203",
-    "lon": "13.4703"
-  },
-  {
-    "name": "Vysoká",
-    "lat": "49.6636",
-    "lon": "16.8101"
+    "lat": 50.0216,
+    "lon": 13.4512
   },
   {
     "name": "Vysoká nad Labem",
-    "lat": "50.1534",
-    "lon": "15.8250"
-  },
-  {
-    "name": "Vysoký Újezd",
-    "lat": "49.9924",
-    "lon": "14.2066"
+    "lat": 50.1534,
+    "lon": 15.825
   },
   {
     "name": "Vysočina",
-    "lat": "49.7800",
-    "lon": "15.8567"
+    "lat": 49.78,
+    "lon": 15.8567
   },
   {
     "name": "Vyžice",
-    "lat": "49.9232",
-    "lon": "15.6211"
+    "lat": 49.9232,
+    "lon": 15.6211
   },
   {
     "name": "Vysoké Veselí",
-    "lat": "50.3307",
-    "lon": "15.4357"
+    "lat": 50.3307,
+    "lon": 15.4357
   },
   {
     "name": "Vysoká Srbská",
-    "lat": "50.4877",
-    "lon": "16.2278"
+    "lat": 50.4877,
+    "lon": 16.2278
   },
   {
     "name": "Vysokov",
-    "lat": "50.4038",
-    "lon": "16.1161"
+    "lat": 50.4038,
+    "lon": 16.1161
   },
   {
     "name": "Vysoké Chvojno",
-    "lat": "50.1090",
-    "lon": "15.9735"
+    "lat": 50.109,
+    "lon": 15.9735
   },
   {
     "name": "Vyšehněvice",
-    "lat": "50.1018",
-    "lon": "15.5834"
+    "lat": 50.1018,
+    "lon": 15.5834
   },
   {
     "name": "Vyskeř",
-    "lat": "50.5293",
-    "lon": "15.1579"
+    "lat": 50.5293,
+    "lon": 15.1579
   },
   {
     "name": "Vysoké nad Jizerou",
-    "lat": "50.6858",
-    "lon": "15.4015"
-  },
-  {
-    "name": "Vysoká",
-    "lat": "49.6636",
-    "lon": "16.8101"
+    "lat": 50.6858,
+    "lon": 15.4015
   },
   {
     "name": "Vysoké Mýto",
-    "lat": "49.9535",
-    "lon": "16.1616"
-  },
-  {
-    "name": "Vysočany",
-    "lat": "48.9407",
-    "lon": "15.6894"
+    "lat": 49.9535,
+    "lon": 16.1616
   },
   {
     "name": "Vysoké Popovice",
-    "lat": "49.1831",
-    "lon": "16.2850"
+    "lat": 49.1831,
+    "lon": 16.285
   },
   {
     "name": "Vysoké Pole",
-    "lat": "49.1775",
-    "lon": "17.9374"
+    "lat": 49.1775,
+    "lon": 17.9374
   },
   {
     "name": "Vyskytná nad Jihlavou",
-    "lat": "49.4194",
-    "lon": "15.5081"
+    "lat": 49.4194,
+    "lon": 15.5081
   },
   {
     "name": "Vysoké Studnice",
-    "lat": "49.3941",
-    "lon": "15.7301"
+    "lat": 49.3941,
+    "lon": 15.7301
   },
   {
     "name": "Vystrčenovice",
-    "lat": "49.1512",
-    "lon": "15.5297"
+    "lat": 49.1512,
+    "lon": 15.5297
   },
   {
     "name": "Vyškovec",
-    "lat": "48.9405",
-    "lon": "17.8525"
+    "lat": 48.9405,
+    "lon": 17.8525
   },
   {
     "name": "Vyškov",
-    "lat": "49.2778",
-    "lon": "16.9994"
-  },
-  {
-    "name": "Vysočany",
-    "lat": "48.9407",
-    "lon": "15.6894"
+    "lat": 49.2778,
+    "lon": 16.9994
   },
   {
     "name": "Vysoké",
-    "lat": "49.5818",
-    "lon": "15.9652"
-  },
-  {
-    "name": "Vysoká",
-    "lat": "49.6636",
-    "lon": "16.8101"
+    "lat": 49.5818,
+    "lon": 15.9652
   },
   {
     "name": "Vyšní Lhoty",
-    "lat": "49.6358",
-    "lon": "18.4569"
+    "lat": 49.6358,
+    "lon": 18.4569
   },
   {
     "name": "Vyšehoří",
-    "lat": "49.9336",
-    "lon": "16.8784"
+    "lat": 49.9336,
+    "lon": 16.8784
+  },
+  {
+    "name": "Vysoký Újezd (Beroun)",
+    "lat": 49.9924,
+    "lon": 14.2066
+  },
+  {
+    "name": "Vysoký Újezd (Hradec Králové)",
+    "lat": 50.2402,
+    "lon": 16.0201
+  },
+  {
+    "name": "Vysoký Újezd (Benešov)",
+    "lat": 49.8133,
+    "lon": 14.4763
+  },
+  {
+    "name": "Vysoká (Svitavy)",
+    "lat": 49.6636,
+    "lon": 16.8101
+  },
+  {
+    "name": "Vysoká (Bruntál)",
+    "lat": 50.2614,
+    "lon": 17.5902
+  },
+  {
+    "name": "Vysoká (Havlíčkův Brod)",
+    "lat": 49.5623,
+    "lon": 15.6222
+  },
+  {
+    "name": "Vysoká (Mělník)",
+    "lat": 50.4126,
+    "lon": 14.5382
+  },
+  {
+    "name": "Vysoká (Vsetín)",
+    "lat": 49.404,
+    "lon": 18.3609
+  },
+  {
+    "name": "Vysoká (Přerov)",
+    "lat": 49.5538,
+    "lon": 17.8817
+  },
+  {
+    "name": "Vysoká (Kutná Hora)",
+    "lat": 49.9422,
+    "lon": 15.1786
+  },
+  {
+    "name": "Vysoká (Brno-venkov)",
+    "lat": 49.2719,
+    "lon": 16.4982
+  },
+  {
+    "name": "Vysoká Pec (Chomutov)",
+    "lat": 50.5203,
+    "lon": 13.4703
+  },
+  {
+    "name": "Vysoká Pec (Karlovy Vary)",
+    "lat": 50.3466,
+    "lon": 12.6991
+  },
+  {
+    "name": "Vysoká Pec (Příbram)",
+    "lat": 49.6647,
+    "lon": 13.9654
+  },
+  {
+    "name": "Vysoká Pec (Cheb)",
+    "lat": 49.933,
+    "lon": 12.7117
+  },
+  {
+    "name": "Vysočany (Znojmo)",
+    "lat": 48.9407,
+    "lon": 15.6894
+  },
+  {
+    "name": "Vysočany (Blansko)",
+    "lat": 49.43,
+    "lon": 16.804
+  },
+  {
+    "name": "Vysočany",
+    "lat": 50.1088,
+    "lon": 14.5123
+  },
+  {
+    "name": "Vysočany (Hradec Králové)",
+    "lat": 50.2164,
+    "lon": 15.4971
+  },
+  {
+    "name": "Vysočany (Tachov)",
+    "lat": 49.701,
+    "lon": 12.7563
+  },
+  {
+    "name": "Vysočany (Chomutov)",
+    "lat": 50.3908,
+    "lon": 13.5277
+  },
+  {
+    "name": "Vysočany (Plzeň-sever)",
+    "lat": 50.0087,
+    "lon": 13.2845
+  },
+  {
+    "name": "Vysočany (Cheb)",
+    "lat": 49.9382,
+    "lon": 12.7816
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
     "name": "Tlustice",
-    "lat": "49.8500",
-    "lon": "13.8856"
-  },
-  {
-    "name": "Tlumačov",
-    "lat": "49.4039",
-    "lon": "12.9290"
+    "lat": 49.85,
+    "lon": 13.8856
   },
   {
     "name": "Tlučná",
-    "lat": "49.7253",
-    "lon": "13.2401"
+    "lat": 49.7253,
+    "lon": 13.2401
   },
   {
-    "name": "Tlumačov",
-    "lat": "49.4039",
-    "lon": "12.9290"
+    "name": "Tlumačov (Domažlice)",
+    "lat": 49.4039,
+    "lon": 12.929
+  },
+  {
+    "name": "Tlumačov (Zlín)",
+    "lat": 49.2537,
+    "lon": 17.4959
   }
 ]

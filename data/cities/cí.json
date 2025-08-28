@@ -1,27 +1,32 @@
 [
   {
-    "name": "Církvice",
-    "lat": "49.9456",
-    "lon": "15.3350"
-  },
-  {
-    "name": "Církvice",
-    "lat": "49.9456",
-    "lon": "15.3350"
-  },
-  {
     "name": "Cítov",
-    "lat": "50.3723",
-    "lon": "14.3981"
+    "lat": 50.3723,
+    "lon": 14.3981
   },
   {
     "name": "Cítoliby",
-    "lat": "50.3308",
-    "lon": "13.8127"
+    "lat": 50.3308,
+    "lon": 13.8127
   },
   {
     "name": "Císařov",
-    "lat": "49.4660",
-    "lon": "17.3526"
+    "lat": 49.466,
+    "lon": 17.3526
+  },
+  {
+    "name": "Církvice (Kutná Hora)",
+    "lat": 49.9456,
+    "lon": 15.335
+  },
+  {
+    "name": "Církvice (Kolín)",
+    "lat": 49.9094,
+    "lon": 15.0157
+  },
+  {
+    "name": "Církvice (Ústí nad Labem)",
+    "lat": 50.5893,
+    "lon": 14.0369
   }
 ]

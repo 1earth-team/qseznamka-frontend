@@ -1,322 +1,372 @@
 [
   {
-    "name": "Jankov",
-    "lat": "49.4151",
-    "lon": "15.3862"
-  },
-  {
-    "name": "Javorník",
-    "lat": "49.6865",
-    "lon": "15.0265"
-  },
-  {
     "name": "Jarpice",
-    "lat": "50.3216",
-    "lon": "14.0852"
+    "lat": 50.3216,
+    "lon": 14.0852
   },
   {
     "name": "Jabkenice",
-    "lat": "50.3240",
-    "lon": "15.0148"
+    "lat": 50.324,
+    "lon": 15.0148
   },
   {
     "name": "Jablonná",
-    "lat": "49.6610",
-    "lon": "14.1384"
-  },
-  {
-    "name": "Janov",
-    "lat": "49.8409",
-    "lon": "16.3838"
-  },
-  {
-    "name": "Jankov",
-    "lat": "49.4151",
-    "lon": "15.3862"
+    "lat": 49.661,
+    "lon": 14.1384
   },
   {
     "name": "Jarošov nad Nežárkou",
-    "lat": "49.1899",
-    "lon": "15.0673"
-  },
-  {
-    "name": "Jankov",
-    "lat": "49.4151",
-    "lon": "15.3862"
+    "lat": 49.1899,
+    "lon": 15.0673
   },
   {
     "name": "Janovice nad Úhlavou",
-    "lat": "49.3453",
-    "lon": "13.2176"
+    "lat": 49.3453,
+    "lon": 13.2176
   },
   {
     "name": "Javor",
-    "lat": "49.3252",
-    "lon": "13.2473"
-  },
-  {
-    "name": "Jarov",
-    "lat": "49.5211",
-    "lon": "13.5076"
-  },
-  {
-    "name": "Jarov",
-    "lat": "49.5211",
-    "lon": "13.5076"
-  },
-  {
-    "name": "Janov",
-    "lat": "49.8409",
-    "lon": "16.3838"
+    "lat": 49.3252,
+    "lon": 13.2473
   },
   {
     "name": "Janská",
-    "lat": "50.8047",
-    "lon": "14.3634"
+    "lat": 50.8047,
+    "lon": 14.3634
   },
   {
     "name": "Jablonec nad Nisou",
-    "lat": "50.7241",
-    "lon": "15.1711"
+    "lat": 50.7241,
+    "lon": 15.1711
   },
   {
     "name": "Janov nad Nisou",
-    "lat": "50.7720",
-    "lon": "15.1691"
+    "lat": 50.772,
+    "lon": 15.1691
   },
   {
     "name": "Jablonné v Podještědí",
-    "lat": "50.7658",
-    "lon": "14.7614"
+    "lat": 50.7658,
+    "lon": 14.7614
   },
   {
     "name": "Janovice v Podještědí",
-    "lat": "50.7629",
-    "lon": "14.8242"
+    "lat": 50.7629,
+    "lon": 14.8242
   },
   {
     "name": "Janův Důl",
-    "lat": "50.7043",
-    "lon": "14.9398"
+    "lat": 50.7043,
+    "lon": 14.9398
   },
   {
     "name": "Jaroměř",
-    "lat": "50.3555",
-    "lon": "15.9189"
-  },
-  {
-    "name": "Jasenná",
-    "lat": "49.2536",
-    "lon": "17.8943"
-  },
-  {
-    "name": "Jankovice",
-    "lat": "50.0076",
-    "lon": "15.5292"
+    "lat": 50.3555,
+    "lon": 15.9189
   },
   {
     "name": "Jaroslav",
-    "lat": "50.0123",
-    "lon": "16.0779"
+    "lat": 50.0123,
+    "lon": 16.0779
   },
   {
     "name": "Jahodov",
-    "lat": "50.1503",
-    "lon": "16.3334"
-  },
-  {
-    "name": "Janov",
-    "lat": "49.8409",
-    "lon": "16.3838"
+    "lat": 50.1503,
+    "lon": 16.3334
   },
   {
     "name": "Javornice",
-    "lat": "50.1714",
-    "lon": "16.3493"
+    "lat": 50.1714,
+    "lon": 16.3493
   },
   {
     "name": "Jablonec nad Jizerou",
-    "lat": "50.7034",
-    "lon": "15.4296"
-  },
-  {
-    "name": "Janov",
-    "lat": "49.8409",
-    "lon": "16.3838"
+    "lat": 50.7034,
+    "lon": 15.4296
   },
   {
     "name": "Janůvky",
-    "lat": "49.6716",
-    "lon": "16.5921"
+    "lat": 49.6716,
+    "lon": 16.5921
   },
   {
     "name": "Jaroměřice",
-    "lat": "49.6256",
-    "lon": "16.7518"
+    "lat": 49.6256,
+    "lon": 16.7518
   },
   {
     "name": "Jarošov",
-    "lat": "49.8248",
-    "lon": "16.1640"
-  },
-  {
-    "name": "Javorník",
-    "lat": "49.6865",
-    "lon": "15.0265"
+    "lat": 49.8248,
+    "lon": 16.164
   },
   {
     "name": "Janské Lázně",
-    "lat": "50.6306",
-    "lon": "15.7807"
+    "lat": 50.6306,
+    "lon": 15.7807
   },
   {
     "name": "Jablonné nad Orlicí",
-    "lat": "50.0297",
-    "lon": "16.6002"
+    "lat": 50.0297,
+    "lon": 16.6002
   },
   {
     "name": "Jamné nad Orlicí",
-    "lat": "50.0396",
-    "lon": "16.6329"
-  },
-  {
-    "name": "Javorník",
-    "lat": "49.6865",
-    "lon": "15.0265"
+    "lat": 50.0396,
+    "lon": 16.6329
   },
   {
     "name": "Jabloňany",
-    "lat": "49.4654",
-    "lon": "16.6071"
+    "lat": 49.4654,
+    "lon": 16.6071
   },
   {
     "name": "Javůrek",
-    "lat": "49.2555",
-    "lon": "16.3622"
-  },
-  {
-    "name": "Jasenná",
-    "lat": "49.2536",
-    "lon": "17.8943"
-  },
-  {
-    "name": "Javorník",
-    "lat": "49.6865",
-    "lon": "15.0265"
+    "lat": 49.2555,
+    "lon": 16.3622
   },
   {
     "name": "Jamné",
-    "lat": "49.4313",
-    "lon": "15.7230"
-  },
-  {
-    "name": "Jankovice",
-    "lat": "50.0076",
-    "lon": "15.5292"
+    "lat": 49.4313,
+    "lon": 15.723
   },
   {
     "name": "Jarohněvice",
-    "lat": "49.2671",
-    "lon": "17.3776"
+    "lat": 49.2671,
+    "lon": 17.3776
   },
   {
     "name": "Jakubov u Moravských Budějovic",
-    "lat": "49.0810",
-    "lon": "15.7612"
+    "lat": 49.081,
+    "lon": 15.7612
   },
   {
     "name": "Jaroměřice nad Rokytnou",
-    "lat": "49.0944",
-    "lon": "15.8933"
+    "lat": 49.0944,
+    "lon": 15.8933
   },
   {
     "name": "Jasenice",
-    "lat": "49.2581",
-    "lon": "16.1636"
+    "lat": 49.2581,
+    "lon": 16.1636
   },
   {
     "name": "Jalubí",
-    "lat": "49.1163",
-    "lon": "17.4279"
-  },
-  {
-    "name": "Jankovice",
-    "lat": "50.0076",
-    "lon": "15.5292"
+    "lat": 49.1163,
+    "lon": 17.4279
   },
   {
     "name": "Jamolice",
-    "lat": "49.0725",
-    "lon": "16.2530"
+    "lat": 49.0725,
+    "lon": 16.253
   },
   {
     "name": "Jaroslavice",
-    "lat": "48.7567",
-    "lon": "16.2303"
+    "lat": 48.7567,
+    "lon": 16.2303
   },
   {
     "name": "Jabloňov",
-    "lat": "49.3238",
-    "lon": "16.0894"
+    "lat": 49.3238,
+    "lon": 16.0894
   },
   {
     "name": "Javorek",
-    "lat": "49.6502",
-    "lon": "16.1738"
-  },
-  {
-    "name": "Janov",
-    "lat": "49.8409",
-    "lon": "16.3838"
+    "lat": 49.6502,
+    "lon": 16.1738
   },
   {
     "name": "Jablunkov",
-    "lat": "49.5767",
-    "lon": "18.7646"
+    "lat": 49.5767,
+    "lon": 18.7646
   },
   {
     "name": "Janovice",
-    "lat": "49.6214",
-    "lon": "18.4066"
+    "lat": 49.6214,
+    "lon": 18.4066
   },
   {
     "name": "Jakubčovice nad Odrou",
-    "lat": "49.6950",
-    "lon": "17.7877"
+    "lat": 49.695,
+    "lon": 17.7877
   },
   {
     "name": "Jakartovice",
-    "lat": "49.9151",
-    "lon": "17.6840"
+    "lat": 49.9151,
+    "lon": 17.684
   },
   {
     "name": "Jakubovice",
-    "lat": "49.9943",
-    "lon": "16.8288"
+    "lat": 49.9943,
+    "lon": 16.8288
   },
   {
     "name": "Janoušov",
-    "lat": "50.0131",
-    "lon": "16.8449"
+    "lat": 50.0131,
+    "lon": 16.8449
   },
   {
     "name": "Jablůnka",
-    "lat": "49.3836",
-    "lon": "17.9502"
+    "lat": 49.3836,
+    "lon": 17.9502
   },
   {
     "name": "Janová",
-    "lat": "49.3121",
-    "lon": "18.0203"
+    "lat": 49.3121,
+    "lon": 18.0203
   },
   {
     "name": "Jarcová",
-    "lat": "49.4445",
-    "lon": "17.9659"
+    "lat": 49.4445,
+    "lon": 17.9659
   },
   {
-    "name": "Javorník",
-    "lat": "49.6865",
-    "lon": "15.0265"
+    "name": "Jankov (Pelhřimov)",
+    "lat": 49.4151,
+    "lon": 15.3862
+  },
+  {
+    "name": "Jankov (České Budějovice)",
+    "lat": 48.9666,
+    "lon": 14.2976
+  },
+  {
+    "name": "Jankov (Benešov)",
+    "lat": 49.6531,
+    "lon": 14.731
+  },
+  {
+    "name": "Javorník (Svitavy)",
+    "lat": 49.7831,
+    "lon": 16.427
+  },
+  {
+    "name": "Javorník (Ústí nad Orlicí)",
+    "lat": 49.8895,
+    "lon": 16.156
+  },
+  {
+    "name": "Javorník (Benešov)",
+    "lat": 49.6865,
+    "lon": 15.0265
+  },
+  {
+    "name": "Javorník (Hodonín)",
+    "lat": 48.8621,
+    "lon": 17.5334
+  },
+  {
+    "name": "Javorník (Jeseník)",
+    "lat": 50.392,
+    "lon": 17.0025
+  },
+  {
+    "name": "Javorník (Prachatice)",
+    "lat": 49.1381,
+    "lon": 13.6544
+  },
+  {
+    "name": "Javorník (Liberec)",
+    "lat": 50.6945,
+    "lon": 14.9929
+  },
+  {
+    "name": "Javorník (Děčín)",
+    "lat": 50.8235,
+    "lon": 14.5018
+  },
+  {
+    "name": "Janov (Svitavy)",
+    "lat": 49.8409,
+    "lon": 16.3838
+  },
+  {
+    "name": "Janov (Bruntál)",
+    "lat": 50.2449,
+    "lon": 17.4812
+  },
+  {
+    "name": "Janov (Rakovník)",
+    "lat": 50.2104,
+    "lon": 13.6398
+  },
+  {
+    "name": "Janov (Rychnov nad Kněžnou)",
+    "lat": 50.3323,
+    "lon": 16.2518
+  },
+  {
+    "name": "Janov (Děčín)",
+    "lat": 50.86,
+    "lon": 14.2661
+  },
+  {
+    "name": "Janov (Tábor)",
+    "lat": 49.5258,
+    "lon": 14.8279
+  },
+  {
+    "name": "Janov (Česká Lípa)",
+    "lat": 50.7397,
+    "lon": 14.5708
+  },
+  {
+    "name": "Janov (Příbram)",
+    "lat": 49.6443,
+    "lon": 14.4569
+  },
+  {
+    "name": "Janov (Plzeň-sever)",
+    "lat": 50.0732,
+    "lon": 13.4221
+  },
+  {
+    "name": "Janov (Jindřichův Hradec)",
+    "lat": 48.9912,
+    "lon": 15.4345
+  },
+  {
+    "name": "Jarov (Plzeň-jih)",
+    "lat": 49.5211,
+    "lon": 13.5076
+  },
+  {
+    "name": "Jarov (Plzeň-sever)",
+    "lat": 49.8725,
+    "lon": 13.4743
+  },
+  {
+    "name": "Jarov (Beroun)",
+    "lat": 49.9468,
+    "lon": 14.0638
+  },
+  {
+    "name": "Jasenná (Zlín)",
+    "lat": 49.2536,
+    "lon": 17.8943
+  },
+  {
+    "name": "Jasenná (Náchod)",
+    "lat": 50.3183,
+    "lon": 15.991
+  },
+  {
+    "name": "Jankovice (Pardubice)",
+    "lat": 50.0076,
+    "lon": 15.5292
+  },
+  {
+    "name": "Jankovice (Uherské Hradiště)",
+    "lat": 49.1543,
+    "lon": 17.3884
+  },
+  {
+    "name": "Jankovice (Kroměříž)",
+    "lat": 49.3561,
+    "lon": 17.6214
+  },
+  {
+    "name": "Jankovice (Cheb)",
+    "lat": 49.9825,
+    "lon": 12.8348
   }
 ]

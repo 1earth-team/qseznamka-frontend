@@ -1,27 +1,37 @@
 [
   {
     "name": "Čáslav",
-    "lat": "49.9109",
-    "lon": "15.3913"
+    "lat": 49.9109,
+    "lon": 15.3913
   },
   {
     "name": "Čáslavsko",
-    "lat": "49.5924",
-    "lon": "15.0027"
-  },
-  {
-    "name": "Částkov",
-    "lat": "49.1041",
-    "lon": "17.6196"
+    "lat": 49.5924,
+    "lon": 15.0027
   },
   {
     "name": "Čáslavice",
-    "lat": "49.1522",
-    "lon": "15.7724"
+    "lat": 49.1522,
+    "lon": 15.7724
   },
   {
-    "name": "Částkov",
-    "lat": "49.1041",
-    "lon": "17.6196"
+    "name": "Částkov (Uherské Hradiště)",
+    "lat": 49.1041,
+    "lon": 17.6196
+  },
+  {
+    "name": "Částkov (Tachov)",
+    "lat": 49.756,
+    "lon": 12.6737
+  },
+  {
+    "name": "Částkov (Chrudim)",
+    "lat": 49.8593,
+    "lon": 15.8559
+  },
+  {
+    "name": "Částkov (Klatovy)",
+    "lat": 49.238,
+    "lon": 13.4507
   }
 ]

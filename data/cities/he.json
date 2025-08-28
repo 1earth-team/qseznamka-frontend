@@ -1,137 +1,187 @@
 [
   {
     "name": "Heřmaničky",
-    "lat": "49.6053",
-    "lon": "14.5825"
+    "lat": 49.6053,
+    "lon": 14.5825
   },
   {
     "name": "Herink",
-    "lat": "49.9671",
-    "lon": "14.5752"
-  },
-  {
-    "name": "Heřmaň",
-    "lat": "48.9112",
-    "lon": "14.5036"
+    "lat": 49.9671,
+    "lon": 14.5752
   },
   {
     "name": "Heřmaneč",
-    "lat": "49.1296",
-    "lon": "15.2844"
-  },
-  {
-    "name": "Heřmaň",
-    "lat": "48.9112",
-    "lon": "14.5036"
+    "lat": 49.1296,
+    "lon": 15.2844
   },
   {
     "name": "Hejná",
-    "lat": "49.2894",
-    "lon": "13.6747"
+    "lat": 49.2894,
+    "lon": 13.6747
   },
   {
     "name": "Heřmanova Huť",
-    "lat": "49.7131",
-    "lon": "13.0905"
-  },
-  {
-    "name": "Heřmanov",
-    "lat": "49.3791",
-    "lon": "16.1816"
-  },
-  {
-    "name": "Hejnice",
-    "lat": "50.0559",
-    "lon": "16.3994"
-  },
-  {
-    "name": "Heřmanice",
-    "lat": "49.8239",
-    "lon": "15.5472"
-  },
-  {
-    "name": "Herálec",
-    "lat": "49.6892",
-    "lon": "15.9943"
-  },
-  {
-    "name": "Heřmanice",
-    "lat": "49.8239",
-    "lon": "15.5472"
+    "lat": 49.7131,
+    "lon": 13.0905
   },
   {
     "name": "Heřmanův Městec",
-    "lat": "49.9470",
-    "lon": "15.6647"
+    "lat": 49.947,
+    "lon": 15.6647
   },
   {
     "name": "Hejtmánkovice",
-    "lat": "50.5993",
-    "lon": "16.2994"
-  },
-  {
-    "name": "Heřmanice",
-    "lat": "49.8239",
-    "lon": "15.5472"
+    "lat": 50.5993,
+    "lon": 16.2994
   },
   {
     "name": "Heřmánkovice",
-    "lat": "50.6199",
-    "lon": "16.3239"
-  },
-  {
-    "name": "Hejnice",
-    "lat": "50.0559",
-    "lon": "16.3994"
+    "lat": 50.6199,
+    "lon": 16.3239
   },
   {
     "name": "Helvíkovice",
-    "lat": "50.0939",
-    "lon": "16.4420"
+    "lat": 50.0939,
+    "lon": 16.442
   },
   {
     "name": "Heroltice",
-    "lat": "49.3114",
-    "lon": "16.4128"
+    "lat": 49.3114,
+    "lon": 16.4128
   },
   {
     "name": "Heraltice",
-    "lat": "49.2308",
-    "lon": "15.7305"
+    "lat": 49.2308,
+    "lon": 15.7305
   },
   {
     "name": "Heršpice",
-    "lat": "49.1198",
-    "lon": "16.9136"
+    "lat": 49.1198,
+    "lon": 16.9136
   },
   {
     "name": "Hevlín",
-    "lat": "48.7521",
-    "lon": "16.3813"
-  },
-  {
-    "name": "Herálec",
-    "lat": "49.6892",
-    "lon": "15.9943"
-  },
-  {
-    "name": "Heřmanov",
-    "lat": "49.3791",
-    "lon": "16.1816"
+    "lat": 48.7521,
+    "lon": 16.3813
   },
   {
     "name": "Heřmanovice",
-    "lat": "50.1933",
-    "lon": "17.3978"
+    "lat": 50.1933,
+    "lon": 17.3978
   },
   {
     "name": "Heřmanice u Oder",
-    "lat": "49.7137",
-    "lon": "17.8053"
+    "lat": 49.7137,
+    "lon": 17.8053
   },
   {
     "name": "Heřmánky",
-    "lat": "49.7070",
-    "lon": "17.7681"
+    "lat": 49.707,
+    "lon": 17.7681
+  },
+  {
+    "name": "Heřmaň (České Budějovice)",
+    "lat": 48.9112,
+    "lon": 14.5036
+  },
+  {
+    "name": "Heřmaň (Písek)",
+    "lat": 49.2324,
+    "lon": 14.1354
+  },
+  {
+    "name": "Heřmanov (Žďár nad Sázavou)",
+    "lat": 49.3791,
+    "lon": 16.1816
+  },
+  {
+    "name": "Heřmanov (Děčín)",
+    "lat": 50.7265,
+    "lon": 14.2912
+  },
+  {
+    "name": "Heřmanov (Cheb)",
+    "lat": 49.9574,
+    "lon": 12.9167
+  },
+  {
+    "name": "Heřmanov (Rakovník)",
+    "lat": 50.1494,
+    "lon": 13.5742
+  },
+  {
+    "name": "Heřmanov (Sokolov)",
+    "lat": 50.2968,
+    "lon": 12.6275
+  },
+  {
+    "name": "Hejnice (Ústí nad Orlicí)",
+    "lat": 50.0559,
+    "lon": 16.3994
+  },
+  {
+    "name": "Hejnice (Liberec)",
+    "lat": 50.8772,
+    "lon": 15.1817
+  },
+  {
+    "name": "Hejnice (Olomouc)",
+    "lat": 49.6729,
+    "lon": 16.8529
+  },
+  {
+    "name": "Hejnice (Šumperk)",
+    "lat": 49.8638,
+    "lon": 16.8257
+  },
+  {
+    "name": "Heřmanice (Liberec)",
+    "lat": 50.8969,
+    "lon": 15.0063
+  },
+  {
+    "name": "Heřmanice (Havlíčkův Brod)",
+    "lat": 49.8239,
+    "lon": 15.5472
+  },
+  {
+    "name": "Heřmanice (Náchod)",
+    "lat": 50.3791,
+    "lon": 15.9191
+  },
+  {
+    "name": "Heřmanice (Ostrava-město)",
+    "lat": 49.8589,
+    "lon": 18.3235
+  },
+  {
+    "name": "Heřmanice (Ústí nad Orlicí)",
+    "lat": 50.127,
+    "lon": 16.7507
+  },
+  {
+    "name": "Heřmanice (Česká Lípa)",
+    "lat": 50.6657,
+    "lon": 14.3907
+  },
+  {
+    "name": "Heřmanice (Jičín)",
+    "lat": 50.4777,
+    "lon": 15.5221
+  },
+  {
+    "name": "Heřmanice (Nový Jičín)",
+    "lat": 49.5597,
+    "lon": 17.8613
+  },
+  {
+    "name": "Herálec (Žďár nad Sázavou)",
+    "lat": 49.6892,
+    "lon": 15.9943
+  },
+  {
+    "name": "Herálec (Havlíčkův Brod)",
+    "lat": 49.5308,
+    "lon": 15.4571
   }
 ]

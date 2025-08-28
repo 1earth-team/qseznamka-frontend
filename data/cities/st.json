@@ -1,947 +1,1187 @@
 [
   {
     "name": "Stranný",
-    "lat": "49.7538",
-    "lon": "14.4932"
+    "lat": 49.7538,
+    "lon": 14.4932
   },
   {
     "name": "Strojetice",
-    "lat": "49.6515",
-    "lon": "15.0660"
-  },
-  {
-    "name": "Struhařov",
-    "lat": "49.7655",
-    "lon": "14.7622"
+    "lat": 49.6515,
+    "lon": 15.066
   },
   {
     "name": "Střezimíř",
-    "lat": "49.5320",
-    "lon": "14.6113"
+    "lat": 49.532,
+    "lon": 14.6113
   },
   {
     "name": "Studený",
-    "lat": "49.6073",
-    "lon": "15.1286"
-  },
-  {
-    "name": "Stašov",
-    "lat": "49.8833",
-    "lon": "13.9575"
+    "lat": 49.6073,
+    "lon": 15.1286
   },
   {
     "name": "Stehelčeves",
-    "lat": "50.1716",
-    "lon": "14.1908"
+    "lat": 50.1716,
+    "lon": 14.1908
   },
   {
     "name": "Stochov",
-    "lat": "50.1481",
-    "lon": "13.9629"
+    "lat": 50.1481,
+    "lon": 13.9629
   },
   {
     "name": "Stradonice",
-    "lat": "50.2914",
-    "lon": "14.0469"
+    "lat": 50.2914,
+    "lon": 14.0469
   },
   {
     "name": "Studeněves",
-    "lat": "50.2240",
-    "lon": "14.0444"
+    "lat": 50.224,
+    "lon": 14.0444
   },
   {
     "name": "Starý Kolín",
-    "lat": "50.0098",
-    "lon": "15.2939"
-  },
-  {
-    "name": "Staňkovice",
-    "lat": "50.5894",
-    "lon": "14.1670"
+    "lat": 50.0098,
+    "lon": 15.2939
   },
   {
     "name": "Starkoč",
-    "lat": "49.9373",
-    "lon": "15.5076"
+    "lat": 49.9373,
+    "lon": 15.5076
   },
   {
     "name": "Stránka",
-    "lat": "50.4230",
-    "lon": "14.6611"
+    "lat": 50.423,
+    "lon": 14.6611
   },
   {
     "name": "Střemy",
-    "lat": "50.3842",
-    "lon": "14.5652"
+    "lat": 50.3842,
+    "lon": 14.5652
   },
   {
     "name": "Strašnov",
-    "lat": "50.3515",
-    "lon": "14.8892"
+    "lat": 50.3515,
+    "lon": 14.8892
   },
   {
     "name": "Strážiště",
-    "lat": "50.5924",
-    "lon": "14.9292"
+    "lat": 50.5924,
+    "lon": 14.9292
   },
   {
     "name": "Strenice",
-    "lat": "50.3926",
-    "lon": "14.8231"
+    "lat": 50.3926,
+    "lon": 14.8231
   },
   {
     "name": "Stará Lysá",
-    "lat": "50.2246",
-    "lon": "14.7991"
+    "lat": 50.2246,
+    "lon": 14.7991
   },
   {
     "name": "Starý Vestec",
-    "lat": "50.1448",
-    "lon": "14.8462"
+    "lat": 50.1448,
+    "lon": 14.8462
   },
   {
     "name": "Straky",
-    "lat": "50.2336",
-    "lon": "14.9592"
+    "lat": 50.2336,
+    "lon": 14.9592
   },
   {
     "name": "Stratov",
-    "lat": "50.1929",
-    "lon": "14.9098"
+    "lat": 50.1929,
+    "lon": 14.9098
   },
   {
     "name": "Strančice",
-    "lat": "49.9484",
-    "lon": "14.6774"
-  },
-  {
-    "name": "Struhařov",
-    "lat": "49.7655",
-    "lon": "14.7622"
+    "lat": 49.9484,
+    "lon": 14.6774
   },
   {
     "name": "Stříbrná Skalice",
-    "lat": "49.8977",
-    "lon": "14.8462"
+    "lat": 49.8977,
+    "lon": 14.8462
   },
   {
     "name": "Statenice",
-    "lat": "50.1426",
-    "lon": "14.3185"
+    "lat": 50.1426,
+    "lon": 14.3185
   },
   {
     "name": "Středokluky",
-    "lat": "50.1322",
-    "lon": "14.2342"
+    "lat": 50.1322,
+    "lon": 14.2342
   },
   {
     "name": "Stará Huť",
-    "lat": "49.7821",
-    "lon": "14.1973"
+    "lat": 49.7821,
+    "lon": 14.1973
   },
   {
     "name": "Starosedlský Hrádek",
-    "lat": "49.5762",
-    "lon": "14.0088"
+    "lat": 49.5762,
+    "lon": 14.0088
   },
   {
     "name": "Staré Hodějovice",
-    "lat": "48.9454",
-    "lon": "14.5210"
+    "lat": 48.9454,
+    "lon": 14.521
   },
   {
     "name": "Strážkovice",
-    "lat": "48.8989",
-    "lon": "14.5696"
+    "lat": 48.8989,
+    "lon": 14.5696
   },
   {
     "name": "Strýčice",
-    "lat": "49.0122",
-    "lon": "14.2657"
+    "lat": 49.0122,
+    "lon": 14.2657
   },
   {
     "name": "Střížov",
-    "lat": "48.8903",
-    "lon": "14.5274"
-  },
-  {
-    "name": "Střítež",
-    "lat": "49.4408",
-    "lon": "16.2554"
-  },
-  {
-    "name": "Staňkov",
-    "lat": "48.9795",
-    "lon": "14.9527"
+    "lat": 48.8903,
+    "lon": 14.5274
   },
   {
     "name": "Staré Hobzí",
-    "lat": "49.0104",
-    "lon": "15.4532"
+    "lat": 49.0104,
+    "lon": 15.4532
   },
   {
     "name": "Staré Město pod Landštejnem",
-    "lat": "49.0035",
-    "lon": "15.2539"
+    "lat": 49.0035,
+    "lon": 15.2539
   },
   {
     "name": "Stráž nad Nežárkou",
-    "lat": "49.0697",
-    "lon": "14.9055"
+    "lat": 49.0697,
+    "lon": 14.9055
   },
   {
     "name": "Strmilov",
-    "lat": "49.1592",
-    "lon": "15.2015"
+    "lat": 49.1592,
+    "lon": 15.2015
   },
   {
     "name": "Stříbřec",
-    "lat": "49.0299",
-    "lon": "14.8780"
-  },
-  {
-    "name": "Střížovice",
-    "lat": "49.1399",
-    "lon": "15.1569"
-  },
-  {
-    "name": "Studená",
-    "lat": "49.1847",
-    "lon": "15.2868"
+    "lat": 49.0299,
+    "lon": 14.878
   },
   {
     "name": "Staré Bříště",
-    "lat": "49.4910",
-    "lon": "15.3620"
+    "lat": 49.491,
+    "lon": 15.362
   },
   {
     "name": "Stojčín",
-    "lat": "49.2377",
-    "lon": "15.2219"
-  },
-  {
-    "name": "Střítež",
-    "lat": "49.4408",
-    "lon": "16.2554"
+    "lat": 49.2377,
+    "lon": 15.2219
   },
   {
     "name": "Střítež pod Křemešníkem",
-    "lat": "49.4340",
-    "lon": "15.3202"
+    "lat": 49.434,
+    "lon": 15.3202
   },
   {
     "name": "Stehlovice",
-    "lat": "49.3934",
-    "lon": "14.3229"
+    "lat": 49.3934,
+    "lon": 14.3229
   },
   {
     "name": "Stachy",
-    "lat": "49.1018",
-    "lon": "13.6666"
+    "lat": 49.1018,
+    "lon": 13.6666
   },
   {
     "name": "Stožec",
-    "lat": "48.8594",
-    "lon": "13.8214"
+    "lat": 48.8594,
+    "lon": 13.8214
   },
   {
     "name": "Strážný",
-    "lat": "48.9088",
-    "lon": "13.7203"
+    "lat": 48.9088,
+    "lon": 13.7203
   },
   {
     "name": "Strunkovice nad Blanicí",
-    "lat": "49.0843",
-    "lon": "14.0549"
+    "lat": 49.0843,
+    "lon": 14.0549
   },
   {
     "name": "Stožice",
-    "lat": "49.1325",
-    "lon": "14.1502"
+    "lat": 49.1325,
+    "lon": 14.1502
   },
   {
     "name": "Strakonice",
-    "lat": "49.2613",
-    "lon": "13.9025"
-  },
-  {
-    "name": "Strašice",
-    "lat": "49.2024",
-    "lon": "13.7296"
+    "lat": 49.2613,
+    "lon": 13.9025
   },
   {
     "name": "Strunkovice nad Volyňkou",
-    "lat": "49.2085",
-    "lon": "13.8893"
+    "lat": 49.2085,
+    "lon": 13.8893
   },
   {
     "name": "Střelské Hoštice",
-    "lat": "49.2976",
-    "lon": "13.7560"
+    "lat": 49.2976,
+    "lon": 13.756
   },
   {
     "name": "Stádlec",
-    "lat": "49.3796",
-    "lon": "14.4951"
-  },
-  {
-    "name": "Staňkov",
-    "lat": "48.9795",
-    "lon": "14.9527"
-  },
-  {
-    "name": "Stráž",
-    "lat": "49.4147",
-    "lon": "12.9127"
-  },
-  {
-    "name": "Stará Voda",
-    "lat": "50.1503",
-    "lon": "15.5306"
-  },
-  {
-    "name": "Stanovice",
-    "lat": "50.4007",
-    "lon": "15.8715"
+    "lat": 49.3796,
+    "lon": 14.4951
   },
   {
     "name": "Stráž nad Ohří",
-    "lat": "50.3372",
-    "lon": "13.0510"
+    "lat": 50.3372,
+    "lon": 13.051
   },
   {
     "name": "Stružná",
-    "lat": "50.1831",
-    "lon": "13.0057"
+    "lat": 50.1831,
+    "lon": 13.0057
   },
   {
     "name": "Strašín",
-    "lat": "49.1792",
-    "lon": "13.6405"
+    "lat": 49.1792,
+    "lon": 13.6405
   },
   {
     "name": "Strážov",
-    "lat": "49.3035",
-    "lon": "13.2483"
+    "lat": 49.3035,
+    "lon": 13.2483
   },
   {
     "name": "Starý Plzenec",
-    "lat": "49.6979",
-    "lon": "13.4736"
+    "lat": 49.6979,
+    "lon": 13.4736
   },
   {
     "name": "Stod",
-    "lat": "49.6391",
-    "lon": "13.1647"
-  },
-  {
-    "name": "Střelice",
-    "lat": "49.1522",
-    "lon": "16.5040"
-  },
-  {
-    "name": "Střížovice",
-    "lat": "49.1399",
-    "lon": "15.1569"
-  },
-  {
-    "name": "Studená",
-    "lat": "49.1847",
-    "lon": "15.2868"
-  },
-  {
-    "name": "Strašice",
-    "lat": "49.2024",
-    "lon": "13.7296"
-  },
-  {
-    "name": "Staré Sedlo",
-    "lat": "49.6659",
-    "lon": "12.8636"
+    "lat": 49.6391,
+    "lon": 13.1647
   },
   {
     "name": "Stříbrná",
-    "lat": "50.3567",
-    "lon": "12.5264"
+    "lat": 50.3567,
+    "lon": 12.5264
   },
   {
     "name": "Staré Sedliště",
-    "lat": "49.7437",
-    "lon": "12.6944"
-  },
-  {
-    "name": "Staré Sedlo",
-    "lat": "49.6659",
-    "lon": "12.8636"
-  },
-  {
-    "name": "Stráž",
-    "lat": "49.4147",
-    "lon": "12.9127"
+    "lat": 49.7437,
+    "lon": 12.6944
   },
   {
     "name": "Stříbro",
-    "lat": "49.7530",
-    "lon": "13.0049"
+    "lat": 49.753,
+    "lon": 13.0049
   },
   {
     "name": "Studánka",
-    "lat": "49.7806",
-    "lon": "12.6036"
-  },
-  {
-    "name": "Stráž pod Ralskem",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Stružnice",
-    "lat": "",
-    "lon": ""
+    "lat": 49.7806,
+    "lon": 12.6036
   },
   {
     "name": "Stvolínky",
-    "lat": "50.6323",
-    "lon": "14.4288"
+    "lat": 50.6323,
+    "lon": 14.4288
   },
   {
     "name": "Staré Křečany",
-    "lat": "50.9504",
-    "lon": "14.4962"
+    "lat": 50.9504,
+    "lon": 14.4962
   },
   {
     "name": "Starý Šachov",
-    "lat": "50.7151",
-    "lon": "14.3604"
+    "lat": 50.7151,
+    "lon": 14.3604
   },
   {
     "name": "Strupčice",
-    "lat": "50.4713",
-    "lon": "13.5302"
+    "lat": 50.4713,
+    "lon": 13.5302
   },
   {
     "name": "Stráž nad Nisou",
-    "lat": "50.7910",
-    "lon": "15.0268"
-  },
-  {
-    "name": "Staňkovice",
-    "lat": "50.5894",
-    "lon": "14.1670"
+    "lat": 50.791,
+    "lon": 15.0268
   },
   {
     "name": "Straškov-Vodochody",
-    "lat": "50.3644",
-    "lon": "14.2502"
-  },
-  {
-    "name": "Staňkovice",
-    "lat": "50.5894",
-    "lon": "14.1670"
+    "lat": 50.3644,
+    "lon": 14.2502
   },
   {
     "name": "Stebno",
-    "lat": "50.6151",
-    "lon": "14.0172"
+    "lat": 50.6151,
+    "lon": 14.0172
   },
   {
     "name": "Stříbrné Hory",
-    "lat": "49.6012",
-    "lon": "15.6909"
-  },
-  {
-    "name": "Stará Voda",
-    "lat": "50.1503",
-    "lon": "15.5306"
+    "lat": 49.6012,
+    "lon": 15.6909
   },
   {
     "name": "Starý Bydžov",
-    "lat": "50.2584",
-    "lon": "15.4523"
+    "lat": 50.2584,
+    "lon": 15.4523
   },
   {
     "name": "Stěžery",
-    "lat": "50.2157",
-    "lon": "15.7483"
+    "lat": 50.2157,
+    "lon": 15.7483
   },
   {
     "name": "Stračov",
-    "lat": "50.3018",
-    "lon": "15.6410"
+    "lat": 50.3018,
+    "lon": 15.641
   },
   {
     "name": "Střezetice",
-    "lat": "50.2584",
-    "lon": "15.7184"
+    "lat": 50.2584,
+    "lon": 15.7184
   },
   {
     "name": "Stolany",
-    "lat": "49.9278",
-    "lon": "15.7451"
+    "lat": 49.9278,
+    "lon": 15.7451
   },
   {
     "name": "Střemošice",
-    "lat": "49.8916",
-    "lon": "16.0721"
-  },
-  {
-    "name": "Studnice",
-    "lat": "49.2910",
-    "lon": "16.0289"
+    "lat": 49.8916,
+    "lon": 16.0721
   },
   {
     "name": "Stará Paka",
-    "lat": "50.5103",
-    "lon": "15.4945"
+    "lat": 50.5103,
+    "lon": 15.4945
   },
   {
     "name": "Staré Hrady",
-    "lat": "50.3860",
-    "lon": "15.2130"
+    "lat": 50.386,
+    "lon": 15.213
   },
   {
     "name": "Staré Místo",
-    "lat": "50.4055",
-    "lon": "15.3424"
+    "lat": 50.4055,
+    "lon": 15.3424
   },
   {
     "name": "Staré Smrkovice",
-    "lat": "50.3366",
-    "lon": "15.4945"
+    "lat": 50.3366,
+    "lon": 15.4945
   },
   {
     "name": "Střevač",
-    "lat": "50.4044",
-    "lon": "15.2745"
+    "lat": 50.4044,
+    "lon": 15.2745
   },
   {
     "name": "Stárkov",
-    "lat": "50.5339",
-    "lon": "16.1582"
-  },
-  {
-    "name": "Studnice",
-    "lat": "49.2910",
-    "lon": "16.0289"
+    "lat": 50.5339,
+    "lon": 16.1582
   },
   {
     "name": "Staré Hradiště",
-    "lat": "50.0654",
-    "lon": "15.7788"
+    "lat": 50.0654,
+    "lon": 15.7788
   },
   {
     "name": "Staré Jesenčany",
-    "lat": "50.0005",
-    "lon": "15.7541"
+    "lat": 50.0005,
+    "lon": 15.7541
   },
   {
     "name": "Staré Ždánice",
-    "lat": "50.1242",
-    "lon": "15.7215"
+    "lat": 50.1242,
+    "lon": 15.7215
   },
   {
     "name": "Starý Mateřov",
-    "lat": "50.0016",
-    "lon": "15.7151"
+    "lat": 50.0016,
+    "lon": 15.7151
   },
   {
     "name": "Stéblová",
-    "lat": "50.0920",
-    "lon": "15.7462"
+    "lat": 50.092,
+    "lon": 15.7462
   },
   {
     "name": "Stojice",
-    "lat": "49.9563",
-    "lon": "15.6147"
+    "lat": 49.9563,
+    "lon": 15.6147
   },
   {
     "name": "Strašov",
-    "lat": "50.0875",
-    "lon": "15.5227"
+    "lat": 50.0875,
+    "lon": 15.5227
   },
   {
     "name": "Stružinec",
-    "lat": "50.5508",
-    "lon": "15.3580"
-  },
-  {
-    "name": "Studenec",
-    "lat": "50.5534",
-    "lon": "15.5494"
-  },
-  {
-    "name": "Staré Město",
-    "lat": "49.7941",
-    "lon": "16.6749"
-  },
-  {
-    "name": "Stašov",
-    "lat": "49.8833",
-    "lon": "13.9575"
+    "lat": 50.5508,
+    "lon": 15.358
   },
   {
     "name": "Strakov",
-    "lat": "49.8666",
-    "lon": "16.3662"
-  },
-  {
-    "name": "Stanovice",
-    "lat": "50.4007",
-    "lon": "15.8715"
+    "lat": 49.8666,
+    "lon": 16.3662
   },
   {
     "name": "Staré Buky",
-    "lat": "50.5377",
-    "lon": "15.8481"
+    "lat": 50.5377,
+    "lon": 15.8481
   },
   {
     "name": "Strážné",
-    "lat": "50.6646",
-    "lon": "15.6139"
+    "lat": 50.6646,
+    "lon": 15.6139
   },
   {
     "name": "Stradouň",
-    "lat": "49.9724",
-    "lon": "16.0656"
+    "lat": 49.9724,
+    "lon": 16.0656
   },
   {
     "name": "Strážná",
-    "lat": "49.9114",
-    "lon": "16.7108"
+    "lat": 49.9114,
+    "lon": 16.7108
   },
   {
     "name": "Studené",
-    "lat": "50.0666",
-    "lon": "16.5892"
+    "lat": 50.0666,
+    "lon": 16.5892
   },
   {
     "name": "Stvolová",
-    "lat": "49.5893",
-    "lon": "16.5403"
+    "lat": 49.5893,
+    "lon": 16.5403
   },
   {
     "name": "Stanoviště",
-    "lat": "49.2391",
-    "lon": "16.2535"
+    "lat": 49.2391,
+    "lon": 16.2535
   },
   {
     "name": "Strhaře",
-    "lat": "49.4356",
-    "lon": "16.4363"
-  },
-  {
-    "name": "Střelice",
-    "lat": "49.1522",
-    "lon": "16.5040"
+    "lat": 49.4356,
+    "lon": 16.4363
   },
   {
     "name": "Starovice",
-    "lat": "48.9522",
-    "lon": "16.7084"
+    "lat": 48.9522,
+    "lon": 16.7084
   },
   {
     "name": "Starovičky",
-    "lat": "48.9077",
-    "lon": "16.7757"
+    "lat": 48.9077,
+    "lon": 16.7757
   },
   {
     "name": "Strachotín",
-    "lat": "48.9054",
-    "lon": "16.6522"
+    "lat": 48.9054,
+    "lon": 16.6522
   },
   {
     "name": "Starý Poddvorov",
-    "lat": "48.8746",
-    "lon": "16.9883"
+    "lat": 48.8746,
+    "lon": 16.9883
   },
   {
     "name": "Stavěšice",
-    "lat": "49.0016",
-    "lon": "17.0305"
+    "lat": 49.0016,
+    "lon": 17.0305
   },
   {
     "name": "Strážnice",
-    "lat": "48.9019",
-    "lon": "17.3144"
+    "lat": 48.9019,
+    "lon": 17.3144
   },
   {
     "name": "Strážovice",
-    "lat": "49.0092",
-    "lon": "17.0474"
+    "lat": 49.0092,
+    "lon": 17.0474
   },
   {
     "name": "Stáj",
-    "lat": "49.4580",
-    "lon": "15.8034"
+    "lat": 49.458,
+    "lon": 15.8034
   },
   {
     "name": "Stará Říše",
-    "lat": "49.1773",
-    "lon": "15.5952"
+    "lat": 49.1773,
+    "lon": 15.5952
   },
   {
     "name": "Stonařov",
-    "lat": "49.2822",
-    "lon": "15.5856"
+    "lat": 49.2822,
+    "lon": 15.5856
   },
   {
     "name": "Strachoňovice",
-    "lat": "49.1347",
-    "lon": "15.4884"
-  },
-  {
-    "name": "Střítež",
-    "lat": "49.4408",
-    "lon": "16.2554"
+    "lat": 49.1347,
+    "lon": 15.4884
   },
   {
     "name": "Střílky",
-    "lat": "49.1401",
-    "lon": "17.2146"
-  },
-  {
-    "name": "Střížovice",
-    "lat": "49.1399",
-    "lon": "15.1569"
+    "lat": 49.1401,
+    "lon": 17.2146
   },
   {
     "name": "Stařechovice",
-    "lat": "49.5329",
-    "lon": "17.0537"
+    "lat": 49.5329,
+    "lon": 17.0537
   },
   {
     "name": "Stínava",
-    "lat": "49.4952",
-    "lon": "16.9345"
+    "lat": 49.4952,
+    "lon": 16.9345
   },
   {
     "name": "Stražisko",
-    "lat": "49.5434",
-    "lon": "16.9301"
+    "lat": 49.5434,
+    "lon": 16.9301
   },
   {
     "name": "Stařeč",
-    "lat": "49.1972",
-    "lon": "15.8265"
+    "lat": 49.1972,
+    "lon": 15.8265
   },
   {
     "name": "Stropešín",
-    "lat": "49.1540",
-    "lon": "16.0772"
-  },
-  {
-    "name": "Střítež",
-    "lat": "49.4408",
-    "lon": "16.2554"
-  },
-  {
-    "name": "Studenec",
-    "lat": "50.5534",
-    "lon": "15.5494"
-  },
-  {
-    "name": "Studnice",
-    "lat": "49.2910",
-    "lon": "16.0289"
+    "lat": 49.154,
+    "lon": 16.0772
   },
   {
     "name": "Staré Hutě",
-    "lat": "49.1295",
-    "lon": "17.2773"
-  },
-  {
-    "name": "Staré Město",
-    "lat": "49.7941",
-    "lon": "16.6749"
+    "lat": 49.1295,
+    "lon": 17.2773
   },
   {
     "name": "Starý Hrozenkov",
-    "lat": "48.9659",
-    "lon": "17.8628"
+    "lat": 48.9659,
+    "lon": 17.8628
   },
   {
     "name": "Strání",
-    "lat": "48.9020",
-    "lon": "17.7065"
-  },
-  {
-    "name": "Stříbrnice",
-    "lat": "49.3285",
-    "lon": "17.2461"
+    "lat": 48.902,
+    "lon": 17.7065
   },
   {
     "name": "Stupava",
-    "lat": "49.1172",
-    "lon": "17.2487"
-  },
-  {
-    "name": "Studnice",
-    "lat": "49.2910",
-    "lon": "16.0289"
+    "lat": 49.1172,
+    "lon": 17.2487
   },
   {
     "name": "Stálky",
-    "lat": "48.8701",
-    "lon": "15.6847"
+    "lat": 48.8701,
+    "lon": 15.6847
   },
   {
     "name": "Starý Petřín",
-    "lat": "48.8900",
-    "lon": "15.7341"
+    "lat": 48.89,
+    "lon": 15.7341
   },
   {
     "name": "Stošíkovice na Louce",
-    "lat": "48.8966",
-    "lon": "16.2149"
+    "lat": 48.8966,
+    "lon": 16.2149
   },
   {
     "name": "Strachotice",
-    "lat": "48.7962",
-    "lon": "16.1723"
-  },
-  {
-    "name": "Střelice",
-    "lat": "49.1522",
-    "lon": "16.5040"
+    "lat": 48.7962,
+    "lon": 16.1723
   },
   {
     "name": "Strachujov",
-    "lat": "49.6131",
-    "lon": "16.2265"
+    "lat": 49.6131,
+    "lon": 16.2265
   },
   {
     "name": "Stránecká Zhoř",
-    "lat": "49.3801",
-    "lon": "15.9271"
+    "lat": 49.3801,
+    "lon": 15.9271
   },
   {
     "name": "Strážek",
-    "lat": "49.4398",
-    "lon": "16.1956"
-  },
-  {
-    "name": "Střítež",
-    "lat": "49.4408",
-    "lon": "16.2554"
-  },
-  {
-    "name": "Stará Ves",
-    "lat": "49.3802",
-    "lon": "17.4890"
+    "lat": 49.4398,
+    "lon": 16.1956
   },
   {
     "name": "Staré Heřminovy",
-    "lat": "49.9332",
-    "lon": "17.6257"
-  },
-  {
-    "name": "Staré Město",
-    "lat": "49.7941",
-    "lon": "16.6749"
+    "lat": 49.9332,
+    "lon": 17.6257
   },
   {
     "name": "Staré Hamry",
-    "lat": "49.4727",
-    "lon": "18.4463"
-  },
-  {
-    "name": "Staré Město",
-    "lat": "49.7941",
-    "lon": "16.6749"
+    "lat": 49.4727,
+    "lon": 18.4463
   },
   {
     "name": "Staříč",
-    "lat": "49.6859",
-    "lon": "18.2728"
-  },
-  {
-    "name": "Střítež",
-    "lat": "49.4408",
-    "lon": "16.2554"
+    "lat": 49.6859,
+    "lon": 18.2728
   },
   {
     "name": "Stonava",
-    "lat": "49.8170",
-    "lon": "18.5251"
+    "lat": 49.817,
+    "lon": 18.5251
   },
   {
     "name": "Starý Jičín",
-    "lat": "49.5770",
-    "lon": "17.9602"
+    "lat": 49.577,
+    "lon": 17.9602
   },
   {
     "name": "Studénka",
-    "lat": "49.7137",
-    "lon": "18.0611"
+    "lat": 49.7137,
+    "lon": 18.0611
   },
   {
     "name": "Strukov",
-    "lat": "49.7329",
-    "lon": "17.1754"
+    "lat": 49.7329,
+    "lon": 17.1754
   },
   {
     "name": "Střeň",
-    "lat": "49.6916",
-    "lon": "17.1531"
+    "lat": 49.6916,
+    "lon": 17.1531
   },
   {
     "name": "Staré Těchanovice",
-    "lat": "49.8183",
-    "lon": "17.6920"
+    "lat": 49.8183,
+    "lon": 17.692
   },
   {
     "name": "Stěbořice",
-    "lat": "49.9371",
-    "lon": "17.8055"
+    "lat": 49.9371,
+    "lon": 17.8055
   },
   {
     "name": "Strahovice",
-    "lat": "50.0021",
-    "lon": "18.0876"
+    "lat": 50.0021,
+    "lon": 18.0876
   },
   {
     "name": "Stará Ves nad Ondřejnicí",
-    "lat": "49.7280",
-    "lon": "18.1886"
-  },
-  {
-    "name": "Stará Ves",
-    "lat": "49.3802",
-    "lon": "17.4890"
-  },
-  {
-    "name": "Stříbrnice",
-    "lat": "49.3285",
-    "lon": "17.2461"
+    "lat": 49.728,
+    "lon": 18.1886
   },
   {
     "name": "Střítež nad Ludinou",
-    "lat": "49.6089",
-    "lon": "17.7382"
-  },
-  {
-    "name": "Staré Město",
-    "lat": "49.7941",
-    "lon": "16.6749"
+    "lat": 49.6089,
+    "lon": 17.7382
   },
   {
     "name": "Stavenice",
-    "lat": "49.7868",
-    "lon": "16.9736"
+    "lat": 49.7868,
+    "lon": 16.9736
   },
   {
     "name": "Střelná",
-    "lat": "49.1773",
-    "lon": "18.0977"
+    "lat": 49.1773,
+    "lon": 18.0977
   },
   {
     "name": "Střítež nad Bečvou",
-    "lat": "49.4586",
-    "lon": "18.0568"
+    "lat": 49.4586,
+    "lon": 18.0568
   },
   {
     "name": "Stará Červená Voda",
-    "lat": "50.3293",
-    "lon": "17.2012"
+    "lat": 50.3293,
+    "lon": 17.2012
+  },
+  {
+    "name": "Struhařov (Benešov)",
+    "lat": 49.7655,
+    "lon": 14.7622
+  },
+  {
+    "name": "Struhařov (Praha-východ)",
+    "lat": 49.9519,
+    "lon": 14.7444
+  },
+  {
+    "name": "Stašov (Beroun)",
+    "lat": 49.8833,
+    "lon": 13.9575
+  },
+  {
+    "name": "Stašov (Svitavy)",
+    "lat": 49.6749,
+    "lon": 16.3689
+  },
+  {
+    "name": "Staňkovice (Litoměřice)",
+    "lat": 50.5894,
+    "lon": 14.167
+  },
+  {
+    "name": "Staňkovice (Kutná Hora)",
+    "lat": 49.8755,
+    "lon": 15.0152
+  },
+  {
+    "name": "Staňkovice (Louny)",
+    "lat": 50.3498,
+    "lon": 13.571
+  },
+  {
+    "name": "Střítež (Pelhřimov)",
+    "lat": 49.3639,
+    "lon": 15.1265
+  },
+  {
+    "name": "Střítež (Český Krumlov)",
+    "lat": 48.7755,
+    "lon": 14.4349
+  },
+  {
+    "name": "Střítež (Žďár nad Sázavou)",
+    "lat": 49.4408,
+    "lon": 16.2554
+  },
+  {
+    "name": "Střítež (Třebíč)",
+    "lat": 49.1913,
+    "lon": 15.8933
+  },
+  {
+    "name": "Střítež (Jihlava)",
+    "lat": 49.4563,
+    "lon": 15.628
+  },
+  {
+    "name": "Střítež (Frýdek-Místek)",
+    "lat": 49.6793,
+    "lon": 18.5691
+  },
+  {
+    "name": "Střítež (Svitavy)",
+    "lat": 49.7465,
+    "lon": 16.2432
+  },
+  {
+    "name": "Střítež (Písek)",
+    "lat": 49.5001,
+    "lon": 14.4307
+  },
+  {
+    "name": "Střítež (Strakonice)",
+    "lat": 49.1729,
+    "lon": 13.9618
+  },
+  {
+    "name": "Střítež (Chrudim)",
+    "lat": 49.8158,
+    "lon": 15.9107
+  },
+  {
+    "name": "Staňkov (Jindřichův Hradec)",
+    "lat": 48.9795,
+    "lon": 14.9527
+  },
+  {
+    "name": "Staňkov (Domažlice)",
+    "lat": 49.5537,
+    "lon": 13.0697
+  },
+  {
+    "name": "Staňkov (Jičín)",
+    "lat": 50.4848,
+    "lon": 15.632
+  },
+  {
+    "name": "Střížovice (Jindřichův Hradec)",
+    "lat": 49.1399,
+    "lon": 15.1569
+  },
+  {
+    "name": "Střížovice (Plzeň-jih)",
+    "lat": 49.6115,
+    "lon": 13.4576
+  },
+  {
+    "name": "Střížovice (Kroměříž)",
+    "lat": 49.2571,
+    "lon": 17.4496
+  },
+  {
+    "name": "Střížovice (Ústí nad Labem)",
+    "lat": 50.6788,
+    "lon": 13.9799
+  },
+  {
+    "name": "Střížovice (Liberec)",
+    "lat": 50.6023,
+    "lon": 15.0566
+  },
+  {
+    "name": "Střížovice (Litoměřice)",
+    "lat": 50.5173,
+    "lon": 14.3842
+  },
+  {
+    "name": "Střížovice (Mladá Boleslav)",
+    "lat": 50.3243,
+    "lon": 14.6969
+  },
+  {
+    "name": "Střížovice (Strakonice)",
+    "lat": 49.4535,
+    "lon": 13.9421
+  },
+  {
+    "name": "Studená (Jindřichův Hradec)",
+    "lat": 49.1847,
+    "lon": 15.2868
+  },
+  {
+    "name": "Studená (Plzeň-sever)",
+    "lat": 49.9606,
+    "lon": 13.643
+  },
+  {
+    "name": "Studená (Prachatice)",
+    "lat": 49.0358,
+    "lon": 13.8916
+  },
+  {
+    "name": "Studená (Semily)",
+    "lat": 50.7474,
+    "lon": 15.4566
+  },
+  {
+    "name": "Studená (Přerov)",
+    "lat": 49.6021,
+    "lon": 17.6251
+  },
+  {
+    "name": "Strašice (Strakonice)",
+    "lat": 49.2024,
+    "lon": 13.7296
+  },
+  {
+    "name": "Strašice (Rokycany)",
+    "lat": 49.7354,
+    "lon": 13.7576
+  },
+  {
+    "name": "Stráž (Domažlice)",
+    "lat": 49.4147,
+    "lon": 12.9127
+  },
+  {
+    "name": "Stráž (Tachov)",
+    "lat": 49.6688,
+    "lon": 12.7755
+  },
+  {
+    "name": "Stráž (Příbram)",
+    "lat": 49.5279,
+    "lon": 13.8478
+  },
+  {
+    "name": "Stráž (Pelhřimov)",
+    "lat": 49.5048,
+    "lon": 15.4138
+  },
+  {
+    "name": "Stráž (Klatovy)",
+    "lat": 49.2115,
+    "lon": 13.6761
+  },
+  {
+    "name": "Stráž (Prachatice)",
+    "lat": 48.9948,
+    "lon": 14.136
+  },
+  {
+    "name": "Stará Voda (Hradec Králové)",
+    "lat": 50.1503,
+    "lon": 15.5306
+  },
+  {
+    "name": "Stará Voda (Cheb)",
+    "lat": 49.9918,
+    "lon": 12.5951
+  },
+  {
+    "name": "Stará Voda (Příbram)",
+    "lat": 49.5849,
+    "lon": 14.0026
+  },
+  {
+    "name": "Stará Voda (Bruntál)",
+    "lat": 50.0516,
+    "lon": 17.379
+  },
+  {
+    "name": "Stanovice (Trutnov)",
+    "lat": 50.4007,
+    "lon": 15.8715
+  },
+  {
+    "name": "Stanovice (Karlovy Vary)",
+    "lat": 50.1651,
+    "lon": 12.8739
+  },
+  {
+    "name": "Stanovice (Pelhřimov)",
+    "lat": 49.4335,
+    "lon": 15.1385
+  },
+  {
+    "name": "Střelice (Brno-venkov)",
+    "lat": 49.1522,
+    "lon": 16.504
+  },
+  {
+    "name": "Střelice (Znojmo)",
+    "lat": 48.9941,
+    "lon": 15.9832
+  },
+  {
+    "name": "Střelice (Plzeň-jih)",
+    "lat": 49.6306,
+    "lon": 13.1351
+  },
+  {
+    "name": "Střelice (Olomouc)",
+    "lat": 49.7516,
+    "lon": 17.0898
+  },
+  {
+    "name": "Staré Sedlo (Tachov)",
+    "lat": 49.6659,
+    "lon": 12.8636
+  },
+  {
+    "name": "Staré Sedlo (Sokolov)",
+    "lat": 50.1821,
+    "lon": 12.7199
+  },
+  {
+    "name": "Staré Sedlo (Tábor)",
+    "lat": 49.3659,
+    "lon": 14.4707
+  },
+  {
+    "name": "Staré Sedlo (Cheb)",
+    "lat": 49.9414,
+    "lon": 12.9419
+  },
+  {
+    "name": "Staré Sedlo (Písek)",
+    "lat": 49.505,
+    "lon": 14.167
+  },
+  {
+    "name": "Studnice (Třebíč)",
+    "lat": 49.291,
+    "lon": 16.0289
+  },
+  {
+    "name": "Studnice (Vyškov)",
+    "lat": 49.3756,
+    "lon": 16.8809
+  },
+  {
+    "name": "Studnice (Chrudim)",
+    "lat": 49.738,
+    "lon": 15.9029
+  },
+  {
+    "name": "Studnice (Náchod)",
+    "lat": 50.4213,
+    "lon": 16.0899
+  },
+  {
+    "name": "Studnice (Žďár nad Sázavou)",
+    "lat": 49.6028,
+    "lon": 16.0915
+  },
+  {
+    "name": "Studnice (Jindřichův Hradec)",
+    "lat": 49.0558,
+    "lon": 15.2483
+  },
+  {
+    "name": "Studnice (Jihlava)",
+    "lat": 49.2245,
+    "lon": 15.4548
+  },
+  {
+    "name": "Studnice (Trutnov)",
+    "lat": 50.565,
+    "lon": 16.1248
+  },
+  {
+    "name": "Studenec (Semily)",
+    "lat": 50.5534,
+    "lon": 15.5494
+  },
+  {
+    "name": "Studenec (Třebíč)",
+    "lat": 49.2003,
+    "lon": 16.0648
+  },
+  {
+    "name": "Studenec (Svitavy)",
+    "lat": 49.6061,
+    "lon": 16.4361
+  },
+  {
+    "name": "Studenec (Prostějov)",
+    "lat": 49.517,
+    "lon": 17.1077
+  },
+  {
+    "name": "Studenec (Šumperk)",
+    "lat": 50.0772,
+    "lon": 17.0287
+  },
+  {
+    "name": "Studenec (Tábor)",
+    "lat": 49.2779,
+    "lon": 14.4388
+  },
+  {
+    "name": "Studenec (Prachatice)",
+    "lat": 49.1131,
+    "lon": 13.6199
+  },
+  {
+    "name": "Studenec (Český Krumlov)",
+    "lat": 48.6611,
+    "lon": 14.3605
+  },
+  {
+    "name": "Studenec (Děčín)",
+    "lat": 50.8321,
+    "lon": 14.4543
+  },
+  {
+    "name": "Studenec (Most)",
+    "lat": 50.6437,
+    "lon": 13.5893
+  },
+  {
+    "name": "Staré Město (Svitavy)",
+    "lat": 49.7941,
+    "lon": 16.6749
+  },
+  {
+    "name": "Staré Město (Uherské Hradiště)",
+    "lat": 49.0757,
+    "lon": 17.4392
+  },
+  {
+    "name": "Staré Město (Šumperk)",
+    "lat": 50.1617,
+    "lon": 16.9473
+  },
+  {
+    "name": "Staré Město (Bruntál)",
+    "lat": 50.0036,
+    "lon": 17.4321
+  },
+  {
+    "name": "Staré Město",
+    "lat": 50.0843,
+    "lon": 14.4178
+  },
+  {
+    "name": "Staré Město (Frýdek-Místek)",
+    "lat": 49.6702,
+    "lon": 18.3635
+  },
+  {
+    "name": "Staré Město (Liberec)",
+    "lat": 50.7697,
+    "lon": 15.0585
+  },
+  {
+    "name": "Staré Město (Děčín)",
+    "lat": 50.7704,
+    "lon": 14.2173
+  },
+  {
+    "name": "Staré Město (Karviná)",
+    "lat": 49.8612,
+    "lon": 18.5137
+  },
+  {
+    "name": "Staré Město (Pardubice)",
+    "lat": 50.0385,
+    "lon": 15.7802
+  },
+  {
+    "name": "Stříbrnice (Přerov)",
+    "lat": 49.3285,
+    "lon": 17.2461
+  },
+  {
+    "name": "Stříbrnice (Uherské Hradiště)",
+    "lat": 49.0575,
+    "lon": 17.3088
+  },
+  {
+    "name": "Stříbrnice (Šumperk)",
+    "lat": 50.1792,
+    "lon": 16.9016
+  },
+  {
+    "name": "Stříbrnice (Jičín)",
+    "lat": 50.3563,
+    "lon": 15.4531
+  },
+  {
+    "name": "Stará Ves (Přerov)",
+    "lat": 49.3802,
+    "lon": 17.489
+  },
+  {
+    "name": "Stará Ves (Bruntál)",
+    "lat": 49.957,
+    "lon": 17.2389
+  },
+  {
+    "name": "Stará Ves (Beroun)",
+    "lat": 49.9631,
+    "lon": 13.9933
+  },
+  {
+    "name": "Stará Ves (Nový Jičín)",
+    "lat": 49.7681,
+    "lon": 17.9797
+  },
+  {
+    "name": "Stará Ves (Opava)",
+    "lat": 49.7601,
+    "lon": 17.6384
+  },
+  {
+    "name": "Stará Ves (Semily)",
+    "lat": 50.6705,
+    "lon": 15.3835
+  },
+  {
+    "name": "Stará Ves (Plzeň-sever)",
+    "lat": 49.9102,
+    "lon": 13.3731
+  },
+  {
+    "name": "Stráž pod Ralskem",
+    "lat": 50.7029923,
+    "lon": 14.8009646
+  },
+  {
+    "name": "Stružnice",
+    "lat": 50.6968707,
+    "lon": 14.4499848
   }
 ]

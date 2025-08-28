@@ -1,172 +1,187 @@
 [
   {
     "name": "Bavoryně",
-    "lat": "49.8957",
-    "lon": "13.9609"
+    "lat": 49.8957,
+    "lon": 13.9609
   },
   {
     "name": "Barchovice",
-    "lat": "49.9443",
-    "lon": "14.9684"
+    "lat": 49.9443,
+    "lon": 14.9684
   },
   {
     "name": "Bakov nad Jizerou",
-    "lat": "50.4801",
-    "lon": "14.9388"
-  },
-  {
-    "name": "Babice",
-    "lat": "49.1242",
-    "lon": "15.7689"
+    "lat": 50.4801,
+    "lon": 14.9388
   },
   {
     "name": "Bašť",
-    "lat": "50.2049",
-    "lon": "14.4771"
-  },
-  {
-    "name": "Babice",
-    "lat": "49.1242",
-    "lon": "15.7689"
+    "lat": 50.2049,
+    "lon": 14.4771
   },
   {
     "name": "Bavorov",
-    "lat": "49.1215",
-    "lon": "14.0786"
+    "lat": 49.1215,
+    "lon": 14.0786
   },
   {
     "name": "Balkova Lhota",
-    "lat": "49.4520",
-    "lon": "14.6082"
+    "lat": 49.452,
+    "lon": 14.6082
   },
   {
     "name": "Babylon",
-    "lat": "49.3975",
-    "lon": "12.8617"
+    "lat": 49.3975,
+    "lon": 12.8617
   },
   {
     "name": "Bačkov",
-    "lat": "49.7329",
-    "lon": "15.4591"
+    "lat": 49.7329,
+    "lon": 15.4591
   },
   {
     "name": "Bartoušov",
-    "lat": "49.5811",
-    "lon": "15.6469"
-  },
-  {
-    "name": "Babice",
-    "lat": "49.1242",
-    "lon": "15.7689"
-  },
-  {
-    "name": "Barchov",
-    "lat": "50.1976",
-    "lon": "15.5672"
+    "lat": 49.5811,
+    "lon": 15.6469
   },
   {
     "name": "Bačalky",
-    "lat": "50.3849",
-    "lon": "15.1534"
+    "lat": 50.3849,
+    "lon": 15.1534
   },
   {
     "name": "Bašnice",
-    "lat": "50.3345",
-    "lon": "15.6050"
-  },
-  {
-    "name": "Barchov",
-    "lat": "50.1976",
-    "lon": "15.5672"
+    "lat": 50.3345,
+    "lon": 15.605
   },
   {
     "name": "Bačetín",
-    "lat": "50.3001",
-    "lon": "16.2345"
+    "lat": 50.3001,
+    "lon": 16.2345
   },
   {
     "name": "Bartošovice v Orlických horách",
-    "lat": "50.1640",
-    "lon": "16.5478"
+    "lat": 50.164,
+    "lon": 16.5478
   },
   {
     "name": "Banín",
-    "lat": "49.6656",
-    "lon": "16.4619"
+    "lat": 49.6656,
+    "lon": 16.4619
   },
   {
     "name": "Batňovice",
-    "lat": "50.5176",
-    "lon": "16.0366"
+    "lat": 50.5176,
+    "lon": 16.0366
   },
   {
     "name": "Babice nad Svitavou",
-    "lat": "49.2833",
-    "lon": "16.6961"
+    "lat": 49.2833,
+    "lon": 16.6961
   },
   {
     "name": "Babice u Rosic",
-    "lat": "49.1730",
-    "lon": "16.3582"
+    "lat": 49.173,
+    "lon": 16.3582
   },
   {
     "name": "Bavory",
-    "lat": "48.8348",
-    "lon": "16.6224"
+    "lat": 48.8348,
+    "lon": 16.6224
   },
   {
     "name": "Batelov",
-    "lat": "49.3128",
-    "lon": "15.3947"
+    "lat": 49.3128,
+    "lon": 15.3947
   },
   {
     "name": "Bařice-Velké Těšany",
-    "lat": "49.2448",
-    "lon": "17.4097"
-  },
-  {
-    "name": "Babice",
-    "lat": "49.1242",
-    "lon": "15.7689"
+    "lat": 49.2448,
+    "lon": 17.4097
   },
   {
     "name": "Bačice",
-    "lat": "49.0839",
-    "lon": "16.0275"
+    "lat": 49.0839,
+    "lon": 16.0275
   },
   {
     "name": "Bačkovice",
-    "lat": "48.9678",
-    "lon": "15.5888"
-  },
-  {
-    "name": "Babice",
-    "lat": "49.1242",
-    "lon": "15.7689"
+    "lat": 48.9678,
+    "lon": 15.5888
   },
   {
     "name": "Bantice",
-    "lat": "48.8831",
-    "lon": "16.1824"
+    "lat": 48.8831,
+    "lon": 16.1824
   },
   {
     "name": "Baliny",
-    "lat": "49.3355",
-    "lon": "15.9566"
+    "lat": 49.3355,
+    "lon": 15.9566
   },
   {
     "name": "Baška",
-    "lat": "49.6458",
-    "lon": "18.3723"
+    "lat": 49.6458,
+    "lon": 18.3723
   },
   {
     "name": "Bartošovice",
-    "lat": "49.6688",
-    "lon": "18.0546"
+    "lat": 49.6688,
+    "lon": 18.0546
   },
   {
-    "name": "Babice",
-    "lat": "49.1242",
-    "lon": "15.7689"
+    "name": "Babice (Třebíč)",
+    "lat": 49.1242,
+    "lon": 15.7689
+  },
+  {
+    "name": "Babice (Praha-východ)",
+    "lat": 50.0079,
+    "lon": 14.7157
+  },
+  {
+    "name": "Babice (Olomouc)",
+    "lat": 49.7378,
+    "lon": 17.2609
+  },
+  {
+    "name": "Babice (Hradec Králové)",
+    "lat": 50.1921,
+    "lon": 15.5855
+  },
+  {
+    "name": "Babice (Prachatice)",
+    "lat": 49.0248,
+    "lon": 14.2376
+  },
+  {
+    "name": "Babice (Uherské Hradiště)",
+    "lat": 49.1217,
+    "lon": 17.4768
+  },
+  {
+    "name": "Babice (Havlíčkův Brod)",
+    "lat": 49.6347,
+    "lon": 15.4749
+  },
+  {
+    "name": "Babice (Benešov)",
+    "lat": 49.8793,
+    "lon": 14.6243
+  },
+  {
+    "name": "Babice (Vsetín)",
+    "lat": 49.4583,
+    "lon": 17.7877
+  },
+  {
+    "name": "Barchov (Hradec Králové)",
+    "lat": 50.1976,
+    "lon": 15.5672
+  },
+  {
+    "name": "Barchov (Pardubice)",
+    "lat": 49.9993,
+    "lon": 15.6808
   }
 ]

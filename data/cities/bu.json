@@ -1,297 +1,437 @@
 [
   {
-    "name": "Bukovany",
-    "lat": "49.5745",
-    "lon": "14.1025"
-  },
-  {
     "name": "Bubovice",
-    "lat": "49.9701",
-    "lon": "14.1667"
+    "lat": 49.9701,
+    "lon": 14.1667
   },
   {
     "name": "Buštěhrad",
-    "lat": "50.1558",
-    "lon": "14.1888"
+    "lat": 50.1558,
+    "lon": 14.1888
   },
   {
     "name": "Bukovno",
-    "lat": "50.4468",
-    "lon": "14.8406"
+    "lat": 50.4468,
+    "lon": 14.8406
   },
   {
     "name": "Budiměřice",
-    "lat": "50.1953",
-    "lon": "15.0988"
+    "lat": 50.1953,
+    "lon": 15.0988
   },
   {
     "name": "Buš",
-    "lat": "49.8032",
-    "lon": "14.3836"
+    "lat": 49.8032,
+    "lon": 14.3836
   },
   {
     "name": "Buková u Příbramě",
-    "lat": "49.7550",
-    "lon": "14.0668"
-  },
-  {
-    "name": "Bukovany",
-    "lat": "49.5745",
-    "lon": "14.1025"
+    "lat": 49.755,
+    "lon": 14.0668
   },
   {
     "name": "Bujanov",
-    "lat": "48.7026",
-    "lon": "14.4294"
-  },
-  {
-    "name": "Budeč",
-    "lat": "49.5364",
-    "lon": "15.9123"
+    "lat": 48.7026,
+    "lon": 14.4294
   },
   {
     "name": "Budíškovice",
-    "lat": "49.0762",
-    "lon": "15.5309"
+    "lat": 49.0762,
+    "lon": 15.5309
   },
   {
     "name": "Budíkov",
-    "lat": "49.5791",
-    "lon": "15.3626"
+    "lat": 49.5791,
+    "lon": 15.3626
   },
   {
     "name": "Buřenice",
-    "lat": "49.5527",
-    "lon": "15.0662"
-  },
-  {
-    "name": "Budkov",
-    "lat": "49.0700",
-    "lon": "14.0070"
-  },
-  {
-    "name": "Buk",
-    "lat": "49.5044",
-    "lon": "17.4687"
+    "lat": 49.5527,
+    "lon": 15.0662
   },
   {
     "name": "Bušanovice",
-    "lat": "49.1154",
-    "lon": "13.9347"
+    "lat": 49.1154,
+    "lon": 13.9347
   },
   {
     "name": "Budyně",
-    "lat": "49.1462",
-    "lon": "14.0712"
+    "lat": 49.1462,
+    "lon": 14.0712
   },
   {
     "name": "Buzice",
-    "lat": "49.4226",
-    "lon": "13.9326"
-  },
-  {
-    "name": "Budislav",
-    "lat": "49.2938",
-    "lon": "14.8374"
+    "lat": 49.4226,
+    "lon": 13.9326
   },
   {
     "name": "Budětice",
-    "lat": "49.2834",
-    "lon": "13.5847"
+    "lat": 49.2834,
+    "lon": 13.5847
   },
   {
     "name": "Bukovník",
-    "lat": "49.2225",
-    "lon": "13.6613"
-  },
-  {
-    "name": "Buková",
-    "lat": "49.5370",
-    "lon": "13.1591"
-  },
-  {
-    "name": "Bukovec",
-    "lat": "49.5864",
-    "lon": "12.9948"
+    "lat": 49.2225,
+    "lon": 13.6613
   },
   {
     "name": "Bučí",
-    "lat": "49.8852",
-    "lon": "13.3028"
+    "lat": 49.8852,
+    "lon": 13.3028
   },
   {
     "name": "Bujesily",
-    "lat": "49.9146",
-    "lon": "13.5744"
+    "lat": 49.9146,
+    "lon": 13.5744
   },
   {
     "name": "Bušovice",
-    "lat": "49.7955",
-    "lon": "13.5347"
+    "lat": 49.7955,
+    "lon": 13.5347
   },
   {
     "name": "Bublava",
-    "lat": "50.3744",
-    "lon": "12.5052"
-  },
-  {
-    "name": "Bukovany",
-    "lat": "49.5745",
-    "lon": "14.1025"
+    "lat": 50.3744,
+    "lon": 12.5052
   },
   {
     "name": "Bulovka",
-    "lat": "50.9711",
-    "lon": "15.1236"
+    "lat": 50.9711,
+    "lon": 15.1236
   },
   {
     "name": "Budyně nad Ohří",
-    "lat": "50.4043",
-    "lon": "14.1259"
-  },
-  {
-    "name": "Budčeves",
-    "lat": "",
-    "lon": ""
+    "lat": 50.4043,
+    "lon": 14.1259
   },
   {
     "name": "Bukvice",
-    "lat": "50.4125",
-    "lon": "15.2945"
+    "lat": 50.4125,
+    "lon": 15.2945
   },
   {
     "name": "Butoves",
-    "lat": "50.3864",
-    "lon": "15.4277"
-  },
-  {
-    "name": "Bukovice",
-    "lat": "49.4068",
-    "lon": "16.4893"
+    "lat": 50.3864,
+    "lon": 15.4277
   },
   {
     "name": "Bukovina nad Labem",
-    "lat": "50.1248",
-    "lon": "15.8235"
+    "lat": 50.1248,
+    "lon": 15.8235
   },
   {
     "name": "Bukovina u Přelouče",
-    "lat": "49.9481",
-    "lon": "15.5626"
+    "lat": 49.9481,
+    "lon": 15.5626
   },
   {
     "name": "Bukovka",
-    "lat": "50.1010",
-    "lon": "15.6253"
+    "lat": 50.101,
+    "lon": 15.6253
   },
   {
     "name": "Bukovina u Čisté",
-    "lat": "50.5426",
-    "lon": "15.5838"
-  },
-  {
-    "name": "Budislav",
-    "lat": "49.2938",
-    "lon": "14.8374"
+    "lat": 50.5426,
+    "lon": 15.5838
   },
   {
     "name": "Bučina",
-    "lat": "49.8969",
-    "lon": "16.1928"
+    "lat": 49.8969,
+    "lon": 16.1928
   },
   {
     "name": "Bukovina",
-    "lat": "49.2974",
-    "lon": "16.7733"
+    "lat": 49.2974,
+    "lon": 16.7733
   },
   {
     "name": "Bukovinka",
-    "lat": "49.2942",
-    "lon": "16.8049"
-  },
-  {
-    "name": "Bukovice",
-    "lat": "49.4068",
-    "lon": "16.4893"
+    "lat": 49.2942,
+    "lon": 16.8049
   },
   {
     "name": "Bulhary",
-    "lat": "48.8315",
-    "lon": "16.7487"
-  },
-  {
-    "name": "Bukovany",
-    "lat": "49.5745",
-    "lon": "14.1025"
+    "lat": 48.8315,
+    "lon": 16.7487
   },
   {
     "name": "Budětsko",
-    "lat": "49.5870",
-    "lon": "16.9269"
-  },
-  {
-    "name": "Buková",
-    "lat": "49.5370",
-    "lon": "13.1591"
+    "lat": 49.587,
+    "lon": 16.9269
   },
   {
     "name": "Budišov",
-    "lat": "49.2712",
-    "lon": "16.0037"
-  },
-  {
-    "name": "Budkov",
-    "lat": "49.0700",
-    "lon": "14.0070"
+    "lat": 49.2712,
+    "lon": 16.0037
   },
   {
     "name": "Buchlovice",
-    "lat": "49.0863",
-    "lon": "17.3385"
+    "lat": 49.0863,
+    "lon": 17.3385
   },
   {
     "name": "Bučovice",
-    "lat": "49.1492",
-    "lon": "17.0019"
-  },
-  {
-    "name": "Budeč",
-    "lat": "49.5364",
-    "lon": "15.9123"
+    "lat": 49.1492,
+    "lon": 17.0019
   },
   {
     "name": "Bukov",
-    "lat": "49.4543",
-    "lon": "16.2236"
-  },
-  {
-    "name": "Bukovec",
-    "lat": "49.5864",
-    "lon": "12.9948"
-  },
-  {
-    "name": "Bukovany",
-    "lat": "49.5745",
-    "lon": "14.1025"
+    "lat": 49.4543,
+    "lon": 16.2236
   },
   {
     "name": "Budišov nad Budišovkou",
-    "lat": "49.7950",
-    "lon": "17.6289"
+    "lat": 49.795,
+    "lon": 17.6289
   },
   {
     "name": "Budišovice",
-    "lat": "49.8615",
-    "lon": "18.0391"
-  },
-  {
-    "name": "Buk",
-    "lat": "49.5044",
-    "lon": "17.4687"
+    "lat": 49.8615,
+    "lon": 18.0391
   },
   {
     "name": "Bušín",
-    "lat": "49.9761",
-    "lon": "16.8379"
+    "lat": 49.9761,
+    "lon": 16.8379
+  },
+  {
+    "name": "Bukovany (Příbram)",
+    "lat": 49.5745,
+    "lon": 14.1025
+  },
+  {
+    "name": "Bukovany (Olomouc)",
+    "lat": 49.6053,
+    "lon": 17.3435
+  },
+  {
+    "name": "Bukovany (Benešov)",
+    "lat": 49.8228,
+    "lon": 14.6243
+  },
+  {
+    "name": "Bukovany (Hodonín)",
+    "lat": 49.0422,
+    "lon": 17.1009
+  },
+  {
+    "name": "Bukovany (Sokolov)",
+    "lat": 50.1661,
+    "lon": 12.5732
+  },
+  {
+    "name": "Bukovany (Česká Lípa)",
+    "lat": 50.7169,
+    "lon": 14.5761
+  },
+  {
+    "name": "Budeč (Žďár nad Sázavou)",
+    "lat": 49.5364,
+    "lon": 15.9123
+  },
+  {
+    "name": "Budeč (Jindřichův Hradec)",
+    "lat": 49.0871,
+    "lon": 15.5899
+  },
+  {
+    "name": "Budeč (Kladno)",
+    "lat": 50.1914,
+    "lon": 14.2453
+  },
+  {
+    "name": "Budeč (Havlíčkův Brod)",
+    "lat": 49.6663,
+    "lon": 15.2145
+  },
+  {
+    "name": "Budeč (Plzeň-sever)",
+    "lat": 49.9015,
+    "lon": 13.0932
+  },
+  {
+    "name": "Budkov (Prachatice)",
+    "lat": 49.07,
+    "lon": 14.007
+  },
+  {
+    "name": "Budkov (Třebíč)",
+    "lat": 49.0544,
+    "lon": 15.6581
+  },
+  {
+    "name": "Budkov (Benešov)",
+    "lat": 49.7571,
+    "lon": 14.7347
+  },
+  {
+    "name": "Budkov (Jindřichův Hradec)",
+    "lat": 49.1447,
+    "lon": 15.1804
+  },
+  {
+    "name": "Buk (Přerov)",
+    "lat": 49.5044,
+    "lon": 17.4687
+  },
+  {
+    "name": "Buk (Prachatice)",
+    "lat": 49.0377,
+    "lon": 13.845
+  },
+  {
+    "name": "Buk (Jindřichův Hradec)",
+    "lat": 49.1324,
+    "lon": 14.9642
+  },
+  {
+    "name": "Buk (Příbram)",
+    "lat": 49.6496,
+    "lon": 14.0607
+  },
+  {
+    "name": "Budislav (Tábor)",
+    "lat": 49.2938,
+    "lon": 14.8374
+  },
+  {
+    "name": "Budislav (Svitavy)",
+    "lat": 49.8014,
+    "lon": 16.1746
+  },
+  {
+    "name": "Buková (Plzeň-jih)",
+    "lat": 49.537,
+    "lon": 13.1591
+  },
+  {
+    "name": "Buková (Prostějov)",
+    "lat": 49.5095,
+    "lon": 16.8292
+  },
+  {
+    "name": "Buková (České Budějovice)",
+    "lat": 48.8238,
+    "lon": 14.7231
+  },
+  {
+    "name": "Buková (Jeseník)",
+    "lat": 50.3631,
+    "lon": 17.0739
+  },
+  {
+    "name": "Buková (Liberec)",
+    "lat": 50.7653,
+    "lon": 14.8511
+  },
+  {
+    "name": "Buková (Semily)",
+    "lat": 50.558,
+    "lon": 15.17
+  },
+  {
+    "name": "Buková (Jablonec nad Nisou)",
+    "lat": 50.7603,
+    "lon": 15.2434
+  },
+  {
+    "name": "Buková (Příbram)",
+    "lat": 49.6282,
+    "lon": 13.8236
+  },
+  {
+    "name": "Buková (Domažlice)",
+    "lat": 49.6395,
+    "lon": 12.9216
+  },
+  {
+    "name": "Buková (Sokolov)",
+    "lat": 50.1648,
+    "lon": 12.8016
+  },
+  {
+    "name": "Bukovec (Plzeň-jih)",
+    "lat": 49.5864,
+    "lon": 12.9948
+  },
+  {
+    "name": "Bukovec (Frýdek-Místek)",
+    "lat": 49.5511,
+    "lon": 18.8268
+  },
+  {
+    "name": "Bukovec (České Budějovice)",
+    "lat": 48.8836,
+    "lon": 14.4462
+  },
+  {
+    "name": "Bukovec (Benešov)",
+    "lat": 49.7702,
+    "lon": 14.4507
+  },
+  {
+    "name": "Bukovec (Příbram)",
+    "lat": 49.6396,
+    "lon": 14.1864
+  },
+  {
+    "name": "Bukovec (Žďár nad Sázavou)",
+    "lat": 49.434,
+    "lon": 15.9923
+  },
+  {
+    "name": "Bukovec (Třebíč)",
+    "lat": 49.2874,
+    "lon": 15.7387
+  },
+  {
+    "name": "Bukovec (Blansko)",
+    "lat": 49.363,
+    "lon": 16.5955
+  },
+  {
+    "name": "Bukovec (Tábor)",
+    "lat": 49.4868,
+    "lon": 14.5966
+  },
+  {
+    "name": "Bukovec (Prachatice)",
+    "lat": 49.1348,
+    "lon": 13.9824
+  },
+  {
+    "name": "Bukovice (Brno-venkov)",
+    "lat": 49.4068,
+    "lon": 16.4893
+  },
+  {
+    "name": "Bukovice (Náchod)",
+    "lat": 50.5495,
+    "lon": 16.2278
+  },
+  {
+    "name": "Bukovice (Jeseník)",
+    "lat": 50.2133,
+    "lon": 17.2016
+  },
+  {
+    "name": "Bukovice (Šumperk)",
+    "lat": 50.0728,
+    "lon": 17.0595
+  },
+  {
+    "name": "Bukovice (Blansko)",
+    "lat": 49.4045,
+    "lon": 16.5917
+  },
+  {
+    "name": "Bukovice (Teplice)",
+    "lat": 50.5782,
+    "lon": 13.8856
+  },
+  {
+    "name": "Budčeves",
+    "lat": 50.3084735,
+    "lon": 15.2545351
   }
 ]

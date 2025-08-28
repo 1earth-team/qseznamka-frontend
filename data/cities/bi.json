@@ -1,42 +1,47 @@
 [
   {
     "name": "Biřkov",
-    "lat": "49.5180",
-    "lon": "13.2301"
+    "lat": 49.518,
+    "lon": 13.2301
   },
   {
     "name": "Bitozeves",
-    "lat": "50.3732",
-    "lon": "13.6407"
-  },
-  {
-    "name": "Biskupice",
-    "lat": "49.6475",
-    "lon": "16.7580"
-  },
-  {
-    "name": "Biskupice",
-    "lat": "49.6475",
-    "lon": "16.7580"
+    "lat": 50.3732,
+    "lon": 13.6407
   },
   {
     "name": "Biskoupky",
-    "lat": "49.0977",
-    "lon": "16.2813"
-  },
-  {
-    "name": "Biskupice",
-    "lat": "49.6475",
-    "lon": "16.7580"
-  },
-  {
-    "name": "Biskupice",
-    "lat": "49.6475",
-    "lon": "16.7580"
+    "lat": 49.0977,
+    "lon": 16.2813
   },
   {
     "name": "Biskupice-Pulkov",
-    "lat": "49.0379",
-    "lon": "16.0110"
+    "lat": 49.0379,
+    "lon": 16.011
+  },
+  {
+    "name": "Biskupice (Svitavy)",
+    "lat": 49.6475,
+    "lon": 16.758
+  },
+  {
+    "name": "Biskupice (Prostějov)",
+    "lat": 49.4597,
+    "lon": 17.2366
+  },
+  {
+    "name": "Biskupice (Chrudim)",
+    "lat": 49.8728,
+    "lon": 15.5128
+  },
+  {
+    "name": "Biskupice (Zlín)",
+    "lat": 49.0831,
+    "lon": 17.7104
+  },
+  {
+    "name": "Biskupice (Třebíč)",
+    "lat": 49.0377,
+    "lon": 16.011
   }
 ]

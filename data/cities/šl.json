@@ -1,27 +1,27 @@
 [
   {
-    "name": "Šlapanice",
-    "lat": "49.1689",
-    "lon": "16.7273"
-  },
-  {
     "name": "Šluknov",
-    "lat": "51.0032",
-    "lon": "14.4530"
+    "lat": 51.0032,
+    "lon": 14.453
   },
   {
     "name": "Šlapanov",
-    "lat": "49.5424",
-    "lon": "15.6577"
-  },
-  {
-    "name": "Šlapanice",
-    "lat": "49.1689",
-    "lon": "16.7273"
+    "lat": 49.5424,
+    "lon": 15.6577
   },
   {
     "name": "Šléglov",
-    "lat": "50.1531",
-    "lon": "16.9822"
+    "lat": 50.1531,
+    "lon": 16.9822
+  },
+  {
+    "name": "Šlapanice (Brno-venkov)",
+    "lat": 49.1689,
+    "lon": 16.7273
+  },
+  {
+    "name": "Šlapanice (Kladno)",
+    "lat": 50.3147,
+    "lon": 14.1112
   }
 ]

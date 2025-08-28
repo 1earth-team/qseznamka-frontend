@@ -1,22 +1,27 @@
 [
   {
-    "name": "Málkov",
-    "lat": "49.8882",
-    "lon": "14.0234"
-  },
-  {
     "name": "Máslovice",
-    "lat": "50.2087",
-    "lon": "14.3788"
-  },
-  {
-    "name": "Málkov",
-    "lat": "49.8882",
-    "lon": "14.0234"
+    "lat": 50.2087,
+    "lon": 14.3788
   },
   {
     "name": "Máslojedy",
-    "lat": "50.2971",
-    "lon": "15.7588"
+    "lat": 50.2971,
+    "lon": 15.7588
+  },
+  {
+    "name": "Málkov (Beroun)",
+    "lat": 49.8882,
+    "lon": 14.0234
+  },
+  {
+    "name": "Málkov (Chomutov)",
+    "lat": 50.4462,
+    "lon": 13.3334
+  },
+  {
+    "name": "Málkov (Tachov)",
+    "lat": 49.6478,
+    "lon": 12.6799
   }
 ]

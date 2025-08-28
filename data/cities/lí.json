@@ -1,97 +1,157 @@
 [
   {
     "name": "Líský",
-    "lat": "50.2506",
-    "lon": "13.9289"
+    "lat": 50.2506,
+    "lon": 13.9289
   },
   {
     "name": "Líbeznice",
-    "lat": "50.1921",
-    "lon": "14.4939"
-  },
-  {
-    "name": "Líšnice",
-    "lat": "49.8892",
-    "lon": "14.3185"
+    "lat": 50.1921,
+    "lon": 14.4939
   },
   {
     "name": "Líšina",
-    "lat": "49.6035",
-    "lon": "13.1645"
+    "lat": 49.6035,
+    "lon": 13.1645
   },
   {
     "name": "Líně",
-    "lat": "49.6936",
-    "lon": "13.2572"
-  },
-  {
-    "name": "Líšťany",
-    "lat": "49.8312",
-    "lon": "13.1814"
+    "lat": 49.6936,
+    "lon": 13.2572
   },
   {
     "name": "Líté",
-    "lat": "49.9136",
-    "lon": "13.2607"
-  },
-  {
-    "name": "Líšná",
-    "lat": "49.4116",
-    "lon": "17.5473"
+    "lat": 49.9136,
+    "lon": 13.2607
   },
   {
     "name": "Líšný",
-    "lat": "50.6461",
-    "lon": "15.2122"
-  },
-  {
-    "name": "Líšťany",
-    "lat": "49.8312",
-    "lon": "13.1814"
-  },
-  {
-    "name": "Lípa",
-    "lat": "49.5542",
-    "lon": "15.5447"
+    "lat": 50.6461,
+    "lon": 15.2122
   },
   {
     "name": "Lískovice",
-    "lat": "50.3362",
-    "lon": "15.5546"
+    "lat": 50.3362,
+    "lon": 15.5546
   },
   {
     "name": "Lípa nad Orlicí",
-    "lat": "50.1356",
-    "lon": "16.0980"
-  },
-  {
-    "name": "Líšnice",
-    "lat": "49.8892",
-    "lon": "14.3185"
-  },
-  {
-    "name": "Lípa",
-    "lat": "49.5542",
-    "lon": "15.5447"
+    "lat": 50.1356,
+    "lon": 16.098
   },
   {
     "name": "Lísek",
-    "lat": "49.5788",
-    "lon": "16.1875"
+    "lat": 49.5788,
+    "lon": 16.1875
   },
   {
-    "name": "Líšná",
-    "lat": "49.4116",
-    "lon": "17.5473"
+    "name": "Líšnice (Praha-západ)",
+    "lat": 49.8892,
+    "lon": 14.3185
   },
   {
-    "name": "Líšná",
-    "lat": "49.4116",
-    "lon": "17.5473"
+    "name": "Líšnice (Ústí nad Orlicí)",
+    "lat": 50.0798,
+    "lon": 16.5082
   },
   {
-    "name": "Líšnice",
-    "lat": "49.8892",
-    "lon": "14.3185"
+    "name": "Líšnice (Šumperk)",
+    "lat": 49.7559,
+    "lon": 16.8762
+  },
+  {
+    "name": "Líšnice (Most)",
+    "lat": 50.4544,
+    "lon": 13.633
+  },
+  {
+    "name": "Líšnice (Svitavy)",
+    "lat": 49.6657,
+    "lon": 16.6954
+  },
+  {
+    "name": "Líšnice (Písek)",
+    "lat": 49.4228,
+    "lon": 14.3839
+  },
+  {
+    "name": "Líšnice (České Budějovice)",
+    "lat": 49.1298,
+    "lon": 14.487
+  },
+  {
+    "name": "Líšťany (Plzeň-sever)",
+    "lat": 49.8312,
+    "lon": 13.1814
+  },
+  {
+    "name": "Líšťany (Louny)",
+    "lat": 50.3125,
+    "lon": 13.7996
+  },
+  {
+    "name": "Líšná (Přerov)",
+    "lat": 49.4116,
+    "lon": 17.5473
+  },
+  {
+    "name": "Líšná (Žďár nad Sázavou)",
+    "lat": 49.6402,
+    "lon": 16.1511
+  },
+  {
+    "name": "Líšná (Rokycany)",
+    "lat": 49.8851,
+    "lon": 13.8049
+  },
+  {
+    "name": "Líšná (Klatovy)",
+    "lat": 49.2799,
+    "lon": 13.6066
+  },
+  {
+    "name": "Lípa (Havlíčkův Brod)",
+    "lat": 49.5542,
+    "lon": 15.5447
+  },
+  {
+    "name": "Lípa (Zlín)",
+    "lat": 49.2153,
+    "lon": 17.7687
+  },
+  {
+    "name": "Lípa (Hradec Králové)",
+    "lat": 50.2797,
+    "lon": 15.7314
+  },
+  {
+    "name": "Lípa (Karlovy Vary)",
+    "lat": 50.3467,
+    "lon": 12.8641
+  },
+  {
+    "name": "Lípa (Svitavy)",
+    "lat": 49.6674,
+    "lon": 16.6689
+  },
+  {
+    "name": "Lípa (Plzeň-sever)",
+    "lat": 49.8636,
+    "lon": 13.149
+  },
+  {
+    "name": "Lípa (Opava)",
+    "lat": 49.9213,
+    "lon": 18.2898
+  },
+  {
+    "name": "Lípa (Česká Lípa)",
+    "lat": 50.6865,
+    "lon": 14.5373
+  },
+  {
+    "name": "Lípa (Rokycany)",
+    "lat": 49.9352,
+    "lon": 13.7363
   }
 ]

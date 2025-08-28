@@ -1,72 +1,102 @@
 [
   {
     "name": "Hvězdonice",
-    "lat": "49.8728",
-    "lon": "14.7773"
-  },
-  {
-    "name": "Hvozdec",
-    "lat": "48.9926",
-    "lon": "14.6276"
-  },
-  {
-    "name": "Hvozdnice",
-    "lat": "50.1913",
-    "lon": "15.7112"
-  },
-  {
-    "name": "Hvožďany",
-    "lat": "49.5056",
-    "lon": "12.7713"
-  },
-  {
-    "name": "Hvozd",
-    "lat": "49.9397",
-    "lon": "13.2631"
-  },
-  {
-    "name": "Hvozdec",
-    "lat": "48.9926",
-    "lon": "14.6276"
-  },
-  {
-    "name": "Hvožďany",
-    "lat": "49.5056",
-    "lon": "12.7713"
-  },
-  {
-    "name": "Hvozd",
-    "lat": "49.9397",
-    "lon": "13.2631"
-  },
-  {
-    "name": "Hvozdnice",
-    "lat": "50.1913",
-    "lon": "15.7112"
-  },
-  {
-    "name": "Hvozdec",
-    "lat": "48.9926",
-    "lon": "14.6276"
+    "lat": 49.8728,
+    "lon": 14.7773
   },
   {
     "name": "Hvozdná",
-    "lat": "49.2485",
-    "lon": "17.7516"
-  },
-  {
-    "name": "Hvozd",
-    "lat": "49.9397",
-    "lon": "13.2631"
+    "lat": 49.2485,
+    "lon": 17.7516
   },
   {
     "name": "Hvězdoňovice",
-    "lat": "49.2199",
-    "lon": "15.7622"
+    "lat": 49.2199,
+    "lon": 15.7622
   },
   {
     "name": "Hvězdlice",
-    "lat": "49.2002",
-    "lon": "17.0816"
+    "lat": 49.2002,
+    "lon": 17.0816
+  },
+  {
+    "name": "Hvozdec (České Budějovice)",
+    "lat": 48.9926,
+    "lon": 14.6276
+  },
+  {
+    "name": "Hvozdec (Beroun)",
+    "lat": 49.807,
+    "lon": 13.8803
+  },
+  {
+    "name": "Hvozdec (Brno-venkov)",
+    "lat": 49.2471,
+    "lon": 16.4257
+  },
+  {
+    "name": "Hvozdec (Jindřichův Hradec)",
+    "lat": 49.0558,
+    "lon": 15.3307
+  },
+  {
+    "name": "Hvozdnice (Hradec Králové)",
+    "lat": 50.1913,
+    "lon": 15.7112
+  },
+  {
+    "name": "Hvozdnice (Praha-západ)",
+    "lat": 49.8723,
+    "lon": 14.3709
+  },
+  {
+    "name": "Hvozdnice",
+    "lat": 49.8894,
+    "lon": 17.7248
+  },
+  {
+    "name": "Hvožďany (Domažlice)",
+    "lat": 49.5056,
+    "lon": 12.7713
+  },
+  {
+    "name": "Hvožďany (Příbram)",
+    "lat": 49.5284,
+    "lon": 13.8056
+  },
+  {
+    "name": "Hvožďany (Plzeň-sever)",
+    "lat": 49.872,
+    "lon": 13.1218
+  },
+  {
+    "name": "Hvožďany (Tábor)",
+    "lat": 49.2861,
+    "lon": 14.4332
+  },
+  {
+    "name": "Hvožďany (Strakonice)",
+    "lat": 49.1233,
+    "lon": 14.192
+  },
+  {
+    "name": "Hvozd (Plzeň-sever)",
+    "lat": 49.9397,
+    "lon": 13.2631
+  },
+  {
+    "name": "Hvozd (Rakovník)",
+    "lat": 50.0515,
+    "lon": 13.6984
+  },
+  {
+    "name": "Hvozd (Prostějov)",
+    "lat": 49.6362,
+    "lon": 16.9101
+  },
+  {
+    "name": "Hvozd (Prachatice)",
+    "lat": 48.8336,
+    "lon": 13.9076
   }
 ]

@@ -1,122 +1,162 @@
 [
   {
-    "name": "Újezd",
-    "lat": "49.5095",
-    "lon": "15.8703"
-  },
-  {
-    "name": "Újezdec",
-    "lat": "49.2077",
-    "lon": "14.7847"
-  },
-  {
-    "name": "Újezdec",
-    "lat": "49.2077",
-    "lon": "14.7847"
-  },
-  {
-    "name": "Újezdec",
-    "lat": "49.2077",
-    "lon": "14.7847"
-  },
-  {
-    "name": "Újezd",
-    "lat": "49.5095",
-    "lon": "15.8703"
-  },
-  {
     "name": "Újezd u Plánice",
-    "lat": "49.4177",
-    "lon": "13.4579"
+    "lat": 49.4177,
+    "lon": 13.4579
   },
   {
     "name": "Újezd nade Mží",
-    "lat": "49.7892",
-    "lon": "13.1957"
+    "lat": 49.7892,
+    "lon": 13.1957
   },
   {
     "name": "Újezd u Svatého Kříže",
-    "lat": "49.8597",
-    "lon": "13.5695"
+    "lat": 49.8597,
+    "lon": 13.5695
   },
   {
     "name": "Újezdeček",
-    "lat": "50.6457",
-    "lon": "13.7898"
+    "lat": 50.6457,
+    "lon": 13.7898
   },
   {
     "name": "Újezd pod Troskami",
-    "lat": "50.5067",
-    "lon": "15.2624"
+    "lat": 50.5067,
+    "lon": 15.2624
   },
   {
     "name": "Újezd u Přelouče",
-    "lat": "50.1019",
-    "lon": "15.4948"
+    "lat": 50.1019,
+    "lon": 15.4948
   },
   {
     "name": "Újezd u Sezemic",
-    "lat": "50.1141",
-    "lon": "15.8556"
-  },
-  {
-    "name": "Újezdec",
-    "lat": "49.2077",
-    "lon": "14.7847"
+    "lat": 50.1141,
+    "lon": 15.8556
   },
   {
     "name": "Újezd u Chocně",
-    "lat": "50.0269",
-    "lon": "16.1646"
+    "lat": 50.0269,
+    "lon": 16.1646
   },
   {
     "name": "Újezd u Boskovic",
-    "lat": "49.4639",
-    "lon": "16.6542"
+    "lat": 49.4639,
+    "lon": 16.6542
   },
   {
     "name": "Újezd u Černé Hory",
-    "lat": "49.3687",
-    "lon": "16.5401"
+    "lat": 49.3687,
+    "lon": 16.5401
   },
   {
     "name": "Újezd u Brna",
-    "lat": "49.1043",
-    "lon": "16.7574"
+    "lat": 49.1043,
+    "lon": 16.7574
   },
   {
     "name": "Újezd u Rosic",
-    "lat": "49.2224",
-    "lon": "16.2536"
+    "lat": 49.2224,
+    "lon": 16.2536
   },
   {
     "name": "Újezd u Tišnova",
-    "lat": "49.3655",
-    "lon": "16.3245"
+    "lat": 49.3655,
+    "lon": 16.3245
   },
   {
-    "name": "Újezd",
-    "lat": "49.5095",
-    "lon": "15.8703"
+    "name": "Újezd (Beroun)",
+    "lat": 49.8313,
+    "lon": 13.8376
   },
   {
-    "name": "Újezdec",
-    "lat": "49.2077",
-    "lon": "14.7847"
+    "name": "Újezd (Olomouc)",
+    "lat": 49.7633,
+    "lon": 17.1798
   },
   {
-    "name": "Újezd",
-    "lat": "49.5095",
-    "lon": "15.8703"
+    "name": "Újezd (Domažlice)",
+    "lat": 49.4357,
+    "lon": 12.8693
   },
   {
-    "name": "Újezd",
-    "lat": "49.5095",
-    "lon": "15.8703"
+    "name": "Újezd (Žďár nad Sázavou)",
+    "lat": 49.5095,
+    "lon": 15.8703
   },
   {
-    "name": "Újezd",
-    "lat": "49.5095",
-    "lon": "15.8703"
+    "name": "Újezd (Znojmo)",
+    "lat": 49.0235,
+    "lon": 16.0533
+  },
+  {
+    "name": "Újezd (Zlín)",
+    "lat": 49.1688,
+    "lon": 17.9064
+  },
+  {
+    "name": "Újezd (Plzeň-město)",
+    "lat": 49.7573,
+    "lon": 13.4355
+  },
+  {
+    "name": "Újezd (Šumperk)",
+    "lat": 49.7647,
+    "lon": 16.905
+  },
+  {
+    "name": "Újezd (Litoměřice)",
+    "lat": 50.5005,
+    "lon": 14.4371
+  },
+  {
+    "name": "Újezd (Plzeň-jih)",
+    "lat": 49.5374,
+    "lon": 13.4041
+  },
+  {
+    "name": "Újezdec (Jindřichův Hradec)",
+    "lat": 49.2077,
+    "lon": 14.7847
+  },
+  {
+    "name": "Újezdec (Svitavy)",
+    "lat": 49.8778,
+    "lon": 16.2059
+  },
+  {
+    "name": "Újezdec (Prachatice)",
+    "lat": 49.1079,
+    "lon": 13.964
+  },
+  {
+    "name": "Újezdec (Uherské Hradiště)",
+    "lat": 49.0361,
+    "lon": 17.2722
+  },
+  {
+    "name": "Újezdec (Mělník)",
+    "lat": 50.2833,
+    "lon": 14.4209
+  },
+  {
+    "name": "Újezdec (Mladá Boleslav)",
+    "lat": 50.3094,
+    "lon": 14.945
+  },
+  {
+    "name": "Újezdec (Klatovy)",
+    "lat": 49.4288,
+    "lon": 13.3699
+  },
+  {
+    "name": "Újezdec (Semily)",
+    "lat": 50.4857,
+    "lon": 15.4189
+  },
+  {
+    "name": "Újezdec (Plzeň-jih)",
+    "lat": 49.5165,
+    "lon": 13.1988
   }
 ]

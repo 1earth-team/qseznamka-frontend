@@ -1,302 +1,422 @@
 [
   {
-    "name": "Loket",
-    "lat": "49.6555",
-    "lon": "15.1169"
-  },
-  {
-    "name": "Louňovice pod Blaníkem",
-    "lat": "49.6371",
-    "lon": "14.8470"
-  },
-  {
-    "name": "Loděnice",
-    "lat": "49.0116",
-    "lon": "16.4631"
-  },
-  {
     "name": "Lochovice",
-    "lat": "49.8423",
-    "lon": "13.9665"
+    "lat": 49.8423,
+    "lon": 13.9665
   },
   {
     "name": "Loucká",
-    "lat": "50.3275",
-    "lon": "14.2390"
+    "lat": 50.3275,
+    "lon": 14.239
   },
   {
     "name": "Lošany",
-    "lat": "49.9976",
-    "lon": "15.1260"
+    "lat": 49.9976,
+    "lon": 15.126
   },
   {
     "name": "Lobeč",
-    "lat": "50.4603",
-    "lon": "14.6671"
-  },
-  {
-    "name": "Loukov",
-    "lat": "50.5613",
-    "lon": "15.0356"
+    "lat": 50.4603,
+    "lon": 14.6671
   },
   {
     "name": "Loukovec",
-    "lat": "50.5625",
-    "lon": "15.0169"
+    "lat": 50.5625,
+    "lon": 15.0169
   },
   {
     "name": "Loučeň",
-    "lat": "50.2854",
-    "lon": "15.0205"
+    "lat": 50.2854,
+    "lon": 15.0205
   },
   {
     "name": "Louňovice",
-    "lat": "49.9823",
-    "lon": "14.7617"
+    "lat": 49.9823,
+    "lon": 14.7617
   },
   {
     "name": "Ločenice",
-    "lat": "48.8242",
-    "lon": "14.5273"
+    "lat": 48.8242,
+    "lon": 14.5273
   },
   {
     "name": "Loučovice",
-    "lat": "48.6205",
-    "lon": "14.2574"
+    "lat": 48.6205,
+    "lon": 14.2574
   },
   {
     "name": "Lodhéřov",
-    "lat": "49.2151",
-    "lon": "14.9598"
+    "lat": 49.2151,
+    "lon": 14.9598
   },
   {
     "name": "Lomnice nad Lužnicí",
-    "lat": "49.0815",
-    "lon": "14.7181"
-  },
-  {
-    "name": "Lom",
-    "lat": "49.4104",
-    "lon": "13.9890"
-  },
-  {
-    "name": "Lom",
-    "lat": "49.4104",
-    "lon": "13.9890"
+    "lat": 49.0815,
+    "lon": 14.7181
   },
   {
     "name": "Loučim",
-    "lat": "49.3671",
-    "lon": "13.1121"
+    "lat": 49.3671,
+    "lon": 13.1121
   },
   {
     "name": "Lomec",
-    "lat": "49.3714",
-    "lon": "13.2675"
+    "lat": 49.3714,
+    "lon": 13.2675
   },
   {
     "name": "Losiná",
-    "lat": "49.6693",
-    "lon": "13.4483"
+    "lat": 49.6693,
+    "lon": 13.4483
   },
   {
     "name": "Louňová",
-    "lat": "49.5618",
-    "lon": "13.6084"
+    "lat": 49.5618,
+    "lon": 13.6084
   },
   {
     "name": "Lochousice",
-    "lat": "49.6751",
-    "lon": "13.0904"
+    "lat": 49.6751,
+    "lon": 13.0904
   },
   {
     "name": "Loza",
-    "lat": "49.8938",
-    "lon": "13.2904"
-  },
-  {
-    "name": "Loket",
-    "lat": "49.6555",
-    "lon": "15.1169"
-  },
-  {
-    "name": "Lomnice",
-    "lat": "49.4045",
-    "lon": "16.4136"
+    "lat": 49.8938,
+    "lon": 13.2904
   },
   {
     "name": "Lom u Tachova",
-    "lat": "49.8187",
-    "lon": "12.6926"
+    "lat": 49.8187,
+    "lon": 12.6926
   },
   {
     "name": "Lobendava",
-    "lat": "51.0192",
-    "lon": "14.3148"
+    "lat": 51.0192,
+    "lon": 14.3148
   },
   {
     "name": "Loučná pod Klínovcem",
-    "lat": "50.4188",
-    "lon": "12.9814"
+    "lat": 50.4188,
+    "lon": 12.9814
   },
   {
     "name": "Loužnice",
-    "lat": "49.4365",
-    "lon": "12.7205"
+    "lat": 49.4365,
+    "lon": 12.7205
   },
   {
     "name": "Lovečkovice",
-    "lat": "50.6215",
-    "lon": "14.2633"
+    "lat": 50.6215,
+    "lon": 14.2633
   },
   {
     "name": "Lovosice",
-    "lat": "50.5150",
-    "lon": "14.0518"
+    "lat": 50.515,
+    "lon": 14.0518
   },
   {
     "name": "Louny",
-    "lat": "50.3573",
-    "lon": "13.7969"
-  },
-  {
-    "name": "Lom",
-    "lat": "49.4104",
-    "lon": "13.9890"
+    "lat": 50.3573,
+    "lon": 13.7969
   },
   {
     "name": "Louka u Litvínova",
-    "lat": "50.5879",
-    "lon": "13.6365"
+    "lat": 50.5879,
+    "lon": 13.6365
   },
   {
     "name": "Lodín",
-    "lat": "50.2709",
-    "lon": "15.6104"
+    "lat": 50.2709,
+    "lon": 15.6104
   },
   {
     "name": "Lochenice",
-    "lat": "50.2722",
-    "lon": "15.8195"
-  },
-  {
-    "name": "Lovčice",
-    "lat": "50.1652",
-    "lon": "15.3839"
+    "lat": 50.2722,
+    "lon": 15.8195
   },
   {
     "name": "Lozice",
-    "lat": "49.9166",
-    "lon": "16.0229"
+    "lat": 49.9166,
+    "lon": 16.0229
   },
   {
     "name": "Lomnice nad Popelkou",
-    "lat": "50.5311",
-    "lon": "15.3729"
+    "lat": 50.5311,
+    "lon": 15.3729
   },
   {
     "name": "Loučky",
-    "lat": "50.6176",
-    "lon": "15.2185"
-  },
-  {
-    "name": "Louka",
-    "lat": "49.5292",
-    "lon": "16.4310"
-  },
-  {
-    "name": "Loděnice",
-    "lat": "49.0116",
-    "lon": "16.4631"
-  },
-  {
-    "name": "Lomnice",
-    "lat": "49.4045",
-    "lon": "16.4136"
+    "lat": 50.6176,
+    "lon": 15.2185
   },
   {
     "name": "Lomnička",
-    "lat": "49.3670",
-    "lon": "16.4305"
-  },
-  {
-    "name": "Loučka",
-    "lat": "49.6567",
-    "lon": "17.0112"
-  },
-  {
-    "name": "Louka",
-    "lat": "49.5292",
-    "lon": "16.4310"
-  },
-  {
-    "name": "Lovčice",
-    "lat": "50.1652",
-    "lon": "15.3839"
-  },
-  {
-    "name": "Loukov",
-    "lat": "50.5613",
-    "lon": "15.0356"
+    "lat": 49.367,
+    "lon": 16.4305
   },
   {
     "name": "Lomy",
-    "lat": "49.0655",
-    "lon": "15.6011"
+    "lat": 49.0655,
+    "lon": 15.6011
   },
   {
     "name": "Loukovice",
-    "lat": "49.1372",
-    "lon": "15.7934"
+    "lat": 49.1372,
+    "lon": 15.7934
   },
   {
     "name": "Lovčovice",
-    "lat": "48.9815",
-    "lon": "15.5343"
+    "lat": 48.9815,
+    "lon": 15.5343
   },
   {
     "name": "Lopeník",
-    "lat": "48.9454",
-    "lon": "17.7914"
+    "lat": 48.9454,
+    "lon": 17.7914
   },
   {
     "name": "Lovčičky",
-    "lat": "49.0679",
-    "lon": "16.8502"
-  },
-  {
-    "name": "Lomnice",
-    "lat": "49.4045",
-    "lon": "16.4136"
+    "lat": 49.0679,
+    "lon": 16.8502
   },
   {
     "name": "Loučany",
-    "lat": "49.6019",
-    "lon": "17.0827"
-  },
-  {
-    "name": "Loučka",
-    "lat": "49.6567",
-    "lon": "17.0112"
+    "lat": 49.6019,
+    "lon": 17.0827
   },
   {
     "name": "Lobodice",
-    "lat": "49.3955",
-    "lon": "17.2919"
+    "lat": 49.3955,
+    "lon": 17.2919
   },
   {
     "name": "Loštice",
-    "lat": "49.7449",
-    "lon": "16.9281"
+    "lat": 49.7449,
+    "lon": 16.9281
   },
   {
     "name": "Loučná nad Desnou",
-    "lat": "50.0716",
-    "lon": "17.0904"
+    "lat": 50.0716,
+    "lon": 17.0904
   },
   {
-    "name": "Loučka",
-    "lat": "49.6567",
-    "lon": "17.0112"
+    "name": "Loket (Benešov)",
+    "lat": 49.6555,
+    "lon": 15.1169
+  },
+  {
+    "name": "Loket (Sokolov)",
+    "lat": 50.186,
+    "lon": 12.754
+  },
+  {
+    "name": "Loděnice (Brno-venkov)",
+    "lat": 49.0116,
+    "lon": 16.4631
+  },
+  {
+    "name": "Loděnice (Beroun)",
+    "lat": 49.9949,
+    "lon": 14.1579
+  },
+  {
+    "name": "Loděnice",
+    "lat": 50.0894,
+    "lon": 14.0356
+  },
+  {
+    "name": "Loděnice (Opava)",
+    "lat": 49.9975,
+    "lon": 17.7741
+  },
+  {
+    "name": "Loukov (Mladá Boleslav)",
+    "lat": 50.5613,
+    "lon": 15.0356
+  },
+  {
+    "name": "Loukov (Kroměříž)",
+    "lat": 49.4217,
+    "lon": 17.721
+  },
+  {
+    "name": "Loukov (Semily)",
+    "lat": 50.614,
+    "lon": 15.4075
+  },
+  {
+    "name": "Loukov (Havlíčkův Brod)",
+    "lat": 49.6286,
+    "lon": 15.3433
+  },
+  {
+    "name": "Lom (Strakonice)",
+    "lat": 49.4104,
+    "lon": 13.989
+  },
+  {
+    "name": "Lom (Tábor)",
+    "lat": 49.3629,
+    "lon": 14.628
+  },
+  {
+    "name": "Lom (Most)",
+    "lat": 50.5933,
+    "lon": 13.6573
+  },
+  {
+    "name": "Lom (Šumperk)",
+    "lat": 49.8212,
+    "lon": 16.8409
+  },
+  {
+    "name": "Lom (Liberec)",
+    "lat": 50.7571,
+    "lon": 14.9209
+  },
+  {
+    "name": "Lom (Plzeň-sever)",
+    "lat": 49.9365,
+    "lon": 13.2037
+  },
+  {
+    "name": "Lomnice (Brno-venkov)",
+    "lat": 49.4045,
+    "lon": 16.4136
+  },
+  {
+    "name": "Lomnice (Bruntál)",
+    "lat": 49.8709,
+    "lon": 17.4145
+  },
+  {
+    "name": "Lomnice (Sokolov)",
+    "lat": 50.2117,
+    "lon": 12.6318
+  },
+  {
+    "name": "Lomnice",
+    "lat": 49.4198,
+    "lon": 13.9231
+  },
+  {
+    "name": "Lomnice (Liberec)",
+    "lat": 50.9241,
+    "lon": 15.1922
+  },
+  {
+    "name": "Lomnice (Karlovy Vary)",
+    "lat": 50.2597,
+    "lon": 13.0523
+  },
+  {
+    "name": "Lovčice (Hradec Králové)",
+    "lat": 50.1652,
+    "lon": 15.3839
+  },
+  {
+    "name": "Lovčice (Hodonín)",
+    "lat": 49.0636,
+    "lon": 17.0543
+  },
+  {
+    "name": "Lovčice (Kutná Hora)",
+    "lat": 49.9244,
+    "lon": 15.5138
+  },
+  {
+    "name": "Lovčice (Příbram)",
+    "lat": 49.6269,
+    "lon": 14.5071
+  },
+  {
+    "name": "Lovčice (Klatovy)",
+    "lat": 49.412,
+    "lon": 13.5119
+  },
+  {
+    "name": "Louka (Blansko)",
+    "lat": 49.5292,
+    "lon": 16.431
+  },
+  {
+    "name": "Louka (Hodonín)",
+    "lat": 48.9152,
+    "lon": 17.4889
+  },
+  {
+    "name": "Louka (Třebíč)",
+    "lat": 49.0495,
+    "lon": 15.5549
+  },
+  {
+    "name": "Louka (Chrudim)",
+    "lat": 49.8466,
+    "lon": 15.9223
+  },
+  {
+    "name": "Louka (Hradec Králové)",
+    "lat": 50.1982,
+    "lon": 15.8312
+  },
+  {
+    "name": "Louka (Jičín)",
+    "lat": 50.3327,
+    "lon": 15.7148
+  },
+  {
+    "name": "Louka (Děčín)",
+    "lat": 50.8953,
+    "lon": 14.4301
+  },
+  {
+    "name": "Louka (Písek)",
+    "lat": 49.3781,
+    "lon": 14.1655
+  },
+  {
+    "name": "Loučka (Olomouc)",
+    "lat": 49.6567,
+    "lon": 17.0112
+  },
+  {
+    "name": "Loučka (Zlín)",
+    "lat": 49.1696,
+    "lon": 17.8768
+  },
+  {
+    "name": "Loučka (Vsetín)",
+    "lat": 49.4387,
+    "lon": 17.8327
+  },
+  {
+    "name": "Loučka (Brno-venkov)",
+    "lat": 49.3547,
+    "lon": 16.3788
+  },
+  {
+    "name": "Loučka (Přerov)",
+    "lat": 49.5552,
+    "lon": 17.5917
+  },
+  {
+    "name": "Loučka (Nový Jičín)",
+    "lat": 49.5893,
+    "lon": 17.9896
+  },
+  {
+    "name": "Loučka (Frýdek-Místek)",
+    "lat": 49.6273,
+    "lon": 18.7702
+  },
+  {
+    "name": "Loučka (Kladno)",
+    "lat": 50.3275,
+    "lon": 14.239
+  },
+  {
+    "name": "Louňovice pod Blaníkem",
+    "lat": 49.6371536,
+    "lon": 14.8470198
   }
 ]

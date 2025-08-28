@@ -1,37 +1,62 @@
 [
   {
     "name": "Albrechtice nad Vltavou",
-    "lat": "49.2559",
-    "lon": "14.3080"
+    "lat": 49.2559,
+    "lon": 14.308
   },
   {
     "name": "Albrechtice v Jizerských horách",
-    "lat": "50.7624",
-    "lon": "15.2762"
+    "lat": 50.7624,
+    "lon": 15.2762
   },
   {
     "name": "Albrechtice nad Orlicí",
-    "lat": "50.1399",
-    "lon": "16.0644"
-  },
-  {
-    "name": "Albrechtice",
-    "lat": "49.9275",
-    "lon": "16.6447"
+    "lat": 50.1399,
+    "lon": 16.0644
   },
   {
     "name": "Alojzov",
-    "lat": "49.4234",
-    "lon": "17.0415"
-  },
-  {
-    "name": "Albrechtice",
-    "lat": "49.9275",
-    "lon": "16.6447"
+    "lat": 49.4234,
+    "lon": 17.0415
   },
   {
     "name": "Albrechtičky",
-    "lat": "49.7019",
-    "lon": "18.0956"
+    "lat": 49.7019,
+    "lon": 18.0956
+  },
+  {
+    "name": "Albrechtice (Ústí nad Orlicí)",
+    "lat": 49.9275,
+    "lon": 16.6447
+  },
+  {
+    "name": "Albrechtice (Karviná)",
+    "lat": 49.7864,
+    "lon": 18.5246
+  },
+  {
+    "name": "Albrechtice (Klatovy)",
+    "lat": 49.1996,
+    "lon": 13.5665
+  },
+  {
+    "name": "Albrechtice (Liberec)",
+    "lat": 50.6077,
+    "lon": 15.0725
+  },
+  {
+    "name": "Albrechtice (Žďár nad Sázavou)",
+    "lat": 49.5209,
+    "lon": 16.1854
+  },
+  {
+    "name": "Albrechtice (Strakonice)",
+    "lat": 49.1977,
+    "lon": 14.0981
+  },
+  {
+    "name": "Albrechtice (Kutná Hora)",
+    "lat": 49.8953,
+    "lon": 15.1717
   }
 ]

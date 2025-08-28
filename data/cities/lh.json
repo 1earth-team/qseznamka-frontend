@@ -1,147 +1,187 @@
 [
   {
-    "name": "Lhotka",
-    "lat": "49.5822",
-    "lon": "16.0029"
-  },
-  {
-    "name": "Lhota",
-    "lat": "50.2432",
-    "lon": "14.6564"
-  },
-  {
-    "name": "Lhotka",
-    "lat": "49.5822",
-    "lon": "16.0029"
-  },
-  {
     "name": "Lhotky",
-    "lat": "50.3960",
-    "lon": "15.0550"
-  },
-  {
-    "name": "Lhota",
-    "lat": "50.2432",
-    "lon": "14.6564"
-  },
-  {
-    "name": "Lhota u Příbramě",
-    "lat": "",
-    "lon": ""
+    "lat": 50.396,
+    "lon": 15.055
   },
   {
     "name": "Lhota-Vlasenice",
-    "lat": "49.2948",
-    "lon": "15.1306"
+    "lat": 49.2948,
+    "lon": 15.1306
   },
   {
     "name": "Lhenice",
-    "lat": "48.9947",
-    "lon": "14.1497"
+    "lat": 48.9947,
+    "lon": 14.1497
   },
   {
     "name": "Lhůta",
-    "lat": "49.7018",
-    "lon": "13.5278"
+    "lat": 49.7018,
+    "lon": 13.5278
   },
   {
     "name": "Lhota pod Radčem",
-    "lat": "49.8274",
-    "lon": "13.7107"
+    "lat": 49.8274,
+    "lon": 13.7107
   },
   {
     "name": "Lhotka u Radnic",
-    "lat": "49.8899",
-    "lon": "13.5816"
+    "lat": 49.8899,
+    "lon": 13.5816
   },
   {
     "name": "Lhotka nad Labem",
-    "lat": "50.5256",
-    "lon": "14.0473"
+    "lat": 50.5256,
+    "lon": 14.0473
   },
   {
     "name": "Lhota pod Libčany",
-    "lat": "50.1724",
-    "lon": "15.6955"
+    "lat": 50.1724,
+    "lon": 15.6955
   },
   {
     "name": "Lhota pod Hořičkami",
-    "lat": "50.4227",
-    "lon": "16.0031"
+    "lat": 50.4227,
+    "lon": 16.0031
   },
   {
     "name": "Lhoty u Potštejna",
-    "lat": "50.0561",
-    "lon": "16.2687"
+    "lat": 50.0561,
+    "lon": 16.2687
   },
   {
     "name": "Lhota Rapotina",
-    "lat": "49.4660",
-    "lon": "16.6248"
+    "lat": 49.466,
+    "lon": 16.6248
   },
   {
     "name": "Lhota u Lysic",
-    "lat": "49.4700",
-    "lon": "16.4963"
+    "lat": 49.47,
+    "lon": 16.4963
   },
   {
     "name": "Lhota u Olešnice",
-    "lat": "49.5448",
-    "lon": "16.3907"
-  },
-  {
-    "name": "Lhota",
-    "lat": "50.2432",
-    "lon": "14.6564"
+    "lat": 49.5448,
+    "lon": 16.3907
   },
   {
     "name": "Lhotsko",
-    "lat": "49.2122",
-    "lon": "17.8834"
-  },
-  {
-    "name": "Lhotka",
-    "lat": "49.5822",
-    "lon": "16.0029"
+    "lat": 49.2122,
+    "lon": 17.8834
   },
   {
     "name": "Lhánice",
-    "lat": "49.1091",
-    "lon": "16.2234"
+    "lat": 49.1091,
+    "lon": 16.2234
   },
   {
     "name": "Lhotice",
-    "lat": "49.0193",
-    "lon": "15.6071"
-  },
-  {
-    "name": "Lhotka",
-    "lat": "49.5822",
-    "lon": "16.0029"
-  },
-  {
-    "name": "Lhotka",
-    "lat": "49.5822",
-    "lon": "16.0029"
+    "lat": 49.0193,
+    "lon": 15.6071
   },
   {
     "name": "Lhotka u Litultovic",
-    "lat": "49.8728",
-    "lon": "17.7308"
-  },
-  {
-    "name": "Lhota",
-    "lat": "50.2432",
-    "lon": "14.6564"
-  },
-  {
-    "name": "Lhotka",
-    "lat": "49.5822",
-    "lon": "16.0029"
+    "lat": 49.8728,
+    "lon": 17.7308
   },
   {
     "name": "Lhota u Vsetína",
-    "lat": "49.3041",
-    "lon": "17.9572"
+    "lat": 49.3041,
+    "lon": 17.9572
+  },
+  {
+    "name": "Lhotka (Beroun)",
+    "lat": 49.8322,
+    "lon": 13.9962
+  },
+  {
+    "name": "Lhotka (Přerov)",
+    "lat": 49.4997,
+    "lon": 17.4101
+  },
+  {
+    "name": "Lhotka (Žďár nad Sázavou)",
+    "lat": 49.5822,
+    "lon": 16.0029
+  },
+  {
+    "name": "Lhotka (Jihlava)",
+    "lat": 49.2091,
+    "lon": 15.3856
+  },
+  {
+    "name": "Lhotka (Mladá Boleslav)",
+    "lat": 50.396,
+    "lon": 15.055
+  },
+  {
+    "name": "Lhotka (Mělník)",
+    "lat": 50.3714,
+    "lon": 14.5488
+  },
+  {
+    "name": "Lhotka (Frýdek-Místek)",
+    "lat": 49.5972,
+    "lon": 18.2982
+  },
+  {
+    "name": "Lhotka",
+    "lat": 50.0206,
+    "lon": 14.4334
+  },
+  {
+    "name": "Lhotka (Ostrava-město)",
+    "lat": 49.8586,
+    "lon": 18.2289
+  },
+  {
+    "name": "Lhota (Přerov)",
+    "lat": 49.4972,
+    "lon": 17.6158
+  },
+  {
+    "name": "Lhota (Praha-východ)",
+    "lat": 50.2432,
+    "lon": 14.6564
+  },
+  {
+    "name": "Lhota (Kladno)",
+    "lat": 50.0886,
+    "lon": 14.0118
+  },
+  {
+    "name": "Lhota (Zlín)",
+    "lat": 49.1692,
+    "lon": 17.6024
+  },
+  {
+    "name": "Lhota (Litoměřice)",
+    "lat": 50.5761,
+    "lon": 14.3345
+  },
+  {
+    "name": "Lhota (Opava)",
+    "lat": 49.9055,
+    "lon": 18.0469
+  },
+  {
+    "name": "Lhota (Plzeň-město)",
+    "lat": 49.69,
+    "lon": 13.3209
+  },
+  {
+    "name": "Lhota (Česká Lípa)",
+    "lat": 50.5687,
+    "lon": 14.4983
+  },
+  {
+    "name": "Lhota (Náchod)",
+    "lat": 50.4283,
+    "lon": 16.0996
+  },
+  {
+    "name": "Lhota u Příbramě",
+    "lat": 49.7136204,
+    "lon": 13.9807363
   }
 ]

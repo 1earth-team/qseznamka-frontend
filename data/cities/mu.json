@@ -1,37 +1,47 @@
 [
   {
-    "name": "Mukařov",
-    "lat": "50.5691",
-    "lon": "14.9257"
-  },
-  {
-    "name": "Mukařov",
-    "lat": "50.5691",
-    "lon": "14.9257"
-  },
-  {
     "name": "Mutějovice",
-    "lat": "50.1942",
-    "lon": "13.7095"
-  },
-  {
-    "name": "Mutěnice",
-    "lat": "49.2397",
-    "lon": "13.8965"
+    "lat": 50.1942,
+    "lon": 13.7095
   },
   {
     "name": "Mutěnín",
-    "lat": "49.5447",
-    "lon": "12.7446"
+    "lat": 49.5447,
+    "lon": 12.7446
   },
   {
-    "name": "Mutěnice",
-    "lat": "49.2397",
-    "lon": "13.8965"
+    "name": "Mukařov (Mladá Boleslav)",
+    "lat": 50.5691,
+    "lon": 14.9257
+  },
+  {
+    "name": "Mukařov (Praha-východ)",
+    "lat": 49.9911,
+    "lon": 14.7421
+  },
+  {
+    "name": "Mukařov (Litoměřice)",
+    "lat": 50.6472,
+    "lon": 14.2963
+  },
+  {
+    "name": "Mukařov (Jablonec nad Nisou)",
+    "lat": 50.6679,
+    "lon": 15.1915
+  },
+  {
+    "name": "Mutěnice (Strakonice)",
+    "lat": 49.2397,
+    "lon": 13.8965
+  },
+  {
+    "name": "Mutěnice (Hodonín)",
+    "lat": 48.9044,
+    "lon": 17.0294
   },
   {
     "name": "Mutkov",
-    "lat": "",
-    "lon": ""
+    "lat": 49.8018422,
+    "lon": 17.2848358
   }
 ]

@@ -1,202 +1,242 @@
 [
   {
     "name": "Vlašim",
-    "lat": "49.7066",
-    "lon": "14.8988"
+    "lat": 49.7066,
+    "lon": 14.8988
   },
   {
     "name": "Vlačice",
-    "lat": "49.9430",
-    "lon": "15.4375"
+    "lat": 49.943,
+    "lon": 15.4375
   },
   {
     "name": "Vlastějovice",
-    "lat": "49.7313",
-    "lon": "15.1748"
+    "lat": 49.7313,
+    "lon": 15.1748
   },
   {
     "name": "Vlkaneč",
-    "lat": "49.8064",
-    "lon": "15.4031"
+    "lat": 49.8064,
+    "lon": 15.4031
   },
   {
     "name": "Vlkava",
-    "lat": "50.2713",
-    "lon": "14.9613"
+    "lat": 50.2713,
+    "lon": 14.9613
   },
   {
     "name": "Vlkov pod Oškobrhem",
-    "lat": "50.1560",
-    "lon": "15.2204"
+    "lat": 50.156,
+    "lon": 15.2204
   },
   {
     "name": "Vlkančice",
-    "lat": "49.9019",
-    "lon": "14.8971"
-  },
-  {
-    "name": "Vlkov",
-    "lat": "49.1133",
-    "lon": "14.5222"
+    "lat": 49.9019,
+    "lon": 14.8971
   },
   {
     "name": "Vlčetínec",
-    "lat": "49.2645",
-    "lon": "15.0545"
+    "lat": 49.2645,
+    "lon": 15.0545
   },
   {
     "name": "Vlastec",
-    "lat": "49.3657",
-    "lon": "14.2114"
+    "lat": 49.3657,
+    "lon": 14.2114
   },
   {
     "name": "Vlksice",
-    "lat": "49.4809",
-    "lon": "14.4412"
+    "lat": 49.4809,
+    "lon": 14.4412
   },
   {
     "name": "Vlachovo Březí",
-    "lat": "49.0818",
-    "lon": "13.9588"
-  },
-  {
-    "name": "Vlastiboř",
-    "lat": "50.6649",
-    "lon": "15.3117"
+    "lat": 49.0818,
+    "lon": 13.9588
   },
   {
     "name": "Vlčeves",
-    "lat": "49.3570",
-    "lon": "14.9005"
-  },
-  {
-    "name": "Vlkov",
-    "lat": "49.1133",
-    "lon": "14.5222"
-  },
-  {
-    "name": "Vlkanov",
-    "lat": "49.4883",
-    "lon": "12.8055"
+    "lat": 49.357,
+    "lon": 14.9005
   },
   {
     "name": "Vlkovice",
-    "lat": "49.9488",
-    "lon": "12.7390"
+    "lat": 49.9488,
+    "lon": 12.739
   },
   {
     "name": "Vlčí",
-    "lat": "49.5119",
-    "lon": "13.3602"
+    "lat": 49.5119,
+    "lon": 13.3602
   },
   {
     "name": "Vlčtejn",
-    "lat": "49.6146",
-    "lon": "13.4957"
-  },
-  {
-    "name": "Vlastiboř",
-    "lat": "50.6649",
-    "lon": "15.3117"
+    "lat": 49.6146,
+    "lon": 13.4957
   },
   {
     "name": "Vlastibořice",
-    "lat": "50.6187",
-    "lon": "15.0520"
+    "lat": 50.6187,
+    "lon": 15.052
   },
   {
     "name": "Vlastislav",
-    "lat": "50.4970",
-    "lon": "13.9554"
-  },
-  {
-    "name": "Vlkanov",
-    "lat": "49.4883",
-    "lon": "12.8055"
-  },
-  {
-    "name": "Vlkov",
-    "lat": "49.1133",
-    "lon": "14.5222"
+    "lat": 50.497,
+    "lon": 13.9554
   },
   {
     "name": "Vlčí Habřina",
-    "lat": "50.0858",
-    "lon": "15.5959"
+    "lat": 50.0858,
+    "lon": 15.5959
   },
   {
     "name": "Vlčkov",
-    "lat": "49.9076",
-    "lon": "16.3500"
-  },
-  {
-    "name": "Vlčice",
-    "lat": "50.5627",
-    "lon": "15.8217"
+    "lat": 49.9076,
+    "lon": 16.35
   },
   {
     "name": "Vlčkovice v Podkrkonoší",
-    "lat": "50.4130",
-    "lon": "15.9111"
+    "lat": 50.413,
+    "lon": 15.9111
   },
   {
     "name": "Vlasatice",
-    "lat": "48.9337",
-    "lon": "16.4845"
+    "lat": 48.9337,
+    "lon": 16.4845
   },
   {
     "name": "Vlachova Lhota",
-    "lat": "49.1499",
-    "lon": "17.9534"
-  },
-  {
-    "name": "Vlachovice",
-    "lat": "49.5970",
-    "lon": "16.0412"
+    "lat": 49.1499,
+    "lon": 17.9534
   },
   {
     "name": "Vlčková",
-    "lat": "49.3107",
-    "lon": "17.7628"
-  },
-  {
-    "name": "Vlkoš",
-    "lat": "49.3950",
-    "lon": "17.4196"
+    "lat": 49.3107,
+    "lon": 17.7628
   },
   {
     "name": "Vladislav",
-    "lat": "49.2108",
-    "lon": "15.9906"
+    "lat": 49.2108,
+    "lon": 15.9906
   },
   {
     "name": "Vlčatín",
-    "lat": "49.3057",
-    "lon": "15.9493"
+    "lat": 49.3057,
+    "lon": 15.9493
   },
   {
     "name": "Vlčnov",
-    "lat": "49.0100",
-    "lon": "17.5820"
+    "lat": 49.01,
+    "lon": 17.582
   },
   {
-    "name": "Vlachovice",
-    "lat": "49.5970",
-    "lon": "16.0412"
+    "name": "Vlkov (České Budějovice)",
+    "lat": 49.1133,
+    "lon": 14.5222
   },
   {
-    "name": "Vlkov",
-    "lat": "49.1133",
-    "lon": "14.5222"
+    "name": "Vlkov (Žďár nad Sázavou)",
+    "lat": 49.3244,
+    "lon": 16.2003
   },
   {
-    "name": "Vlkoš",
-    "lat": "49.3950",
-    "lon": "17.4196"
+    "name": "Vlkov (Tábor)",
+    "lat": 49.151,
+    "lon": 14.7253
   },
   {
-    "name": "Vlčice",
-    "lat": "50.5627",
-    "lon": "15.8217"
+    "name": "Vlkov (Náchod)",
+    "lat": 50.3129,
+    "lon": 15.8988
+  },
+  {
+    "name": "Vlkov (Plzeň-jih)",
+    "lat": 49.6215,
+    "lon": 13.5754
+  },
+  {
+    "name": "Vlkov (Bruntál)",
+    "lat": 50.0216,
+    "lon": 17.4743
+  },
+  {
+    "name": "Vlkov (Blansko)",
+    "lat": 49.5849,
+    "lon": 16.5302
+  },
+  {
+    "name": "Vlastiboř (Jablonec nad Nisou)",
+    "lat": 50.6649,
+    "lon": 15.3117
+  },
+  {
+    "name": "Vlastiboř (Tábor)",
+    "lat": 49.2576,
+    "lon": 14.6375
+  },
+  {
+    "name": "Vlkanov (Domažlice)",
+    "lat": 49.4883,
+    "lon": 12.8055
+  },
+  {
+    "name": "Vlkanov (Havlíčkův Brod)",
+    "lat": 49.7156,
+    "lon": 15.3567
+  },
+  {
+    "name": "Vlčice (Trutnov)",
+    "lat": 50.5627,
+    "lon": 15.8217
+  },
+  {
+    "name": "Vlčice (Jeseník)",
+    "lat": 50.3454,
+    "lon": 17.0459
+  },
+  {
+    "name": "Vlčice (Děčín)",
+    "lat": 50.9796,
+    "lon": 14.4714
+  },
+  {
+    "name": "Vlčice (Český Krumlov)",
+    "lat": 48.8843,
+    "lon": 14.1895
+  },
+  {
+    "name": "Vlčice (Jindřichův Hradec)",
+    "lat": 49.1485,
+    "lon": 15.1569
+  },
+  {
+    "name": "Vlčice (Šumperk)",
+    "lat": 49.7365,
+    "lon": 16.9067
+  },
+  {
+    "name": "Vlčice (Plzeň-jih)",
+    "lat": 49.5661,
+    "lon": 13.5459
+  },
+  {
+    "name": "Vlachovice (Žďár nad Sázavou)",
+    "lat": 49.597,
+    "lon": 16.0412
+  },
+  {
+    "name": "Vlachovice (Zlín)",
+    "lat": 49.1236,
+    "lon": 17.9402
+  },
+  {
+    "name": "Vlkoš (Přerov)",
+    "lat": 49.395,
+    "lon": 17.4196
+  },
+  {
+    "name": "Vlkoš (Hodonín)",
+    "lat": 48.9896,
+    "lon": 17.1636
   }
 ]

@@ -1,92 +1,107 @@
 [
   {
     "name": "Uhy",
-    "lat": "50.2842",
-    "lon": "14.2739"
+    "lat": 50.2842,
+    "lon": 14.2739
   },
   {
     "name": "Uhlířská Lhota",
-    "lat": "50.0789",
-    "lon": "15.3910"
+    "lat": 50.0789,
+    "lon": 15.391
   },
   {
     "name": "Uhlířské Janovice",
-    "lat": "49.8808",
-    "lon": "15.0645"
+    "lat": 49.8808,
+    "lon": 15.0645
   },
   {
     "name": "Uhelná Příbram",
-    "lat": "49.7683",
-    "lon": "15.5859"
+    "lat": 49.7683,
+    "lon": 15.5859
   },
   {
     "name": "Uhersko",
-    "lat": "49.9925",
-    "lon": "16.0177"
-  },
-  {
-    "name": "Uhřice",
-    "lat": "49.5951",
-    "lon": "16.7350"
-  },
-  {
-    "name": "Uherčice",
-    "lat": "48.9132",
-    "lon": "15.6304"
-  },
-  {
-    "name": "Uhřice",
-    "lat": "49.5951",
-    "lon": "16.7350"
-  },
-  {
-    "name": "Uhřice",
-    "lat": "49.5951",
-    "lon": "16.7350"
+    "lat": 49.9925,
+    "lon": 16.0177
   },
   {
     "name": "Uherské Hradiště",
-    "lat": "49.0681",
-    "lon": "17.4664"
+    "lat": 49.0681,
+    "lon": 17.4664
   },
   {
     "name": "Uherský Brod",
-    "lat": "49.0253",
-    "lon": "17.6464"
+    "lat": 49.0253,
+    "lon": 17.6464
   },
   {
     "name": "Uherský Ostroh",
-    "lat": "48.9856",
-    "lon": "17.3898"
-  },
-  {
-    "name": "Uhřice",
-    "lat": "49.5951",
-    "lon": "16.7350"
-  },
-  {
-    "name": "Uherčice",
-    "lat": "48.9132",
-    "lon": "15.6304"
+    "lat": 48.9856,
+    "lon": 17.3898
   },
   {
     "name": "Uhřínov",
-    "lat": "49.3498",
-    "lon": "15.9380"
+    "lat": 49.3498,
+    "lon": 15.938
   },
   {
     "name": "Uhlířov",
-    "lat": "49.8971",
-    "lon": "17.8413"
+    "lat": 49.8971,
+    "lon": 17.8413
   },
   {
     "name": "Uhřičice",
-    "lat": "49.3716",
-    "lon": "17.2903"
+    "lat": 49.3716,
+    "lon": 17.2903
   },
   {
     "name": "Uhelná",
-    "lat": "50.3650",
-    "lon": "17.0274"
+    "lat": 50.365,
+    "lon": 17.0274
+  },
+  {
+    "name": "Uhřice (Blansko)",
+    "lat": 49.5951,
+    "lon": 16.735
+  },
+  {
+    "name": "Uhřice (Hodonín)",
+    "lat": 49.0503,
+    "lon": 16.9476
+  },
+  {
+    "name": "Uhřice (Vyškov)",
+    "lat": 49.1724,
+    "lon": 17.0784
+  },
+  {
+    "name": "Uhřice (Kroměříž)",
+    "lat": 49.2818,
+    "lon": 17.2012
+  },
+  {
+    "name": "Uhřice (Prachatice)",
+    "lat": 49.0873,
+    "lon": 13.9222
+  },
+  {
+    "name": "Uhřice (Příbram)",
+    "lat": 49.5624,
+    "lon": 14.5274
+  },
+  {
+    "name": "Uherčice (Znojmo)",
+    "lat": 48.9132,
+    "lon": 15.6304
+  },
+  {
+    "name": "Uherčice (Břeclav)",
+    "lat": 48.9678,
+    "lon": 16.6534
+  },
+  {
+    "name": "Uherčice (Chrudim)",
+    "lat": 49.9197,
+    "lon": 15.678
   }
 ]

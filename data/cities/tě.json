@@ -1,82 +1,102 @@
 [
   {
     "name": "Těchařovice",
-    "lat": "49.6004",
-    "lon": "14.0481"
+    "lat": 49.6004,
+    "lon": 14.0481
   },
   {
     "name": "Těchobuz",
-    "lat": "49.5101",
-    "lon": "14.9306"
-  },
-  {
-    "name": "Těmice",
-    "lat": "49.3518",
-    "lon": "15.0604"
-  },
-  {
-    "name": "Těšovice",
-    "lat": "49.0571",
-    "lon": "14.0239"
+    "lat": 49.5101,
+    "lon": 14.9306
   },
   {
     "name": "Těně",
-    "lat": "49.7512",
-    "lon": "13.7962"
+    "lat": 49.7512,
+    "lon": 13.7962
   },
   {
     "name": "Těškov",
-    "lat": "49.8022",
-    "lon": "13.6980"
-  },
-  {
-    "name": "Těšovice",
-    "lat": "49.0571",
-    "lon": "14.0239"
-  },
-  {
-    "name": "Těchlovice",
-    "lat": "50.2075",
-    "lon": "15.7112"
-  },
-  {
-    "name": "Těchlovice",
-    "lat": "50.2075",
-    "lon": "15.7112"
+    "lat": 49.8022,
+    "lon": 13.698
   },
   {
     "name": "Těchonín",
-    "lat": "50.0649",
-    "lon": "16.6179"
+    "lat": 50.0649,
+    "lon": 16.6179
   },
   {
     "name": "Těšany",
-    "lat": "49.0394",
-    "lon": "16.7701"
-  },
-  {
-    "name": "Těmice",
-    "lat": "49.3518",
-    "lon": "15.0604"
-  },
-  {
-    "name": "Těšetice",
-    "lat": "49.5932",
-    "lon": "17.1261"
+    "lat": 49.0394,
+    "lon": 16.7701
   },
   {
     "name": "Těrlicko",
-    "lat": "49.7520",
-    "lon": "18.4829"
-  },
-  {
-    "name": "Těšetice",
-    "lat": "49.5932",
-    "lon": "17.1261"
+    "lat": 49.752,
+    "lon": 18.4829
   },
   {
     "name": "Těškovice",
-    "lat": "49.8141",
-    "lon": "18.0209"
+    "lat": 49.8141,
+    "lon": 18.0209
+  },
+  {
+    "name": "Těmice (Pelhřimov)",
+    "lat": 49.3518,
+    "lon": 15.0604
+  },
+  {
+    "name": "Těmice (Hodonín)",
+    "lat": 49.0016,
+    "lon": 17.2649
+  },
+  {
+    "name": "Těmice (Tábor)",
+    "lat": 49.5494,
+    "lon": 14.7526
+  },
+  {
+    "name": "Těšovice (Prachatice)",
+    "lat": 49.0571,
+    "lon": 14.0239
+  },
+  {
+    "name": "Těšovice (Sokolov)",
+    "lat": 50.1819,
+    "lon": 12.6756
+  },
+  {
+    "name": "Těšovice (Domažlice)",
+    "lat": 49.5044,
+    "lon": 13.1408
+  },
+  {
+    "name": "Těchlovice (Hradec Králové)",
+    "lat": 50.2075,
+    "lon": 15.7112
+  },
+  {
+    "name": "Těchlovice (Děčín)",
+    "lat": 50.6963,
+    "lon": 14.2049
+  },
+  {
+    "name": "Těchlovice (Tachov)",
+    "lat": 49.7739,
+    "lon": 12.9739
+  },
+  {
+    "name": "Těšetice (Olomouc)",
+    "lat": 49.5932,
+    "lon": 17.1261
+  },
+  {
+    "name": "Těšetice (Znojmo)",
+    "lat": 48.8888,
+    "lon": 16.1582
+  },
+  {
+    "name": "Těšetice (Karlovy Vary)",
+    "lat": 50.1616,
+    "lon": 13.0856
   }
 ]

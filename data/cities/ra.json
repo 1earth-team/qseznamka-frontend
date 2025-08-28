@@ -1,562 +1,682 @@
 [
   {
     "name": "Rabyně",
-    "lat": "49.8142",
-    "lon": "14.4361"
-  },
-  {
-    "name": "Radošovice",
-    "lat": "49.7409",
-    "lon": "14.8673"
-  },
-  {
-    "name": "Rataje",
-    "lat": "49.7038",
-    "lon": "14.9704"
+    "lat": 49.8142,
+    "lon": 14.4361
   },
   {
     "name": "Ratměřice",
-    "lat": "49.6433",
-    "lon": "14.7562"
-  },
-  {
-    "name": "Radim",
-    "lat": "50.0701",
-    "lon": "15.0124"
+    "lat": 49.6433,
+    "lon": 14.7562
   },
   {
     "name": "Radovesnice I",
-    "lat": "50.0104",
-    "lon": "15.1509"
+    "lat": 50.0104,
+    "lon": 15.1509
   },
   {
     "name": "Radovesnice II",
-    "lat": "50.1041",
-    "lon": "15.3677"
+    "lat": 50.1041,
+    "lon": 15.3677
   },
   {
     "name": "Ratboř",
-    "lat": "49.9776",
-    "lon": "15.1594"
+    "lat": 49.9776,
+    "lon": 15.1594
   },
   {
     "name": "Ratenice",
-    "lat": "50.0916",
-    "lon": "15.0593"
-  },
-  {
-    "name": "Rašovice",
-    "lat": "49.8825",
-    "lon": "15.1024"
+    "lat": 50.0916,
+    "lon": 15.0593
   },
   {
     "name": "Rataje nad Sázavou",
-    "lat": "49.8420",
-    "lon": "14.9560"
+    "lat": 49.842,
+    "lon": 14.956
   },
   {
     "name": "Rabakov",
-    "lat": "50.3856",
-    "lon": "15.1015"
-  },
-  {
-    "name": "Radějovice",
-    "lat": "49.9472",
-    "lon": "14.5648"
-  },
-  {
-    "name": "Radonice",
-    "lat": "50.1431",
-    "lon": "14.6103"
-  },
-  {
-    "name": "Radětice",
-    "lat": "49.3194",
-    "lon": "14.4413"
+    "lat": 50.3856,
+    "lon": 15.1015
   },
   {
     "name": "Radíč",
-    "lat": "49.7147",
-    "lon": "14.4174"
-  },
-  {
-    "name": "Račice",
-    "lat": "50.4613",
-    "lon": "14.3511"
+    "lat": 49.7147,
+    "lon": 14.4174
   },
   {
     "name": "Rakovník",
-    "lat": "50.1041",
-    "lon": "13.7310"
-  },
-  {
-    "name": "Radošovice",
-    "lat": "49.7409",
-    "lon": "14.8673"
+    "lat": 50.1041,
+    "lon": 13.731
   },
   {
     "name": "Rapšach",
-    "lat": "48.8792",
-    "lon": "14.9329"
-  },
-  {
-    "name": "Ratiboř",
-    "lat": "49.1435",
-    "lon": "14.9150"
+    "lat": 48.8792,
+    "lon": 14.9329
   },
   {
     "name": "Rakovice",
-    "lat": "49.4712",
-    "lon": "14.0546"
+    "lat": 49.4712,
+    "lon": 14.0546
   },
   {
     "name": "Ražice",
-    "lat": "49.2412",
-    "lon": "14.1019"
+    "lat": 49.2412,
+    "lon": 14.1019
   },
   {
     "name": "Radhostice",
-    "lat": "49.0793",
-    "lon": "13.8805"
-  },
-  {
-    "name": "Radějovice",
-    "lat": "49.9472",
-    "lon": "14.5648"
+    "lat": 49.0793,
+    "lon": 13.8805
   },
   {
     "name": "Radomyšl",
-    "lat": "49.3159",
-    "lon": "13.9321"
-  },
-  {
-    "name": "Radošovice",
-    "lat": "49.7409",
-    "lon": "14.8673"
+    "lat": 49.3159,
+    "lon": 13.9321
   },
   {
     "name": "Radenín",
-    "lat": "49.3694",
-    "lon": "14.8410"
-  },
-  {
-    "name": "Radětice",
-    "lat": "49.3194",
-    "lon": "14.4413"
+    "lat": 49.3694,
+    "lon": 14.841
   },
   {
     "name": "Radimovice u Tábora",
-    "lat": "49.4573",
-    "lon": "14.6390"
+    "lat": 49.4573,
+    "lon": 14.639
   },
   {
     "name": "Radimovice u Želče",
-    "lat": "49.3773",
-    "lon": "14.6476"
-  },
-  {
-    "name": "Radkov",
-    "lat": "49.4234",
-    "lon": "16.1580"
-  },
-  {
-    "name": "Rataje",
-    "lat": "49.7038",
-    "lon": "14.9704"
+    "lat": 49.3773,
+    "lon": 14.6476
   },
   {
     "name": "Ratibořské Hory",
-    "lat": "49.4626",
-    "lon": "14.7694"
+    "lat": 49.4626,
+    "lon": 14.7694
   },
   {
     "name": "Rabí",
-    "lat": "49.2809",
-    "lon": "13.6189"
+    "lat": 49.2809,
+    "lon": 13.6189
   },
   {
     "name": "Radkovice",
-    "lat": "49.5478",
-    "lon": "13.3680"
+    "lat": 49.5478,
+    "lon": 13.368
   },
   {
     "name": "Radnice",
-    "lat": "49.8571",
-    "lon": "13.6063"
+    "lat": 49.8571,
+    "lon": 13.6063
   },
   {
     "name": "Raková",
-    "lat": "49.7003",
-    "lon": "13.5819"
-  },
-  {
-    "name": "Radvanec",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Ralsko",
-    "lat": "",
-    "lon": ""
+    "lat": 49.7003,
+    "lon": 13.5819
   },
   {
     "name": "Račetice",
-    "lat": "50.3056",
-    "lon": "13.3658"
-  },
-  {
-    "name": "Radonice",
-    "lat": "50.1431",
-    "lon": "14.6103"
+    "lat": 50.3056,
+    "lon": 13.3658
   },
   {
     "name": "Radčice",
-    "lat": "50.6728",
-    "lon": "15.2776"
+    "lat": 50.6728,
+    "lon": 15.2776
   },
   {
     "name": "Radimovice",
-    "lat": "49.4573",
-    "lon": "14.6390"
+    "lat": 49.4573,
+    "lon": 14.639
   },
   {
     "name": "Raspenava",
-    "lat": "50.9042",
-    "lon": "15.1146"
-  },
-  {
-    "name": "Račice",
-    "lat": "50.4613",
-    "lon": "14.3511"
+    "lat": 50.9042,
+    "lon": 15.1146
   },
   {
     "name": "Račiněves",
-    "lat": "50.3731",
-    "lon": "14.2186"
+    "lat": 50.3731,
+    "lon": 14.2186
   },
   {
     "name": "Radovesice",
-    "lat": "50.4105",
-    "lon": "14.0686"
-  },
-  {
-    "name": "Raná",
-    "lat": "49.7964",
-    "lon": "15.9641"
-  },
-  {
-    "name": "Radostín",
-    "lat": "49.6527",
-    "lon": "15.8758"
+    "lat": 50.4105,
+    "lon": 14.0686
   },
   {
     "name": "Račice nad Trotinou",
-    "lat": "50.3157",
-    "lon": "15.7961"
+    "lat": 50.3157,
+    "lon": 15.7961
   },
   {
     "name": "Radíkovice",
-    "lat": "50.2093",
-    "lon": "15.6936"
+    "lat": 50.2093,
+    "lon": 15.6936
   },
   {
     "name": "Radostov",
-    "lat": "50.2098",
-    "lon": "15.6636"
+    "lat": 50.2098,
+    "lon": 15.6636
   },
   {
     "name": "Rabštejnská Lhota",
-    "lat": "49.9156",
-    "lon": "15.7680"
-  },
-  {
-    "name": "Raná",
-    "lat": "49.7964",
-    "lon": "15.9641"
-  },
-  {
-    "name": "Radim",
-    "lat": "50.0701",
-    "lon": "15.0124"
+    "lat": 49.9156,
+    "lon": 15.768
   },
   {
     "name": "Rašín",
-    "lat": "50.3333",
-    "lon": "15.6779"
+    "lat": 50.3333,
+    "lon": 15.6779
   },
   {
     "name": "Rasošky",
-    "lat": "50.3219",
-    "lon": "15.9117"
+    "lat": 50.3219,
+    "lon": 15.9117
   },
   {
     "name": "Radostná pod Kozákovem",
-    "lat": "50.5777",
-    "lon": "15.2456"
+    "lat": 50.5777,
+    "lon": 15.2456
   },
   {
     "name": "Rakousy",
-    "lat": "50.6203",
-    "lon": "15.1875"
+    "lat": 50.6203,
+    "lon": 15.1875
   },
   {
     "name": "Radiměř",
-    "lat": "49.6996",
-    "lon": "16.4313"
-  },
-  {
-    "name": "Radkov",
-    "lat": "49.4234",
-    "lon": "16.1580"
-  },
-  {
-    "name": "Radvanice",
-    "lat": "49.5098",
-    "lon": "17.4769"
+    "lat": 49.6996,
+    "lon": 16.4313
   },
   {
     "name": "Radhošť",
-    "lat": "49.9875",
-    "lon": "16.0760"
+    "lat": 49.9875,
+    "lon": 16.076
   },
   {
     "name": "Radostice",
-    "lat": "49.1336",
-    "lon": "16.4770"
+    "lat": 49.1336,
+    "lon": 16.477
   },
   {
     "name": "Rajhrad",
-    "lat": "49.0891",
-    "lon": "16.6031"
+    "lat": 49.0891,
+    "lon": 16.6031
   },
   {
     "name": "Rajhradice",
-    "lat": "49.0918",
-    "lon": "16.6323"
+    "lat": 49.0918,
+    "lon": 16.6323
   },
   {
     "name": "Rašov",
-    "lat": "49.4155",
-    "lon": "16.4537"
+    "lat": 49.4155,
+    "lon": 16.4537
   },
   {
     "name": "Rakvice",
-    "lat": "48.8584",
-    "lon": "16.8127"
+    "lat": 48.8584,
+    "lon": 16.8127
   },
   {
     "name": "Racková",
-    "lat": "49.2773",
-    "lon": "17.6251"
+    "lat": 49.2773,
+    "lon": 17.6251
   },
   {
     "name": "Radějov",
-    "lat": "48.8594",
-    "lon": "17.3446"
+    "lat": 48.8594,
+    "lon": 17.3446
   },
   {
     "name": "Ratíškovice",
-    "lat": "48.9197",
-    "lon": "17.1657"
-  },
-  {
-    "name": "Radkov",
-    "lat": "49.4234",
-    "lon": "16.1580"
+    "lat": 48.9197,
+    "lon": 17.1657
   },
   {
     "name": "Rančířov",
-    "lat": "49.3624",
-    "lon": "15.5888"
+    "lat": 49.3624,
+    "lon": 15.5888
   },
   {
     "name": "Rantířov",
-    "lat": "49.4084",
-    "lon": "15.5148"
+    "lat": 49.4084,
+    "lon": 15.5148
   },
   {
     "name": "Rajnochovice",
-    "lat": "49.4130",
-    "lon": "17.8126"
-  },
-  {
-    "name": "Rataje",
-    "lat": "49.7038",
-    "lon": "14.9704"
+    "lat": 49.413,
+    "lon": 17.8126
   },
   {
     "name": "Raková u Konice",
-    "lat": "49.6072",
-    "lon": "16.9508"
+    "lat": 49.6072,
+    "lon": 16.9508
   },
   {
     "name": "Rakůvka",
-    "lat": "49.6097",
-    "lon": "16.9376"
-  },
-  {
-    "name": "Račice",
-    "lat": "50.4613",
-    "lon": "14.3511"
+    "lat": 49.6097,
+    "lon": 16.9376
   },
   {
     "name": "Radkovice u Budče",
-    "lat": "49.0825",
-    "lon": "15.6217"
+    "lat": 49.0825,
+    "lon": 15.6217
   },
   {
     "name": "Radkovice u Hrotovic",
-    "lat": "49.0705",
-    "lon": "16.0073"
+    "lat": 49.0705,
+    "lon": 16.0073
   },
   {
     "name": "Radonín",
-    "lat": "49.2797",
-    "lon": "15.7241"
+    "lat": 49.2797,
+    "lon": 15.7241
   },
   {
     "name": "Radošov",
-    "lat": "49.3350",
-    "lon": "15.7864"
+    "lat": 49.335,
+    "lon": 15.7864
   },
   {
     "name": "Radotice",
-    "lat": "48.9800",
-    "lon": "15.5901"
+    "lat": 48.98,
+    "lon": 15.5901
   },
   {
     "name": "Rapotice",
-    "lat": "49.1920",
-    "lon": "16.2533"
+    "lat": 49.192,
+    "lon": 16.2533
   },
   {
     "name": "Račice-Pístovice",
-    "lat": "49.2816",
-    "lon": "16.8833"
-  },
-  {
-    "name": "Radslavice",
-    "lat": "49.4782",
-    "lon": "17.5166"
-  },
-  {
-    "name": "Rašovice",
-    "lat": "49.8825",
-    "lon": "15.1024"
-  },
-  {
-    "name": "Račice",
-    "lat": "50.4613",
-    "lon": "14.3511"
+    "lat": 49.2816,
+    "lon": 16.8833
   },
   {
     "name": "Račín",
-    "lat": "49.6174",
-    "lon": "15.8669"
+    "lat": 49.6174,
+    "lon": 15.8669
   },
   {
     "name": "Radenice",
-    "lat": "49.4272",
-    "lon": "16.0646"
+    "lat": 49.4272,
+    "lon": 16.0646
   },
   {
     "name": "Radešín",
-    "lat": "49.4704",
-    "lon": "16.0879"
+    "lat": 49.4704,
+    "lon": 16.0879
   },
   {
     "name": "Radešínská Svratka",
-    "lat": "49.5084",
-    "lon": "16.0850"
-  },
-  {
-    "name": "Radkov",
-    "lat": "49.4234",
-    "lon": "16.1580"
+    "lat": 49.5084,
+    "lon": 16.085
   },
   {
     "name": "Radňoves",
-    "lat": "49.3886",
-    "lon": "16.2140"
+    "lat": 49.3886,
+    "lon": 16.214
   },
   {
     "name": "Radňovice",
-    "lat": "49.5640",
-    "lon": "16.0350"
-  },
-  {
-    "name": "Radostín",
-    "lat": "49.6527",
-    "lon": "15.8758"
+    "lat": 49.564,
+    "lon": 16.035
   },
   {
     "name": "Radostín nad Oslavou",
-    "lat": "49.4619",
-    "lon": "15.9651"
+    "lat": 49.4619,
+    "lon": 15.9651
   },
   {
     "name": "Razová",
-    "lat": "49.9313",
-    "lon": "17.5320"
+    "lat": 49.9313,
+    "lon": 17.532
   },
   {
     "name": "Raškovice",
-    "lat": "49.6197",
-    "lon": "18.4729"
-  },
-  {
-    "name": "Radkov",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Raduň",
-    "lat": "",
-    "lon": ""
+    "lat": 49.6197,
+    "lon": 18.4729
   },
   {
     "name": "Radíkov",
-    "lat": "49.5961",
-    "lon": "17.6722"
+    "lat": 49.5961,
+    "lon": 17.6722
   },
   {
     "name": "Radkova Lhota",
-    "lat": "49.4418",
-    "lon": "17.6205"
+    "lat": 49.4418,
+    "lon": 17.6205
   },
   {
     "name": "Radkovy",
-    "lat": "49.4361",
-    "lon": "17.6148"
+    "lat": 49.4361,
+    "lon": 17.6148
   },
   {
     "name": "Radotín",
-    "lat": "49.4793",
-    "lon": "17.6322"
-  },
-  {
-    "name": "Radslavice",
-    "lat": "49.4782",
-    "lon": "17.5166"
-  },
-  {
-    "name": "Radvanice",
-    "lat": "49.5098",
-    "lon": "17.4769"
+    "lat": 49.4793,
+    "lon": 17.6322
   },
   {
     "name": "Rakov",
-    "lat": "49.4917",
-    "lon": "17.7078"
+    "lat": 49.4917,
+    "lon": 17.7078
   },
   {
     "name": "Rapotín",
-    "lat": "50.0008",
-    "lon": "17.0190"
+    "lat": 50.0008,
+    "lon": 17.019
   },
   {
-    "name": "Ratiboř",
-    "lat": "49.1435",
-    "lon": "14.9150"
+    "name": "Radošovice (Benešov)",
+    "lat": 49.7409,
+    "lon": 14.8673
+  },
+  {
+    "name": "Radošovice (Strakonice)",
+    "lat": 49.2335,
+    "lon": 13.8986
+  },
+  {
+    "name": "Radošovice (České Budějovice)",
+    "lat": 49.0198,
+    "lon": 14.273
+  },
+  {
+    "name": "Radošovice (Praha-východ)",
+    "lat": 50.0007,
+    "lon": 14.671
+  },
+  {
+    "name": "Rataje (Benešov)",
+    "lat": 49.7038,
+    "lon": 14.9704
+  },
+  {
+    "name": "Rataje (Tábor)",
+    "lat": 49.3501,
+    "lon": 14.4457
+  },
+  {
+    "name": "Rataje (Kroměříž)",
+    "lat": 49.2713,
+    "lon": 17.3355
+  },
+  {
+    "name": "Rataje (Olomouc)",
+    "lat": 49.5871,
+    "lon": 17.1113
+  },
+  {
+    "name": "Radim (Kolín)",
+    "lat": 50.0701,
+    "lon": 15.0124
+  },
+  {
+    "name": "Radim (Jičín)",
+    "lat": 50.4579,
+    "lon": 15.4285
+  },
+  {
+    "name": "Radim (Chrudim)",
+    "lat": 49.9014,
+    "lon": 16.0198
+  },
+  {
+    "name": "Radim (Bruntál)",
+    "lat": 50.0787,
+    "lon": 17.5972
+  },
+  {
+    "name": "Rašovice (Kutná Hora)",
+    "lat": 49.8825,
+    "lon": 15.1024
+  },
+  {
+    "name": "Rašovice (Vyškov)",
+    "lat": 49.121,
+    "lon": 16.9482
+  },
+  {
+    "name": "Rašovice (Litoměřice)",
+    "lat": 50.5709,
+    "lon": 14.4009
+  },
+  {
+    "name": "Rašovice (Chomutov)",
+    "lat": 50.3735,
+    "lon": 13.2043
+  },
+  {
+    "name": "Rašovice (Nymburk)",
+    "lat": 50.2071,
+    "lon": 15.1172
+  },
+  {
+    "name": "Rašovice (Rychnov nad Kněžnou)",
+    "lat": 50.1479,
+    "lon": 16.1309
+  },
+  {
+    "name": "Rašovice (Tábor)",
+    "lat": 49.516,
+    "lon": 14.7439
+  },
+  {
+    "name": "Radějovice (Praha-východ)",
+    "lat": 49.9472,
+    "lon": 14.5648
+  },
+  {
+    "name": "Radějovice (Strakonice)",
+    "lat": 49.1863,
+    "lon": 14.0264
+  },
+  {
+    "name": "Radějovice (Benešov)",
+    "lat": 49.792,
+    "lon": 14.5066
+  },
+  {
+    "name": "Radějovice (Plzeň-sever)",
+    "lat": 49.6954,
+    "lon": 13.072
+  },
+  {
+    "name": "Radonice (Praha-východ)",
+    "lat": 50.1431,
+    "lon": 14.6103
+  },
+  {
+    "name": "Radonice (Chomutov)",
+    "lat": 50.2981,
+    "lon": 13.285
+  },
+  {
+    "name": "Radonice (České Budějovice)",
+    "lat": 49.1433,
+    "lon": 14.5481
+  },
+  {
+    "name": "Radonice (Domažlice)",
+    "lat": 49.4567,
+    "lon": 13.001
+  },
+  {
+    "name": "Radonice (Benešov)",
+    "lat": 49.7854,
+    "lon": 14.9408
+  },
+  {
+    "name": "Radětice (Tábor)",
+    "lat": 49.3194,
+    "lon": 14.4413
+  },
+  {
+    "name": "Radětice (Příbram)",
+    "lat": 49.64,
+    "lon": 14.079
+  },
+  {
+    "name": "Račice (Litoměřice)",
+    "lat": 50.4613,
+    "lon": 14.3511
+  },
+  {
+    "name": "Račice (Žďár nad Sázavou)",
+    "lat": 49.4973,
+    "lon": 16.1392
+  },
+  {
+    "name": "Račice (Třebíč)",
+    "lat": 49.1079,
+    "lon": 16.0245
+  },
+  {
+    "name": "Račice (Rakovník)",
+    "lat": 50.0247,
+    "lon": 13.9229
+  },
+  {
+    "name": "Račice (Vyškov)",
+    "lat": 49.2759,
+    "lon": 16.8728
+  },
+  {
+    "name": "Ratiboř (Jindřichův Hradec)",
+    "lat": 49.1435,
+    "lon": 14.915
+  },
+  {
+    "name": "Ratiboř (Vsetín)",
+    "lat": 49.3677,
+    "lon": 17.915
+  },
+  {
+    "name": "Ratiboř (Písek)",
+    "lat": 49.5254,
+    "lon": 14.3862
+  },
+  {
+    "name": "Ratiboř (Karlovy Vary)",
+    "lat": 50.1135,
+    "lon": 13.1157
+  },
+  {
+    "name": "Radkov (Svitavy)",
+    "lat": 49.7336,
+    "lon": 16.7413
+  },
+  {
+    "name": "Radkov (Žďár nad Sázavou)",
+    "lat": 49.4234,
+    "lon": 16.158
+  },
+  {
+    "name": "Radkov (Jihlava)",
+    "lat": 49.1452,
+    "lon": 15.4754
+  },
+  {
+    "name": "Radkov (Tábor)",
+    "lat": 49.4653,
+    "lon": 14.6107
+  },
+  {
+    "name": "Radkov (Opava)",
+    "lat": 49.8264,
+    "lon": 17.7702
+  },
+  {
+    "name": "Raná (Chrudim)",
+    "lat": 49.7964,
+    "lon": 15.9641
+  },
+  {
+    "name": "Raná (Louny)",
+    "lat": 50.4116,
+    "lon": 13.7793
+  },
+  {
+    "name": "Radostín (Žďár nad Sázavou)",
+    "lat": 49.6527,
+    "lon": 15.8758
+  },
+  {
+    "name": "Radostín (Havlíčkův Brod)",
+    "lat": 49.6609,
+    "lon": 15.5433
+  },
+  {
+    "name": "Radostín (Liberec)",
+    "lat": 50.633,
+    "lon": 15.0847
+  },
+  {
+    "name": "Radvanice (Přerov)",
+    "lat": 49.5098,
+    "lon": 17.4769
+  },
+  {
+    "name": "Radvanice (Trutnov)",
+    "lat": 50.5674,
+    "lon": 16.0617
+  },
+  {
+    "name": "Radvanice (Ostrava-město)",
+    "lat": 49.8141,
+    "lon": 18.3436
+  },
+  {
+    "name": "Radvanice (Kutná Hora)",
+    "lat": 49.8839,
+    "lon": 14.9291
+  },
+  {
+    "name": "Radvanice (Liberec)",
+    "lat": 50.6155,
+    "lon": 14.996
+  },
+  {
+    "name": "Radvanice (Klatovy)",
+    "lat": 49.2414,
+    "lon": 13.351
+  },
+  {
+    "name": "Radslavice (Přerov)",
+    "lat": 49.4782,
+    "lon": 17.5166
+  },
+  {
+    "name": "Radslavice (Vyškov)",
+    "lat": 49.3229,
+    "lon": 17.0038
+  },
+  {
+    "name": "Radslavice (Benešov)",
+    "lat": 49.7799,
+    "lon": 14.5099
+  },
+  {
+    "name": "Radslavice (Žďár nad Sázavou)",
+    "lat": 49.3382,
+    "lon": 15.9023
+  },
+  {
+    "name": "Radvanec",
+    "lat": 50.7528997,
+    "lon": 14.5920383
+  },
+  {
+    "name": "Ralsko",
+    "lat": 50.5857728,
+    "lon": 14.8040625
+  },
+  {
+    "name": "Raduň",
+    "lat": 49.892873,
+    "lon": 17.9432426
   }
 ]

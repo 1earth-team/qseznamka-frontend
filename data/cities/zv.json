@@ -1,82 +1,92 @@
 [
   {
     "name": "Zvěstov",
-    "lat": "49.6327",
-    "lon": "14.7921"
+    "lat": 49.6327,
+    "lon": 14.7921
   },
   {
     "name": "Zvoleněves",
-    "lat": "50.2312",
-    "lon": "14.1822"
+    "lat": 50.2312,
+    "lon": 14.1822
   },
   {
     "name": "Zvěřínek",
-    "lat": "50.1532",
-    "lon": "15.0057"
+    "lat": 50.1532,
+    "lon": 15.0057
   },
   {
     "name": "Zvánovice",
-    "lat": "49.9324",
-    "lon": "14.7784"
-  },
-  {
-    "name": "Zvole",
-    "lat": "49.4944",
-    "lon": "16.1748"
-  },
-  {
-    "name": "Zvíkov",
-    "lat": "48.9808",
-    "lon": "14.6169"
-  },
-  {
-    "name": "Zvíkov",
-    "lat": "48.9808",
-    "lon": "14.6169"
+    "lat": 49.9324,
+    "lon": 14.7784
   },
   {
     "name": "Zvíkovské Podhradí",
-    "lat": "49.4266",
-    "lon": "14.2006"
+    "lat": 49.4266,
+    "lon": 14.2006
   },
   {
     "name": "Zvotoky",
-    "lat": "49.2124",
-    "lon": "13.7577"
+    "lat": 49.2124,
+    "lon": 13.7577
   },
   {
     "name": "Zvěrotice",
-    "lat": "49.2721",
-    "lon": "14.7447"
+    "lat": 49.2721,
+    "lon": 14.7447
   },
   {
     "name": "Zvíkovec",
-    "lat": "49.9543",
-    "lon": "13.6881"
+    "lat": 49.9543,
+    "lon": 13.6881
   },
   {
     "name": "Zvěstovice",
-    "lat": "49.8481",
-    "lon": "15.5126"
+    "lat": 49.8481,
+    "lon": 15.5126
   },
   {
     "name": "Zvolenovice",
-    "lat": "49.1634",
-    "lon": "15.5056"
+    "lat": 49.1634,
+    "lon": 15.5056
   },
   {
     "name": "Zvěrkovice",
-    "lat": "49.0255",
-    "lon": "15.8632"
+    "lat": 49.0255,
+    "lon": 15.8632
   },
   {
-    "name": "Zvole",
-    "lat": "49.4944",
-    "lon": "16.1748"
+    "name": "Zvole (Šumperk)",
+    "lat": 49.8398,
+    "lon": 16.9143
   },
   {
-    "name": "Zvole",
-    "lat": "49.4944",
-    "lon": "16.1748"
+    "name": "Zvole (Žďár nad Sázavou)",
+    "lat": 49.4944,
+    "lon": 16.1748
+  },
+  {
+    "name": "Zvole (Praha-západ)",
+    "lat": 49.9348,
+    "lon": 14.4175
+  },
+  {
+    "name": "Zvíkov (České Budějovice)",
+    "lat": 48.9808,
+    "lon": 14.6169
+  },
+  {
+    "name": "Zvíkov (Český Krumlov)",
+    "lat": 48.8025,
+    "lon": 14.4488
+  },
+  {
+    "name": "Zvíkov (Hradec Králové)",
+    "lat": 50.2117,
+    "lon": 15.6084
+  },
+  {
+    "name": "Zvíkov (Klatovy)",
+    "lat": 49.2209,
+    "lon": 13.3822
   }
 ]

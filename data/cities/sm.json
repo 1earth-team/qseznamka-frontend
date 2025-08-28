@@ -1,102 +1,122 @@
 [
   {
     "name": "Smilkov",
-    "lat": "49.6025",
-    "lon": "14.6174"
+    "lat": 49.6025,
+    "lon": 14.6174
   },
   {
     "name": "Smečno",
-    "lat": "50.1884",
-    "lon": "14.0404"
-  },
-  {
-    "name": "Smilovice",
-    "lat": "50.3065",
-    "lon": "14.9610"
+    "lat": 50.1884,
+    "lon": 14.0404
   },
   {
     "name": "Smolotely",
-    "lat": "49.6206",
-    "lon": "14.1356"
-  },
-  {
-    "name": "Smilovice",
-    "lat": "50.3065",
-    "lon": "14.9610"
-  },
-  {
-    "name": "Smržov",
-    "lat": "49.0761",
-    "lon": "14.6824"
+    "lat": 49.6206,
+    "lon": 14.1356
   },
   {
     "name": "Smetanova Lhota",
-    "lat": "49.4476",
-    "lon": "14.0872"
+    "lat": 49.4476,
+    "lon": 14.0872
   },
   {
     "name": "Smilovy Hory",
-    "lat": "49.5364",
-    "lon": "14.8759"
+    "lat": 49.5364,
+    "lon": 14.8759
   },
   {
     "name": "Smolné Pece",
-    "lat": "50.2915",
-    "lon": "12.7653"
+    "lat": 50.2915,
+    "lon": 12.7653
   },
   {
     "name": "Smědčice",
-    "lat": "49.7989",
-    "lon": "13.5125"
+    "lat": 49.7989,
+    "lon": 13.5125
   },
   {
     "name": "Smržovka",
-    "lat": "50.7385",
-    "lon": "15.2463"
+    "lat": 50.7385,
+    "lon": 15.2463
   },
   {
     "name": "Smolnice",
-    "lat": "50.3087",
-    "lon": "13.8485"
+    "lat": 50.3087,
+    "lon": 13.8485
   },
   {
     "name": "Smidary",
-    "lat": "50.2915",
-    "lon": "15.4772"
+    "lat": 50.2915,
+    "lon": 15.4772
   },
   {
     "name": "Smiřice",
-    "lat": "50.2996",
-    "lon": "15.8646"
-  },
-  {
-    "name": "Smržov",
-    "lat": "49.0761",
-    "lon": "14.6824"
+    "lat": 50.2996,
+    "lon": 15.8646
   },
   {
     "name": "Smrček",
-    "lat": "49.8684",
-    "lon": "15.8933"
+    "lat": 49.8684,
+    "lon": 15.8933
   },
   {
     "name": "Smrčná",
-    "lat": "49.4714",
-    "lon": "15.5379"
+    "lat": 49.4714,
+    "lon": 15.5379
   },
   {
     "name": "Smržice",
-    "lat": "49.5057",
-    "lon": "17.1069"
+    "lat": 49.5057,
+    "lon": 17.1069
   },
   {
     "name": "Smrk",
-    "lat": "49.2256",
-    "lon": "16.0019"
+    "lat": 49.2256,
+    "lon": 16.0019
   },
   {
-    "name": "Smilovice",
-    "lat": "50.3065",
-    "lon": "14.9610"
+    "name": "Smilovice (Mladá Boleslav)",
+    "lat": 50.3065,
+    "lon": 14.961
+  },
+  {
+    "name": "Smilovice (Rakovník)",
+    "lat": 50.2469,
+    "lon": 13.8077
+  },
+  {
+    "name": "Smilovice (Frýdek-Místek)",
+    "lat": 49.6608,
+    "lon": 18.5718
+  },
+  {
+    "name": "Smilovice (České Budějovice)",
+    "lat": 49.2306,
+    "lon": 14.4832
+  },
+  {
+    "name": "Smilovice (Kutná Hora)",
+    "lat": 49.8695,
+    "lon": 14.9895
+  },
+  {
+    "name": "Smilovice (Příbram)",
+    "lat": 49.7274,
+    "lon": 14.3595
+  },
+  {
+    "name": "Smržov (Jindřichův Hradec)",
+    "lat": 49.0761,
+    "lon": 14.6824
+  },
+  {
+    "name": "Smržov (Hradec Králové)",
+    "lat": 50.2997,
+    "lon": 15.9178
+  },
+  {
+    "name": "Smržov (Liberec)",
+    "lat": 50.669,
+    "lon": 14.9521
   }
 ]

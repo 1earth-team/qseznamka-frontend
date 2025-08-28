@@ -1,97 +1,132 @@
 [
   {
-    "name": "Dlouhá Lhota",
-    "lat": "49.7211",
-    "lon": "14.1208"
-  },
-  {
     "name": "Dlouhopolsko",
-    "lat": "50.1752",
-    "lon": "15.3061"
-  },
-  {
-    "name": "Dlouhá Lhota",
-    "lat": "49.7211",
-    "lon": "14.1208"
-  },
-  {
-    "name": "Dlouhá Lhota",
-    "lat": "49.7211",
-    "lon": "14.1208"
+    "lat": 50.1752,
+    "lon": 15.3061
   },
   {
     "name": "Dlažov",
-    "lat": "49.3657",
-    "lon": "13.1663"
-  },
-  {
-    "name": "Dlouhá Ves",
-    "lat": "49.5787",
-    "lon": "15.6746"
+    "lat": 49.3657,
+    "lon": 13.1663
   },
   {
     "name": "Dlouhý Újezd",
-    "lat": "49.7683",
-    "lon": "12.6285"
+    "lat": 49.7683,
+    "lon": 12.6285
   },
   {
     "name": "Dlouhý Most",
-    "lat": "50.7107",
-    "lon": "15.0769"
+    "lat": 50.7107,
+    "lon": 15.0769
   },
   {
     "name": "Dlažkovice",
-    "lat": "50.4655",
-    "lon": "13.9649"
-  },
-  {
-    "name": "Dlouhá Ves",
-    "lat": "49.5787",
-    "lon": "15.6746"
-  },
-  {
-    "name": "Dlouhá Loučka",
-    "lat": "49.7008",
-    "lon": "16.6413"
+    "lat": 50.4655,
+    "lon": 13.9649
   },
   {
     "name": "Dlouhá Třebová",
-    "lat": "49.9404",
-    "lon": "16.4233"
+    "lat": 49.9404,
+    "lon": 16.4233
   },
   {
     "name": "Dlouhoňovice",
-    "lat": "50.0702",
-    "lon": "16.4415"
-  },
-  {
-    "name": "Dlouhá Lhota",
-    "lat": "49.7211",
-    "lon": "14.1208"
+    "lat": 50.0702,
+    "lon": 16.4415
   },
   {
     "name": "Dlouhá Brtnice",
-    "lat": "49.2361",
-    "lon": "15.6052"
+    "lat": 49.2361,
+    "lon": 15.6052
   },
   {
     "name": "Dlouhé",
-    "lat": "49.5090",
-    "lon": "16.1230"
+    "lat": 49.509,
+    "lon": 16.123
   },
   {
     "name": "Dlouhá Stráň",
-    "lat": "49.9600",
-    "lon": "17.5008"
-  },
-  {
-    "name": "Dlouhá Loučka",
-    "lat": "49.7008",
-    "lon": "16.6413"
+    "lat": 49.96,
+    "lon": 17.5008
   },
   {
     "name": "Dlouhomilov",
-    "lat": "49.9069",
-    "lon": "16.9913"
+    "lat": 49.9069,
+    "lon": 16.9913
+  },
+  {
+    "name": "Dlouhá Lhota (Příbram)",
+    "lat": 49.7211,
+    "lon": 14.1208
+  },
+  {
+    "name": "Dlouhá Lhota (Mladá Boleslav)",
+    "lat": 50.4201,
+    "lon": 15.0541
+  },
+  {
+    "name": "Dlouhá Lhota (Blansko)",
+    "lat": 49.4287,
+    "lon": 16.5098
+  },
+  {
+    "name": "Dlouhá Lhota (Tábor)",
+    "lat": 49.3523,
+    "lon": 14.7892
+  },
+  {
+    "name": "Dlouhá Lhota (Benešov)",
+    "lat": 49.7407,
+    "lon": 14.5942
+  },
+  {
+    "name": "Dlouhá Ves (Havlíčkův Brod)",
+    "lat": 49.5787,
+    "lon": 15.6746
+  },
+  {
+    "name": "Dlouhá Ves (Klatovy)",
+    "lat": 49.1963,
+    "lon": 13.5093
+  },
+  {
+    "name": "Dlouhá Ves (Bruntál)",
+    "lat": 50.1384,
+    "lon": 17.4887
+  },
+  {
+    "name": "Dlouhá Ves (Prostějov)",
+    "lat": 49.3337,
+    "lon": 17.2296
+  },
+  {
+    "name": "Dlouhá Ves (Strakonice)",
+    "lat": 49.1071,
+    "lon": 14.1413
+  },
+  {
+    "name": "Dlouhá Ves (Šumperk)",
+    "lat": 49.8288,
+    "lon": 16.7951
+  },
+  {
+    "name": "Dlouhá Ves (Semily)",
+    "lat": 50.5219,
+    "lon": 15.2396
+  },
+  {
+    "name": "Dlouhá Ves (Rychnov nad Kněžnou)",
+    "lat": 50.1482,
+    "lon": 16.2992
+  },
+  {
+    "name": "Dlouhá Loučka (Svitavy)",
+    "lat": 49.7008,
+    "lon": 16.6413
+  },
+  {
+    "name": "Dlouhá Loučka (Olomouc)",
+    "lat": 49.8161,
+    "lon": 17.1786
   }
 ]

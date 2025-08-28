@@ -1,297 +1,332 @@
 [
   {
     "name": "Slověnice",
-    "lat": "49.7573",
-    "lon": "14.8851"
+    "lat": 49.7573,
+    "lon": 14.8851
   },
   {
     "name": "Slaný",
-    "lat": "50.2307",
-    "lon": "14.0869"
-  },
-  {
-    "name": "Slatina",
-    "lat": "49.6296",
-    "lon": "16.6078"
+    "lat": 50.2307,
+    "lon": 14.0869
   },
   {
     "name": "Slavošov",
-    "lat": "49.7622",
-    "lon": "15.1520"
+    "lat": 49.7622,
+    "lon": 15.152
   },
   {
     "name": "Sloveč",
-    "lat": "50.2298",
-    "lon": "15.3269"
+    "lat": 50.2298,
+    "lon": 15.3269
   },
   {
     "name": "Sluhy",
-    "lat": "50.1924",
-    "lon": "14.5577"
+    "lat": 50.1924,
+    "lon": 14.5577
   },
   {
     "name": "Sluštice",
-    "lat": "50.0391",
-    "lon": "14.6855"
-  },
-  {
-    "name": "Slapy",
-    "lat": "49.8153",
-    "lon": "14.3961"
+    "lat": 50.0391,
+    "lon": 14.6855
   },
   {
     "name": "Slabce",
-    "lat": "49.9997",
-    "lon": "13.7126"
+    "lat": 49.9997,
+    "lon": 13.7126
   },
   {
     "name": "Slavče",
-    "lat": "48.7978",
-    "lon": "14.6150"
+    "lat": 48.7978,
+    "lon": 14.615
   },
   {
     "name": "Slavonice",
-    "lat": "48.9975",
-    "lon": "15.3515"
+    "lat": 48.9975,
+    "lon": 15.3515
   },
   {
     "name": "Slabčice",
-    "lat": "49.3265",
-    "lon": "14.3379"
+    "lat": 49.3265,
+    "lon": 14.3379
   },
   {
     "name": "Slaník",
-    "lat": "49.2683",
-    "lon": "13.9516"
+    "lat": 49.2683,
+    "lon": 13.9516
   },
   {
     "name": "Slapsko",
-    "lat": "49.5747",
-    "lon": "14.7627"
-  },
-  {
-    "name": "Slapy",
-    "lat": "49.8153",
-    "lon": "14.3961"
-  },
-  {
-    "name": "Slatina",
-    "lat": "49.6296",
-    "lon": "16.6078"
-  },
-  {
-    "name": "Slatina",
-    "lat": "49.6296",
-    "lon": "16.6078"
-  },
-  {
-    "name": "Sloup v Čechách",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Slunečná",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Slatina",
-    "lat": "49.6296",
-    "lon": "16.6078"
-  },
-  {
-    "name": "Slavětín",
-    "lat": "49.6728",
-    "lon": "16.9652"
-  },
-  {
-    "name": "Slavětín",
-    "lat": "49.6728",
-    "lon": "16.9652"
+    "lat": 49.5747,
+    "lon": 14.7627
   },
   {
     "name": "Slavíkov",
-    "lat": "49.7428",
-    "lon": "15.7807"
+    "lat": 49.7428,
+    "lon": 15.7807
   },
   {
     "name": "Slavníč",
-    "lat": "49.5147",
-    "lon": "15.4523"
-  },
-  {
-    "name": "Sloupno",
-    "lat": "49.7370",
-    "lon": "15.7505"
+    "lat": 49.5147,
+    "lon": 15.4523
   },
   {
     "name": "Služátky",
-    "lat": "49.6849",
-    "lon": "15.4314"
-  },
-  {
-    "name": "Sloupno",
-    "lat": "49.7370",
-    "lon": "15.7505"
+    "lat": 49.6849,
+    "lon": 15.4314
   },
   {
     "name": "Slatiňany",
-    "lat": "49.9212",
-    "lon": "15.8133"
+    "lat": 49.9212,
+    "lon": 15.8133
   },
   {
     "name": "Slatiny",
-    "lat": "50.3668",
-    "lon": "15.3814"
+    "lat": 50.3668,
+    "lon": 15.3814
   },
   {
     "name": "Slavhostice",
-    "lat": "50.3088",
-    "lon": "15.3494"
+    "lat": 50.3088,
+    "lon": 15.3494
   },
   {
     "name": "Slatina nad Úpou",
-    "lat": "50.4542",
-    "lon": "16.0383"
+    "lat": 50.4542,
+    "lon": 16.0383
   },
   {
     "name": "Slavětín nad Metují",
-    "lat": "50.3289",
-    "lon": "16.0529"
+    "lat": 50.3289,
+    "lon": 16.0529
   },
   {
     "name": "Slavoňov",
-    "lat": "50.3438",
-    "lon": "16.2039"
+    "lat": 50.3438,
+    "lon": 16.2039
   },
   {
     "name": "Slepotice",
-    "lat": "49.9921",
-    "lon": "15.9613"
+    "lat": 49.9921,
+    "lon": 15.9613
   },
   {
     "name": "Slatina nad Zdobnicí",
-    "lat": "50.1338",
-    "lon": "16.3979"
+    "lat": 50.1338,
+    "lon": 16.3979
   },
   {
     "name": "Slaná",
-    "lat": "50.5808",
-    "lon": "15.3297"
-  },
-  {
-    "name": "Slatina",
-    "lat": "49.6296",
-    "lon": "16.6078"
+    "lat": 50.5808,
+    "lon": 15.3297
   },
   {
     "name": "Sloupnice",
-    "lat": "49.9216",
-    "lon": "16.3394"
-  },
-  {
-    "name": "Slatina",
-    "lat": "49.6296",
-    "lon": "16.6078"
+    "lat": 49.9216,
+    "lon": 16.3394
   },
   {
     "name": "Sloup",
-    "lat": "49.4149",
-    "lon": "16.7396"
+    "lat": 49.4149,
+    "lon": 16.7396
   },
   {
     "name": "Slavičín",
-    "lat": "49.0890",
-    "lon": "17.8748"
+    "lat": 49.089,
+    "lon": 17.8748
   },
   {
     "name": "Slopné",
-    "lat": "49.1567",
-    "lon": "17.8470"
+    "lat": 49.1567,
+    "lon": 17.847
   },
   {
     "name": "Slušovice",
-    "lat": "49.2479",
-    "lon": "17.8012"
+    "lat": 49.2479,
+    "lon": 17.8012
   },
   {
     "name": "Slavkov pod Hostýnem",
-    "lat": "49.3770",
-    "lon": "17.6700"
+    "lat": 49.377,
+    "lon": 17.67
   },
   {
     "name": "Slatinky",
-    "lat": "49.5487",
-    "lon": "17.0940"
+    "lat": 49.5487,
+    "lon": 17.094
   },
   {
     "name": "Slavětice",
-    "lat": "49.1036",
-    "lon": "16.1089"
+    "lat": 49.1036,
+    "lon": 16.1089
   },
   {
     "name": "Slavičky",
-    "lat": "49.1748",
-    "lon": "15.9679"
+    "lat": 49.1748,
+    "lon": 15.9679
   },
   {
     "name": "Slavíkovice",
-    "lat": "49.0043",
-    "lon": "15.6244"
-  },
-  {
-    "name": "Slavkov",
-    "lat": "48.9468",
-    "lon": "17.6117"
+    "lat": 49.0043,
+    "lon": 15.6244
   },
   {
     "name": "Slavkov u Brna",
-    "lat": "49.1536",
-    "lon": "16.8764"
-  },
-  {
-    "name": "Slatina",
-    "lat": "49.6296",
-    "lon": "16.6078"
+    "lat": 49.1536,
+    "lon": 16.8764
   },
   {
     "name": "Slup",
-    "lat": "48.7815",
-    "lon": "16.1992"
+    "lat": 48.7815,
+    "lon": 16.1992
   },
   {
     "name": "Slezské Pavlovice",
-    "lat": "50.3100",
-    "lon": "17.7018"
+    "lat": 50.31,
+    "lon": 17.7018
   },
   {
     "name": "Slezské Rudoltice",
-    "lat": "50.2047",
-    "lon": "17.6892"
-  },
-  {
-    "name": "Slatina",
-    "lat": "49.6296",
-    "lon": "16.6078"
+    "lat": 50.2047,
+    "lon": 17.6892
   },
   {
     "name": "Slatinice",
-    "lat": "49.5616",
-    "lon": "17.0999"
+    "lat": 49.5616,
+    "lon": 17.0999
   },
   {
-    "name": "Slavětín",
-    "lat": "49.6728",
-    "lon": "16.9652"
+    "name": "Slatina (Svitavy)",
+    "lat": 49.6296,
+    "lon": 16.6078
   },
   {
-    "name": "Slavkov",
-    "lat": "",
-    "lon": ""
+    "name": "Slatina (Ústí nad Orlicí)",
+    "lat": 49.9786,
+    "lon": 16.159
+  },
+  {
+    "name": "Slatina (Plzeň-sever)",
+    "lat": 49.9845,
+    "lon": 13.6339
+  },
+  {
+    "name": "Slatina (Litoměřice)",
+    "lat": 50.4309,
+    "lon": 14.0375
+  },
+  {
+    "name": "Slatina (Znojmo)",
+    "lat": 49.0196,
+    "lon": 16.0183
+  },
+  {
+    "name": "Slatina (Klatovy)",
+    "lat": 49.3878,
+    "lon": 13.7442
+  },
+  {
+    "name": "Slatina (Rychnov nad Kněžnou)",
+    "lat": 50.1338,
+    "lon": 16.3979
+  },
+  {
+    "name": "Slatina (Kladno)",
+    "lat": 50.2242,
+    "lon": 14.2207
+  },
+  {
+    "name": "Slatina (Nový Jičín)",
+    "lat": 49.7928,
+    "lon": 17.9807
+  },
+  {
+    "name": "Slapy (Praha-západ)",
+    "lat": 49.8153,
+    "lon": 14.3961
+  },
+  {
+    "name": "Slapy (Tábor)",
+    "lat": 49.387,
+    "lon": 14.6168
+  },
+  {
+    "name": "Slapy (Jablonec nad Nisou)",
+    "lat": 50.6237,
+    "lon": 15.1656
+  },
+  {
+    "name": "Slavětín (Olomouc)",
+    "lat": 49.6728,
+    "lon": 16.9652
+  },
+  {
+    "name": "Slavětín (Havlíčkův Brod)",
+    "lat": 49.6686,
+    "lon": 15.7728
+  },
+  {
+    "name": "Slavětín (Louny)",
+    "lat": 50.3506,
+    "lon": 13.9077
+  },
+  {
+    "name": "Slavětín (Jindřichův Hradec)",
+    "lat": 48.9831,
+    "lon": 15.3964
+  },
+  {
+    "name": "Slavětín (Příbram)",
+    "lat": 49.5267,
+    "lon": 13.8927
+  },
+  {
+    "name": "Sloupno (Havlíčkův Brod)",
+    "lat": 49.737,
+    "lon": 15.7505
+  },
+  {
+    "name": "Sloupno (Hradec Králové)",
+    "lat": 50.2573,
+    "lon": 15.502
+  },
+  {
+    "name": "Slavkov (Uherské Hradiště)",
+    "lat": 48.9468,
+    "lon": 17.6117
+  },
+  {
+    "name": "Slavkov (Opava)",
+    "lat": 49.9218,
+    "lon": 17.8364
+  },
+  {
+    "name": "Slavkov (Olomouc)",
+    "lat": 49.5844,
+    "lon": 17.5652
+  },
+  {
+    "name": "Slavkov (Český Krumlov)",
+    "lat": 48.7643,
+    "lon": 14.2429
+  },
+  {
+    "name": "Slavkov (Benešov)",
+    "lat": 49.6773,
+    "lon": 14.6011
+  },
+  {
+    "name": "Sloup v Čechách",
+    "lat": 50.7392237,
+    "lon": 14.5885149
+  },
+  {
+    "name": "Slunečná",
+    "lat": 50.7357721,
+    "lon": 14.4824815
   },
   {
     "name": "Služovice",
-    "lat": "",
-    "lon": ""
+    "lat": 49.9884688,
+    "lon": 17.9950202
   }
 ]

@@ -1,82 +1,97 @@
 [
   {
     "name": "Okřesaneč",
-    "lat": "49.8524",
-    "lon": "15.4757"
+    "lat": 49.8524,
+    "lon": 15.4757
   },
   {
     "name": "Okřínek",
-    "lat": "50.1643",
-    "lon": "15.1923"
+    "lat": 50.1643,
+    "lon": 15.1923
   },
   {
     "name": "Okoř",
-    "lat": "50.1618",
-    "lon": "14.2589"
+    "lat": 50.1618,
+    "lon": 14.2589
   },
   {
     "name": "Okrouhlo",
-    "lat": "49.9188",
-    "lon": "14.4472"
+    "lat": 49.9188,
+    "lon": 14.4472
   },
   {
     "name": "Okrouhlá Radouň",
-    "lat": "49.2399",
-    "lon": "15.0167"
-  },
-  {
-    "name": "Okrouhlá",
-    "lat": "49.5075",
-    "lon": "16.7320"
-  },
-  {
-    "name": "Okrouhlá",
-    "lat": "49.5075",
-    "lon": "16.7320"
+    "lat": 49.2399,
+    "lon": 15.0167
   },
   {
     "name": "Okna",
-    "lat": "50.5275",
-    "lon": "14.6710"
-  },
-  {
-    "name": "Okrouhlá",
-    "lat": "49.5075",
-    "lon": "16.7320"
+    "lat": 50.5275,
+    "lon": 14.671
   },
   {
     "name": "Okounov",
-    "lat": "50.3622",
-    "lon": "13.1066"
+    "lat": 50.3622,
+    "lon": 13.1066
   },
   {
     "name": "Okrouhlice",
-    "lat": "49.6299",
-    "lon": "15.4908"
+    "lat": 49.6299,
+    "lon": 15.4908
   },
   {
     "name": "Okrouhlička",
-    "lat": "49.5344",
-    "lon": "15.5569"
-  },
-  {
-    "name": "Okrouhlá",
-    "lat": "49.5075",
-    "lon": "16.7320"
+    "lat": 49.5344,
+    "lon": 15.5569
   },
   {
     "name": "Okarec",
-    "lat": "49.2060",
-    "lon": "16.0879"
+    "lat": 49.206,
+    "lon": 16.0879
   },
   {
     "name": "Okřešice",
-    "lat": "49.2592",
-    "lon": "15.8517"
+    "lat": 49.2592,
+    "lon": 15.8517
   },
   {
     "name": "Okříšky",
-    "lat": "49.2455",
-    "lon": "15.7692"
+    "lat": 49.2455,
+    "lon": 15.7692
+  },
+  {
+    "name": "Okrouhlá (Česká Lípa)",
+    "lat": 50.7668,
+    "lon": 14.5276
+  },
+  {
+    "name": "Okrouhlá (Cheb)",
+    "lat": 50.0624,
+    "lon": 12.4877
+  },
+  {
+    "name": "Okrouhlá (Blansko)",
+    "lat": 49.5075,
+    "lon": 16.732
+  },
+  {
+    "name": "Okrouhlá (Písek)",
+    "lat": 49.4136,
+    "lon": 14.3643
+  },
+  {
+    "name": "Okrouhlá (Bruntál)",
+    "lat": 50.1896,
+    "lon": 17.3672
+  },
+  {
+    "name": "Okrouhlá (Uherské Hradiště)",
+    "lat": 49.0716,
+    "lon": 17.7352
+  },
+  {
+    "name": "Okrouhlá (Vsetín)",
+    "lat": 49.3562,
+    "lon": 18.1277
   }
 ]

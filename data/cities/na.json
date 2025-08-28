@@ -1,87 +1,87 @@
 [
   {
     "name": "Načeradec",
-    "lat": "49.6103",
-    "lon": "14.9060"
-  },
-  {
-    "name": "Nalžovice",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Narysov",
-    "lat": "",
-    "lon": ""
+    "lat": 49.6103,
+    "lon": 14.906
   },
   {
     "name": "Nadějkov",
-    "lat": "49.5027",
-    "lon": "14.4792"
-  },
-  {
-    "name": "Nasavrky",
-    "lat": "49.8444",
-    "lon": "15.8024"
+    "lat": 49.5027,
+    "lon": 14.4792
   },
   {
     "name": "Nalžovské Hory",
-    "lat": "49.3336",
-    "lon": "13.5496"
+    "lat": 49.3336,
+    "lon": 13.5496
   },
   {
     "name": "Nadryby",
-    "lat": "49.8207",
-    "lon": "13.5245"
+    "lat": 49.8207,
+    "lon": 13.5245
   },
   {
     "name": "Nabočany",
-    "lat": "49.9438",
-    "lon": "15.8869"
+    "lat": 49.9438,
+    "lon": 15.8869
   },
   {
     "name": "Načešice",
-    "lat": "49.9413",
-    "lon": "15.6288"
-  },
-  {
-    "name": "Nasavrky",
-    "lat": "49.8444",
-    "lon": "15.8024"
+    "lat": 49.9413,
+    "lon": 15.6288
   },
   {
     "name": "Nahořany",
-    "lat": "50.3520",
-    "lon": "16.0827"
-  },
-  {
-    "name": "Nasavrky",
-    "lat": "49.8444",
-    "lon": "15.8024"
+    "lat": 50.352,
+    "lon": 16.0827
   },
   {
     "name": "Napajedla",
-    "lat": "49.1716",
-    "lon": "17.5114"
+    "lat": 49.1716,
+    "lon": 17.5114
   },
   {
     "name": "Nadějov",
-    "lat": "49.4221",
-    "lon": "15.7733"
+    "lat": 49.4221,
+    "lon": 15.7733
   },
   {
     "name": "Naloučany",
-    "lat": "49.2330",
-    "lon": "16.1352"
+    "lat": 49.233,
+    "lon": 16.1352
   },
   {
     "name": "Našiměřice",
-    "lat": "48.9685",
-    "lon": "16.3728"
+    "lat": 48.9685,
+    "lon": 16.3728
   },
   {
     "name": "Nahošovice",
-    "lat": "49.4375",
-    "lon": "17.5782"
+    "lat": 49.4375,
+    "lon": 17.5782
+  },
+  {
+    "name": "Nasavrky (Chrudim)",
+    "lat": 49.8444,
+    "lon": 15.8024
+  },
+  {
+    "name": "Nasavrky (Ústí nad Orlicí)",
+    "lat": 50.0255,
+    "lon": 16.2591
+  },
+  {
+    "name": "Nasavrky (Tábor)",
+    "lat": 49.452,
+    "lon": 14.6406
+  },
+  {
+    "name": "Nalžovice",
+    "lat": 49.6985855,
+    "lon": 14.3707468
+  },
+  {
+    "name": "Narysov",
+    "lat": 49.6408488,
+    "lon": 13.970881
   }
 ]

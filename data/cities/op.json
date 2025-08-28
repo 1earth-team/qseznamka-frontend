@@ -1,97 +1,137 @@
 [
   {
     "name": "Opatovice I",
-    "lat": "49.8551",
-    "lon": "15.2485"
+    "lat": 49.8551,
+    "lon": 15.2485
   },
   {
     "name": "Opočnice",
-    "lat": "50.1725",
-    "lon": "15.2577"
+    "lat": 50.1725,
+    "lon": 15.2577
   },
   {
     "name": "Opolany",
-    "lat": "50.1307",
-    "lon": "15.2170"
+    "lat": 50.1307,
+    "lon": 15.217
   },
   {
     "name": "Oplany",
-    "lat": "49.9242",
-    "lon": "14.8673"
+    "lat": 49.9242,
+    "lon": 14.8673
   },
   {
     "name": "Opařany",
-    "lat": "49.3970",
-    "lon": "14.4811"
+    "lat": 49.397,
+    "lon": 14.4811
   },
   {
     "name": "Oplot",
-    "lat": "49.5799",
-    "lon": "13.2742"
-  },
-  {
-    "name": "Opočno",
-    "lat": "50.2677",
-    "lon": "16.1145"
+    "lat": 49.5799,
+    "lon": 13.2742
   },
   {
     "name": "Opatovice nad Labem",
-    "lat": "50.1455",
-    "lon": "15.7904"
-  },
-  {
-    "name": "Opočno",
-    "lat": "50.2677",
-    "lon": "16.1145"
-  },
-  {
-    "name": "Opatov",
-    "lat": "49.2243",
-    "lon": "15.6617"
+    "lat": 50.1455,
+    "lon": 15.7904
   },
   {
     "name": "Opatovec",
-    "lat": "49.8053",
-    "lon": "16.4801"
-  },
-  {
-    "name": "Opatovice",
-    "lat": "49.0755",
-    "lon": "16.6409"
-  },
-  {
-    "name": "Opatov",
-    "lat": "49.2243",
-    "lon": "15.6617"
-  },
-  {
-    "name": "Opatov",
-    "lat": "",
-    "lon": ""
+    "lat": 49.8053,
+    "lon": 16.4801
   },
   {
     "name": "Oponešice",
-    "lat": "49.0377",
-    "lon": "15.6520"
-  },
-  {
-    "name": "Opava",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Opatovice",
-    "lat": "49.0755",
-    "lon": "16.6409"
+    "lat": 49.0377,
+    "lon": 15.652
   },
   {
     "name": "Oplocany",
-    "lat": "49.4096",
-    "lon": "17.2602"
+    "lat": 49.4096,
+    "lon": 17.2602
   },
   {
     "name": "Oprostovice",
-    "lat": "49.4698",
-    "lon": "17.6205"
+    "lat": 49.4698,
+    "lon": 17.6205
+  },
+  {
+    "name": "Opočno (Rychnov nad Kněžnou)",
+    "lat": 50.2677,
+    "lon": 16.1145
+  },
+  {
+    "name": "Opočno (Louny)",
+    "lat": 50.3115,
+    "lon": 13.7352
+  },
+  {
+    "name": "Opočno (Pardubice)",
+    "lat": 49.9848,
+    "lon": 16.0444
+  },
+  {
+    "name": "Opatov (Svitavy)",
+    "lat": 49.8249,
+    "lon": 16.5046
+  },
+  {
+    "name": "Opatov (Třebíč)",
+    "lat": 49.2243,
+    "lon": 15.6617
+  },
+  {
+    "name": "Opatov (Jihlava)",
+    "lat": 49.4291,
+    "lon": 15.3934
+  },
+  {
+    "name": "Opatov (Hradec Králové)",
+    "lat": 50.2544,
+    "lon": 15.5792
+  },
+  {
+    "name": "Opatov (Cheb)",
+    "lat": 50.2551,
+    "lon": 12.4221
+  },
+  {
+    "name": "Opatovice (Brno-venkov)",
+    "lat": 49.0755,
+    "lon": 16.6409
+  },
+  {
+    "name": "Opatovice (Přerov)",
+    "lat": 49.4992,
+    "lon": 17.7388
+  },
+  {
+    "name": "Opatovice (Vyškov)",
+    "lat": 49.303,
+    "lon": 16.9549
+  },
+  {
+    "name": "Opatovice (Havlíčkův Brod)",
+    "lat": 49.701,
+    "lon": 15.3568
+  },
+  {
+    "name": "Opatovice (České Budějovice)",
+    "lat": 49.0346,
+    "lon": 14.4498
+  },
+  {
+    "name": "Opatovice (Kolín)",
+    "lat": 49.9668,
+    "lon": 15.1947
+  },
+  {
+    "name": "Opatovice (Kutná Hora)",
+    "lat": 49.8253,
+    "lon": 15.3495
+  },
+  {
+    "name": "Opava",
+    "lat": 49.9389004,
+    "lon": 17.9024174
   }
 ]

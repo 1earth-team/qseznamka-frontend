@@ -1,297 +1,327 @@
 [
   {
-    "name": "Ostrov",
-    "lat": "49.6655",
-    "lon": "14.8523"
-  },
-  {
     "name": "Ostředek",
-    "lat": "49.8348",
-    "lon": "14.8323"
-  },
-  {
-    "name": "Osek",
-    "lat": "49.3182",
-    "lon": "13.9636"
+    "lat": 49.8348,
+    "lon": 14.8323
   },
   {
     "name": "Osov",
-    "lat": "49.8444",
-    "lon": "14.0839"
+    "lat": 49.8444,
+    "lon": 14.0839
   },
   {
     "name": "Oseček",
-    "lat": "50.1013",
-    "lon": "15.1465"
+    "lat": 50.1013,
+    "lon": 15.1465
   },
   {
     "name": "Oskořínek",
-    "lat": "50.2401",
-    "lon": "15.0840"
+    "lat": 50.2401,
+    "lon": 15.084
   },
   {
     "name": "Ostrá",
-    "lat": "50.1805",
-    "lon": "14.8928"
+    "lat": 50.1805,
+    "lon": 14.8928
   },
   {
     "name": "Osečany",
-    "lat": "49.6977",
-    "lon": "14.4376"
-  },
-  {
-    "name": "Ostrov",
-    "lat": "49.6655",
-    "lon": "14.8523"
+    "lat": 49.6977,
+    "lon": 14.4376
   },
   {
     "name": "Ostrolovský Újezd",
-    "lat": "48.8806",
-    "lon": "14.6006"
-  },
-  {
-    "name": "Osek",
-    "lat": "49.3182",
-    "lon": "13.9636"
+    "lat": 48.8806,
+    "lon": 14.6006
   },
   {
     "name": "Oslov",
-    "lat": "49.3994",
-    "lon": "14.2118"
+    "lat": 49.3994,
+    "lon": 14.2118
   },
   {
     "name": "Ostrovec",
-    "lat": "49.4209",
-    "lon": "14.1170"
-  },
-  {
-    "name": "Osek",
-    "lat": "49.3182",
-    "lon": "13.9636"
+    "lat": 49.4209,
+    "lon": 14.117
   },
   {
     "name": "Osvračín",
-    "lat": "49.5133",
-    "lon": "13.0469"
-  },
-  {
-    "name": "Ostrov",
-    "lat": "49.6655",
-    "lon": "14.8523"
+    "lat": 49.5133,
+    "lon": 13.0469
   },
   {
     "name": "Ostřetice",
-    "lat": "49.4223",
-    "lon": "13.3469"
+    "lat": 49.4223,
+    "lon": 13.3469
   },
   {
     "name": "Oselce",
-    "lat": "49.4372",
-    "lon": "13.6728"
+    "lat": 49.4372,
+    "lon": 13.6728
   },
   {
     "name": "Ostrov u Bezdružic",
-    "lat": "49.9001",
-    "lon": "13.0420"
-  },
-  {
-    "name": "Osek",
-    "lat": "49.3182",
-    "lon": "13.9636"
+    "lat": 49.9001,
+    "lon": 13.042
   },
   {
     "name": "Ostrovec-Lhotka",
-    "lat": "49.9207",
-    "lon": "13.7518"
+    "lat": 49.9207,
+    "lon": 13.7518
   },
   {
     "name": "Osečná",
-    "lat": "50.6946",
-    "lon": "14.9210"
-  },
-  {
-    "name": "Osek",
-    "lat": "49.3182",
-    "lon": "13.9636"
-  },
-  {
-    "name": "Ostrov",
-    "lat": "49.6655",
-    "lon": "14.8523"
+    "lat": 50.6946,
+    "lon": 14.921
   },
   {
     "name": "Osice",
-    "lat": "50.1428",
-    "lon": "15.6858"
+    "lat": 50.1428,
+    "lon": 15.6858
   },
   {
     "name": "Osičky",
-    "lat": "50.1435",
-    "lon": "15.6762"
-  },
-  {
-    "name": "Ostrov",
-    "lat": "49.6655",
-    "lon": "14.8523"
-  },
-  {
-    "name": "Osek",
-    "lat": "49.3182",
-    "lon": "13.9636"
+    "lat": 50.1435,
+    "lon": 15.6762
   },
   {
     "name": "Ostroměř",
-    "lat": "50.3725",
-    "lon": "15.5492"
+    "lat": 50.3725,
+    "lon": 15.5492
   },
   {
     "name": "Ostružno",
-    "lat": "50.4431",
-    "lon": "15.2898"
+    "lat": 50.4431,
+    "lon": 15.2898
   },
   {
     "name": "Ostřešany",
-    "lat": "49.9935",
-    "lon": "15.8047"
+    "lat": 49.9935,
+    "lon": 15.8047
   },
   {
     "name": "Ostřetín",
-    "lat": "50.0447",
-    "lon": "16.0303"
+    "lat": 50.0447,
+    "lon": 16.0303
   },
   {
     "name": "Osečnice",
-    "lat": "50.2572",
-    "lon": "16.3069"
+    "lat": 50.2572,
+    "lon": 16.3069
   },
   {
     "name": "Osík",
-    "lat": "49.8435",
-    "lon": "16.2847"
-  },
-  {
-    "name": "Ostrov",
-    "lat": "49.6655",
-    "lon": "14.8523"
+    "lat": 49.8435,
+    "lon": 16.2847
   },
   {
     "name": "Ostrov u Macochy",
-    "lat": "49.3823",
-    "lon": "16.7630"
+    "lat": 49.3823,
+    "lon": 16.763
   },
   {
     "name": "Osiky",
-    "lat": "49.4562",
-    "lon": "16.4216"
+    "lat": 49.4562,
+    "lon": 16.4216
   },
   {
     "name": "Oslavany",
-    "lat": "49.1236",
-    "lon": "16.3365"
+    "lat": 49.1236,
+    "lon": 16.3365
   },
   {
     "name": "Ostopovice",
-    "lat": "49.1611",
-    "lon": "16.5460"
+    "lat": 49.1611,
+    "lon": 16.546
   },
   {
     "name": "Ostrovačice",
-    "lat": "49.2111",
-    "lon": "16.4096"
+    "lat": 49.2111,
+    "lon": 16.4096
   },
   {
     "name": "Ostrata",
-    "lat": "49.2709",
-    "lon": "17.7667"
+    "lat": 49.2709,
+    "lon": 17.7667
   },
   {
     "name": "Ostrovánky",
-    "lat": "49.0427",
-    "lon": "17.0803"
+    "lat": 49.0427,
+    "lon": 17.0803
   },
   {
     "name": "Osíčko",
-    "lat": "49.4300",
-    "lon": "17.7513"
+    "lat": 49.43,
+    "lon": 17.7513
   },
   {
     "name": "Ostašov",
-    "lat": "49.1555",
-    "lon": "15.9180"
+    "lat": 49.1555,
+    "lon": 15.918
   },
   {
     "name": "Ostrožská Lhota",
-    "lat": "48.9770",
-    "lon": "17.4685"
+    "lat": 48.977,
+    "lon": 17.4685
   },
   {
     "name": "Ostrožská Nová Ves",
-    "lat": "49.0043",
-    "lon": "17.4363"
+    "lat": 49.0043,
+    "lon": 17.4363
   },
   {
     "name": "Osvětimany",
-    "lat": "49.0562",
-    "lon": "17.2504"
+    "lat": 49.0562,
+    "lon": 17.2504
   },
   {
     "name": "Oslnovice",
-    "lat": "48.9321",
-    "lon": "15.6874"
+    "lat": 48.9321,
+    "lon": 15.6874
   },
   {
     "name": "Oslavice",
-    "lat": "49.3408",
-    "lon": "15.9907"
+    "lat": 49.3408,
+    "lon": 15.9907
   },
   {
     "name": "Oslavička",
-    "lat": "49.3154",
-    "lon": "15.9668"
+    "lat": 49.3154,
+    "lon": 15.9668
   },
   {
     "name": "Osová Bítýška",
-    "lat": "49.3251",
-    "lon": "16.1681"
+    "lat": 49.3251,
+    "lon": 16.1681
   },
   {
     "name": "Osové",
-    "lat": "49.3252",
-    "lon": "16.0154"
+    "lat": 49.3252,
+    "lon": 16.0154
   },
   {
     "name": "Ostrov nad Oslavou",
-    "lat": "49.4873",
-    "lon": "15.9898"
+    "lat": 49.4873,
+    "lon": 15.9898
   },
   {
     "name": "Osoblaha",
-    "lat": "50.2752",
-    "lon": "17.7152"
+    "lat": 50.2752,
+    "lon": 17.7152
   },
   {
     "name": "Ostravice",
-    "lat": "49.5381",
-    "lon": "18.3932"
+    "lat": 49.5381,
+    "lon": 18.3932
   },
   {
     "name": "Ostrava",
-    "lat": "49.8349",
-    "lon": "18.2820"
+    "lat": 49.8349,
+    "lon": 18.282
   },
   {
     "name": "Osek nad Bečvou",
-    "lat": "49.5116",
-    "lon": "17.5282"
+    "lat": 49.5116,
+    "lon": 17.5282
   },
   {
     "name": "Oskava",
-    "lat": "49.8952",
-    "lon": "17.1321"
+    "lat": 49.8952,
+    "lon": 17.1321
   },
   {
     "name": "Ostružná",
-    "lat": "50.1850",
-    "lon": "17.0517"
+    "lat": 50.185,
+    "lon": 17.0517
+  },
+  {
+    "name": "Ostrov (Ústí nad Orlicí)",
+    "lat": 49.9302,
+    "lon": 16.5405
+  },
+  {
+    "name": "Ostrov (Chrudim)",
+    "lat": 49.9726,
+    "lon": 16.0303
+  },
+  {
+    "name": "Ostrov (Příbram)",
+    "lat": 49.6112,
+    "lon": 14.0146
+  },
+  {
+    "name": "Ostrov (Benešov)",
+    "lat": 49.6655,
+    "lon": 14.8523
+  },
+  {
+    "name": "Ostrov (Havlíčkův Brod)",
+    "lat": 49.693,
+    "lon": 15.3014
+  },
+  {
+    "name": "Ostrov (Karlovy Vary)",
+    "lat": 50.3062,
+    "lon": 12.939
+  },
+  {
+    "name": "Ostrov (Ústí nad Labem)",
+    "lat": 50.8056,
+    "lon": 14.0478
+  },
+  {
+    "name": "Ostrov (Prachatice)",
+    "lat": 49.0286,
+    "lon": 14.0086
+  },
+  {
+    "name": "Ostrov (Beroun)",
+    "lat": 49.9208,
+    "lon": 14.2108
+  },
+  {
+    "name": "Osek (Strakonice)",
+    "lat": 49.3182,
+    "lon": 13.9636
+  },
+  {
+    "name": "Osek (Beroun)",
+    "lat": 49.8196,
+    "lon": 13.8585
+  },
+  {
+    "name": "Osek (Teplice)",
+    "lat": 50.6231,
+    "lon": 13.6861
+  },
+  {
+    "name": "Osek (Jičín)",
+    "lat": 50.4638,
+    "lon": 15.1595
+  },
+  {
+    "name": "Osek (Písek)",
+    "lat": 49.4433,
+    "lon": 14.3001
+  },
+  {
+    "name": "Osek (Rokycany)",
+    "lat": 49.7771,
+    "lon": 13.5907
+  },
+  {
+    "name": "Osek (Nymburk)",
+    "lat": 50.274,
+    "lon": 15.3727
+  },
+  {
+    "name": "Osek (Plzeň-jih)",
+    "lat": 49.5962,
+    "lon": 13.4107
+  },
+  {
+    "name": "Osek (Hradec Králové)",
+    "lat": 50.2296,
+    "lon": 15.5008
   }
 ]

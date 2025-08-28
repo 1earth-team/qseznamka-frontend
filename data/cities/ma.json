@@ -1,422 +1,482 @@
 [
   {
-    "name": "Maršovice",
-    "lat": "49.7136",
-    "lon": "14.5645"
-  },
-  {
     "name": "Malá Víska",
-    "lat": "49.7760",
-    "lon": "13.8755"
+    "lat": 49.776,
+    "lon": 13.8755
   },
   {
     "name": "Makotřasy",
-    "lat": "50.1446",
-    "lon": "14.2148"
+    "lat": 50.1446,
+    "lon": 14.2148
   },
   {
     "name": "Malé Kyšice",
-    "lat": "50.0603",
-    "lon": "14.0914"
+    "lat": 50.0603,
+    "lon": 14.0914
   },
   {
     "name": "Malé Přítočno",
-    "lat": "50.1077",
-    "lon": "14.1356"
+    "lat": 50.1077,
+    "lon": 14.1356
   },
   {
     "name": "Malíkovice",
-    "lat": "50.2114",
-    "lon": "13.9832"
+    "lat": 50.2114,
+    "lon": 13.9832
   },
   {
     "name": "Malotice",
-    "lat": "49.9652",
-    "lon": "14.9776"
+    "lat": 49.9652,
+    "lon": 14.9776
   },
   {
     "name": "Masojedy",
-    "lat": "50.0260",
-    "lon": "14.7779"
+    "lat": 50.026,
+    "lon": 14.7779
   },
   {
     "name": "Malešov",
-    "lat": "49.9110",
-    "lon": "15.2243"
+    "lat": 49.911,
+    "lon": 15.2243
   },
   {
     "name": "Malý Újezd",
-    "lat": "50.3325",
-    "lon": "14.5296"
-  },
-  {
-    "name": "Malá Hraštice",
-    "lat": "",
-    "lon": ""
+    "lat": 50.3325,
+    "lon": 14.5296
   },
   {
     "name": "Malinová",
-    "lat": "50.0478",
-    "lon": "13.6669"
+    "lat": 50.0478,
+    "lon": 13.6669
   },
   {
     "name": "Mazelov",
-    "lat": "49.1027",
-    "lon": "14.6180"
+    "lat": 49.1027,
+    "lon": 14.618
   },
   {
     "name": "Malonty",
-    "lat": "48.6861",
-    "lon": "14.5768"
+    "lat": 48.6861,
+    "lon": 14.5768
   },
   {
     "name": "Malšín",
-    "lat": "48.6780",
-    "lon": "14.2870"
+    "lat": 48.678,
+    "lon": 14.287
   },
   {
     "name": "Majdalena",
-    "lat": "48.9607",
-    "lon": "14.8613"
+    "lat": 48.9607,
+    "lon": 14.8613
   },
   {
     "name": "Martinice u Onšova",
-    "lat": "49.5798",
-    "lon": "15.1154"
+    "lat": 49.5798,
+    "lon": 15.1154
   },
   {
     "name": "Mahouš",
-    "lat": "49.0478",
-    "lon": "14.2560"
+    "lat": 49.0478,
+    "lon": 14.256
   },
   {
     "name": "Malovice",
-    "lat": "49.0913",
-    "lon": "14.2257"
+    "lat": 49.0913,
+    "lon": 14.2257
   },
   {
     "name": "Mačkov",
-    "lat": "49.4043",
-    "lon": "13.8861"
+    "lat": 49.4043,
+    "lon": 13.8861
   },
   {
     "name": "Malenice",
-    "lat": "49.1264",
-    "lon": "13.8828"
+    "lat": 49.1264,
+    "lon": 13.8828
   },
   {
     "name": "Malšice",
-    "lat": "49.3634",
-    "lon": "14.5785"
+    "lat": 49.3634,
+    "lon": 14.5785
   },
   {
     "name": "Mažice",
-    "lat": "49.2135",
-    "lon": "14.6128"
+    "lat": 49.2135,
+    "lon": 14.6128
   },
   {
     "name": "Mariánské Lázně",
-    "lat": "49.9740",
-    "lon": "12.7033"
+    "lat": 49.974,
+    "lon": 12.7033
   },
   {
     "name": "Malý Bor",
-    "lat": "49.3305",
-    "lon": "13.6523"
+    "lat": 49.3305,
+    "lon": 13.6523
   },
   {
     "name": "Maňovice",
-    "lat": "49.3930",
-    "lon": "13.6538"
+    "lat": 49.393,
+    "lon": 13.6538
   },
   {
     "name": "Manětín",
-    "lat": "49.9917",
-    "lon": "13.2322"
+    "lat": 49.9917,
+    "lon": 13.2322
   },
   {
     "name": "Mařenice",
-    "lat": "50.8081",
-    "lon": "14.6788"
+    "lat": 50.8081,
+    "lon": 14.6788
   },
   {
     "name": "Malá Veleň",
-    "lat": "50.7415",
-    "lon": "14.2706"
+    "lat": 50.7415,
+    "lon": 14.2706
   },
   {
     "name": "Malšovice",
-    "lat": "50.7352",
-    "lon": "14.1697"
-  },
-  {
-    "name": "Markvartice",
-    "lat": "49.2009",
-    "lon": "15.7673"
+    "lat": 50.7352,
+    "lon": 14.1697
   },
   {
     "name": "Mašťov",
-    "lat": "50.2623",
-    "lon": "13.2805"
+    "lat": 50.2623,
+    "lon": 13.2805
   },
   {
     "name": "Malá Skála",
-    "lat": "50.6461",
-    "lon": "15.1935"
-  },
-  {
-    "name": "Maršovice",
-    "lat": "49.7136",
-    "lon": "14.5645"
+    "lat": 50.6461,
+    "lon": 15.1935
   },
   {
     "name": "Malé Žernoseky",
-    "lat": "50.5340",
-    "lon": "14.0547"
+    "lat": 50.534,
+    "lon": 14.0547
   },
   {
     "name": "Malíč",
-    "lat": "50.5435",
-    "lon": "14.0820"
+    "lat": 50.5435,
+    "lon": 14.082
   },
   {
     "name": "Martiněves",
-    "lat": "50.3727",
-    "lon": "14.1528"
-  },
-  {
-    "name": "Malé Březno",
-    "lat": "50.6726",
-    "lon": "14.1723"
+    "lat": 50.3727,
+    "lon": 14.1528
   },
   {
     "name": "Mariánské Radčice",
-    "lat": "50.5740",
-    "lon": "13.6650"
-  },
-  {
-    "name": "Malé Březno",
-    "lat": "50.6726",
-    "lon": "14.1723"
+    "lat": 50.574,
+    "lon": 13.665
   },
   {
     "name": "Malečov",
-    "lat": "50.6319",
-    "lon": "14.1194"
+    "lat": 50.6319,
+    "lon": 14.1194
   },
   {
     "name": "Malčín",
-    "lat": "49.6886",
-    "lon": "15.4652"
+    "lat": 49.6886,
+    "lon": 15.4652
   },
   {
     "name": "Maleč",
-    "lat": "49.7720",
-    "lon": "15.6768"
-  },
-  {
-    "name": "Markvartice",
-    "lat": "49.2009",
-    "lon": "15.7673"
+    "lat": 49.772,
+    "lon": 15.6768
   },
   {
     "name": "Machov",
-    "lat": "50.4993",
-    "lon": "16.2769"
+    "lat": 50.4993,
+    "lon": 16.2769
   },
   {
     "name": "Martínkovice",
-    "lat": "50.5475",
-    "lon": "16.3420"
+    "lat": 50.5475,
+    "lon": 16.342
   },
   {
     "name": "Malé Výkleky",
-    "lat": "50.1195",
-    "lon": "15.5386"
+    "lat": 50.1195,
+    "lon": 15.5386
   },
   {
     "name": "Martinice v Krkonoších",
-    "lat": "50.5808",
-    "lon": "15.5333"
-  },
-  {
-    "name": "Makov",
-    "lat": "49.8550",
-    "lon": "16.1911"
+    "lat": 50.5808,
+    "lon": 15.5333
   },
   {
     "name": "Malíkov",
-    "lat": "49.7310",
-    "lon": "16.6952"
+    "lat": 49.731,
+    "lon": 16.6952
   },
   {
     "name": "Malá Úpa",
-    "lat": "50.7241",
-    "lon": "15.8137"
+    "lat": 50.7241,
+    "lon": 15.8137
   },
   {
     "name": "Malé Svatoňovice",
-    "lat": "50.5339",
-    "lon": "16.0498"
+    "lat": 50.5339,
+    "lon": 16.0498
   },
   {
     "name": "Maršov u Úpice",
-    "lat": "50.4845",
-    "lon": "15.9760"
-  },
-  {
-    "name": "Makov",
-    "lat": "49.8550",
-    "lon": "16.1911"
+    "lat": 50.4845,
+    "lon": 15.976
   },
   {
     "name": "Malá Lhota",
-    "lat": "49.3919",
-    "lon": "16.5495"
+    "lat": 49.3919,
+    "lon": 16.5495
   },
   {
     "name": "Malá Roudka",
-    "lat": "49.6017",
-    "lon": "16.6447"
+    "lat": 49.6017,
+    "lon": 16.6447
   },
   {
     "name": "Malešovice",
-    "lat": "49.0235",
-    "lon": "16.5015"
+    "lat": 49.0235,
+    "lon": 16.5015
   },
   {
     "name": "Malhostovice",
-    "lat": "49.3336",
-    "lon": "16.5022"
+    "lat": 49.3336,
+    "lon": 16.5022
   },
   {
     "name": "Maršov",
-    "lat": "49.2837",
-    "lon": "16.3597"
+    "lat": 49.2837,
+    "lon": 16.3597
   },
   {
     "name": "Machová",
-    "lat": "49.2543",
-    "lon": "17.5449"
+    "lat": 49.2543,
+    "lon": 17.5449
   },
   {
     "name": "Malá Vrbka",
-    "lat": "48.8694",
-    "lon": "17.4592"
+    "lat": 48.8694,
+    "lon": 17.4592
   },
   {
     "name": "Malý Beranov",
-    "lat": "49.3964",
-    "lon": "15.6378"
-  },
-  {
-    "name": "Markvartice",
-    "lat": "49.2009",
-    "lon": "15.7673"
-  },
-  {
-    "name": "Martinice",
-    "lat": "49.3721",
-    "lon": "16.0388"
+    "lat": 49.3964,
+    "lon": 15.6378
   },
   {
     "name": "Malé Hradisko",
-    "lat": "49.4933",
-    "lon": "16.8766"
-  },
-  {
-    "name": "Markvartice",
-    "lat": "49.2009",
-    "lon": "15.7673"
+    "lat": 49.4933,
+    "lon": 16.8766
   },
   {
     "name": "Martínkov",
-    "lat": "49.0967",
-    "lon": "15.7114"
+    "lat": 49.0967,
+    "lon": 15.7114
   },
   {
     "name": "Mastník",
-    "lat": "49.1802",
-    "lon": "15.8278"
+    "lat": 49.1802,
+    "lon": 15.8278
   },
   {
     "name": "Malínky",
-    "lat": "49.1593",
-    "lon": "17.1604"
+    "lat": 49.1593,
+    "lon": 17.1604
   },
   {
     "name": "Mackovice",
-    "lat": "48.8836",
-    "lon": "16.3093"
+    "lat": 48.8836,
+    "lon": 16.3093
   },
   {
     "name": "Mašovice",
-    "lat": "48.8572",
-    "lon": "15.9732"
+    "lat": 48.8572,
+    "lon": 15.9732
   },
   {
     "name": "Malá Losenice",
-    "lat": "49.5999",
-    "lon": "15.7966"
-  },
-  {
-    "name": "Martinice",
-    "lat": "49.3721",
-    "lon": "16.0388"
+    "lat": 49.5999,
+    "lon": 15.7966
   },
   {
     "name": "Matějov",
-    "lat": "49.5286",
-    "lon": "15.8630"
+    "lat": 49.5286,
+    "lon": 15.863
   },
   {
     "name": "Malá Morávka",
-    "lat": "50.0216",
-    "lon": "17.3118"
+    "lat": 50.0216,
+    "lon": 17.3118
   },
   {
     "name": "Malá Štáhle",
-    "lat": "49.9514",
-    "lon": "17.3415"
+    "lat": 49.9514,
+    "lon": 17.3415
   },
   {
     "name": "Malenovice",
-    "lat": "49.5796",
-    "lon": "18.4103"
+    "lat": 49.5796,
+    "lon": 18.4103
   },
   {
     "name": "Mankovice",
-    "lat": "49.6375",
-    "lon": "17.8801"
+    "lat": 49.6375,
+    "lon": 17.8801
   },
   {
     "name": "Majetín",
-    "lat": "49.4984",
-    "lon": "17.3329"
-  },
-  {
-    "name": "Markvartovice",
-    "lat": "",
-    "lon": ""
+    "lat": 49.4984,
+    "lon": 17.3329
   },
   {
     "name": "Malhotice",
-    "lat": "49.4897",
-    "lon": "17.7645"
+    "lat": 49.4897,
+    "lon": 17.7645
   },
   {
     "name": "Malá Morava",
-    "lat": "50.0965",
-    "lon": "16.8274"
+    "lat": 50.0965,
+    "lon": 16.8274
   },
   {
     "name": "Maletín",
-    "lat": "49.7984",
-    "lon": "16.7828"
+    "lat": 49.7984,
+    "lon": 16.7828
   },
   {
     "name": "Malá Bystřice",
-    "lat": "49.4094",
-    "lon": "18.0485"
+    "lat": 49.4094,
+    "lon": 18.0485
+  },
+  {
+    "name": "Maršovice (Benešov)",
+    "lat": 49.7136,
+    "lon": 14.5645
+  },
+  {
+    "name": "Maršovice (Jablonec nad Nisou)",
+    "lat": 50.6964,
+    "lon": 15.1985
+  },
+  {
+    "name": "Maršovice (Žďár nad Sázavou)",
+    "lat": 49.58,
+    "lon": 16.0777
+  },
+  {
+    "name": "Maršovice (Znojmo)",
+    "lat": 49.0405,
+    "lon": 16.4262
+  },
+  {
+    "name": "Maršovice (Klatovy)",
+    "lat": 49.2414,
+    "lon": 13.4352
+  },
+  {
+    "name": "Markvartice (Třebíč)",
+    "lat": 49.2009,
+    "lon": 15.7673
+  },
+  {
+    "name": "Markvartice (Jihlava)",
+    "lat": 49.178,
+    "lon": 15.617
+  },
+  {
+    "name": "Markvartice (Jičín)",
+    "lat": 50.4308,
+    "lon": 15.1961
+  },
+  {
+    "name": "Markvartice (Děčín)",
+    "lat": 50.7786,
+    "lon": 14.3586
+  },
+  {
+    "name": "Markvartice (Český Krumlov)",
+    "lat": 48.8152,
+    "lon": 14.4256
+  },
+  {
+    "name": "Markvartice (Liberec)",
+    "lat": 50.7688,
+    "lon": 14.771
+  },
+  {
+    "name": "Malé Březno (Ústí nad Labem)",
+    "lat": 50.6726,
+    "lon": 14.1723
+  },
+  {
+    "name": "Malé Březno (Most)",
+    "lat": 50.4625,
+    "lon": 13.5602
+  },
+  {
+    "name": "Makov (Svitavy)",
+    "lat": 49.855,
+    "lon": 16.1911
+  },
+  {
+    "name": "Makov (Blansko)",
+    "lat": 49.5191,
+    "lon": 16.4837
+  },
+  {
+    "name": "Makov (Tábor)",
+    "lat": 49.4587,
+    "lon": 14.5481
+  },
+  {
+    "name": "Makov (Klatovy)",
+    "lat": 49.4487,
+    "lon": 13.3904
+  },
+  {
+    "name": "Makov (Semily)",
+    "lat": 50.7186,
+    "lon": 15.3986
+  },
+  {
+    "name": "Martinice (Žďár nad Sázavou)",
+    "lat": 49.3721,
+    "lon": 16.0388
+  },
+  {
+    "name": "Martinice (Kroměříž)",
+    "lat": 49.3103,
+    "lon": 17.6011
+  },
+  {
+    "name": "Martinice (Semily)",
+    "lat": 50.5808,
+    "lon": 15.5333
+  },
+  {
+    "name": "Martinice (Příbram)",
+    "lat": 49.5409,
+    "lon": 13.958
+  },
+  {
+    "name": "Martinice (Benešov)",
+    "lat": 49.6329,
+    "lon": 14.5774
+  },
+  {
+    "name": "Martinice (Chrudim)",
+    "lat": 49.9277,
+    "lon": 16.0233
+  },
+  {
+    "name": "Malá Hraštice",
+    "lat": 49.8075038,
+    "lon": 14.2798727
+  },
+  {
+    "name": "Markvartovice",
+    "lat": 49.9059513,
+    "lon": 18.2360227
   }
 ]

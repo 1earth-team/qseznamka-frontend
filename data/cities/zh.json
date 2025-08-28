@@ -1,52 +1,67 @@
 [
   {
     "name": "Zhořec",
-    "lat": "49.4896",
-    "lon": "14.9625"
-  },
-  {
-    "name": "Zhoř",
-    "lat": "49.4150",
-    "lon": "16.4802"
+    "lat": 49.4896,
+    "lon": 14.9625
   },
   {
     "name": "Zhoř u Mladé Vožice",
-    "lat": "49.5435",
-    "lon": "14.7649"
+    "lat": 49.5435,
+    "lon": 14.7649
   },
   {
     "name": "Zhoř u Tábora",
-    "lat": "49.3572",
-    "lon": "14.6580"
+    "lat": 49.3572,
+    "lon": 14.658
   },
   {
-    "name": "Zhoř",
-    "lat": "",
-    "lon": ""
+    "name": "Zhoř (Brno-venkov)",
+    "lat": 49.415,
+    "lon": 16.4802
   },
   {
-    "name": "Zhoř",
-    "lat": "",
-    "lon": ""
+    "name": "Zhoř (Jihlava)",
+    "lat": 49.4426,
+    "lon": 15.7722
   },
   {
-    "name": "Zhoř",
-    "lat": "",
-    "lon": ""
+    "name": "Zhoř (Písek)",
+    "lat": 49.5012,
+    "lon": 14.3827
   },
   {
-    "name": "Zhoř",
-    "lat": "",
-    "lon": ""
+    "name": "Zhoř (Tachov)",
+    "lat": 49.6596,
+    "lon": 12.9696
   },
   {
-    "name": "Zhoř",
-    "lat": "49.4150",
-    "lon": "16.4802"
+    "name": "Zhoř (Chrudim)",
+    "lat": 49.8522,
+    "lon": 16.0536
   },
   {
-    "name": "Zhoř",
-    "lat": "49.4150",
-    "lon": "16.4802"
+    "name": "Zhoř (Příbram)",
+    "lat": 49.6172,
+    "lon": 14.2556
+  },
+  {
+    "name": "Zhoř (Pelhřimov)",
+    "lat": 49.4953,
+    "lon": 14.9419
+  },
+  {
+    "name": "Zhoř (Svitavy)",
+    "lat": 49.9033,
+    "lon": 16.3834
+  },
+  {
+    "name": "Zhoř (Rakovník)",
+    "lat": 50.0251,
+    "lon": 13.6616
+  },
+  {
+    "name": "Zhoř (Benešov)",
+    "lat": 49.6141,
+    "lon": 14.982
   }
 ]

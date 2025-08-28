@@ -1,467 +1,477 @@
 [
   {
     "name": "Nespeky",
-    "lat": "49.8593",
-    "lon": "14.6594"
+    "lat": 49.8593,
+    "lon": 14.6594
   },
   {
     "name": "Netvořice",
-    "lat": "49.8158",
-    "lon": "14.5182"
+    "lat": 49.8158,
+    "lon": 14.5182
   },
   {
     "name": "Neustupov",
-    "lat": "49.6150",
-    "lon": "14.6986"
+    "lat": 49.615,
+    "lon": 14.6986
   },
   {
     "name": "Neveklov",
-    "lat": "49.7535",
-    "lon": "14.5334"
+    "lat": 49.7535,
+    "lon": 14.5334
   },
   {
     "name": "Nenačovice",
-    "lat": "50.0188",
-    "lon": "14.1404"
+    "lat": 50.0188,
+    "lon": 14.1404
   },
   {
     "name": "Nesvačily",
-    "lat": "49.8813",
-    "lon": "14.1244"
+    "lat": 49.8813,
+    "lon": 14.1244
   },
   {
     "name": "Neumětely",
-    "lat": "49.8525",
-    "lon": "14.0365"
+    "lat": 49.8525,
+    "lon": 14.0365
   },
   {
     "name": "Neprobylice",
-    "lat": "50.2639",
-    "lon": "14.0276"
+    "lat": 50.2639,
+    "lon": 14.0276
   },
   {
     "name": "Neuměřice",
-    "lat": "50.2417",
-    "lon": "14.2200"
-  },
-  {
-    "name": "Nebovidy",
-    "lat": "49.1413",
-    "lon": "16.5514"
+    "lat": 50.2417,
+    "lon": 14.22
   },
   {
     "name": "Nepoměřice",
-    "lat": "49.8808",
-    "lon": "15.1488"
+    "lat": 49.8808,
+    "lon": 15.1488
   },
   {
     "name": "Nebužely",
-    "lat": "50.3903",
-    "lon": "14.5908"
+    "lat": 50.3903,
+    "lon": 14.5908
   },
   {
     "name": "Nedomice",
-    "lat": "50.2597",
-    "lon": "14.6160"
+    "lat": 50.2597,
+    "lon": 14.616
   },
   {
     "name": "Nelahozeves",
-    "lat": "50.2615",
-    "lon": "14.2988"
+    "lat": 50.2615,
+    "lon": 14.2988
   },
   {
     "name": "Neratovice",
-    "lat": "50.2598",
-    "lon": "14.5175"
+    "lat": 50.2598,
+    "lon": 14.5175
   },
   {
     "name": "Nemyslovice",
-    "lat": "50.3585",
-    "lon": "14.7637"
+    "lat": 50.3585,
+    "lon": 14.7637
   },
   {
     "name": "Nepřevázka",
-    "lat": "50.3783",
-    "lon": "14.9163"
+    "lat": 50.3783,
+    "lon": 14.9163
   },
   {
     "name": "Neveklovice",
-    "lat": "50.5701",
-    "lon": "14.9484"
-  },
-  {
-    "name": "Netřebice",
-    "lat": "50.2142",
-    "lon": "15.1431"
+    "lat": 50.5701,
+    "lon": 14.9484
   },
   {
     "name": "Nehvizdy",
-    "lat": "50.1306",
-    "lon": "14.7299"
-  },
-  {
-    "name": "Nečín",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Nedrahovice",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Nechvalice",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Nepomuk",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Nestrašovice",
-    "lat": "",
-    "lon": ""
+    "lat": 50.1306,
+    "lon": 14.7299
   },
   {
     "name": "Nesuchyně",
-    "lat": "50.1796",
-    "lon": "13.6879"
+    "lat": 50.1796,
+    "lon": 13.6879
   },
   {
     "name": "Nezabudice",
-    "lat": "50.0131",
-    "lon": "13.8224"
+    "lat": 50.0131,
+    "lon": 13.8224
   },
   {
     "name": "Nedabyle",
-    "lat": "48.9284",
-    "lon": "14.5149"
+    "lat": 48.9284,
+    "lon": 14.5149
   },
   {
     "name": "Neplachov",
-    "lat": "49.1303",
-    "lon": "14.6010"
-  },
-  {
-    "name": "Netřebice",
-    "lat": "50.2142",
-    "lon": "15.1431"
+    "lat": 49.1303,
+    "lon": 14.601
   },
   {
     "name": "Nerestce",
-    "lat": "49.5006",
-    "lon": "14.0627"
+    "lat": 49.5006,
+    "lon": 14.0627
   },
   {
     "name": "Nevězice",
-    "lat": "49.4777",
-    "lon": "14.1534"
+    "lat": 49.4777,
+    "lon": 14.1534
   },
   {
     "name": "Nebahovy",
-    "lat": "49.0056",
-    "lon": "14.0526"
+    "lat": 49.0056,
+    "lon": 14.0526
   },
   {
     "name": "Netolice",
-    "lat": "49.0494",
-    "lon": "14.1960"
+    "lat": 49.0494,
+    "lon": 14.196
   },
   {
     "name": "Nebřehovice",
-    "lat": "49.2384",
-    "lon": "13.9620"
+    "lat": 49.2384,
+    "lon": 13.962
   },
   {
     "name": "Nemyšl",
-    "lat": "49.5136",
-    "lon": "14.6927"
+    "lat": 49.5136,
+    "lon": 14.6927
   },
   {
     "name": "Nemanice",
-    "lat": "49.4365",
-    "lon": "12.7205"
+    "lat": 49.4365,
+    "lon": 12.7205
   },
   {
     "name": "Nevolice",
-    "lat": "49.4206",
-    "lon": "12.9330"
+    "lat": 49.4206,
+    "lon": 12.933
   },
   {
     "name": "Nebanice",
-    "lat": "50.1152",
-    "lon": "12.4720"
+    "lat": 50.1152,
+    "lon": 12.472
   },
   {
     "name": "Nejdek",
-    "lat": "50.3248",
-    "lon": "12.7333"
+    "lat": 50.3248,
+    "lon": 12.7333
   },
   {
     "name": "Nehodiv",
-    "lat": "49.4107",
-    "lon": "13.5564"
-  },
-  {
-    "name": "Nezamyslice",
-    "lat": "49.3254",
-    "lon": "17.1733"
+    "lat": 49.4107,
+    "lon": 13.5564
   },
   {
     "name": "Nezdice na Šumavě",
-    "lat": "49.1732",
-    "lon": "13.6121"
+    "lat": 49.1732,
+    "lon": 13.6121
   },
   {
     "name": "Nezbavětice",
-    "lat": "49.6550",
-    "lon": "13.4777"
+    "lat": 49.655,
+    "lon": 13.4777
   },
   {
     "name": "Nezvěstice",
-    "lat": "49.6405",
-    "lon": "13.5199"
+    "lat": 49.6405,
+    "lon": 13.5199
   },
   {
     "name": "Nebílovy",
-    "lat": "49.6301",
-    "lon": "13.4291"
+    "lat": 49.6301,
+    "lon": 13.4291
   },
   {
     "name": "Nekvasovy",
-    "lat": "49.4346",
-    "lon": "13.6257"
-  },
-  {
-    "name": "Nepomuk",
-    "lat": "49.4859",
-    "lon": "13.5821"
+    "lat": 49.4346,
+    "lon": 13.6257
   },
   {
     "name": "Netunice",
-    "lat": "49.6165",
-    "lon": "13.4304"
+    "lat": 49.6165,
+    "lon": 13.4304
   },
   {
     "name": "Neuměř",
-    "lat": "49.5976",
-    "lon": "13.0641"
+    "lat": 49.5976,
+    "lon": 13.0641
   },
   {
     "name": "Neurazy",
-    "lat": "49.4410",
-    "lon": "13.5153"
+    "lat": 49.441,
+    "lon": 13.5153
   },
   {
     "name": "Nezdice",
-    "lat": "49.5315",
-    "lon": "13.3166"
+    "lat": 49.5315,
+    "lon": 13.3166
   },
   {
     "name": "Nezdřev",
-    "lat": "49.4266",
-    "lon": "13.7281"
+    "lat": 49.4266,
+    "lon": 13.7281
   },
   {
     "name": "Nečtiny",
-    "lat": "49.9752",
-    "lon": "13.1645"
+    "lat": 49.9752,
+    "lon": 13.1645
   },
   {
     "name": "Nekmíř",
-    "lat": "49.8581",
-    "lon": "13.2631"
+    "lat": 49.8581,
+    "lon": 13.2631
   },
   {
     "name": "Nevřeň",
-    "lat": "49.8228",
-    "lon": "13.2749"
+    "lat": 49.8228,
+    "lon": 13.2749
   },
   {
     "name": "Nevid",
-    "lat": "49.6854",
-    "lon": "13.6056"
+    "lat": 49.6854,
+    "lon": 13.6056
   },
   {
     "name": "Nezabylice",
-    "lat": "50.4242",
-    "lon": "13.4785"
+    "lat": 50.4242,
+    "lon": 13.4785
   },
   {
     "name": "Nepomyšl",
-    "lat": "50.2181",
-    "lon": "13.3132"
+    "lat": 50.2181,
+    "lon": 13.3132
   },
   {
     "name": "Nejepín",
-    "lat": "49.7445",
-    "lon": "15.6006"
+    "lat": 49.7445,
+    "lon": 15.6006
   },
   {
     "name": "Neděliště",
-    "lat": "50.2769",
-    "lon": "15.7855"
+    "lat": 50.2769,
+    "lon": 15.7855
   },
   {
     "name": "Nechanice",
-    "lat": "50.2374",
-    "lon": "15.6328"
+    "lat": 50.2374,
+    "lon": 15.6328
   },
   {
     "name": "Nepolisy",
-    "lat": "50.1922",
-    "lon": "15.4633"
+    "lat": 50.1922,
+    "lon": 15.4633
   },
   {
     "name": "Nemyčeves",
-    "lat": "50.3844",
-    "lon": "15.3700"
+    "lat": 50.3844,
+    "lon": 15.37
   },
   {
     "name": "Nevratice",
-    "lat": "50.3469",
-    "lon": "15.4929"
+    "lat": 50.3469,
+    "lon": 15.4929
   },
   {
     "name": "Neratov",
-    "lat": "50.0798",
-    "lon": "15.6472"
+    "lat": 50.0798,
+    "lon": 15.6472
   },
   {
     "name": "Nedvězí",
-    "lat": "49.6306",
-    "lon": "16.3009"
+    "lat": 49.6306,
+    "lon": 16.3009
   },
   {
     "name": "Nemojov",
-    "lat": "50.4663",
-    "lon": "15.7548"
+    "lat": 50.4663,
+    "lon": 15.7548
   },
   {
     "name": "Nekoř",
-    "lat": "50.0557",
-    "lon": "16.5512"
-  },
-  {
-    "name": "Nebovidy",
-    "lat": "49.1413",
-    "lon": "16.5514"
+    "lat": 50.0557,
+    "lon": 16.5512
   },
   {
     "name": "Nedvědice",
-    "lat": "49.4571",
-    "lon": "16.3337"
+    "lat": 49.4571,
+    "lon": 16.3337
   },
   {
     "name": "Nelepeč-Žernůvka",
-    "lat": "49.3423",
-    "lon": "16.3766"
+    "lat": 49.3423,
+    "lon": 16.3766
   },
   {
     "name": "Neslovice",
-    "lat": "49.1422",
-    "lon": "16.3878"
+    "lat": 49.1422,
+    "lon": 16.3878
   },
   {
     "name": "Nesvačilka",
-    "lat": "49.0640",
-    "lon": "16.7540"
+    "lat": 49.064,
+    "lon": 16.754
   },
   {
     "name": "Nedašov",
-    "lat": "49.1078",
-    "lon": "18.0704"
+    "lat": 49.1078,
+    "lon": 18.0704
   },
   {
     "name": "Nedašova Lhota",
-    "lat": "49.1214",
-    "lon": "18.0799"
+    "lat": 49.1214,
+    "lon": 18.0799
   },
   {
     "name": "Neubuz",
-    "lat": "49.2604",
-    "lon": "17.8253"
+    "lat": 49.2604,
+    "lon": 17.8253
   },
   {
     "name": "Nechvalín",
-    "lat": "49.0545",
-    "lon": "17.0806"
+    "lat": 49.0545,
+    "lon": 17.0806
   },
   {
     "name": "Nenkovice",
-    "lat": "49.0031",
-    "lon": "17.0109"
+    "lat": 49.0031,
+    "lon": 17.0109
   },
   {
     "name": "Nevcehle",
-    "lat": "49.2257",
-    "lon": "15.5344"
-  },
-  {
-    "name": "Nezamyslice",
-    "lat": "49.3254",
-    "lon": "17.1733"
+    "lat": 49.2257,
+    "lon": 15.5344
   },
   {
     "name": "Nedachlebice",
-    "lat": "49.0992",
-    "lon": "17.5888"
+    "lat": 49.0992,
+    "lon": 17.5888
   },
   {
     "name": "Nedakonice",
-    "lat": "49.0316",
-    "lon": "17.3814"
+    "lat": 49.0316,
+    "lon": 17.3814
   },
   {
     "name": "Nezdenice",
-    "lat": "49.0168",
-    "lon": "17.7523"
+    "lat": 49.0168,
+    "lon": 17.7523
   },
   {
     "name": "Nemochovice",
-    "lat": "49.1804",
-    "lon": "17.1349"
+    "lat": 49.1804,
+    "lon": 17.1349
   },
   {
     "name": "Nemojany",
-    "lat": "49.2467",
-    "lon": "16.9135"
+    "lat": 49.2467,
+    "lon": 16.9135
   },
   {
     "name": "Nemotice",
-    "lat": "49.1293",
-    "lon": "17.1250"
+    "lat": 49.1293,
+    "lon": 17.125
   },
   {
     "name": "Nesovice",
-    "lat": "49.1511",
-    "lon": "17.0809"
+    "lat": 49.1511,
+    "lon": 17.0809
   },
   {
     "name": "Nevojice",
-    "lat": "49.1353",
-    "lon": "17.0496"
+    "lat": 49.1353,
+    "lon": 17.0496
   },
   {
     "name": "Netín",
-    "lat": "49.4129",
-    "lon": "15.9506"
-  },
-  {
-    "name": "Neplachovice",
-    "lat": "",
-    "lon": ""
+    "lat": 49.4129,
+    "lon": 15.9506
   },
   {
     "name": "Nelešovice",
-    "lat": "49.5106",
-    "lon": "17.3881"
+    "lat": 49.5106,
+    "lon": 17.3881
   },
   {
     "name": "Nemile",
-    "lat": "49.8748",
-    "lon": "16.8474"
+    "lat": 49.8748,
+    "lon": 16.8474
+  },
+  {
+    "name": "Nebovidy (Brno-venkov)",
+    "lat": 49.1413,
+    "lon": 16.5514
+  },
+  {
+    "name": "Nebovidy (Kolín)",
+    "lat": 49.9915,
+    "lon": 15.2195
+  },
+  {
+    "name": "Netřebice (Nymburk)",
+    "lat": 50.2142,
+    "lon": 15.1431
+  },
+  {
+    "name": "Netřebice (Český Krumlov)",
+    "lat": 48.7908,
+    "lon": 14.4556
+  },
+  {
+    "name": "Nepomuk (Plzeň-jih)",
+    "lat": 49.4859,
+    "lon": 13.5821
+  },
+  {
+    "name": "Nepomuk (Příbram)",
+    "lat": 49.6428,
+    "lon": 13.8373
+  },
+  {
+    "name": "Nepomuk (Ústí nad Orlicí)",
+    "lat": 49.9589,
+    "lon": 16.6266
+  },
+  {
+    "name": "Nepomuk (České Budějovice)",
+    "lat": 49.324,
+    "lon": 14.386
+  },
+  {
+    "name": "Nezamyslice (Prostějov)",
+    "lat": 49.3254,
+    "lon": 17.1733
+  },
+  {
+    "name": "Nezamyslice (Klatovy)",
+    "lat": 49.2626,
+    "lon": 13.6754
+  },
+  {
+    "name": "Nečín",
+    "lat": 49.6984409,
+    "lon": 14.2340341
+  },
+  {
+    "name": "Nedrahovice",
+    "lat": 49.6090978,
+    "lon": 14.455735
+  },
+  {
+    "name": "Nechvalice",
+    "lat": 49.576544,
+    "lon": 14.3965616
+  },
+  {
+    "name": "Nestrašovice",
+    "lat": 49.5602025,
+    "lon": 14.026035
+  },
+  {
+    "name": "Neplachovice",
+    "lat": 49.9922818,
+    "lon": 17.8098634
   }
 ]

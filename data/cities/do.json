@@ -1,852 +1,937 @@
 [
   {
     "name": "Dolní Kralovice",
-    "lat": "49.6722",
-    "lon": "15.1574"
-  },
-  {
-    "name": "Doksy",
-    "lat": "50.5643",
-    "lon": "14.6553"
-  },
-  {
-    "name": "Dolany",
-    "lat": "49.6500",
-    "lon": "17.3204"
+    "lat": 49.6722,
+    "lon": 15.1574
   },
   {
     "name": "Dobřichov",
-    "lat": "50.0795",
-    "lon": "15.0322"
+    "lat": 50.0795,
+    "lon": 15.0322
   },
   {
     "name": "Dolní Chvatliny",
-    "lat": "49.9805",
-    "lon": "15.0693"
+    "lat": 49.9805,
+    "lon": 15.0693
   },
   {
     "name": "Dománovice",
-    "lat": "50.1119",
-    "lon": "15.3225"
+    "lat": 50.1119,
+    "lon": 15.3225
   },
   {
     "name": "Doubravčice",
-    "lat": "50.0221",
-    "lon": "14.7931"
+    "lat": 50.0221,
+    "lon": 14.7931
   },
   {
     "name": "Dobrovítov",
-    "lat": "49.7875",
-    "lon": "15.3287"
+    "lat": 49.7875,
+    "lon": 15.3287
   },
   {
     "name": "Dolní Pohleď",
-    "lat": "49.7434",
-    "lon": "15.1335"
+    "lat": 49.7434,
+    "lon": 15.1335
   },
   {
     "name": "Dobřeň",
-    "lat": "50.4794",
-    "lon": "14.5567"
+    "lat": 50.4794,
+    "lon": 14.5567
   },
   {
     "name": "Dolany nad Vltavou",
-    "lat": "50.2220",
-    "lon": "14.3495"
+    "lat": 50.222,
+    "lon": 14.3495
   },
   {
     "name": "Dolní Beřkovice",
-    "lat": "50.3931",
-    "lon": "14.4509"
+    "lat": 50.3931,
+    "lon": 14.4509
   },
   {
     "name": "Dolní Zimoř",
-    "lat": "50.4266",
-    "lon": "14.5014"
+    "lat": 50.4266,
+    "lon": 14.5014
   },
   {
     "name": "Dobrovice",
-    "lat": "50.3693",
-    "lon": "14.9623"
+    "lat": 50.3693,
+    "lon": 14.9623
   },
   {
     "name": "Dobšín",
-    "lat": "50.4834",
-    "lon": "15.1167"
+    "lat": 50.4834,
+    "lon": 15.1167
   },
   {
     "name": "Dolní Bousov",
-    "lat": "50.4384",
-    "lon": "15.1277"
-  },
-  {
-    "name": "Dolní Krupá",
-    "lat": "50.5463",
-    "lon": "14.8672"
+    "lat": 50.4384,
+    "lon": 15.1277
   },
   {
     "name": "Dolní Slivno",
-    "lat": "50.3085",
-    "lon": "14.7331"
+    "lat": 50.3085,
+    "lon": 14.7331
   },
   {
     "name": "Dolní Stakory",
-    "lat": "50.4373",
-    "lon": "14.9725"
+    "lat": 50.4373,
+    "lon": 14.9725
   },
   {
     "name": "Domousnice",
-    "lat": "50.3941",
-    "lon": "15.1027"
+    "lat": 50.3941,
+    "lon": 15.1027
   },
   {
     "name": "Doubravička",
-    "lat": "50.3951",
-    "lon": "14.7761"
-  },
-  {
-    "name": "Dobšice",
-    "lat": "48.8483",
-    "lon": "16.0854"
+    "lat": 50.3951,
+    "lon": 14.7761
   },
   {
     "name": "Dobročovice",
-    "lat": "50.0563",
-    "lon": "14.6999"
+    "lat": 50.0563,
+    "lon": 14.6999
   },
   {
     "name": "Dobřejovice",
-    "lat": "49.9818",
-    "lon": "14.5783"
+    "lat": 49.9818,
+    "lon": 14.5783
   },
   {
     "name": "Doubek",
-    "lat": "50.0176",
-    "lon": "14.7378"
+    "lat": 50.0176,
+    "lon": 14.7378
   },
   {
     "name": "Dobrovíz",
-    "lat": "50.1131",
-    "lon": "14.2177"
-  },
-  {
-    "name": "Dobříč",
-    "lat": "49.8843",
-    "lon": "13.4686"
+    "lat": 50.1131,
+    "lon": 14.2177
   },
   {
     "name": "Dobřichovice",
-    "lat": "49.9275",
-    "lon": "14.2743"
+    "lat": 49.9275,
+    "lon": 14.2743
   },
   {
     "name": "Dolní Břežany",
-    "lat": "49.9634",
-    "lon": "14.4581"
+    "lat": 49.9634,
+    "lon": 14.4581
   },
   {
     "name": "Dobříš",
-    "lat": "49.7814",
-    "lon": "14.1704"
+    "lat": 49.7814,
+    "lon": 14.1704
   },
   {
     "name": "Dolní Hbity",
-    "lat": "49.6572",
-    "lon": "14.1702"
+    "lat": 49.6572,
+    "lon": 14.1702
   },
   {
     "name": "Dobrá Voda u Českých Budějovic",
-    "lat": "48.9681",
-    "lon": "14.5246"
-  },
-  {
-    "name": "Dobšice",
-    "lat": "48.8483",
-    "lon": "16.0854"
+    "lat": 48.9681,
+    "lon": 14.5246
   },
   {
     "name": "Dolní Bukovsko",
-    "lat": "49.1713",
-    "lon": "14.5815"
-  },
-  {
-    "name": "Doubravice",
-    "lat": "49.3520",
-    "lon": "13.8619"
+    "lat": 49.1713,
+    "lon": 14.5815
   },
   {
     "name": "Doudleby",
-    "lat": "48.8936",
-    "lon": "14.5015"
+    "lat": 48.8936,
+    "lon": 14.5015
   },
   {
     "name": "Dolní Dvořiště",
-    "lat": "48.6566",
-    "lon": "14.4523"
+    "lat": 48.6566,
+    "lon": 14.4523
   },
   {
     "name": "Dolní Třebonín",
-    "lat": "48.8553",
-    "lon": "14.4100"
+    "lat": 48.8553,
+    "lon": 14.41
   },
   {
     "name": "Dobrohošť",
-    "lat": "49.0800",
-    "lon": "15.4930"
+    "lat": 49.08,
+    "lon": 15.493
   },
   {
     "name": "Dolní Pěna",
-    "lat": "49.1105",
-    "lon": "15.0221"
+    "lat": 49.1105,
+    "lon": 15.0221
   },
   {
     "name": "Dolní Žďár",
-    "lat": "49.1011",
-    "lon": "14.9883"
-  },
-  {
-    "name": "Domanín",
-    "lat": "48.9715",
-    "lon": "14.7400"
+    "lat": 49.1011,
+    "lon": 14.9883
   },
   {
     "name": "Doňov",
-    "lat": "49.2131",
-    "lon": "14.7762"
-  },
-  {
-    "name": "Dobrá Voda",
-    "lat": "49.3581",
-    "lon": "15.2700"
+    "lat": 49.2131,
+    "lon": 14.7762
   },
   {
     "name": "Dobrá Voda u Pacova",
-    "lat": "49.4045",
-    "lon": "15.0278"
+    "lat": 49.4045,
+    "lon": 15.0278
   },
   {
     "name": "Dobev",
-    "lat": "49.2952",
-    "lon": "14.0495"
+    "lat": 49.2952,
+    "lon": 14.0495
   },
   {
     "name": "Dolní Novosedly",
-    "lat": "49.3291",
-    "lon": "14.1960"
-  },
-  {
-    "name": "Doubravice",
-    "lat": "49.3520",
-    "lon": "13.8619"
+    "lat": 49.3291,
+    "lon": 14.196
   },
   {
     "name": "Dobronice u Bechyně",
-    "lat": "49.3433",
-    "lon": "14.4967"
+    "lat": 49.3433,
+    "lon": 14.4967
   },
   {
     "name": "Dolní Hořice",
-    "lat": "49.4354",
-    "lon": "14.8505"
+    "lat": 49.4354,
+    "lon": 14.8505
   },
   {
     "name": "Dolní Hrachovice",
-    "lat": "49.4861",
-    "lon": "14.7971"
+    "lat": 49.4861,
+    "lon": 14.7971
   },
   {
     "name": "Domažlice",
-    "lat": "49.4404",
-    "lon": "12.9297"
+    "lat": 49.4404,
+    "lon": 12.9297
   },
   {
     "name": "Dolní Žandov",
-    "lat": "50.0179",
-    "lon": "12.5510"
+    "lat": 50.0179,
+    "lon": 12.551
   },
   {
     "name": "Doupovské Hradiště",
-    "lat": "50.2354",
-    "lon": "13.0108"
+    "lat": 50.2354,
+    "lon": 13.0108
   },
   {
     "name": "Dobršín",
-    "lat": "49.2613",
-    "lon": "13.5610"
-  },
-  {
-    "name": "Dolany",
-    "lat": "49.6500",
-    "lon": "17.3204"
+    "lat": 49.2613,
+    "lon": 13.561
   },
   {
     "name": "Domoraz",
-    "lat": "49.2506",
-    "lon": "13.6620"
-  },
-  {
-    "name": "Dobřany",
-    "lat": "49.6554",
-    "lon": "13.2908"
+    "lat": 49.2506,
+    "lon": 13.662
   },
   {
     "name": "Dolce",
-    "lat": "49.5525",
-    "lon": "13.3931"
+    "lat": 49.5525,
+    "lon": 13.3931
   },
   {
     "name": "Dolní Lukavice",
-    "lat": "49.6029",
-    "lon": "13.3449"
-  },
-  {
-    "name": "Dobříč",
-    "lat": "49.8843",
-    "lon": "13.4686"
-  },
-  {
-    "name": "Dolany",
-    "lat": "49.6500",
-    "lon": "17.3204"
+    "lat": 49.6029,
+    "lon": 13.3449
   },
   {
     "name": "Dolní Bělá",
-    "lat": "49.8962",
-    "lon": "13.2733"
+    "lat": 49.8962,
+    "lon": 13.2733
   },
   {
     "name": "Dolní Hradiště",
-    "lat": "49.9137",
-    "lon": "13.4960"
+    "lat": 49.9137,
+    "lon": 13.496
   },
   {
     "name": "Dobřív",
-    "lat": "49.7157",
-    "lon": "13.6868"
+    "lat": 49.7157,
+    "lon": 13.6868
   },
   {
     "name": "Dolní Nivy",
-    "lat": "50.2431",
-    "lon": "12.6370"
+    "lat": 50.2431,
+    "lon": 12.637
   },
   {
     "name": "Dolní Rychnov",
-    "lat": "50.1648",
-    "lon": "12.6451"
-  },
-  {
-    "name": "Doksy",
-    "lat": "50.5643",
-    "lon": "14.6553"
+    "lat": 50.1648,
+    "lon": 12.6451
   },
   {
     "name": "Dobkovice",
-    "lat": "50.7148",
-    "lon": "14.1931"
+    "lat": 50.7148,
+    "lon": 14.1931
   },
   {
     "name": "Dobrná",
-    "lat": "50.7695",
-    "lon": "14.2933"
+    "lat": 50.7695,
+    "lon": 14.2933
   },
   {
     "name": "Dolní Habartice",
-    "lat": "50.7472",
-    "lon": "14.3333"
+    "lat": 50.7472,
+    "lon": 14.3333
   },
   {
     "name": "Dolní Podluží",
-    "lat": "50.8810",
-    "lon": "14.5946"
+    "lat": 50.881,
+    "lon": 14.5946
   },
   {
     "name": "Dolní Poustevna",
-    "lat": "50.9804",
-    "lon": "14.2873"
+    "lat": 50.9804,
+    "lon": 14.2873
   },
   {
     "name": "Doubice",
-    "lat": "50.8886",
-    "lon": "14.4616"
+    "lat": 50.8886,
+    "lon": 14.4616
   },
   {
     "name": "Domašín",
-    "lat": "50.4207",
-    "lon": "13.1722"
+    "lat": 50.4207,
+    "lon": 13.1722
   },
   {
     "name": "Dolní Řasnice",
-    "lat": "50.9457",
-    "lon": "15.1687"
+    "lat": 50.9457,
+    "lon": 15.1687
   },
   {
     "name": "Dobříň",
-    "lat": "50.4376",
-    "lon": "14.2937"
+    "lat": 50.4376,
+    "lon": 14.2937
   },
   {
     "name": "Doksany",
-    "lat": "50.4549",
-    "lon": "14.1611"
+    "lat": 50.4549,
+    "lon": 14.1611
   },
   {
     "name": "Dolánky nad Ohří",
-    "lat": "50.4730",
-    "lon": "14.1633"
+    "lat": 50.473,
+    "lon": 14.1633
   },
   {
     "name": "Dobroměřice",
-    "lat": "50.3701",
-    "lon": "13.7947"
+    "lat": 50.3701,
+    "lon": 13.7947
   },
   {
     "name": "Domoušice",
-    "lat": "50.2342",
-    "lon": "13.7295"
+    "lat": 50.2342,
+    "lon": 13.7295
   },
   {
     "name": "Dolní Zálezly",
-    "lat": "50.5973",
-    "lon": "14.0431"
-  },
-  {
-    "name": "Dolní Krupá",
-    "lat": "50.5463",
-    "lon": "14.8672"
+    "lat": 50.5973,
+    "lon": 14.0431
   },
   {
     "name": "Dolní Město",
-    "lat": "49.6277",
-    "lon": "15.3823"
+    "lat": 49.6277,
+    "lon": 15.3823
   },
   {
     "name": "Dolní Sokolovec",
-    "lat": "49.7265",
-    "lon": "15.7152"
+    "lat": 49.7265,
+    "lon": 15.7152
   },
   {
     "name": "Dobřenice",
-    "lat": "50.1477",
-    "lon": "15.6410"
+    "lat": 50.1477,
+    "lon": 15.641
   },
   {
     "name": "Dohalice",
-    "lat": "50.2873",
-    "lon": "15.6945"
+    "lat": 50.2873,
+    "lon": 15.6945
   },
   {
     "name": "Dolní Přím",
-    "lat": "50.2397",
-    "lon": "15.7082"
+    "lat": 50.2397,
+    "lon": 15.7082
   },
   {
     "name": "Dolní Bezděkov",
-    "lat": "49.9604",
-    "lon": "15.8838"
+    "lat": 49.9604,
+    "lon": 15.8838
   },
   {
     "name": "Dobrá Voda u Hořic",
-    "lat": "50.3484",
-    "lon": "15.6027"
+    "lat": 50.3484,
+    "lon": 15.6027
   },
   {
     "name": "Dolní Lochov",
-    "lat": "50.4523",
-    "lon": "15.2863"
-  },
-  {
-    "name": "Dolany",
-    "lat": "49.6500",
-    "lon": "17.3204"
+    "lat": 50.4523,
+    "lon": 15.2863
   },
   {
     "name": "Dolní Radechová",
-    "lat": "50.4383",
-    "lon": "16.1512"
-  },
-  {
-    "name": "Dolany",
-    "lat": "49.6500",
-    "lon": "17.3204"
+    "lat": 50.4383,
+    "lon": 16.1512
   },
   {
     "name": "Dolní Roveň",
-    "lat": "50.0293",
-    "lon": "15.9677"
+    "lat": 50.0293,
+    "lon": 15.9677
   },
   {
     "name": "Dolní Ředice",
-    "lat": "50.0778",
-    "lon": "15.9239"
+    "lat": 50.0778,
+    "lon": 15.9239
   },
   {
     "name": "Dobré",
-    "lat": "50.2698",
-    "lon": "16.2638"
+    "lat": 50.2698,
+    "lon": 16.2638
   },
   {
     "name": "Dobruška",
-    "lat": "50.2921",
-    "lon": "16.1605"
-  },
-  {
-    "name": "Dobřany",
-    "lat": "49.6554",
-    "lon": "13.2908"
+    "lat": 50.2921,
+    "lon": 16.1605
   },
   {
     "name": "Doudleby nad Orlicí",
-    "lat": "50.1074",
-    "lon": "16.2610"
-  },
-  {
-    "name": "Dolní Újezd",
-    "lat": "49.8256",
-    "lon": "16.2546"
+    "lat": 50.1074,
+    "lon": 16.261
   },
   {
     "name": "Dolní Branná",
-    "lat": "50.5932",
-    "lon": "15.5938"
+    "lat": 50.5932,
+    "lon": 15.5938
   },
   {
     "name": "Dolní Brusnice",
-    "lat": "50.4587",
-    "lon": "15.7268"
+    "lat": 50.4587,
+    "lon": 15.7268
   },
   {
     "name": "Dolní Dvůr",
-    "lat": "50.6521",
-    "lon": "15.6558"
+    "lat": 50.6521,
+    "lon": 15.6558
   },
   {
     "name": "Dolní Kalná",
-    "lat": "50.5389",
-    "lon": "15.6392"
+    "lat": 50.5389,
+    "lon": 15.6392
   },
   {
     "name": "Dolní Lánov",
-    "lat": "50.5870",
-    "lon": "15.6643"
+    "lat": 50.587,
+    "lon": 15.6643
   },
   {
     "name": "Dolní Olešnice",
-    "lat": "50.5242",
-    "lon": "15.7121"
-  },
-  {
-    "name": "Doubravice",
-    "lat": "49.3520",
-    "lon": "13.8619"
+    "lat": 50.5242,
+    "lon": 15.7121
   },
   {
     "name": "Dobříkov",
-    "lat": "50.0025",
-    "lon": "16.1338"
+    "lat": 50.0025,
+    "lon": 16.1338
   },
   {
     "name": "Dolní Čermná",
-    "lat": "49.9795",
-    "lon": "16.5648"
+    "lat": 49.9795,
+    "lon": 16.5648
   },
   {
     "name": "Dolní Dobrouč",
-    "lat": "49.9927",
-    "lon": "16.4977"
+    "lat": 49.9927,
+    "lon": 16.4977
   },
   {
     "name": "Dolní Morava",
-    "lat": "50.1226",
-    "lon": "16.7995"
+    "lat": 50.1226,
+    "lon": 16.7995
   },
   {
     "name": "Doubravice nad Svitavou",
-    "lat": "49.4359",
-    "lon": "16.6298"
+    "lat": 49.4359,
+    "lon": 16.6298
   },
   {
     "name": "Dolní Kounice",
-    "lat": "49.0703",
-    "lon": "16.4650"
+    "lat": 49.0703,
+    "lon": 16.465
   },
   {
     "name": "Dolní Loučky",
-    "lat": "49.3610",
-    "lon": "16.3587"
+    "lat": 49.361,
+    "lon": 16.3587
   },
   {
     "name": "Domašov",
-    "lat": "49.2452",
-    "lon": "16.3439"
+    "lat": 49.2452,
+    "lon": 16.3439
   },
   {
     "name": "Doubravník",
-    "lat": "49.4246",
-    "lon": "16.3521"
+    "lat": 49.4246,
+    "lon": 16.3521
   },
   {
     "name": "Dobré Pole",
-    "lat": "48.8260",
-    "lon": "16.5356"
+    "lat": 48.826,
+    "lon": 16.5356
   },
   {
     "name": "Dolní Dunajovice",
-    "lat": "48.8547",
-    "lon": "16.5923"
+    "lat": 48.8547,
+    "lon": 16.5923
   },
   {
     "name": "Dolní Věstonice",
-    "lat": "48.8931",
-    "lon": "16.6361"
+    "lat": 48.8931,
+    "lon": 16.6361
   },
   {
     "name": "Dobrkovice",
-    "lat": "49.0938",
-    "lon": "17.6692"
-  },
-  {
-    "name": "Dolní Lhota",
-    "lat": "49.1372",
-    "lon": "17.8124"
+    "lat": 49.0938,
+    "lon": 17.6692
   },
   {
     "name": "Doubravy",
-    "lat": "49.1424",
-    "lon": "17.6681"
+    "lat": 49.1424,
+    "lon": 17.6681
   },
   {
     "name": "Dolní Bojanovice",
-    "lat": "48.8586",
-    "lon": "17.0286"
-  },
-  {
-    "name": "Domanín",
-    "lat": "48.9715",
-    "lon": "14.7400"
+    "lat": 48.8586,
+    "lon": 17.0286
   },
   {
     "name": "Dobronín",
-    "lat": "49.4779",
-    "lon": "15.6491"
+    "lat": 49.4779,
+    "lon": 15.6491
   },
   {
     "name": "Dobroutov",
-    "lat": "49.4622",
-    "lon": "15.7365"
+    "lat": 49.4622,
+    "lon": 15.7365
   },
   {
     "name": "Dolní Cerekev",
-    "lat": "49.3446",
-    "lon": "15.4568"
+    "lat": 49.3446,
+    "lon": 15.4568
   },
   {
     "name": "Dolní Vilímeč",
-    "lat": "49.1357",
-    "lon": "15.5204"
+    "lat": 49.1357,
+    "lon": 15.5204
   },
   {
     "name": "Doupě",
-    "lat": "49.2368",
-    "lon": "15.4346"
+    "lat": 49.2368,
+    "lon": 15.4346
   },
   {
     "name": "Dobrochov",
-    "lat": "49.3859",
-    "lon": "17.1056"
+    "lat": 49.3859,
+    "lon": 17.1056
   },
   {
     "name": "Dobromilice",
-    "lat": "49.3573",
-    "lon": "17.1386"
-  },
-  {
-    "name": "Doloplazy",
-    "lat": "49.5672",
-    "lon": "17.4115"
+    "lat": 49.3573,
+    "lon": 17.1386
   },
   {
     "name": "Dolní Lažany",
-    "lat": "49.0999",
-    "lon": "15.8227"
+    "lat": 49.0999,
+    "lon": 15.8227
   },
   {
     "name": "Dolní Vilémovice",
-    "lat": "49.1536",
-    "lon": "15.9772"
+    "lat": 49.1536,
+    "lon": 15.9772
   },
   {
     "name": "Domamil",
-    "lat": "49.0832",
-    "lon": "15.6956"
+    "lat": 49.0832,
+    "lon": 15.6956
   },
   {
     "name": "Dolní Němčí",
-    "lat": "48.9684",
-    "lon": "17.5854"
+    "lat": 48.9684,
+    "lon": 17.5854
   },
   {
     "name": "Dobročkovice",
-    "lat": "49.1629",
-    "lon": "17.1090"
+    "lat": 49.1629,
+    "lon": 17.109
   },
   {
     "name": "Dobelice",
-    "lat": "49.0169",
-    "lon": "16.2781"
+    "lat": 49.0169,
+    "lon": 16.2781
   },
   {
     "name": "Dobřínsko",
-    "lat": "49.0522",
-    "lon": "16.2617"
-  },
-  {
-    "name": "Dobšice",
-    "lat": "48.8483",
-    "lon": "16.0854"
+    "lat": 49.0522,
+    "lon": 16.2617
   },
   {
     "name": "Dolenice",
-    "lat": "48.9093",
-    "lon": "16.3650"
+    "lat": 48.9093,
+    "lon": 16.365
   },
   {
     "name": "Dolní Dubňany",
-    "lat": "49.0558",
-    "lon": "16.2267"
-  },
-  {
-    "name": "Dobrá Voda",
-    "lat": "49.3581",
-    "lon": "15.2700"
+    "lat": 49.0558,
+    "lon": 16.2267
   },
   {
     "name": "Dolní Heřmanice",
-    "lat": "49.3048",
-    "lon": "16.0601"
+    "lat": 49.3048,
+    "lon": 16.0601
   },
   {
     "name": "Dolní Libochová",
-    "lat": "49.4083",
-    "lon": "16.1846"
+    "lat": 49.4083,
+    "lon": 16.1846
   },
   {
     "name": "Dolní Rožínka",
-    "lat": "49.4746",
-    "lon": "16.2101"
+    "lat": 49.4746,
+    "lon": 16.2101
   },
   {
     "name": "Dolní Moravice",
-    "lat": "49.9779",
-    "lon": "17.3231"
+    "lat": 49.9779,
+    "lon": 17.3231
   },
   {
     "name": "Dobrá",
-    "lat": "49.6738",
-    "lon": "18.4139"
+    "lat": 49.6738,
+    "lon": 18.4139
   },
   {
     "name": "Dobratice",
-    "lat": "49.6604",
-    "lon": "18.4923"
+    "lat": 49.6604,
+    "lon": 18.4923
   },
   {
     "name": "Dolní Domaslavice",
-    "lat": "49.7098",
-    "lon": "18.4774"
+    "lat": 49.7098,
+    "lon": 18.4774
   },
   {
     "name": "Dolní Lomná",
-    "lat": "49.5482",
-    "lon": "18.7058"
+    "lat": 49.5482,
+    "lon": 18.7058
   },
   {
     "name": "Dolní Tošanovice",
-    "lat": "49.6843",
-    "lon": "18.4884"
+    "lat": 49.6843,
+    "lon": 18.4884
   },
   {
     "name": "Dolní Lutyně",
-    "lat": "49.8988",
-    "lon": "18.4282"
+    "lat": 49.8988,
+    "lon": 18.4282
   },
   {
     "name": "Doubrava",
-    "lat": "49.8588",
-    "lon": "18.4802"
-  },
-  {
-    "name": "Dolany",
-    "lat": "49.6500",
-    "lon": "17.3204"
-  },
-  {
-    "name": "Doloplazy",
-    "lat": "49.5672",
-    "lon": "17.4115"
+    "lat": 49.8588,
+    "lon": 18.4802
   },
   {
     "name": "Domašov nad Bystřicí",
-    "lat": "49.7421",
-    "lon": "17.4452"
+    "lat": 49.7421,
+    "lon": 17.4452
   },
   {
     "name": "Domašov u Šternberka",
-    "lat": "49.7058",
-    "lon": "17.3379"
+    "lat": 49.7058,
+    "lon": 17.3379
   },
   {
     "name": "Dobroslavice",
-    "lat": "49.8803",
-    "lon": "18.1409"
+    "lat": 49.8803,
+    "lon": 18.1409
   },
   {
     "name": "Dolní Benešov",
-    "lat": "49.9210",
-    "lon": "18.1084"
+    "lat": 49.921,
+    "lon": 18.1084
   },
   {
     "name": "Dolní Životice",
-    "lat": "49.8973",
-    "lon": "17.7797"
-  },
-  {
-    "name": "Dolní Lhota",
-    "lat": "49.1372",
-    "lon": "17.8124"
+    "lat": 49.8973,
+    "lon": 17.7797
   },
   {
     "name": "Dobrčice",
-    "lat": "49.4020",
-    "lon": "17.4798"
+    "lat": 49.402,
+    "lon": 17.4798
   },
   {
     "name": "Dolní Nětčice",
-    "lat": "49.4762",
-    "lon": "17.6750"
+    "lat": 49.4762,
+    "lon": 17.675
   },
   {
     "name": "Dolní Těšice",
-    "lat": "49.4950",
-    "lon": "17.8065"
-  },
-  {
-    "name": "Dolní Újezd",
-    "lat": "49.8256",
-    "lon": "16.2546"
+    "lat": 49.495,
+    "lon": 17.8065
   },
   {
     "name": "Domaželice",
-    "lat": "49.4281",
-    "lon": "17.5449"
+    "lat": 49.4281,
+    "lon": 17.5449
   },
   {
     "name": "Dolní Studénky",
-    "lat": "49.9350",
-    "lon": "16.9709"
+    "lat": 49.935,
+    "lon": 16.9709
   },
   {
     "name": "Dolní Bečva",
-    "lat": "49.4550",
-    "lon": "18.1942"
+    "lat": 49.455,
+    "lon": 18.1942
+  },
+  {
+    "name": "Doksy (Česká Lípa)",
+    "lat": 50.5643,
+    "lon": 14.6553
+  },
+  {
+    "name": "Doksy (Kladno)",
+    "lat": 50.1184,
+    "lon": 14.0467
+  },
+  {
+    "name": "Dolany (Olomouc)",
+    "lat": 49.65,
+    "lon": 17.3204
+  },
+  {
+    "name": "Dolany (Pardubice)",
+    "lat": 50.1134,
+    "lon": 15.6916
+  },
+  {
+    "name": "Dolany (Plzeň-sever)",
+    "lat": 49.8078,
+    "lon": 13.4724
+  },
+  {
+    "name": "Dolany (Klatovy)",
+    "lat": 49.4431,
+    "lon": 13.2482
+  },
+  {
+    "name": "Dolany (Náchod)",
+    "lat": 50.3801,
+    "lon": 15.961
+  },
+  {
+    "name": "Dolany (Kladno)",
+    "lat": 50.1155,
+    "lon": 14.1497
+  },
+  {
+    "name": "Dolany (Prachatice)",
+    "lat": 49.1161,
+    "lon": 13.7997
+  },
+  {
+    "name": "Dolany (Chrudim)",
+    "lat": 49.9119,
+    "lon": 15.6969
+  },
+  {
+    "name": "Dolany (Ústí nad Orlicí)",
+    "lat": 50.0835,
+    "lon": 16.6311
+  },
+  {
+    "name": "Dolní Krupá (Mladá Boleslav)",
+    "lat": 50.5463,
+    "lon": 14.8672
+  },
+  {
+    "name": "Dolní Krupá (Havlíčkův Brod)",
+    "lat": 49.6606,
+    "lon": 15.603
+  },
+  {
+    "name": "Dobšice (Znojmo)",
+    "lat": 48.8483,
+    "lon": 16.0854
+  },
+  {
+    "name": "Dobšice (Nymburk)",
+    "lat": 50.1324,
+    "lon": 15.2686
+  },
+  {
+    "name": "Dobšice (České Budějovice)",
+    "lat": 49.2159,
+    "lon": 14.4838
+  },
+  {
+    "name": "Dobšice (Jičín)",
+    "lat": 50.5094,
+    "lon": 15.1428
+  },
+  {
+    "name": "Dobšice (Strakonice)",
+    "lat": 49.4546,
+    "lon": 13.8892
+  },
+  {
+    "name": "Dobříč (Plzeň-sever)",
+    "lat": 49.8843,
+    "lon": 13.4686
+  },
+  {
+    "name": "Dobříč (Praha-západ)",
+    "lat": 50.0198,
+    "lon": 14.2589
+  },
+  {
+    "name": "Doubravice (Strakonice)",
+    "lat": 49.352,
+    "lon": 13.8619
+  },
+  {
+    "name": "Doubravice (České Budějovice)",
+    "lat": 48.936,
+    "lon": 14.5106
+  },
+  {
+    "name": "Doubravice (Trutnov)",
+    "lat": 50.4052,
+    "lon": 15.7616
+  },
+  {
+    "name": "Doubravice (Pardubice)",
+    "lat": 50.0659,
+    "lon": 15.7463
+  },
+  {
+    "name": "Doubravice (Ústí nad Labem)",
+    "lat": 50.6291,
+    "lon": 14.2105
+  },
+  {
+    "name": "Doubravice (Příbram)",
+    "lat": 49.6382,
+    "lon": 14.423
+  },
+  {
+    "name": "Doubravice (Mladá Boleslav)",
+    "lat": 50.4617,
+    "lon": 14.6892
+  },
+  {
+    "name": "Doubravice (Semily)",
+    "lat": 50.5461,
+    "lon": 15.2092
+  },
+  {
+    "name": "Doubravice (Svitavy)",
+    "lat": 49.7219,
+    "lon": 16.7344
+  },
+  {
+    "name": "Doubravice (Ústí nad Orlicí)",
+    "lat": 49.8759,
+    "lon": 16.0977
+  },
+  {
+    "name": "Domanín (Jindřichův Hradec)",
+    "lat": 48.9715,
+    "lon": 14.74
+  },
+  {
+    "name": "Domanín (Hodonín)",
+    "lat": 49.0017,
+    "lon": 17.2848
+  },
+  {
+    "name": "Domanín (Žďár nad Sázavou)",
+    "lat": 49.5417,
+    "lon": 16.2341
+  },
+  {
+    "name": "Dobrá Voda (Pelhřimov)",
+    "lat": 49.3581,
+    "lon": 15.27
+  },
+  {
+    "name": "Dobrá Voda (České Budějovice)",
+    "lat": 48.9681,
+    "lon": 14.5246
+  },
+  {
+    "name": "Dobrá Voda (Žďár nad Sázavou)",
+    "lat": 49.3946,
+    "lon": 16.0638
+  },
+  {
+    "name": "Dobrá Voda (Klatovy)",
+    "lat": 49.156,
+    "lon": 13.4366
+  },
+  {
+    "name": "Dobrá Voda (Příbram)",
+    "lat": 49.5563,
+    "lon": 14.0006
+  },
+  {
+    "name": "Dobrá Voda (Třebíč)",
+    "lat": 48.9981,
+    "lon": 15.6471
+  },
+  {
+    "name": "Dobrá Voda (Karlovy Vary)",
+    "lat": 49.988,
+    "lon": 12.9628
+  },
+  {
+    "name": "Dobrá Voda (Mladá Boleslav)",
+    "lat": 50.5093,
+    "lon": 15.0027
+  },
+  {
+    "name": "Dobřany (Plzeň-jih)",
+    "lat": 49.6554,
+    "lon": 13.2908
+  },
+  {
+    "name": "Dobřany (Rychnov nad Kněžnou)",
+    "lat": 50.3221,
+    "lon": 16.2853
+  },
+  {
+    "name": "Dolní Újezd (Svitavy)",
+    "lat": 49.8256,
+    "lon": 16.2546
+  },
+  {
+    "name": "Dolní Újezd (Přerov)",
+    "lat": 49.5461,
+    "lon": 17.5348
+  },
+  {
+    "name": "Doloplazy (Olomouc)",
+    "lat": 49.5672,
+    "lon": 17.4115
+  },
+  {
+    "name": "Doloplazy (Prostějov)",
+    "lat": 49.3502,
+    "lon": 17.16
   }
 ]

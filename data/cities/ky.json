@@ -1,77 +1,92 @@
 [
   {
-    "name": "Kyšice",
-    "lat": "50.0912",
-    "lon": "14.1062"
-  },
-  {
     "name": "Kytín",
-    "lat": "49.8506",
-    "lon": "14.2190"
+    "lat": 49.8506,
+    "lon": 14.219
   },
   {
     "name": "Kyselka",
-    "lat": "50.2588",
-    "lon": "13.0003"
-  },
-  {
-    "name": "Kyšice",
-    "lat": "50.0912",
-    "lon": "14.1062"
+    "lat": 50.2588,
+    "lon": 13.0003
   },
   {
     "name": "Kynšperk nad Ohří",
-    "lat": "50.1183",
-    "lon": "12.5311"
+    "lat": 50.1183,
+    "lon": 12.5311
   },
   {
     "name": "Kytlice",
-    "lat": "50.8123",
-    "lon": "14.5352"
+    "lat": 50.8123,
+    "lon": 14.5352
   },
   {
     "name": "Kyškovice",
-    "lat": "50.4480",
-    "lon": "14.2860"
-  },
-  {
-    "name": "Kyjov",
-    "lat": "49.0104",
-    "lon": "17.1225"
+    "lat": 50.448,
+    "lon": 14.286
   },
   {
     "name": "Kynice",
-    "lat": "49.7394",
-    "lon": "15.3605"
+    "lat": 49.7394,
+    "lon": 15.3605
   },
   {
     "name": "Kyje",
-    "lat": "50.4943",
-    "lon": "15.3780"
-  },
-  {
-    "name": "Kyjov",
-    "lat": "49.0104",
-    "lon": "17.1225"
+    "lat": 50.4943,
+    "lon": 15.378
   },
   {
     "name": "Kyselovice",
-    "lat": "49.3768",
-    "lon": "17.4018"
+    "lat": 49.3768,
+    "lon": 17.4018
   },
   {
-    "name": "Kyjovice",
-    "lat": "48.9137",
-    "lon": "16.1665"
+    "name": "Kyšice (Kladno)",
+    "lat": 50.0912,
+    "lon": 14.1062
   },
   {
-    "name": "Kyjov",
-    "lat": "49.0104",
-    "lon": "17.1225"
+    "name": "Kyšice (Plzeň-město)",
+    "lat": 49.7533,
+    "lon": 13.4858
   },
   {
-    "name": "Kyjovice",
-    "lat": "48.9137",
-    "lon": "16.1665"
+    "name": "Kyjov (Hodonín)",
+    "lat": 49.0104,
+    "lon": 17.1225
+  },
+  {
+    "name": "Kyjov (Žďár nad Sázavou)",
+    "lat": 49.4434,
+    "lon": 15.8816
+  },
+  {
+    "name": "Kyjov (Havlíčkův Brod)",
+    "lat": 49.6297,
+    "lon": 15.6232
+  },
+  {
+    "name": "Kyjov (Děčín)",
+    "lat": 50.9125,
+    "lon": 14.4616
+  },
+  {
+    "name": "Kyjov (Pelhřimov)",
+    "lat": 49.5183,
+    "lon": 15.0773
+  },
+  {
+    "name": "Kyjov (Tachov)",
+    "lat": 49.8865,
+    "lon": 12.6795
+  },
+  {
+    "name": "Kyjovice (Znojmo)",
+    "lat": 48.9137,
+    "lon": 16.1665
+  },
+  {
+    "name": "Kyjovice (Opava)",
+    "lat": 49.8325,
+    "lon": 18.042
   }
 ]

@@ -1,22 +1,32 @@
 [
   {
-    "name": "Švihov",
-    "lat": "49.4814",
-    "lon": "13.2842"
-  },
-  {
-    "name": "Švihov",
-    "lat": "49.4814",
-    "lon": "13.2842"
-  },
-  {
     "name": "Švábov",
-    "lat": "49.3084",
-    "lon": "15.3570"
+    "lat": 49.3084,
+    "lon": 15.357
   },
   {
     "name": "Švábenice",
-    "lat": "49.2785",
-    "lon": "17.1237"
+    "lat": 49.2785,
+    "lon": 17.1237
+  },
+  {
+    "name": "Švihov (Klatovy)",
+    "lat": 49.4814,
+    "lon": 13.2842
+  },
+  {
+    "name": "Švihov (Rakovník)",
+    "lat": 50.1098,
+    "lon": 13.5643
+  },
+  {
+    "name": "Švihov (Chrudim)",
+    "lat": 49.8435,
+    "lon": 15.8628
+  },
+  {
+    "name": "Švihov (Prachatice)",
+    "lat": 49.0315,
+    "lon": 13.9089
   }
 ]

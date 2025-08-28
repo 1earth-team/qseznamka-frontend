@@ -1,657 +1,867 @@
 [
   {
-    "name": "Popovice",
-    "lat": "49.1062",
-    "lon": "16.6157"
-  },
-  {
     "name": "Poříčí nad Sázavou",
-    "lat": "49.8390",
-    "lon": "14.6745"
+    "lat": 49.839,
+    "lon": 14.6745
   },
   {
     "name": "Postupice",
-    "lat": "49.7278",
-    "lon": "14.7781"
+    "lat": 49.7278,
+    "lon": 14.7781
   },
   {
     "name": "Podbrdy",
-    "lat": "49.8630",
-    "lon": "14.1266"
+    "lat": 49.863,
+    "lon": 14.1266
   },
   {
     "name": "Podluhy",
-    "lat": "49.8158",
-    "lon": "13.9138"
+    "lat": 49.8158,
+    "lon": 13.9138
   },
   {
     "name": "Podlešín",
-    "lat": "50.2210",
-    "lon": "14.1603"
+    "lat": 50.221,
+    "lon": 14.1603
   },
   {
     "name": "Poštovice",
-    "lat": "50.3127",
-    "lon": "14.1378"
+    "lat": 50.3127,
+    "lon": 14.1378
   },
   {
     "name": "Pozdeň",
-    "lat": "50.2421",
-    "lon": "13.9435"
-  },
-  {
-    "name": "Polepy",
-    "lat": "50.5056",
-    "lon": "14.2645"
+    "lat": 50.2421,
+    "lon": 13.9435
   },
   {
     "name": "Polní Chrčice",
-    "lat": "50.1100",
-    "lon": "15.2967"
+    "lat": 50.11,
+    "lon": 15.2967
   },
   {
     "name": "Polní Voděrady",
-    "lat": "49.9925",
-    "lon": "15.0954"
+    "lat": 49.9925,
+    "lon": 15.0954
   },
   {
     "name": "Poříčany",
-    "lat": "50.1081",
-    "lon": "14.9182"
+    "lat": 50.1081,
+    "lon": 14.9182
   },
   {
     "name": "Podveky",
-    "lat": "49.8250",
-    "lon": "14.9940"
+    "lat": 49.825,
+    "lon": 14.994
   },
   {
     "name": "Potěhy",
-    "lat": "49.8694",
-    "lon": "15.4201"
+    "lat": 49.8694,
+    "lon": 15.4201
   },
   {
     "name": "Postřižín",
-    "lat": "50.2330",
-    "lon": "14.3865"
+    "lat": 50.233,
+    "lon": 14.3865
   },
   {
     "name": "Poděbrady",
-    "lat": "50.1430",
-    "lon": "15.1191"
-  },
-  {
-    "name": "Podmoky",
-    "lat": "50.1913",
-    "lon": "15.2324"
+    "lat": 50.143,
+    "lon": 15.1191
   },
   {
     "name": "Podolanka",
-    "lat": "50.1591",
-    "lon": "14.6009"
-  },
-  {
-    "name": "Polerady",
-    "lat": "50.2005",
-    "lon": "14.5933"
+    "lat": 50.1591,
+    "lon": 14.6009
   },
   {
     "name": "Popovičky",
-    "lat": "49.9625",
-    "lon": "14.5978"
-  },
-  {
-    "name": "Pohoří",
-    "lat": "49.8999",
-    "lon": "14.5250"
+    "lat": 49.9625,
+    "lon": 14.5978
   },
   {
     "name": "Počaply",
-    "lat": "49.5387",
-    "lon": "13.9835"
+    "lat": 49.5387,
+    "lon": 13.9835
   },
   {
     "name": "Počepice",
-    "lat": "49.5960",
-    "lon": "14.3808"
-  },
-  {
-    "name": "Podlesí",
-    "lat": "50.0173",
-    "lon": "16.2812"
+    "lat": 49.596,
+    "lon": 14.3808
   },
   {
     "name": "Pochvalov",
-    "lat": "50.2274",
-    "lon": "13.7943"
+    "lat": 50.2274,
+    "lon": 13.7943
   },
   {
     "name": "Pohorská Ves",
-    "lat": "48.6699",
-    "lon": "14.6477"
+    "lat": 48.6699,
+    "lon": 14.6477
   },
   {
     "name": "Polná na Šumavě",
-    "lat": "48.7993",
-    "lon": "14.1470"
+    "lat": 48.7993,
+    "lon": 14.147
   },
   {
     "name": "Polště",
-    "lat": "49.1064",
-    "lon": "14.9279"
+    "lat": 49.1064,
+    "lon": 14.9279
   },
   {
     "name": "Ponědraž",
-    "lat": "49.1160",
-    "lon": "14.7020"
+    "lat": 49.116,
+    "lon": 14.702
   },
   {
     "name": "Ponědrážka",
-    "lat": "49.1365",
-    "lon": "14.7033"
+    "lat": 49.1365,
+    "lon": 14.7033
   },
   {
     "name": "Popelín",
-    "lat": "49.2135",
-    "lon": "15.1841"
+    "lat": 49.2135,
+    "lon": 15.1841
   },
   {
     "name": "Počátky",
-    "lat": "49.2603",
-    "lon": "15.2404"
+    "lat": 49.2603,
+    "lon": 15.2404
   },
   {
     "name": "Polesí",
-    "lat": "49.2931",
-    "lon": "15.2465"
+    "lat": 49.2931,
+    "lon": 15.2465
   },
   {
     "name": "Pošná",
-    "lat": "49.4588",
-    "lon": "15.0422"
+    "lat": 49.4588,
+    "lon": 15.0422
   },
   {
     "name": "Podolí I",
-    "lat": "49.3611",
-    "lon": "14.3120"
+    "lat": 49.3611,
+    "lon": 14.312
   },
   {
     "name": "Pohorovice",
-    "lat": "49.1886",
-    "lon": "14.1351"
+    "lat": 49.1886,
+    "lon": 14.1351
   },
   {
     "name": "Pohnánec",
-    "lat": "49.4736",
-    "lon": "14.8027"
+    "lat": 49.4736,
+    "lon": 14.8027
   },
   {
     "name": "Pohnání",
-    "lat": "49.4775",
-    "lon": "14.8114"
+    "lat": 49.4775,
+    "lon": 14.8114
   },
   {
     "name": "Pojbuky",
-    "lat": "49.4958",
-    "lon": "14.8967"
+    "lat": 49.4958,
+    "lon": 14.8967
   },
   {
     "name": "Poběžovice",
-    "lat": "49.5107",
-    "lon": "12.8028"
+    "lat": 49.5107,
+    "lon": 12.8028
   },
   {
     "name": "Pocinovice",
-    "lat": "49.3434",
-    "lon": "13.1335"
+    "lat": 49.3434,
+    "lon": 13.1335
   },
   {
     "name": "Poděvousy",
-    "lat": "49.5275",
-    "lon": "13.1311"
+    "lat": 49.5275,
+    "lon": 13.1311
   },
   {
     "name": "Postřekov",
-    "lat": "49.4583",
-    "lon": "12.8079"
-  },
-  {
-    "name": "Podhradí",
-    "lat": "50.4183",
-    "lon": "15.3103"
+    "lat": 49.4583,
+    "lon": 12.8079
   },
   {
     "name": "Pomezí nad Ohří",
-    "lat": "50.0858",
-    "lon": "12.2844"
+    "lat": 50.0858,
+    "lon": 12.2844
   },
   {
     "name": "Poustka",
-    "lat": "50.1395",
-    "lon": "12.2978"
+    "lat": 50.1395,
+    "lon": 12.2978
   },
   {
     "name": "Potůčky",
-    "lat": "50.4282",
-    "lon": "12.7365"
-  },
-  {
-    "name": "Podmokly",
-    "lat": "49.2301",
-    "lon": "13.5782"
+    "lat": 50.4282,
+    "lon": 12.7365
   },
   {
     "name": "Poleň",
-    "lat": "49.4250",
-    "lon": "13.1767"
+    "lat": 49.425,
+    "lon": 13.1767
   },
   {
     "name": "Polánka",
-    "lat": "49.4356",
-    "lon": "13.5555"
+    "lat": 49.4356,
+    "lon": 13.5555
   },
   {
     "name": "Potvorov",
-    "lat": "50.0164",
-    "lon": "13.3996"
-  },
-  {
-    "name": "Podmokly",
-    "lat": "49.2301",
-    "lon": "13.5782"
+    "lat": 50.0164,
+    "lon": 13.3996
   },
   {
     "name": "Polevsko",
-    "lat": "50.7862",
-    "lon": "14.5312"
+    "lat": 50.7862,
+    "lon": 14.5312
   },
   {
     "name": "Podsedice",
-    "lat": "50.4720",
-    "lon": "13.9483"
-  },
-  {
-    "name": "Polepy",
-    "lat": "50.5056",
-    "lon": "14.2645"
+    "lat": 50.472,
+    "lon": 13.9483
   },
   {
     "name": "Počedělice",
-    "lat": "50.3722",
-    "lon": "13.8877"
+    "lat": 50.3722,
+    "lon": 13.8877
   },
   {
     "name": "Podbořanský Rohozec",
-    "lat": "50.2162",
-    "lon": "13.2627"
+    "lat": 50.2162,
+    "lon": 13.2627
   },
   {
     "name": "Podbořany",
-    "lat": "50.2292",
-    "lon": "13.4114"
+    "lat": 50.2292,
+    "lon": 13.4114
   },
   {
     "name": "Postoloprty",
-    "lat": "50.3601",
-    "lon": "13.7028"
-  },
-  {
-    "name": "Polerady",
-    "lat": "50.2005",
-    "lon": "14.5933"
+    "lat": 50.3601,
+    "lon": 13.7028
   },
   {
     "name": "Povrly",
-    "lat": "50.6728",
-    "lon": "14.1604"
+    "lat": 50.6728,
+    "lon": 14.1604
   },
   {
     "name": "Podmoklany",
-    "lat": "49.7205",
-    "lon": "15.7716"
-  },
-  {
-    "name": "Podmoky",
-    "lat": "50.1913",
-    "lon": "15.2324"
+    "lat": 49.7205,
+    "lon": 15.7716
   },
   {
     "name": "Pohled",
-    "lat": "49.6036",
-    "lon": "15.6481"
+    "lat": 49.6036,
+    "lon": 15.6481
   },
   {
     "name": "Pohleď",
-    "lat": "49.6589",
-    "lon": "15.4524"
+    "lat": 49.6589,
+    "lon": 15.4524
   },
   {
     "name": "Podhořany u Ronova",
-    "lat": "49.9365",
-    "lon": "15.5371"
+    "lat": 49.9365,
+    "lon": 15.5371
   },
   {
     "name": "Pokřikov",
-    "lat": "49.7968",
-    "lon": "15.9882"
+    "lat": 49.7968,
+    "lon": 15.9882
   },
   {
     "name": "Podhorní Újezd a Vojice",
-    "lat": "50.3891",
-    "lon": "15.5209"
-  },
-  {
-    "name": "Podhradí",
-    "lat": "50.4183",
-    "lon": "15.3103"
+    "lat": 50.3891,
+    "lon": 15.5209
   },
   {
     "name": "Podůlší",
-    "lat": "50.4692",
-    "lon": "15.3404"
+    "lat": 50.4692,
+    "lon": 15.3404
   },
   {
     "name": "Police nad Metují",
-    "lat": "50.5369",
-    "lon": "16.2335"
+    "lat": 50.5369,
+    "lon": 16.2335
   },
   {
     "name": "Poběžovice u Holic",
-    "lat": "50.0976",
-    "lon": "16.0007"
+    "lat": 50.0976,
+    "lon": 16.0007
   },
   {
     "name": "Poběžovice u Přelouče",
-    "lat": "49.9910",
-    "lon": "15.5819"
+    "lat": 49.991,
+    "lon": 15.5819
   },
   {
     "name": "Podůlšany",
-    "lat": "50.1288",
-    "lon": "15.7382"
+    "lat": 50.1288,
+    "lon": 15.7382
   },
   {
     "name": "Podbřezí",
-    "lat": "50.2599",
-    "lon": "16.2147"
-  },
-  {
-    "name": "Pohoří",
-    "lat": "49.8999",
-    "lon": "14.5250"
-  },
-  {
-    "name": "Polom",
-    "lat": "49.5746",
-    "lon": "17.8388"
+    "lat": 50.2599,
+    "lon": 16.2147
   },
   {
     "name": "Potštejn",
-    "lat": "50.0833",
-    "lon": "16.3074"
+    "lat": 50.0833,
+    "lon": 16.3074
   },
   {
     "name": "Poniklá",
-    "lat": "50.6612",
-    "lon": "15.4642"
+    "lat": 50.6612,
+    "lon": 15.4642
   },
   {
     "name": "Pohledy",
-    "lat": "49.6947",
-    "lon": "16.5604"
+    "lat": 49.6947,
+    "lon": 16.5604
   },
   {
     "name": "Polička",
-    "lat": "49.7149",
-    "lon": "16.2654"
+    "lat": 49.7149,
+    "lon": 16.2654
   },
   {
     "name": "Pomezí",
-    "lat": "49.7103",
-    "lon": "16.3173"
+    "lat": 49.7103,
+    "lon": 16.3173
   },
   {
     "name": "Poříčí u Litomyšle",
-    "lat": "49.7983",
-    "lon": "16.1938"
-  },
-  {
-    "name": "Podlesí",
-    "lat": "50.0173",
-    "lon": "16.2812"
-  },
-  {
-    "name": "Podolí",
-    "lat": "49.5305",
-    "lon": "16.6177"
-  },
-  {
-    "name": "Pohořelice",
-    "lat": "48.9817",
-    "lon": "16.5242"
+    "lat": 49.7983,
+    "lon": 16.1938
   },
   {
     "name": "Ponětovice",
-    "lat": "49.1522",
-    "lon": "16.7423"
-  },
-  {
-    "name": "Popovice",
-    "lat": "49.1062",
-    "lon": "16.6157"
-  },
-  {
-    "name": "Popůvky",
-    "lat": "49.1774",
-    "lon": "16.4878"
+    "lat": 49.1522,
+    "lon": 16.7423
   },
   {
     "name": "Pozořice",
-    "lat": "49.2098",
-    "lon": "16.7907"
+    "lat": 49.2098,
+    "lon": 16.7907
   },
   {
     "name": "Podivín",
-    "lat": "48.8282",
-    "lon": "16.8501"
+    "lat": 48.8282,
+    "lon": 16.8501
   },
   {
     "name": "Popice",
-    "lat": "48.9282",
-    "lon": "16.6649"
+    "lat": 48.9282,
+    "lon": 16.6649
   },
   {
     "name": "Pouzdřany",
-    "lat": "48.9344",
-    "lon": "16.6249"
-  },
-  {
-    "name": "Podhradí",
-    "lat": "50.4183",
-    "lon": "15.3103"
+    "lat": 48.9344,
+    "lon": 16.6249
   },
   {
     "name": "Podkopná Lhota",
-    "lat": "49.3057",
-    "lon": "17.8314"
-  },
-  {
-    "name": "Pohořelice",
-    "lat": "48.9817",
-    "lon": "16.5242"
+    "lat": 49.3057,
+    "lon": 17.8314
   },
   {
     "name": "Poteč",
-    "lat": "49.1543",
-    "lon": "18.0355"
+    "lat": 49.1543,
+    "lon": 18.0355
   },
   {
     "name": "Pozlovice",
-    "lat": "49.1292",
-    "lon": "17.7693"
+    "lat": 49.1292,
+    "lon": 17.7693
   },
   {
     "name": "Polná",
-    "lat": "49.4873",
-    "lon": "15.7189"
+    "lat": 49.4873,
+    "lon": 15.7189
   },
   {
     "name": "Počenice-Tetětice",
-    "lat": "49.2723",
-    "lon": "17.2389"
+    "lat": 49.2723,
+    "lon": 17.2389
   },
   {
     "name": "Podhradní Lhota",
-    "lat": "49.4210",
-    "lon": "17.7949"
+    "lat": 49.421,
+    "lon": 17.7949
   },
   {
     "name": "Polomí",
-    "lat": "49.6314",
-    "lon": "16.9494"
+    "lat": 49.6314,
+    "lon": 16.9494
   },
   {
     "name": "Pokojovice",
-    "lat": "49.2196",
-    "lon": "15.7424"
-  },
-  {
-    "name": "Police",
-    "lat": "48.9656",
-    "lon": "15.6304"
-  },
-  {
-    "name": "Popůvky",
-    "lat": "49.1774",
-    "lon": "16.4878"
+    "lat": 49.2196,
+    "lon": 15.7424
   },
   {
     "name": "Pozďatín",
-    "lat": "49.2358",
-    "lon": "16.0378"
-  },
-  {
-    "name": "Podolí",
-    "lat": "49.5305",
-    "lon": "16.6177"
+    "lat": 49.2358,
+    "lon": 16.0378
   },
   {
     "name": "Polešovice",
-    "lat": "49.0339",
-    "lon": "17.3406"
-  },
-  {
-    "name": "Popovice",
-    "lat": "49.1062",
-    "lon": "16.6157"
+    "lat": 49.0339,
+    "lon": 17.3406
   },
   {
     "name": "Podbřežice",
-    "lat": "49.2125",
-    "lon": "16.9281"
+    "lat": 49.2125,
+    "lon": 16.9281
   },
   {
     "name": "Podivice",
-    "lat": "49.3657",
-    "lon": "17.0103"
+    "lat": 49.3657,
+    "lon": 17.0103
   },
   {
     "name": "Podomí",
-    "lat": "49.3447",
-    "lon": "16.8332"
+    "lat": 49.3447,
+    "lon": 16.8332
   },
   {
     "name": "Podhradí nad Dyjí",
-    "lat": "48.9002",
-    "lon": "15.6864"
+    "lat": 48.9002,
+    "lon": 15.6864
   },
   {
     "name": "Podmolí",
-    "lat": "48.8506",
-    "lon": "15.9401"
+    "lat": 48.8506,
+    "lon": 15.9401
   },
   {
     "name": "Podmyče",
-    "lat": "48.8876",
-    "lon": "15.7822"
+    "lat": 48.8876,
+    "lon": 15.7822
   },
   {
     "name": "Počítky",
-    "lat": "49.5887",
-    "lon": "15.9719"
+    "lat": 49.5887,
+    "lon": 15.9719
   },
   {
     "name": "Poděšín",
-    "lat": "49.5077",
-    "lon": "15.8009"
-  },
-  {
-    "name": "Podolí",
-    "lat": "49.5305",
-    "lon": "16.6177"
+    "lat": 49.5077,
+    "lon": 15.8009
   },
   {
     "name": "Pokojov",
-    "lat": "49.4818",
-    "lon": "15.9066"
+    "lat": 49.4818,
+    "lon": 15.9066
   },
   {
     "name": "Polnička",
-    "lat": "49.6075",
-    "lon": "15.9163"
-  },
-  {
-    "name": "Podolí",
-    "lat": "49.5305",
-    "lon": "16.6177"
+    "lat": 49.6075,
+    "lon": 15.9163
   },
   {
     "name": "Polkovice",
-    "lat": "49.3917",
-    "lon": "17.2592"
-  },
-  {
-    "name": "Polom",
-    "lat": "49.5746",
-    "lon": "17.8388"
+    "lat": 49.3917,
+    "lon": 17.2592
   },
   {
     "name": "Potštát",
-    "lat": "49.6372",
-    "lon": "17.6517"
-  },
-  {
-    "name": "Police",
-    "lat": "48.9656",
-    "lon": "15.6304"
+    "lat": 49.6372,
+    "lon": 17.6517
   },
   {
     "name": "Postřelmov",
-    "lat": "49.9075",
-    "lon": "16.9118"
+    "lat": 49.9075,
+    "lon": 16.9118
   },
   {
     "name": "Postřelmůvek",
-    "lat": "49.9226",
-    "lon": "16.8791"
-  },
-  {
-    "name": "Podolí",
-    "lat": "49.5305",
-    "lon": "16.6177"
-  },
-  {
-    "name": "Police",
-    "lat": "48.9656",
-    "lon": "15.6304"
+    "lat": 49.9226,
+    "lon": 16.8791
   },
   {
     "name": "Poličná",
-    "lat": "49.4680",
-    "lon": "17.9479"
+    "lat": 49.468,
+    "lon": 17.9479
   },
   {
     "name": "Pozděchov",
-    "lat": "49.2332",
-    "lon": "17.9555"
+    "lat": 49.2332,
+    "lon": 17.9555
+  },
+  {
+    "name": "Popovice (Brno-venkov)",
+    "lat": 49.1062,
+    "lon": 16.6157
+  },
+  {
+    "name": "Popovice (Benešov)",
+    "lat": 49.6952,
+    "lon": 14.7524
+  },
+  {
+    "name": "Popovice (Uherské Hradiště)",
+    "lat": 49.0526,
+    "lon": 17.5271
+  },
+  {
+    "name": "Popovice (Děčín)",
+    "lat": 50.7679,
+    "lon": 14.1775
+  },
+  {
+    "name": "Popovice (Jičín)",
+    "lat": 50.4146,
+    "lon": 15.3728
+  },
+  {
+    "name": "Popovice (Třebíč)",
+    "lat": 49.0979,
+    "lon": 15.8603
+  },
+  {
+    "name": "Popovice (Praha-východ)",
+    "lat": 50.1777,
+    "lon": 14.6253
+  },
+  {
+    "name": "Popovice (Hradec Králové)",
+    "lat": 50.255,
+    "lon": 15.6818
+  },
+  {
+    "name": "Popovice (Přerov)",
+    "lat": 49.4754,
+    "lon": 17.4467
+  },
+  {
+    "name": "Popovice (Beroun)",
+    "lat": 49.9276,
+    "lon": 14.0209
+  },
+  {
+    "name": "Polepy (Litoměřice)",
+    "lat": 50.5056,
+    "lon": 14.2645
+  },
+  {
+    "name": "Polepy (Kolín)",
+    "lat": 50.0047,
+    "lon": 15.206
+  },
+  {
+    "name": "Podmoky (Nymburk)",
+    "lat": 50.1913,
+    "lon": 15.2324
+  },
+  {
+    "name": "Podmoky (Havlíčkův Brod)",
+    "lat": 49.8303,
+    "lon": 15.439
+  },
+  {
+    "name": "Podmoky (Příbram)",
+    "lat": 49.595,
+    "lon": 14.235
+  },
+  {
+    "name": "Polerady (Praha-východ)",
+    "lat": 50.2005,
+    "lon": 14.5933
+  },
+  {
+    "name": "Polerady (Most)",
+    "lat": 50.4445,
+    "lon": 13.6534
+  },
+  {
+    "name": "Pohoří (Praha-západ)",
+    "lat": 49.8999,
+    "lon": 14.525
+  },
+  {
+    "name": "Pohoří (Rychnov nad Kněžnou)",
+    "lat": 50.2922,
+    "lon": 16.099
+  },
+  {
+    "name": "Pohoří (Ústí nad Labem)",
+    "lat": 50.6275,
+    "lon": 14.1337
+  },
+  {
+    "name": "Pohoří (Semily)",
+    "lat": 50.5539,
+    "lon": 15.1272
+  },
+  {
+    "name": "Pohoří (Domažlice)",
+    "lat": 49.3503,
+    "lon": 13.1487
+  },
+  {
+    "name": "Pohoří (Jindřichův Hradec)",
+    "lat": 49.2075,
+    "lon": 14.8765
+  },
+  {
+    "name": "Pohoří (Klatovy)",
+    "lat": 49.4183,
+    "lon": 13.53
+  },
+  {
+    "name": "Pohoří (Tábor)",
+    "lat": 49.4856,
+    "lon": 14.4995
+  },
+  {
+    "name": "Pohoří (Písek)",
+    "lat": 49.4862,
+    "lon": 14.0141
+  },
+  {
+    "name": "Podlesí (Ústí nad Orlicí)",
+    "lat": 50.0173,
+    "lon": 16.2812
+  },
+  {
+    "name": "Podlesí (Příbram)",
+    "lat": 49.695,
+    "lon": 13.97
+  },
+  {
+    "name": "Podlesí (Opava)",
+    "lat": 49.7642,
+    "lon": 17.5917
+  },
+  {
+    "name": "Podlesí (Karviná)",
+    "lat": 49.7776,
+    "lon": 18.4539
+  },
+  {
+    "name": "Podlesí (Pardubice)",
+    "lat": 50.0841,
+    "lon": 15.9825
+  },
+  {
+    "name": "Podlesí (Karlovy Vary)",
+    "lat": 50.2725,
+    "lon": 12.879
+  },
+  {
+    "name": "Podlesí (Brno-venkov)",
+    "lat": 49.3059,
+    "lon": 16.5622
+  },
+  {
+    "name": "Podlesí (Jindřichův Hradec)",
+    "lat": 49.0045,
+    "lon": 15.2388
+  },
+  {
+    "name": "Podlesí (Šumperk)",
+    "lat": 50.075,
+    "lon": 16.8607
+  },
+  {
+    "name": "Podlesí (Vsetín)",
+    "lat": 49.4533,
+    "lon": 17.9785
+  },
+  {
+    "name": "Podhradí (Cheb)",
+    "lat": 50.2553,
+    "lon": 12.2017
+  },
+  {
+    "name": "Podhradí (Jičín)",
+    "lat": 50.4183,
+    "lon": 15.3103
+  },
+  {
+    "name": "Podhradí (Písek)",
+    "lat": 49.4266,
+    "lon": 14.2006
+  },
+  {
+    "name": "Podhradí (Zlín)",
+    "lat": 49.14,
+    "lon": 17.7738
+  },
+  {
+    "name": "Podhradí (Mladá Boleslav)",
+    "lat": 50.4685,
+    "lon": 14.9186
+  },
+  {
+    "name": "Podhradí (Opava)",
+    "lat": 49.803,
+    "lon": 17.7665
+  },
+  {
+    "name": "Podhradí (Chrudim)",
+    "lat": 49.8793,
+    "lon": 15.5885
+  },
+  {
+    "name": "Podmokly (Klatovy)",
+    "lat": 49.2301,
+    "lon": 13.5782
+  },
+  {
+    "name": "Podmokly (Rokycany)",
+    "lat": 49.9435,
+    "lon": 13.7044
+  },
+  {
+    "name": "Podmokly (Děčín)",
+    "lat": 50.7747,
+    "lon": 14.1983
+  },
+  {
+    "name": "Podmokly (Plzeň-sever)",
+    "lat": 49.8678,
+    "lon": 13.1788
+  },
+  {
+    "name": "Polom (Přerov)",
+    "lat": 49.5746,
+    "lon": 17.8388
+  },
+  {
+    "name": "Polom (Rychnov nad Kněžnou)",
+    "lat": 50.0589,
+    "lon": 16.3067
+  },
+  {
+    "name": "Polom (Klatovy)",
+    "lat": 49.1304,
+    "lon": 13.2886
+  },
+  {
+    "name": "Polom (Šumperk)",
+    "lat": 50.1421,
+    "lon": 17.0887
+  },
+  {
+    "name": "Polom (Žďár nad Sázavou)",
+    "lat": 49.5973,
+    "lon": 16.3103
+  },
+  {
+    "name": "Polom (Karlovy Vary)",
+    "lat": 50.1157,
+    "lon": 13.0892
+  },
+  {
+    "name": "Polom (Chrudim)",
+    "lat": 49.7796,
+    "lon": 15.7722
+  },
+  {
+    "name": "Polom (Tachov)",
+    "lat": 49.7768,
+    "lon": 12.5737
+  },
+  {
+    "name": "Podolí (Blansko)",
+    "lat": 49.5305,
+    "lon": 16.6177
+  },
+  {
+    "name": "Podolí (Přerov)",
+    "lat": 49.4454,
+    "lon": 17.5302
+  },
+  {
+    "name": "Podolí (Uherské Hradiště)",
+    "lat": 49.0413,
+    "lon": 17.5284
+  },
+  {
+    "name": "Podolí (Brno-venkov)",
+    "lat": 49.1904,
+    "lon": 16.7208
+  },
+  {
+    "name": "Podolí (Žďár nad Sázavou)",
+    "lat": 49.4843,
+    "lon": 16.0804
+  },
+  {
+    "name": "Podolí (Vsetín)",
+    "lat": 49.4303,
+    "lon": 17.8571
+  },
+  {
+    "name": "Podolí",
+    "lat": 50.0516,
+    "lon": 14.4212
+  },
+  {
+    "name": "Podolí (Šumperk)",
+    "lat": 49.777,
+    "lon": 16.8906
+  },
+  {
+    "name": "Podolí (Klatovy)",
+    "lat": 49.3024,
+    "lon": 13.348
+  },
+  {
+    "name": "Podolí (Olomouc)",
+    "lat": 49.7078,
+    "lon": 16.9218
+  },
+  {
+    "name": "Pohořelice (Brno-venkov)",
+    "lat": 48.9817,
+    "lon": 16.5242
+  },
+  {
+    "name": "Pohořelice (Zlín)",
+    "lat": 49.1766,
+    "lon": 17.5378
+  },
+  {
+    "name": "Pohořelice (Tábor)",
+    "lat": 49.5239,
+    "lon": 14.49
+  },
+  {
+    "name": "Popůvky (Brno-venkov)",
+    "lat": 49.1774,
+    "lon": 16.4878
+  },
+  {
+    "name": "Popůvky (Třebíč)",
+    "lat": 49.1591,
+    "lon": 16.1274
+  },
+  {
+    "name": "Popůvky (Přerov)",
+    "lat": 49.3315,
+    "lon": 17.2992
+  },
+  {
+    "name": "Police (Třebíč)",
+    "lat": 48.9656,
+    "lon": 15.6304
+  },
+  {
+    "name": "Police (Šumperk)",
+    "lat": 49.8147,
+    "lon": 16.9962
+  },
+  {
+    "name": "Police (Vsetín)",
+    "lat": 49.4568,
+    "lon": 17.8674
   }
 ]

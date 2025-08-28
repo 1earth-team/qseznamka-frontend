@@ -1,107 +1,107 @@
 [
   {
     "name": "Mladá Boleslav",
-    "lat": "50.4116",
-    "lon": "14.9031"
+    "lat": 50.4116,
+    "lon": 14.9031
   },
   {
     "name": "Mladošovice",
-    "lat": "48.9407",
-    "lon": "14.6992"
+    "lat": 48.9407,
+    "lon": 14.6992
   },
   {
     "name": "Mladé Bříště",
-    "lat": "49.4915",
-    "lon": "15.3352"
+    "lat": 49.4915,
+    "lon": 15.3352
   },
   {
     "name": "Mladá Vožice",
-    "lat": "49.5332",
-    "lon": "14.8089"
+    "lat": 49.5332,
+    "lon": 14.8089
   },
   {
     "name": "Mlýny",
-    "lat": "49.3362",
-    "lon": "14.8770"
+    "lat": 49.3362,
+    "lon": 14.877
   },
   {
     "name": "Mlýnské Struhadlo",
-    "lat": "49.4315",
-    "lon": "13.4700"
+    "lat": 49.4315,
+    "lon": 13.47
   },
   {
     "name": "Mladý Smolivec",
-    "lat": "49.5061",
-    "lon": "13.7351"
+    "lat": 49.5061,
+    "lon": 13.7351
   },
   {
     "name": "Mladotice",
-    "lat": "49.9853",
-    "lon": "13.3643"
+    "lat": 49.9853,
+    "lon": 13.3643
   },
   {
     "name": "Mlečice",
-    "lat": "49.9202",
-    "lon": "13.6950"
+    "lat": 49.9202,
+    "lon": 13.695
   },
   {
     "name": "Mlékojedy",
-    "lat": "50.5271",
-    "lon": "14.1193"
+    "lat": 50.5271,
+    "lon": 14.1193
   },
   {
     "name": "Mlékosrby",
-    "lat": "50.1917",
-    "lon": "15.5015"
-  },
-  {
-    "name": "Mladoňovice",
-    "lat": "49.0100",
-    "lon": "15.6444"
+    "lat": 50.1917,
+    "lon": 15.5015
   },
   {
     "name": "Mladějov",
-    "lat": "50.4816",
-    "lon": "15.2328"
+    "lat": 50.4816,
+    "lon": 15.2328
   },
   {
     "name": "Mlázovice",
-    "lat": "50.4119",
-    "lon": "15.5216"
+    "lat": 50.4119,
+    "lon": 15.5216
   },
   {
     "name": "Mladějov na Moravě",
-    "lat": "49.8226",
-    "lon": "16.5911"
+    "lat": 49.8226,
+    "lon": 16.5911
   },
   {
     "name": "Mladé Buky",
-    "lat": "50.6066",
-    "lon": "15.8331"
+    "lat": 50.6066,
+    "lon": 15.8331
   },
   {
     "name": "Mladkov",
-    "lat": "50.0970",
-    "lon": "16.6269"
-  },
-  {
-    "name": "Mladoňovice",
-    "lat": "49.0100",
-    "lon": "15.6444"
+    "lat": 50.097,
+    "lon": 16.6269
   },
   {
     "name": "Mladeč",
-    "lat": "49.7056",
-    "lon": "17.0200"
+    "lat": 49.7056,
+    "lon": 17.02
+  },
+  {
+    "name": "Mladoňovice (Třebíč)",
+    "lat": 49.01,
+    "lon": 15.6444
+  },
+  {
+    "name": "Mladoňovice (Chrudim)",
+    "lat": 49.8871,
+    "lon": 15.7235
   },
   {
     "name": "Mladějovice",
-    "lat": "",
-    "lon": ""
+    "lat": 49.7526064,
+    "lon": 17.2309543
   },
   {
     "name": "Mladecko",
-    "lat": "",
-    "lon": ""
+    "lat": 49.8982375,
+    "lon": 17.7081719
   }
 ]

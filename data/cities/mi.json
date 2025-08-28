@@ -1,317 +1,372 @@
 [
   {
     "name": "Miličín",
-    "lat": "49.5707",
-    "lon": "14.6614"
-  },
-  {
-    "name": "Miřetice",
-    "lat": "49.8418",
-    "lon": "15.8853"
+    "lat": 49.5707,
+    "lon": 14.6614
   },
   {
     "name": "Miskovice",
-    "lat": "49.9461",
-    "lon": "15.2048"
+    "lat": 49.9461,
+    "lon": 15.2048
   },
   {
     "name": "Milčice",
-    "lat": "50.1062",
-    "lon": "14.9924"
-  },
-  {
-    "name": "Milovice",
-    "lat": "50.2260",
-    "lon": "14.8886"
+    "lat": 50.1062,
+    "lon": 14.9924
   },
   {
     "name": "Mirošovice",
-    "lat": "49.9098",
-    "lon": "14.7112"
-  },
-  {
-    "name": "Milešov",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Milín",
-    "lat": "",
-    "lon": ""
+    "lat": 49.9098,
+    "lon": 14.7112
   },
   {
     "name": "Milostín",
-    "lat": "50.1938",
-    "lon": "13.6691"
+    "lat": 50.1938,
+    "lon": 13.6691
   },
   {
     "name": "Milý",
-    "lat": "50.2327",
-    "lon": "13.8670"
+    "lat": 50.2327,
+    "lon": 13.867
   },
   {
     "name": "Mirkovice",
-    "lat": "48.8110",
-    "lon": "14.3912"
+    "lat": 48.811,
+    "lon": 14.3912
   },
   {
     "name": "Milevsko",
-    "lat": "49.4503",
-    "lon": "14.3595"
+    "lat": 49.4503,
+    "lon": 14.3595
   },
   {
     "name": "Minice",
-    "lat": "49.4898",
-    "lon": "14.0121"
+    "lat": 49.4898,
+    "lon": 14.0121
   },
   {
     "name": "Mirotice",
-    "lat": "49.4290",
-    "lon": "14.0369"
+    "lat": 49.429,
+    "lon": 14.0369
   },
   {
     "name": "Mirovice",
-    "lat": "49.5158",
-    "lon": "14.0366"
+    "lat": 49.5158,
+    "lon": 14.0366
   },
   {
     "name": "Mišovice",
-    "lat": "49.4953",
-    "lon": "14.0053"
+    "lat": 49.4953,
+    "lon": 14.0053
   },
   {
     "name": "Mičovice",
-    "lat": "48.9835",
-    "lon": "14.1251"
+    "lat": 48.9835,
+    "lon": 14.1251
   },
   {
     "name": "Milejovice",
-    "lat": "49.1881",
-    "lon": "13.9301"
+    "lat": 49.1881,
+    "lon": 13.9301
   },
   {
     "name": "Miloňovice",
-    "lat": "49.2205",
-    "lon": "13.9586"
+    "lat": 49.2205,
+    "lon": 13.9586
   },
   {
     "name": "Milavče",
-    "lat": "49.4659",
-    "lon": "12.9823"
+    "lat": 49.4659,
+    "lon": 12.9823
   },
   {
     "name": "Milhostov",
-    "lat": "50.1560",
-    "lon": "12.4532"
-  },
-  {
-    "name": "Milíkov",
-    "lat": "50.0558",
-    "lon": "12.5476"
+    "lat": 50.156,
+    "lon": 12.4532
   },
   {
     "name": "Mileč",
-    "lat": "49.4695",
-    "lon": "13.6044"
+    "lat": 49.4695,
+    "lon": 13.6044
   },
   {
     "name": "Milínov",
-    "lat": "49.6431",
-    "lon": "13.5659"
-  },
-  {
-    "name": "Mirošov",
-    "lat": "49.4653",
-    "lon": "16.1561"
+    "lat": 49.6431,
+    "lon": 13.5659
   },
   {
     "name": "Milíře",
-    "lat": "49.7963",
-    "lon": "12.5504"
+    "lat": 49.7963,
+    "lon": 12.5504
   },
   {
     "name": "Mimoň",
-    "lat": "50.6589",
-    "lon": "14.7244"
+    "lat": 50.6589,
+    "lon": 14.7244
   },
   {
     "name": "Mikulášovice",
-    "lat": "50.9653",
-    "lon": "14.3637"
-  },
-  {
-    "name": "Michalovice",
-    "lat": "49.5769",
-    "lon": "15.5243"
+    "lat": 50.9653,
+    "lon": 14.3637
   },
   {
     "name": "Miřejovice",
-    "lat": "50.5532",
-    "lon": "14.1089"
-  },
-  {
-    "name": "Mikulov",
-    "lat": "48.8069",
-    "lon": "16.6384"
-  },
-  {
-    "name": "Michalovice",
-    "lat": "49.5769",
-    "lon": "15.5243"
-  },
-  {
-    "name": "Miřetice",
-    "lat": "49.8418",
-    "lon": "15.8853"
+    "lat": 50.5532,
+    "lon": 14.1089
   },
   {
     "name": "Miletín",
-    "lat": "50.4041",
-    "lon": "15.6823"
+    "lat": 50.4041,
+    "lon": 15.6823
   },
   {
     "name": "Milovice u Hořic",
-    "lat": "50.3302",
-    "lon": "15.6305"
-  },
-  {
-    "name": "Mikulovice",
-    "lat": "48.9568",
-    "lon": "16.0947"
+    "lat": 50.3302,
+    "lon": 15.6305
   },
   {
     "name": "Mikuleč",
-    "lat": "49.8058",
-    "lon": "16.4225"
+    "lat": 49.8058,
+    "lon": 16.4225
   },
   {
     "name": "Mistrovice",
-    "lat": "50.0237",
-    "lon": "16.5715"
-  },
-  {
-    "name": "Milonice",
-    "lat": "49.3666",
-    "lon": "16.5664"
-  },
-  {
-    "name": "Mikulov",
-    "lat": "48.8069",
-    "lon": "16.6384"
-  },
-  {
-    "name": "Milovice",
-    "lat": "50.2260",
-    "lon": "14.8886"
+    "lat": 50.0237,
+    "lon": 16.5715
   },
   {
     "name": "Mikulčice",
-    "lat": "48.8165",
-    "lon": "17.0510"
+    "lat": 48.8165,
+    "lon": 17.051
   },
   {
     "name": "Milotice",
-    "lat": "48.9556",
-    "lon": "17.1415"
+    "lat": 48.9556,
+    "lon": 17.1415
   },
   {
     "name": "Milíčov",
-    "lat": "49.3955",
-    "lon": "15.3920"
-  },
-  {
-    "name": "Mirošov",
-    "lat": "49.4653",
-    "lon": "16.1561"
-  },
-  {
-    "name": "Mikulovice",
-    "lat": "48.9568",
-    "lon": "16.0947"
+    "lat": 49.3955,
+    "lon": 15.392
   },
   {
     "name": "Mistřice",
-    "lat": "49.0862",
-    "lon": "17.5359"
+    "lat": 49.0862,
+    "lon": 17.5359
   },
   {
     "name": "Milešovice",
-    "lat": "49.0827",
-    "lon": "16.8542"
-  },
-  {
-    "name": "Milonice",
-    "lat": "49.3666",
-    "lon": "16.5664"
-  },
-  {
-    "name": "Mikulovice",
-    "lat": "48.9568",
-    "lon": "16.0947"
+    "lat": 49.0827,
+    "lon": 16.8542
   },
   {
     "name": "Milíčovice",
-    "lat": "48.8918",
-    "lon": "15.9313"
+    "lat": 48.8918,
+    "lon": 15.9313
   },
   {
     "name": "Miroslav",
-    "lat": "48.9473",
-    "lon": "16.3135"
+    "lat": 48.9473,
+    "lon": 16.3135
   },
   {
     "name": "Miroslavské Knínice",
-    "lat": "48.9775",
-    "lon": "16.3220"
+    "lat": 48.9775,
+    "lon": 16.322
   },
   {
     "name": "Milasín",
-    "lat": "49.4662",
-    "lon": "16.2288"
+    "lat": 49.4662,
+    "lon": 16.2288
   },
   {
     "name": "Milešín",
-    "lat": "49.3684",
-    "lon": "16.2017"
-  },
-  {
-    "name": "Mirošov",
-    "lat": "49.4653",
-    "lon": "16.1561"
+    "lat": 49.3684,
+    "lon": 16.2017
   },
   {
     "name": "Milotice nad Opavou",
-    "lat": "49.9957",
-    "lon": "17.5420"
-  },
-  {
-    "name": "Milíkov",
-    "lat": "50.0558",
-    "lon": "12.5476"
-  },
-  {
-    "name": "Mikolajice",
-    "lat": "",
-    "lon": ""
+    "lat": 49.9957,
+    "lon": 17.542
   },
   {
     "name": "Milenov",
-    "lat": "49.5626",
-    "lon": "17.6670"
+    "lat": 49.5626,
+    "lon": 17.667
   },
   {
     "name": "Milotice nad Bečvou",
-    "lat": "49.5365",
-    "lon": "17.8398"
+    "lat": 49.5365,
+    "lon": 17.8398
   },
   {
     "name": "Mikulůvka",
-    "lat": "49.4135",
-    "lon": "17.9251"
+    "lat": 49.4135,
+    "lon": 17.9251
   },
   {
-    "name": "Mikulovice",
-    "lat": "",
-    "lon": ""
+    "name": "Miřetice (Chrudim)",
+    "lat": 49.8418,
+    "lon": 15.8853
+  },
+  {
+    "name": "Miřetice (Benešov)",
+    "lat": 49.6589,
+    "lon": 14.9767
+  },
+  {
+    "name": "Miřetice (Prachatice)",
+    "lat": 49.133,
+    "lon": 13.7373
+  },
+  {
+    "name": "Milovice (Nymburk)",
+    "lat": 50.226,
+    "lon": 14.8886
+  },
+  {
+    "name": "Milovice (Břeclav)",
+    "lat": 48.8525,
+    "lon": 16.6981
+  },
+  {
+    "name": "Milovice (Kroměříž)",
+    "lat": 49.2217,
+    "lon": 17.3563
+  },
+  {
+    "name": "Milíkov (Cheb)",
+    "lat": 50.0558,
+    "lon": 12.5476
+  },
+  {
+    "name": "Milíkov (Frýdek-Místek)",
+    "lat": 49.5857,
+    "lon": 18.7194
+  },
+  {
+    "name": "Milíkov (Prachatice)",
+    "lat": 49.1466,
+    "lon": 13.6933
+  },
+  {
+    "name": "Milíkov (Žďár nad Sázavou)",
+    "lat": 49.4311,
+    "lon": 15.8796
+  },
+  {
+    "name": "Milíkov (Tachov)",
+    "lat": 49.7468,
+    "lon": 12.9392
+  },
+  {
+    "name": "Mirošov (Žďár nad Sázavou)",
+    "lat": 49.4653,
+    "lon": 16.1561
+  },
+  {
+    "name": "Mirošov (Jihlava)",
+    "lat": 49.3894,
+    "lon": 15.4634
+  },
+  {
+    "name": "Mirošov (Rokycany)",
+    "lat": 49.6879,
+    "lon": 13.6581
+  },
+  {
+    "name": "Mirošov (Zlín)",
+    "lat": 49.1481,
+    "lon": 17.9796
+  },
+  {
+    "name": "Michalovice (Havlíčkův Brod)",
+    "lat": 49.5769,
+    "lon": 15.5243
+  },
+  {
+    "name": "Michalovice (Litoměřice)",
+    "lat": 50.5366,
+    "lon": 14.0819
+  },
+  {
+    "name": "Michalovice (Mladá Boleslav)",
+    "lat": 50.4344,
+    "lon": 14.8878
+  },
+  {
+    "name": "Michalovice (Kutná Hora)",
+    "lat": 49.7869,
+    "lon": 15.2911
+  },
+  {
+    "name": "Mikulov (Břeclav)",
+    "lat": 48.8069,
+    "lon": 16.6384
+  },
+  {
+    "name": "Mikulov (Teplice)",
+    "lat": 50.6876,
+    "lon": 13.7216
+  },
+  {
+    "name": "Mikulov (Český Krumlov)",
+    "lat": 48.6231,
+    "lon": 14.5669
+  },
+  {
+    "name": "Mikulovice (Znojmo)",
+    "lat": 48.9568,
+    "lon": 16.0947
+  },
+  {
+    "name": "Mikulovice (Třebíč)",
+    "lat": 49.1617,
+    "lon": 15.8466
+  },
+  {
+    "name": "Mikulovice (Pardubice)",
+    "lat": 49.9894,
+    "lon": 15.7754
+  },
+  {
+    "name": "Mikulovice (Jeseník)",
+    "lat": 50.2986,
+    "lon": 17.3217
+  },
+  {
+    "name": "Mikulovice (Chomutov)",
+    "lat": 50.3861,
+    "lon": 13.2202
+  },
+  {
+    "name": "Mikulovice (Most)",
+    "lat": 50.5891,
+    "lon": 13.4837
+  },
+  {
+    "name": "Milonice (Blansko)",
+    "lat": 49.3666,
+    "lon": 16.5664
+  },
+  {
+    "name": "Milonice (Vyškov)",
+    "lat": 49.1594,
+    "lon": 17.0711
+  },
+  {
+    "name": "Milešov",
+    "lat": 49.589306,
+    "lon": 14.2211249
+  },
+  {
+    "name": "Milín",
+    "lat": 49.6321628,
+    "lon": 14.0461362
+  },
+  {
+    "name": "Mikolajice",
+    "lat": 49.8771605,
+    "lon": 17.7933184
   }
 ]

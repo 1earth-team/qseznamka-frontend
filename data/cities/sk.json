@@ -1,247 +1,377 @@
 [
   {
     "name": "Skřipel",
-    "lat": "49.8420",
-    "lon": "14.0670"
-  },
-  {
-    "name": "Skuhrov",
-    "lat": "49.8733",
-    "lon": "14.1467"
+    "lat": 49.842,
+    "lon": 14.067
   },
   {
     "name": "Skvrňov",
-    "lat": "49.8971",
-    "lon": "15.0018"
+    "lat": 49.8971,
+    "lon": 15.0018
   },
   {
     "name": "Skalsko",
-    "lat": "50.4271",
-    "lon": "14.7590"
-  },
-  {
-    "name": "Skorkov",
-    "lat": "50.2317",
-    "lon": "14.7493"
-  },
-  {
-    "name": "Skryje",
-    "lat": "49.3936",
-    "lon": "16.3107"
-  },
-  {
-    "name": "Skály",
-    "lat": "49.1834",
-    "lon": "13.9929"
-  },
-  {
-    "name": "Skály",
-    "lat": "49.1834",
-    "lon": "13.9929"
+    "lat": 50.4271,
+    "lon": 14.759
   },
   {
     "name": "Skočice",
-    "lat": "49.1861",
-    "lon": "14.1043"
-  },
-  {
-    "name": "Skalice",
-    "lat": "48.9644",
-    "lon": "16.2248"
+    "lat": 49.1861,
+    "lon": 14.1043
   },
   {
     "name": "Skopytce",
-    "lat": "49.3314",
-    "lon": "14.7980"
+    "lat": 49.3314,
+    "lon": 14.798
   },
   {
     "name": "Skrýchov u Malšic",
-    "lat": "49.3302",
-    "lon": "14.5956"
+    "lat": 49.3302,
+    "lon": 14.5956
   },
   {
     "name": "Skalná",
-    "lat": "50.1702",
-    "lon": "12.3610"
+    "lat": 50.1702,
+    "lon": 12.361
   },
   {
     "name": "Skašov",
-    "lat": "49.5105",
-    "lon": "13.4314"
+    "lat": 49.5105,
+    "lon": 13.4314
   },
   {
     "name": "Skomelno",
-    "lat": "49.8474",
-    "lon": "13.6422"
+    "lat": 49.8474,
+    "lon": 13.6422
   },
   {
     "name": "Skořice",
-    "lat": "49.6777",
-    "lon": "13.7053"
+    "lat": 49.6777,
+    "lon": 13.7053
   },
   {
     "name": "Skapce",
-    "lat": "49.6570",
-    "lon": "12.9903"
-  },
-  {
-    "name": "Skalice u České Lípy",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Skalka u Doks",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Skuhrov",
-    "lat": "49.8733",
-    "lon": "14.1467"
+    "lat": 49.657,
+    "lon": 12.9903
   },
   {
     "name": "Skršín",
-    "lat": "50.4656",
-    "lon": "13.7544"
-  },
-  {
-    "name": "Skorkov",
-    "lat": "50.2317",
-    "lon": "14.7493"
-  },
-  {
-    "name": "Skryje",
-    "lat": "49.3936",
-    "lon": "16.3107"
-  },
-  {
-    "name": "Skuhrov",
-    "lat": "49.8733",
-    "lon": "14.1467"
-  },
-  {
-    "name": "Skalice",
-    "lat": "48.9644",
-    "lon": "16.2248"
+    "lat": 50.4656,
+    "lon": 13.7544
   },
   {
     "name": "Skřivany",
-    "lat": "50.2686",
-    "lon": "15.4991"
+    "lat": 50.2686,
+    "lon": 15.4991
   },
   {
     "name": "Skuteč",
-    "lat": "49.8434",
-    "lon": "15.9962"
+    "lat": 49.8434,
+    "lon": 15.9962
   },
   {
     "name": "Skuhrov nad Bělou",
-    "lat": "50.2294",
-    "lon": "16.2923"
-  },
-  {
-    "name": "Sklené",
-    "lat": "49.7067",
-    "lon": "16.5296"
+    "lat": 50.2294,
+    "lon": 16.2923
   },
   {
     "name": "Skořenice",
-    "lat": "50.0313",
-    "lon": "16.2220"
+    "lat": 50.0313,
+    "lon": 16.222
   },
   {
     "name": "Skalice nad Svitavou",
-    "lat": "49.4808",
-    "lon": "16.6073"
+    "lat": 49.4808,
+    "lon": 16.6073
   },
   {
     "name": "Skrchov",
-    "lat": "49.5776",
-    "lon": "16.5491"
-  },
-  {
-    "name": "Skalička",
-    "lat": "49.5188",
-    "lon": "17.7949"
-  },
-  {
-    "name": "Skryje",
-    "lat": "49.3936",
-    "lon": "16.3107"
-  },
-  {
-    "name": "Skalka",
-    "lat": "49.0358",
-    "lon": "17.2072"
+    "lat": 49.5776,
+    "lon": 16.5491
   },
   {
     "name": "Skoronice",
-    "lat": "48.9813",
-    "lon": "17.1534"
+    "lat": 48.9813,
+    "lon": 17.1534
   },
   {
     "name": "Skaštice",
-    "lat": "49.3324",
-    "lon": "17.4173"
-  },
-  {
-    "name": "Skalka",
-    "lat": "49.0358",
-    "lon": "17.2072"
+    "lat": 49.3324,
+    "lon": 17.4173
   },
   {
     "name": "Skřípov",
-    "lat": "49.5835",
-    "lon": "16.8202"
-  },
-  {
-    "name": "Skalice",
-    "lat": "48.9644",
-    "lon": "16.2248"
-  },
-  {
-    "name": "Sklené",
-    "lat": "49.7067",
-    "lon": "16.5296"
+    "lat": 49.5835,
+    "lon": 16.8202
   },
   {
     "name": "Sklené nad Oslavou",
-    "lat": "49.4390",
-    "lon": "16.0564"
+    "lat": 49.439,
+    "lon": 16.0564
   },
   {
     "name": "Skorotice",
-    "lat": "49.4573",
-    "lon": "16.3592"
+    "lat": 49.4573,
+    "lon": 16.3592
   },
   {
     "name": "Skřinářov",
-    "lat": "49.3470",
-    "lon": "16.1720"
+    "lat": 49.347,
+    "lon": 16.172
   },
   {
     "name": "Skotnice",
-    "lat": "49.6576",
-    "lon": "18.1339"
+    "lat": 49.6576,
+    "lon": 18.1339
   },
   {
     "name": "Skrbeň",
-    "lat": "49.6416",
-    "lon": "17.1781"
-  },
-  {
-    "name": "Skřipov",
-    "lat": "",
-    "lon": ""
-  },
-  {
-    "name": "Skalička",
-    "lat": "49.5188",
-    "lon": "17.7949"
+    "lat": 49.6416,
+    "lon": 17.1781
   },
   {
     "name": "Skorošice",
-    "lat": "50.3088",
-    "lon": "17.0806"
+    "lat": 50.3088,
+    "lon": 17.0806
+  },
+  {
+    "name": "Skuhrov (Beroun)",
+    "lat": 49.8733,
+    "lon": 14.1467
+  },
+  {
+    "name": "Skuhrov (Jablonec nad Nisou)",
+    "lat": 50.676,
+    "lon": 15.2133
+  },
+  {
+    "name": "Skuhrov (Havlíčkův Brod)",
+    "lat": 49.6847,
+    "lon": 15.5321
+  },
+  {
+    "name": "Skuhrov (Ústí nad Orlicí)",
+    "lat": 49.9347,
+    "lon": 16.4989
+  },
+  {
+    "name": "Skuhrov (Semily)",
+    "lat": 50.543,
+    "lon": 15.3379
+  },
+  {
+    "name": "Skuhrov (Příbram)",
+    "lat": 49.5965,
+    "lon": 13.905
+  },
+  {
+    "name": "Skuhrov (Mělník)",
+    "lat": 50.3396,
+    "lon": 14.511
+  },
+  {
+    "name": "Skorkov (Mladá Boleslav)",
+    "lat": 50.2317,
+    "lon": 14.7493
+  },
+  {
+    "name": "Skorkov (Havlíčkův Brod)",
+    "lat": 49.5084,
+    "lon": 15.4756
+  },
+  {
+    "name": "Skryje (Brno-venkov)",
+    "lat": 49.3936,
+    "lon": 16.3107
+  },
+  {
+    "name": "Skryje (Havlíčkův Brod)",
+    "lat": 49.843,
+    "lon": 15.4868
+  },
+  {
+    "name": "Skryje (Rakovník)",
+    "lat": 49.9649,
+    "lon": 13.7668
+  },
+  {
+    "name": "Skály (Strakonice)",
+    "lat": 49.1834,
+    "lon": 13.9929
+  },
+  {
+    "name": "Skály (Písek)",
+    "lat": 49.2198,
+    "lon": 14.1605
+  },
+  {
+    "name": "Skály (Náchod)",
+    "lat": 50.573,
+    "lon": 16.136
+  },
+  {
+    "name": "Skály (Šumperk)",
+    "lat": 50.0908,
+    "lon": 17.1127
+  },
+  {
+    "name": "Skály (Jablonec nad Nisou)",
+    "lat": 50.7451,
+    "lon": 15.2487
+  },
+  {
+    "name": "Skály (Bruntál)",
+    "lat": 49.9134,
+    "lon": 17.2238
+  },
+  {
+    "name": "Skalice (Znojmo)",
+    "lat": 48.9644,
+    "lon": 16.2248
+  },
+  {
+    "name": "Skalice (Tábor)",
+    "lat": 49.3033,
+    "lon": 14.6953
+  },
+  {
+    "name": "Skalice (Hradec Králové)",
+    "lat": 50.2764,
+    "lon": 15.872
+  },
+  {
+    "name": "Skalice",
+    "lat": 49.5456,
+    "lon": 13.9794
+  },
+  {
+    "name": "Skalice (Frýdek-Místek)",
+    "lat": 49.6538,
+    "lon": 18.4034
+  },
+  {
+    "name": "Skalice (Příbram)",
+    "lat": 49.7173,
+    "lon": 14.1896
+  },
+  {
+    "name": "Skalice (Litoměřice)",
+    "lat": 50.497,
+    "lon": 13.8889
+  },
+  {
+    "name": "Skalice (Žďár nad Sázavou)",
+    "lat": 49.6062,
+    "lon": 16.0026
+  },
+  {
+    "name": "Skalice (Klatovy)",
+    "lat": 49.1725,
+    "lon": 13.6183
+  },
+  {
+    "name": "Skalice (Strakonice)",
+    "lat": 49.0952,
+    "lon": 14.1408
+  },
+  {
+    "name": "Skalička (Přerov)",
+    "lat": 49.5188,
+    "lon": 17.7949
+  },
+  {
+    "name": "Skalička (Brno-venkov)",
+    "lat": 49.3579,
+    "lon": 16.5162
+  },
+  {
+    "name": "Skalička (Znojmo)",
+    "lat": 48.9625,
+    "lon": 16.2264
+  },
+  {
+    "name": "Skalička (Chrudim)",
+    "lat": 49.8867,
+    "lon": 15.608
+  },
+  {
+    "name": "Skalička (Hradec Králové)",
+    "lat": 50.2714,
+    "lon": 15.8556
+  },
+  {
+    "name": "Skalička (Šumperk)",
+    "lat": 49.8695,
+    "lon": 16.8792
+  },
+  {
+    "name": "Skalička (Jablonec nad Nisou)",
+    "lat": 50.6359,
+    "lon": 15.1307
+  },
+  {
+    "name": "Skalka",
+    "lat": 50.0685,
+    "lon": 14.508
+  },
+  {
+    "name": "Skalka (Hodonín)",
+    "lat": 49.0358,
+    "lon": 17.2072
+  },
+  {
+    "name": "Skalka (Prostějov)",
+    "lat": 49.4031,
+    "lon": 17.1698
+  },
+  {
+    "name": "Skalka (Cheb)",
+    "lat": 50.0932,
+    "lon": 12.3344
+  },
+  {
+    "name": "Skalka (Frýdek-Místek)",
+    "lat": 49.5528,
+    "lon": 18.3009
+  },
+  {
+    "name": "Skalka (Česká Lípa)",
+    "lat": 50.5872,
+    "lon": 14.4146
+  },
+  {
+    "name": "Skalka (Domažlice)",
+    "lat": 49.3821,
+    "lon": 12.7767
+  },
+  {
+    "name": "Skalka (Příbram)",
+    "lat": 49.7068,
+    "lon": 14.1075
+  },
+  {
+    "name": "Skalka (Karlovy Vary)",
+    "lat": 50.3569,
+    "lon": 12.8527
+  },
+  {
+    "name": "Skalka (Brno-venkov)",
+    "lat": 49.1474,
+    "lon": 16.4526
+  },
+  {
+    "name": "Skalice u České Lípy",
+    "lat": 50.7449093,
+    "lon": 14.5306716
+  },
+  {
+    "name": "Skalka u Doks",
+    "lat": 50.5638465,
+    "lon": 14.6195062
+  },
+  {
+    "name": "Skřipov",
+    "lat": 49.8187471,
+    "lon": 17.9104879
   }
 ]

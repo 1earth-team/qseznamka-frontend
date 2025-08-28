@@ -1,32 +1,62 @@
 [
   {
     "name": "Háje",
-    "lat": "49.6728",
-    "lon": "14.0473"
-  },
-  {
-    "name": "Hájek",
-    "lat": "49.1111",
-    "lon": "14.0612"
-  },
-  {
-    "name": "Hájek",
-    "lat": "49.1111",
-    "lon": "14.0612"
+    "lat": 49.6728,
+    "lon": 14.0473
   },
   {
     "name": "Háj u Duchcova",
-    "lat": "50.6308",
-    "lon": "13.7126"
+    "lat": 50.6308,
+    "lon": 13.7126
   },
   {
     "name": "Háje nad Jizerou",
-    "lat": "50.6119",
-    "lon": "15.4231"
+    "lat": 50.6119,
+    "lon": 15.4231
   },
   {
     "name": "Háj ve Slezsku",
-    "lat": "49.8999",
-    "lon": "18.0938"
+    "lat": 49.8999,
+    "lon": 18.0938
+  },
+  {
+    "name": "Hájek (Strakonice)",
+    "lat": 49.1111,
+    "lon": 14.0612
+  },
+  {
+    "name": "Hájek (Karlovy Vary)",
+    "lat": 50.2831,
+    "lon": 12.9191
+  },
+  {
+    "name": "Hájek",
+    "lat": 50.0513,
+    "lon": 14.6278
+  },
+  {
+    "name": "Hájek (Domažlice)",
+    "lat": 49.3528,
+    "lon": 13.0029
+  },
+  {
+    "name": "Hájek (Příbram)",
+    "lat": 49.7235,
+    "lon": 14.3283
+  },
+  {
+    "name": "Hájek (Pelhřimov)",
+    "lat": 49.3003,
+    "lon": 15.2739
+  },
+  {
+    "name": "Hájek (Plzeň-jih)",
+    "lat": 49.5558,
+    "lon": 13.4262
+  },
+  {
+    "name": "Hájek (Ústí nad Labem)",
+    "lat": 50.7749,
+    "lon": 14.0265
   }
 ]

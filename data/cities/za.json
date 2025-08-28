@@ -1,152 +1,212 @@
 [
   {
     "name": "Zadní Třebaň",
-    "lat": "49.9190",
-    "lon": "14.2093"
+    "lat": 49.919,
+    "lon": 14.2093
   },
   {
     "name": "Zaječov",
-    "lat": "49.7743",
-    "lon": "13.8407"
+    "lat": 49.7743,
+    "lon": 13.8407
   },
   {
     "name": "Zalešany",
-    "lat": "50.0356",
-    "lon": "15.0081"
-  },
-  {
-    "name": "Zahořany",
-    "lat": "49.4340",
-    "lon": "13.0019"
+    "lat": 50.0356,
+    "lon": 15.0081
   },
   {
     "name": "Zalužany",
-    "lat": "49.5422",
-    "lon": "14.0859"
+    "lat": 49.5422,
+    "lon": 14.0859
   },
   {
     "name": "Zavidov",
-    "lat": "50.0567",
-    "lon": "13.6203"
+    "lat": 50.0567,
+    "lon": 13.6203
   },
   {
     "name": "Zahájí",
-    "lat": "49.0893",
-    "lon": "14.3707"
-  },
-  {
-    "name": "Zahrádky",
-    "lat": "49.2008",
-    "lon": "15.2417"
+    "lat": 49.0893,
+    "lon": 14.3707
   },
   {
     "name": "Zachotín",
-    "lat": "49.4630",
-    "lon": "15.3476"
+    "lat": 49.463,
+    "lon": 15.3476
   },
   {
     "name": "Zajíčkov",
-    "lat": "49.3779",
-    "lon": "15.2585"
+    "lat": 49.3779,
+    "lon": 15.2585
   },
   {
     "name": "Zahorčice",
-    "lat": "49.2087",
-    "lon": "13.8175"
+    "lat": 49.2087,
+    "lon": 13.8175
   },
   {
     "name": "Zadní Střítež",
-    "lat": "49.4941",
-    "lon": "14.9167"
-  },
-  {
-    "name": "Zahořany",
-    "lat": "49.4340",
-    "lon": "13.0019"
+    "lat": 49.4941,
+    "lon": 14.9167
   },
   {
     "name": "Zavlekov",
-    "lat": "49.3374",
-    "lon": "13.4904"
-  },
-  {
-    "name": "Zahrádka",
-    "lat": "49.8807",
-    "lon": "13.2116"
+    "lat": 49.3374,
+    "lon": 13.4904
   },
   {
     "name": "Zadní Chodov",
-    "lat": "49.8906",
-    "lon": "12.6546"
-  },
-  {
-    "name": "Zahrádky",
-    "lat": "49.2008",
-    "lon": "15.2417"
+    "lat": 49.8906,
+    "lon": 12.6546
   },
   {
     "name": "Zabrušany",
-    "lat": "50.6050",
-    "lon": "13.7875"
+    "lat": 50.605,
+    "lon": 13.7875
   },
   {
     "name": "Zachrašťany",
-    "lat": "50.2112",
-    "lon": "15.4828"
+    "lat": 50.2112,
+    "lon": 15.4828
   },
   {
     "name": "Zaječice",
-    "lat": "49.9100",
-    "lon": "15.8841"
+    "lat": 49.91,
+    "lon": 15.8841
   },
   {
     "name": "Zaloňov",
-    "lat": "50.3739",
-    "lon": "15.8880"
+    "lat": 50.3739,
+    "lon": 15.888
   },
   {
     "name": "Zakřany",
-    "lat": "49.1705",
-    "lon": "16.3253"
+    "lat": 49.1705,
+    "lon": 16.3253
   },
   {
     "name": "Zastávka",
-    "lat": "49.1885",
-    "lon": "16.3655"
+    "lat": 49.1885,
+    "lon": 16.3655
   },
   {
     "name": "Zaječí",
-    "lat": "48.8732",
-    "lon": "16.7668"
+    "lat": 48.8732,
+    "lon": 16.7668
   },
   {
     "name": "Zadní Vydří",
-    "lat": "49.1343",
-    "lon": "15.4171"
+    "lat": 49.1343,
+    "lon": 15.4171
   },
   {
     "name": "Zahnašovice",
-    "lat": "49.3044",
-    "lon": "17.5599"
-  },
-  {
-    "name": "Zahrádka",
-    "lat": "49.8807",
-    "lon": "13.2116"
+    "lat": 49.3044,
+    "lon": 17.5599
   },
   {
     "name": "Zašovice",
-    "lat": "49.2582",
-    "lon": "15.7257"
+    "lat": 49.2582,
+    "lon": 15.7257
   },
   {
     "name": "Zadní Zhořec",
-    "lat": "49.4311",
-    "lon": "15.9392"
+    "lat": 49.4311,
+    "lon": 15.9392
   },
   {
     "name": "Zašová",
-    "lat": "49.4753",
-    "lon": "18.0439"
+    "lat": 49.4753,
+    "lon": 18.0439
+  },
+  {
+    "name": "Zahořany (Domažlice)",
+    "lat": 49.434,
+    "lon": 13.0019
+  },
+  {
+    "name": "Zahořany (Praha-západ)",
+    "lat": 49.8494,
+    "lon": 14.2903
+  },
+  {
+    "name": "Zahořany (Litoměřice)",
+    "lat": 50.5305,
+    "lon": 14.2178
+  },
+  {
+    "name": "Zahořany (Beroun)",
+    "lat": 49.9544,
+    "lon": 14.0263
+  },
+  {
+    "name": "Zahořany (Benešov)",
+    "lat": 49.7295,
+    "lon": 14.6108
+  },
+  {
+    "name": "Zahořany (Písek)",
+    "lat": 49.5496,
+    "lon": 14.2423
+  },
+  {
+    "name": "Zahrádky (Jindřichův Hradec)",
+    "lat": 49.2008,
+    "lon": 15.2417
+  },
+  {
+    "name": "Zahrádky (Česká Lípa)",
+    "lat": 50.6346,
+    "lon": 14.5245
+  },
+  {
+    "name": "Zahrádky (Prachatice)",
+    "lat": 48.9726,
+    "lon": 13.676
+  },
+  {
+    "name": "Zahrádka (Plzeň-sever)",
+    "lat": 49.8807,
+    "lon": 13.2116
+  },
+  {
+    "name": "Zahrádka (Třebíč)",
+    "lat": 49.2441,
+    "lon": 16.0979
+  },
+  {
+    "name": "Zahrádka (Plzeň-jih)",
+    "lat": 49.5358,
+    "lon": 13.6613
+  },
+  {
+    "name": "Zahrádka (Český Krumlov)",
+    "lat": 48.7427,
+    "lon": 14.3986
+  },
+  {
+    "name": "Zahrádka (Praha-západ)",
+    "lat": 49.8828,
+    "lon": 14.4524
+  },
+  {
+    "name": "Zahrádka (Benešov)",
+    "lat": 49.7314,
+    "lon": 14.5886
+  },
+  {
+    "name": "Zahrádka (Příbram)",
+    "lat": 49.5536,
+    "lon": 14.2999
+  },
+  {
+    "name": "Zahrádka (Pelhřimov)",
+    "lat": 49.4619,
+    "lon": 15.0676
+  },
+  {
+    "name": "Zahrádka (Cheb)",
+    "lat": 49.934,
+    "lon": 12.92
   }
 ]

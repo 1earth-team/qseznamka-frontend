@@ -1,242 +1,262 @@
 [
   {
     "name": "Petroupim",
-    "lat": "49.8083",
-    "lon": "14.7526"
+    "lat": 49.8083,
+    "lon": 14.7526
   },
   {
     "name": "Pečky",
-    "lat": "50.0899",
-    "lon": "15.0292"
-  },
-  {
-    "name": "Pertoltice",
-    "lat": "49.7548",
-    "lon": "15.1816"
+    "lat": 50.0899,
+    "lon": 15.0292
   },
   {
     "name": "Petrovice I",
-    "lat": "49.8110",
-    "lon": "15.2972"
+    "lat": 49.811,
+    "lon": 15.2972
   },
   {
     "name": "Petrovice II",
-    "lat": "49.8099",
-    "lon": "15.0634"
+    "lat": 49.8099,
+    "lon": 15.0634
   },
   {
     "name": "Petkovy",
-    "lat": "50.4132",
-    "lon": "15.0768"
-  },
-  {
-    "name": "Petříkov",
-    "lat": "48.8470",
-    "lon": "14.7546"
-  },
-  {
-    "name": "Petrov",
-    "lat": "49.5337",
-    "lon": "16.4893"
+    "lat": 50.4132,
+    "lon": 15.0768
   },
   {
     "name": "Pečice",
-    "lat": "49.6006",
-    "lon": "14.1054"
-  },
-  {
-    "name": "Petrovice",
-    "lat": "49.2412",
-    "lon": "15.7876"
-  },
-  {
-    "name": "Petrovice",
-    "lat": "49.2412",
-    "lon": "15.7876"
-  },
-  {
-    "name": "Petříkov",
-    "lat": "48.8470",
-    "lon": "14.7546"
+    "lat": 49.6006,
+    "lon": 14.1054
   },
   {
     "name": "Peč",
-    "lat": "49.0578",
-    "lon": "15.3920"
+    "lat": 49.0578,
+    "lon": 15.392
   },
   {
     "name": "Pelhřimov",
-    "lat": "49.4309",
-    "lon": "15.2232"
+    "lat": 49.4309,
+    "lon": 15.2232
   },
   {
     "name": "Pec",
-    "lat": "49.3986",
-    "lon": "12.8318"
+    "lat": 49.3986,
+    "lon": 12.8318
   },
   {
     "name": "Pelechy",
-    "lat": "49.3894",
-    "lon": "12.9144"
+    "lat": 49.3894,
+    "lon": 12.9144
   },
   {
     "name": "Pernink",
-    "lat": "50.3657",
-    "lon": "12.7837"
+    "lat": 50.3657,
+    "lon": 12.7837
   },
   {
     "name": "Petrovice u Sušice",
-    "lat": "49.2186",
-    "lon": "13.4408"
+    "lat": 49.2186,
+    "lon": 13.4408
   },
   {
     "name": "Pernarec",
-    "lat": "49.8405",
-    "lon": "13.1031"
+    "lat": 49.8405,
+    "lon": 13.1031
   },
   {
     "name": "Pertoltice pod Ralskem",
-    "lat": "50.6799",
-    "lon": "14.7191"
+    "lat": 50.6799,
+    "lon": 14.7191
   },
   {
     "name": "Perštejn",
-    "lat": "50.3817",
-    "lon": "13.1102"
+    "lat": 50.3817,
+    "lon": 13.1102
   },
   {
     "name": "Pesvice",
-    "lat": "50.4632",
-    "lon": "13.4849"
-  },
-  {
-    "name": "Pertoltice",
-    "lat": "49.7548",
-    "lon": "15.1816"
+    "lat": 50.4632,
+    "lon": 13.4849
   },
   {
     "name": "Peruc",
-    "lat": "50.3425",
-    "lon": "13.9599"
+    "lat": 50.3425,
+    "lon": 13.9599
   },
   {
     "name": "Petrohrad",
-    "lat": "50.1275",
-    "lon": "13.4464"
-  },
-  {
-    "name": "Petrovice",
-    "lat": "49.2412",
-    "lon": "15.7876"
-  },
-  {
-    "name": "Petrovice",
-    "lat": "49.2412",
-    "lon": "15.7876"
+    "lat": 50.1275,
+    "lon": 13.4464
   },
   {
     "name": "Perálec",
-    "lat": "49.8268",
-    "lon": "16.0798"
+    "lat": 49.8268,
+    "lon": 16.0798
   },
   {
     "name": "Pecka",
-    "lat": "50.4803",
-    "lon": "15.6082"
+    "lat": 50.4803,
+    "lon": 15.6082
   },
   {
     "name": "Petrovičky",
-    "lat": "50.2990",
-    "lon": "15.6073"
+    "lat": 50.299,
+    "lon": 15.6073
   },
   {
     "name": "Peřimov",
-    "lat": "50.6194",
-    "lon": "15.4433"
+    "lat": 50.6194,
+    "lon": 15.4433
   },
   {
     "name": "Pec pod Sněžkou",
-    "lat": "50.6936",
-    "lon": "15.7336"
-  },
-  {
-    "name": "Petrovice",
-    "lat": "49.2412",
-    "lon": "15.7876"
-  },
-  {
-    "name": "Petrov",
-    "lat": "49.5337",
-    "lon": "16.4893"
-  },
-  {
-    "name": "Petrovice",
-    "lat": "49.2412",
-    "lon": "15.7876"
+    "lat": 50.6936,
+    "lon": 15.7336
   },
   {
     "name": "Pernštejnské Jestřabí",
-    "lat": "49.4063",
-    "lon": "16.3256"
+    "lat": 49.4063,
+    "lon": 16.3256
   },
   {
     "name": "Perná",
-    "lat": "48.8522",
-    "lon": "16.6244"
+    "lat": 48.8522,
+    "lon": 16.6244
   },
   {
     "name": "Petrůvka",
-    "lat": "49.1049",
-    "lon": "17.8099"
-  },
-  {
-    "name": "Petrov",
-    "lat": "49.5337",
-    "lon": "16.4893"
-  },
-  {
-    "name": "Petrovice",
-    "lat": "49.2412",
-    "lon": "15.7876"
+    "lat": 49.1049,
+    "lon": 17.8099
   },
   {
     "name": "Petrůvky",
-    "lat": "49.1592",
-    "lon": "15.9023"
-  },
-  {
-    "name": "Petrovice",
-    "lat": "49.2412",
-    "lon": "15.7876"
+    "lat": 49.1592,
+    "lon": 15.9023
   },
   {
     "name": "Petráveč",
-    "lat": "49.3276",
-    "lon": "16.0411"
-  },
-  {
-    "name": "Petrovice",
-    "lat": "49.2412",
-    "lon": "15.7876"
+    "lat": 49.3276,
+    "lon": 16.0411
   },
   {
     "name": "Petrovice u Karviné",
-    "lat": "49.8959",
-    "lon": "18.5478"
-  },
-  {
-    "name": "Petřvald",
-    "lat": "49.8311",
-    "lon": "18.3898"
-  },
-  {
-    "name": "Petřvald",
-    "lat": "49.8311",
-    "lon": "18.3898"
+    "lat": 49.8959,
+    "lon": 18.5478
   },
   {
     "name": "Petrov nad Desnou",
-    "lat": "50.0054",
-    "lon": "17.0443"
+    "lat": 50.0054,
+    "lon": 17.0443
+  },
+  {
+    "name": "Pertoltice (Kutná Hora)",
+    "lat": 49.7548,
+    "lon": 15.1816
+  },
+  {
+    "name": "Pertoltice (Liberec)",
+    "lat": 50.981,
+    "lon": 15.0775
+  },
+  {
+    "name": "Petříkov (České Budějovice)",
+    "lat": 48.847,
+    "lon": 14.7546
+  },
+  {
+    "name": "Petříkov (Praha-východ)",
+    "lat": 49.9252,
+    "lon": 14.617
+  },
+  {
+    "name": "Petříkov (Jeseník)",
+    "lat": 50.2039,
+    "lon": 17.0422
+  },
+  {
+    "name": "Petrov (Blansko)",
+    "lat": 49.5337,
+    "lon": 16.4893
+  },
+  {
+    "name": "Petrov (Praha-západ)",
+    "lat": 49.8864,
+    "lon": 14.4337
+  },
+  {
+    "name": "Petrov (Hodonín)",
+    "lat": 48.8819,
+    "lon": 17.2771
+  },
+  {
+    "name": "Petrov (Šumperk)",
+    "lat": 50.0054,
+    "lon": 17.0443
+  },
+  {
+    "name": "Petrov (Nový Jičín)",
+    "lat": 49.7324,
+    "lon": 17.7473
+  },
+  {
+    "name": "Petrovice (Třebíč)",
+    "lat": 49.2412,
+    "lon": 15.7876
+  },
+  {
+    "name": "Petrovice (Znojmo)",
+    "lat": 49.0068,
+    "lon": 16.292
+  },
+  {
+    "name": "Petrovice (Příbram)",
+    "lat": 49.5541,
+    "lon": 14.3378
+  },
+  {
+    "name": "Petrovice (Blansko)",
+    "lat": 49.4129,
+    "lon": 16.6998
+  },
+  {
+    "name": "Petrovice (Rakovník)",
+    "lat": 50.067,
+    "lon": 13.6381
+  },
+  {
+    "name": "Petrovice (Hradec Králové)",
+    "lat": 50.2898,
+    "lon": 15.5985
+  },
+  {
+    "name": "Petrovice (Ústí nad Orlicí)",
+    "lat": 49.9881,
+    "lon": 16.5415
+  },
+  {
+    "name": "Petrovice (Šumperk)",
+    "lat": 50.0054,
+    "lon": 17.0443
+  },
+  {
+    "name": "Petrovice (Bruntál)",
+    "lat": 50.2389,
+    "lon": 17.4484
+  },
+  {
+    "name": "Petrovice (Ústí nad Labem)",
+    "lat": 50.789,
+    "lon": 13.9761
+  },
+  {
+    "name": "Petřvald (Karviná)",
+    "lat": 49.8311,
+    "lon": 18.3898
+  },
+  {
+    "name": "Petřvald (Nový Jičín)",
+    "lat": 49.7087,
+    "lon": 18.1572
   }
 ]

@@ -128,6 +128,10 @@
         color: #dedede;
       }
 
+      button:hover, select:hover {
+        background: #444;
+      }
+
       .pref-c {
         display: flex;
         flex-flow: column;
@@ -203,7 +207,11 @@
       .choose-grid button {
         background: none;
         width: 20%;
-        border-radius: 0;
+        /*border-radius: 0;*/
+      }
+
+      .choose-grid .active svg {
+        stroke-width: 4px;
       }
 
       .choose-grid .line {
@@ -412,7 +420,6 @@
       #place .results button {
         justify-content: left;
         border-radius: 0;
-        background: none;
         border-top: 2px solid #212121;
       }
 
@@ -689,7 +696,7 @@
                 results.innerHTML = "";
 
                 for (i = 0; i < cityArray.length; i++) {
-                  results.innerHTML += `<button onclick="setCoor(${cityArray[i][1]},${cityArray[i][2]})">${cityArray[i][0]}</button>`;
+                  results.innerHTML += `<button onclick="setCoor(${cityArray[i][1]},${cityArray[i][2]},${cityArray[i][0]})">${cityArray[i][0]}</button>`;
                 }
               } catch(e) {
                 console.log(`Selhal fetch měst: ${e}`);
@@ -702,7 +709,11 @@
                
             }
 
-      function setCoor(lat, lon) {
+      function setCoor(lat, lon, name = "") {
+        if (name != "") {
+          const search = id("search");
+          search.value = name;
+        }
         user.lat = lat;
         user.lon = lon;
       }
@@ -771,7 +782,7 @@
         seznamka: {
           t: "Seznamka",
           d: "Seznamkový popis",
-          c: '<article id=people><div class=pref-c><div class=pref id=age><label for=min-age>Věk:</label> <select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><div class=search-w><div class=results></div><div class=bar><input id="search" oninput="searchTyping()" placeholder="Název města nebo kraje"><div class=options><select id=vzdal><option val=1>1 km<option val=2>2 km<option val=5>5 km<option val=10 selected>10 km<option val=20>20 km<option val=50>50 km<option val=100>100 km<option val=200>200 km<option val=none>200+ km</select> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button></div></div></div></div></div><div class=choose-grid><button aria-label="Mřížkový mód"><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid></div></article>'
+          c: '<article id=people><div class=pref-c><div class=pref id=age><label for=min-age>Věk:</label> <select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><div class=search-w><div class=results></div><div class=bar><input id="search" oninput="searchTyping()" placeholder="Název obce"><div class=options><select id=vzdal><option val=1>1 km<option val=2>2 km<option val=5>5 km<option val=10 selected>10 km<option val=20>20 km<option val=50>50 km<option val=100>100 km<option val=200>200 km<option val=none>200+ km</select> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button></div></div></div></div></div><div class=choose-grid><button aria-label="Mřížkový mód" class=active><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid></div></article>'
         },
         ucet: {
           t: "Účet",

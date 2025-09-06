@@ -9,10 +9,13 @@
     <title>QSeznamka.cz</title>
     <style>
       body {
+        min-height: 100vh;
         margin: 0;
         background: #212121;
         color: #dedede;
         font-family: sans-serif;
+        display: flex;
+        flex-flow: column;
       }
 
       a {
@@ -84,6 +87,10 @@
         stroke: #faa;
       }
 
+      main {
+        flex: 1;
+      }
+
       svg {
         stroke-width: 2px;
         fill: none;
@@ -130,6 +137,15 @@
 
       button:hover, select:hover, .choose-grid button:hover {
         background: #444;
+      }
+
+      .disclaimer {
+        padding: 2em;
+        position: fixed;
+        border-radius: 2em;
+        left: 5%;
+        bottom: 5%;
+        z-index: 100;
       }
 
       .pref-c {
@@ -300,6 +316,24 @@
         border-radius: 36px;
         background: transparent;
         font-size: 18px;
+      }
+
+      #not-found {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        padding: 4em 1em;
+      }
+
+      #not-found svg {
+        stroke-width: 4px;
+        stroke: #4f4d36;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      #not-found h1, #not-found h2 {
+        text-align: center;
       }
 
       #highlight {
@@ -723,6 +757,30 @@
 
         const results = document.querySelector("#place .results");
         results.innerHTML = "";
+        disclaimer("Poloha nastavena", 2);
+      }
+
+      /* Disclaimer */
+
+      function disclaimer(text, type = 0) {
+        const disc = document.createElement("span");
+        disc.classList.add("disclaimer");
+        disc.innerHTML = text;
+
+        switch (type) {
+          case 1: // Warning
+            disc.style.background = "#330";
+          break;
+          case 2: // Success
+            disc.style.background = "#030";
+          break;
+          case 3: // Error
+            disc.style.background = "#300";
+          break;
+        }
+
+        document.body.appendChild(disc);
+        setInterval(disc.remove(), 3000);
       }
 
       /* Cookies */
@@ -789,7 +847,7 @@
         seznamka: {
           t: "Seznamka",
           d: "Seznamkový popis",
-          c: '<article id=people><div class=pref-c><div class=pref id=age><label for=min-age>Věk:</label> <select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><div class=search-w><div class=results></div><div class=bar><input id="search" oninput="searchTyping()" placeholder="Název obce"><div class=options><select id=vzdal><option val=1>1 km<option val=2>2 km<option val=5>5 km<option val=10 selected>10 km<option val=20>20 km<option val=50>50 km<option val=100>100 km<option val=200>200 km<option val=none>200+ km</select> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button></div></div></div></div></div><div class=choose-grid><button aria-label="Mřížkový mód" class=active><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div></div></article>'
+          c: '<article id=people><div class=pref-c><div class=pref id=age><label for=min-age>Věk:</label> <select id=min-age></select><span>až</span> <select id=max-age></select><span>let</span></div><div class=pref id=place><div class=search-w><div class=results></div><div class=bar><input id="search" oninput="searchTyping()" placeholder="Název obce"><div class=options><select id=vzdal><option val=1>1 km<option val=2>2 km<option val=5>5 km<option val=10 selected>10 km<option val=20>20 km<option val=50>50 km<option val=100>100 km<option val=200>200 km<option val=none>200+ km</select> <button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button></div></div></div></div></div><div class=choose-grid><button aria-label="Mřížkový mód" class=active><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div></div></article>'
         },
         ucet: {
           t: "Účet",
@@ -804,7 +862,7 @@
         nothing: {
           t: "Stránka nenalezena",
           d: "404",
-          c: '<article id=not-found><h1>Stránka nenalezena</h1><h2>Stránku se nepodařilo najít.</h2></article>'
+          c: '<article id=not-found><svg width=128 height=128 viewBox="0 0 64 64"><path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5"></svg><h1>Stránka nenalezena</h1><a href=/>Přejít na hlavní stranu</a></article>'
         }
       }
 

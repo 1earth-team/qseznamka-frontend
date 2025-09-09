@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Měl by ses o to postarat, ať je to unikátní a splňuje SEO">
+    <meta name="description" content="Najděte lásku na Qseznamka.cz, seznamce pro lesby, gaye, bisexuály a trans lidi (LGBT+). Seznamka pro vážné vztahy, chat i nová přátelství. Žádné reklamy ani VIP účty. Podporujeme lásku, ne manipulativní algoritmy.">
     <link rel="preconnect" href="https://api.qseznamka.cz">
-    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURUdwTP+qqkNZrikAAAABdFJOUwBA5thmAAAAWUlEQVQI123KsQ2EMAAEwbEQcugSKAU6g9JciksgJEDcBy/0ySerW90C5Vyo9961J8OSnF+syfUXv6QlQ026KTmUBHmw31gvLCfaQO2YDhSYt1fbeNe8vS8+AFM3JjPOm/sAAAAASUVORK5CYII=" type="image/png">
-    <title>QSeznamka.cz</title>
+    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEUAAAD/qqp5FJO3AAAAAXRSTlMAQObYZgAAAEJJREFUCNdjQAc1NUDi/z8GBsb//3ESUCUM9X+AhP0PICH/AUjwPwAS7AeABHMDkGBkQCFYHcCyYHUIxWAJmBJMAACs2hrhZZdQsAAAAABJRU5ErkJggg==" type="image/png">
+    <title>Seznamka pro lesby, gaye, bisexuály a trans lidi bez reklam - QSeznamka.cz</title>
     <style>
       body {
         min-height: 100vh;
@@ -767,6 +767,7 @@
         const disc = document.createElement("span");
         disc.classList.add("disclaimer");
         disc.innerHTML = text;
+        disc.onclick = disc.remove();
 
         switch (type) {
           case 1: // Warning
@@ -868,7 +869,7 @@
       }
 
       function loadDoc(page) {
-        document.title = `Qseznamka.cz | ${p[page].t}`;
+        document.title = `${p[page].t} - Qseznamka.cz`;
         c.innerHTML = p[page].c;
         if (id(page)) id(page).classList.add("active");
       }

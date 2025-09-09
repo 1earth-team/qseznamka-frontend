@@ -767,7 +767,7 @@
         const disc = document.createElement("span");
         disc.classList.add("disclaimer");
         disc.innerHTML = text;
-        disc.onclick = disc.remove();
+        disc.onclick = () => {disc.remove()};
 
         switch (type) {
           case 1: // Warning
@@ -919,7 +919,7 @@
             gItemPl.style.background = "#333";
             for (i = 0; i < 15; i++) grid.appendChild(gItemPl.cloneNode());*/
 
-            if (grid in cache) {
+            if (Object.hasOwn(cache, "grid")) { // grid in cache
               grid.innerHTML = cache.grid;
             } else try {
                 const profiles = await getGrid();

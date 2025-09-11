@@ -139,14 +139,38 @@
         background: #444;
       }
 
+      /* Disclaimer */
+
       .disclaimer {
-        padding: 2em;
-        position: fixed;
-        border-radius: 2em;
-        left: 5%;
-        bottom: 5%;
-        z-index: 100;
+        padding: 1em;
+        border-radius: 1em;
         background: #333;
+        border: 1px solid #fff2;
+        align-items: anchor-center;
+        display: flex;
+        gap: 1em;
+        width: fit-content;
+      }
+
+      .disclaimer button {
+        border-radius: inherit;
+        width: 48px;
+        height: 48px;
+        background: #6662;
+      }
+
+      .disclaimer button:hover {
+        background: #9992;
+      }
+
+      .disclaimer-c {
+        display: flex;
+        position: fixed;
+        z-index: 100;
+        gap: 1em;
+        flex-flow: column;
+        bottom: 5%;
+        left: 5%;
       }
 
       .pref-c {
@@ -659,6 +683,7 @@
           </g>
         </svg><span>Účet</span></a></nav>
     <main id="c"></main>
+    <section class="disclaimer-c"></section>
     <footer>
       <span>Obsah stránky je pod licencí CC-BY-SA. Používáme funkční cookies.</span>
       <span>Vytvořil<!--a skupina <a href="#">1Earth</a>--></span>
@@ -668,6 +693,7 @@
         
       let id = function(id) {return document.getElementById(id);};
       const c = id("c");
+      const disCon = querySelector(".disclaimer-c");
       let i = 0;
 
       let cache = {};
@@ -766,8 +792,8 @@
       function disclaimer(text, type = 0) {
         const disc = document.createElement("span");
         disc.classList.add("disclaimer");
-        disc.innerHTML = text;
-        disc.onclick = () => {disc.remove()};
+        disc.innerHTML = `<span>${text}</span><button onlick="() => {disc.remove()}"><svg viewBox="0 0 64 64"><path d="m8,8l48,48m-48,0l48,-48"></svg></button>`;
+        //disc.onclick = () => {disc.remove()};
 
         switch (type) {
           case 1: // Warning
@@ -781,7 +807,7 @@
           break;
         }
 
-        document.body.appendChild(disc);
+        disCon.appendChild(disc);
         setTimeout(() => {disc.remove()}, 3000);
       }
 

@@ -724,7 +724,7 @@
           let query = "https://api.qseznamka.cz/search";
           let queryArray = [];
           if (minAge.value != "15" || maxAge.value != "99") {
-            queryArray.push(`age-min=${minAge.value}&age-max=${maxAge.value}`);
+            queryArray.push(`age_min=${minAge.value}&age_max=${maxAge.value}`);
           }
           if (Object.hasOwn(user, "lat") && vzdal.value != "none") {
             const range = Number(vzdal.value) * 0.01 * .5;
@@ -732,7 +732,7 @@
             const maxLat = user.lat + range;
             const minLon = user.lon - range;
             const maxLon = user.lon + range;
-            queryArray.push(`lat-min=${minLat}&lat-max=${maxLat}&lon-min=${minLon}&lon-max=${maxLon}`);
+            queryArray.push(`lat_min=${minLat}&lat_max=${maxLat}&lon_min=${minLon}&lon_max=${maxLon}`);
           }
           for (i = 0; i < queryArray.length; i++) {
             if (i == 0) {query += "?"} else query += "&";

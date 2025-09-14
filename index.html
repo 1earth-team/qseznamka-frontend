@@ -721,6 +721,8 @@
           const minAge = id("min-age");
           const maxAge = id("max-age");
           const vzdal = id("vzdal");
+          const search = id("search");
+          user.s = {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
           let query = "https://api.qseznamka.cz/search";
           let queryArray = [];
           if (minAge.value != "15" || maxAge.value != "99") {
@@ -762,7 +764,9 @@
                 if (profiles) {
                   grid.innerHTML = "";
                   let gItems = "";
-                  for (i = 0; i < profiles.length; i++) {
+                  if (profiles.length == 0) {
+                    grid.innerHTML = "<h2>Nenalezeny odpovídající profily</h2>";
+                  } else for (i = 0; i < profiles.length; i++) {
                     //gItems = "";
                     gItems += `<a class="profile-thumb" href="#">`;
                     if (profiles[i].picture == null) {
@@ -778,7 +782,8 @@
                 }
             } catch (error) {
                 console.error("Failed to load profiles:", error);
-                grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
+                disclaimer("Nepodařilo se načíst profily", 3);
+                //grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
             }
       }
 
@@ -1003,7 +1008,13 @@
             gItemPl.classList.add(".profile-thumb");
             gItemPl.style.background = "#333";
             for (i = 0; i < 15; i++) grid.appendChild(gItemPl.cloneNode());*/
-
+            if (Object.hasOwn(user, "s")) {
+              const vzdal = id("vzdal");
+              minAge.value = user.s.minAge;
+              maxAge.value = user.s.maxAge;
+              search.value = user.s.bar;
+              vzdal.value = user.s.value;
+            }
             showGrid(grid);
             break;
           case "/ucet": loadDoc("ucet"); break;

@@ -827,7 +827,7 @@
             }
       async function setGrid() {
         const grid = document.querySelector(".profile-grid");
-        showGrid(grid, true);
+        await showGrid(grid, true);
       }
       function setCoor(lat, lon, name = "") {
         if (name != "") {

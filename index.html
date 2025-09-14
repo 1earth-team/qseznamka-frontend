@@ -757,6 +757,7 @@
           console.log("No remap");
               grid.innerHTML = cache.grid;
             } else try {
+              console.log("Remap");
                 const profiles = await getGrid();
                 if (profiles) {
                   grid.innerHTML = "";

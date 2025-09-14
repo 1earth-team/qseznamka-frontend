@@ -717,7 +717,7 @@
         
       async function getGrid() {
         try {
-          const response = await fetch("https://api.qseznamka.cz/retrieve");
+          const response = await fetch("https://api.qseznamka.cz/search"); //retrieve
           if (!response.ok) {
             throw new Error(`Response status: ${response.status}`);
           }
@@ -760,7 +760,9 @@
 
                 results.innerHTML = "";
 
-                for (i = 0; i < cityArray.length; i++) {
+                if (cityArray.length == 0) {
+                  results.innerHTML = "<button style='text-align: center;'><i>Obec nenalezena</i></button>";
+                } else for (i = 0; i < cityArray.length; i++) {
                   results.innerHTML += `<button onclick="setCoor(${cityArray[i][1]},${cityArray[i][2]},'${cityArray[i][0]}')">${cityArray[i][0]}</button>`;
                 }
               } catch(e) {

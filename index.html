@@ -735,7 +735,7 @@
             queryArray.push(`lat-min=${minLat}&lat-max=${maxLat}&lon-min=${minLon}&lon-max=${maxLon}`);
           }
           for (i = 0; i < queryArray.length; i++) {
-            if (i = 0) {query += "?"} else query += "&";
+            if (i == 0) {query += "?"} else query += "&";
             query += queryArray[i];
           }
           console.log(query);

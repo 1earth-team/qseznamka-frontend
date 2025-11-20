@@ -694,10 +694,13 @@
       let id = function(id) {return document.getElementById(id);};
       const c = id("c");
       const disCon = document.querySelector(".disclaimer-c");
-      let i = 0, offset = 0;
+      const offsetBase = 12;
+      let i = 0;
 
       let cache = {};
-      let user = {};
+      let u = {};
+      
+      u.s.page = 0;
         
       /* Geolocation */
     
@@ -725,7 +728,7 @@
           const vzdal = id("vzdal");
           const search = id("search");
 
-          user.s = {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
+          u.s = {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
 
           let query = "https://api.qseznamka.cz/search";
           let queryArray = [];
@@ -734,17 +737,17 @@
             queryArray.push(`age_min=${minAge.value}&age_max=${maxAge.value}`);
           }
 
-          if (Object.hasOwn(user, "lat") && vzdal.value != "none") {
+          if (Object.hasOwn(u, "lat") && vzdal.value != "none") {
             const range = Number(vzdal.value) * 0.01 * .5;
-            const minLat = user.lat - range;
-            const maxLat = user.lat + range;
-            const minLon = user.lon - range;
-            const maxLon = user.lon + range;
+            const minLat = u.lat - range;
+            const maxLat = u.lat + range;
+            const minLon = u.lon - range;
+            const maxLon = u.lon + range;
             queryArray.push(`lat_min=${minLat}&lat_max=${maxLat}&lon_min=${minLon}&lon_max=${maxLon}`);
           }
 
-          if (offset != 0) {
-            queryArray.push("off=" + offset);
+          if (u.s.page != 0) {
+            queryArray.push("off=" + u.s.page * offsetBase);
           }
 
           for (i = 0; i < queryArray.length; i++) {
@@ -836,7 +839,7 @@
         let cities;
 
         const results = document.querySelector("#place .results");
-        
+
         if (citySearch.length > 1) {
           const search = id("search");
           let cityArray = [];
@@ -884,11 +887,12 @@
           const search = id("search");
           search.value = name;
         }
-        user.lat = lat;
-        user.lon = lon;
+        u.lat = lat;
+        u.lon = lon;
 
         const results = document.querySelector("#place .results");
         setGrid();
+        u.s.page = 0;
         results.innerHTML = "";
         disclaimer("Poloha nastavena", 2);
       }
@@ -1050,16 +1054,17 @@
             gItemPl.classList.add(".profile-thumb");
             gItemPl.style.background = "#333";
             for (i = 0; i < 15; i++) grid.appendChild(gItemPl.cloneNode());*/
-            if (Object.hasOwn(user, "s")) {
+            if (Object.hasOwn(u, "s")) {
               const vzdal = id("vzdal");
-              minAge.value = user.s.minAge;
-              maxAge.value = user.s.maxAge;
-              search.value = user.s.bar;
-              vzdal.value = user.s.vzdal;
+              minAge.value = u.s.minAge;
+              maxAge.value = u.s.maxAge;
+              search.value = u.s.bar;
+              vzdal.value = u.s.vzdal;
             }
             showGrid(grid);
             break;
           case "/ucet": loadDoc("ucet"); break;
+          case "/clanek": loadDoc("clanek"); break;
           default: loadDoc("nothing"); break;
         }
       };

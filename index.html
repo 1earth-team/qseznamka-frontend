@@ -694,7 +694,7 @@
       let id = function(id) {return document.getElementById(id);};
       const c = id("c");
       const disCon = document.querySelector(".disclaimer-c");
-      let i = 0;
+      let i = 0, offset = 0;
 
       let cache = {};
       let user = {};
@@ -740,7 +740,10 @@
             if (i == 0) {query += "?"} else query += "&";
             query += queryArray[i];
           }
-          console.log(query);
+          if (offset != 0) {
+            query += "&off=" + offset;
+          }
+          // console.log(query);
           const response = await fetch(query); //retrieve
           if (!response.ok) {
             throw new Error(`Response status: ${response.status}`);
@@ -757,82 +760,81 @@
       async function showGrid(grid, remap = false) {
         if (Object.hasOwn(cache, "grid") && remap == false) { // grid in cache
           console.log("No remap");
-              grid.innerHTML = cache.grid;
-            } else try {
-              console.log("Remap");
-                const profiles = await getGrid();
-                if (profiles) {
-                  grid.innerHTML = "";
-                  let gItems = "";
-                  if (profiles.length == 0) {
-                    grid.innerHTML = "<h2>Nenalezeny odpovídající profily</h2>";
-                  } else for (i = 0; i < profiles.length; i++) {
-                    //gItems = "";
-                    gItems += `<a class="profile-thumb" href="#">`;
-                    if (profiles[i].picture == null) {
-                      gItems += `<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;
-                    } else {
-                      gItems += `<img alt="profilovka ${profiles[i].name}" src="https://qseznamka.cz/img/u/profile/${profiles[i].picture}" fetchpriority=high>`
-                    }
-                    gItems += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
-                    // grid.innerHTML += gItems;
-                  }
-                  grid.innerHTML += gItems;
-                  cache.grid = grid.innerHTML;
-                }
-            } catch (error) {
-                console.error("Failed to load profiles:", error);
-                disclaimer("Nepodařilo se načíst profily", 3);
-                //grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
+          grid.innerHTML = cache.grid;
+        } else try {
+          console.log("Remap");
+          const profiles = await getGrid();
+          if (profiles) {
+            grid.innerHTML = "";
+            let gItems = "";
+            if (profiles.length == 0) {
+              grid.innerHTML = "<h2>Nenalezeny odpovídající profily</h2>";
+            } else for (i = 0; i < profiles.length; i++) {
+              //gItems = "";
+              gItems += `<a class="profile-thumb" href="#">`;
+              if (profiles[i].picture == null) {
+                gItems += `<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;
+              } else {
+                gItems += `<img alt="profilovka ${profiles[i].name}" src="https://qseznamka.cz/img/u/profile/${profiles[i].picture}" fetchpriority=high>`
+              }
+              gItems += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
+              // grid.innerHTML += gItems;
             }
+            grid.innerHTML += gItems;
+            cache.grid = grid.innerHTML;
+          }
+        } catch (error) {
+          console.error("Failed to load profiles:", error);
+          disclaimer("Nepodařilo se načíst profily", 3);
+          //grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
+        }
       }
 
       let lastIns = "aaa";
       let lastRes = "";
 
       async function searchTyping() {
-              let citySearch = search.value;
-              let cities;
-              const results = document.querySelector("#place .results");
-              if (citySearch.length > 1) {
-                const search = id("search");
-                let cityArray = [];
-                const name = citySearch.substring(0, 2).toLowerCase();
-              try {
-                if (lastIns == name) {
-                  cities = lastRes;
-                } else {
-                  const response = await fetch(`/data/cities/${name}.json`);
-                  cities = await response.json();
+        let citySearch = search.value;
+        let cities;
+        const results = document.querySelector("#place .results");
+        if (citySearch.length > 1) {
+          const search = id("search");
+          let cityArray = [];
+          const name = citySearch.substring(0, 2).toLowerCase();
+          try {
+            if (lastIns == name) {
+              cities = lastRes;
+            } else {
+              const response = await fetch(`/data/cities/${name}.json`);
+              cities = await response.json();
 
-                  lastRes = cities;
-                  lastIns = name;
-                }
-                
-
-                for (const city of cities) {
-                  if (city.name.substring(0,citySearch.length).toLowerCase() == citySearch.toLowerCase()) {
-                    cityArray.push([city.name, city.lat, city.lon]);
-                  }
-                }
-
-                results.innerHTML = "";
-
-                if (cityArray.length == 0) {
-                  results.innerHTML = "<button style='text-align: center;'><i>Obec nenalezena</i></button>";
-                } else for (i = 0; i < cityArray.length; i++) {
-                  results.innerHTML += `<button onclick="setCoor(${cityArray[i][1]},${cityArray[i][2]},'${cityArray[i][0]}')">${cityArray[i][0]}</button>`;
-                }
-              } catch(e) {
-                console.log(`Selhal fetch měst: ${e}`);
-                results.innerHTML = "<button style='text-align: center;'><i>Obec nenalezena</i></button>";
-              }
-              
-              } else {
-                results.innerHTML = "";
-              }
-               
+              lastRes = cities;
+              lastIns = name;
             }
+
+            for (const city of cities) {
+              if (city.name.substring(0,citySearch.length).toLowerCase() == citySearch.toLowerCase()) {
+                cityArray.push([city.name, city.lat, city.lon]);
+              }
+            }
+
+            results.innerHTML = "";
+
+            if (cityArray.length == 0) {
+              results.innerHTML = "<button style='text-align: center;'><i>Obec nenalezena</i></button>";
+            } else for (i = 0; i < cityArray.length; i++) {
+              results.innerHTML += `<button onclick="setCoor(${cityArray[i][1]},${cityArray[i][2]},'${cityArray[i][0]}')">${cityArray[i][0]}</button>`;
+            }
+          } catch(e) {
+            console.log(`Selhal fetch měst: ${e}`);
+            results.innerHTML = "<button style='text-align: center;'><i>Obec nenalezena</i></button>";
+          }
+              
+        } else {
+          results.innerHTML = "";
+        }
+               
+      }
       async function setGrid() {
         const grid = document.querySelector(".profile-grid");
         await showGrid(grid, true);

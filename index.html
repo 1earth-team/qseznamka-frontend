@@ -717,17 +717,23 @@
       /* Database */
         
       async function getGrid() {
+
         try {
+
           const minAge = id("min-age");
           const maxAge = id("max-age");
           const vzdal = id("vzdal");
           const search = id("search");
+
           user.s = {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
+
           let query = "https://api.qseznamka.cz/search";
           let queryArray = [];
+
           if (minAge.value != "15" || maxAge.value != "99") {
             queryArray.push(`age_min=${minAge.value}&age_max=${maxAge.value}`);
           }
+
           if (Object.hasOwn(user, "lat") && vzdal.value != "none") {
             const range = Number(vzdal.value) * 0.01 * .5;
             const minLat = user.lat - range;
@@ -736,56 +742,87 @@
             const maxLon = user.lon + range;
             queryArray.push(`lat_min=${minLat}&lat_max=${maxLat}&lon_min=${minLon}&lon_max=${maxLon}`);
           }
+
+          if (offset != 0) {
+            queryArray.push("off=" + offset);
+          }
+
           for (i = 0; i < queryArray.length; i++) {
             if (i == 0) {query += "?"} else query += "&";
             query += queryArray[i];
           }
-          if (offset != 0) {
-            query += "&off=" + offset;
-          }
+
           // console.log(query);
+
           const response = await fetch(query); //retrieve
+
           if (!response.ok) {
             throw new Error(`Response status: ${response.status}`);
           }
+
           const result = await response.json();
+
           return result;
+
         } catch (error) {
+
           console.error(error.message);
           disclaimer("Nepodařilo se načíst Grid", 3);
+
           return null;
+
         }
       }
 
       async function showGrid(grid, remap = false) {
+
         if (Object.hasOwn(cache, "grid") && remap == false) { // grid in cache
+
           console.log("No remap");
           grid.innerHTML = cache.grid;
+
         } else try {
+
           console.log("Remap");
+
           const profiles = await getGrid();
+
           if (profiles) {
+
             grid.innerHTML = "";
             let gItems = "";
+
             if (profiles.length == 0) {
+
               grid.innerHTML = "<h2>Nenalezeny odpovídající profily</h2>";
+
             } else for (i = 0; i < profiles.length; i++) {
+
               //gItems = "";
               gItems += `<a class="profile-thumb" href="#">`;
+
               if (profiles[i].picture == null) {
+
                 gItems += `<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;
+
               } else {
+
                 gItems += `<img alt="profilovka ${profiles[i].name}" src="https://qseznamka.cz/img/u/profile/${profiles[i].picture}" fetchpriority=high>`
+                
               }
+
               gItems += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
               // grid.innerHTML += gItems;
             }
+
             grid.innerHTML += gItems;
             cache.grid = grid.innerHTML;
           }
         } catch (error) {
+
           console.error("Failed to load profiles:", error);
           disclaimer("Nepodařilo se načíst profily", 3);
+
           //grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
         }
       }
@@ -794,9 +831,12 @@
       let lastRes = "";
 
       async function searchTyping() {
+
         let citySearch = search.value;
         let cities;
+
         const results = document.querySelector("#place .results");
+        
         if (citySearch.length > 1) {
           const search = id("search");
           let cityArray = [];

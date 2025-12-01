@@ -693,6 +693,7 @@
         
       let id = function(id) {return document.getElementById(id);};
       const c = id("c");
+      let cR = c.getBoundingClientRect();
       const disCon = document.querySelector(".disclaimer-c");
       const offsetBase = 12;
       let i = 0;
@@ -700,6 +701,7 @@
       let cache = {};
       let u = {};
       u.spage = 0;
+      u.bottom = false;
         
       /* Geolocation */
     
@@ -957,6 +959,14 @@
           console.error(error.message);
         }
       }
+
+      function scroll() {
+        if (u.loc == "/seznamka") {
+          if (cR.bottom < window.innerHeight) {
+            console.log("Čas reloadovat");
+          }
+        }
+      }
       /* Routing */
       /*document.addEventListener("click", (e) => {
       	const { target } = e;
@@ -1007,6 +1017,7 @@
         document.title = `${p[page].t} - Qseznamka.cz`;
         c.innerHTML = p[page].c;
         if (id(page)) id(page).classList.add("active");
+        cR = c.getBoundingClientRect();w
       }
         
       const urlRoute = (event) => {
@@ -1020,6 +1031,7 @@
         if (location.length == 0) {
           location = "/";
         }
+        u.loc = location;
         [].forEach.call(document.querySelectorAll('nav a'), function(el) {
           el.classList.remove('active');
         });
@@ -1074,6 +1086,8 @@
           c.innerHTML = '<article id=error><svg width=128 height=128 viewBox="0 0 64 64"><path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5"></svg><h1>Někde se stala chyba</h1><a href="window.location.reload()">Obnovit stránku</a></article>'
         }
       }
+      window.onscroll = function(){scroll()};
+      window.onresize = function(){scroll()};
       window.onpopstate = urlLocationHandler;
       window.route = urlRoute;
       urlLocationHandler();

@@ -699,8 +699,7 @@
 
       let cache = {};
       let u = {};
-      
-      u.se.page = 0;
+      u.s = {page: 0};
         
       /* Geolocation */
     
@@ -728,7 +727,7 @@
           const vzdal = id("vzdal");
           const search = id("search");
 
-          u.se = {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
+          u.s += {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
 
           let query = "https://api.qseznamka.cz/search";
           let queryArray = [];
@@ -746,8 +745,8 @@
             queryArray.push(`lat_min=${minLat}&lat_max=${maxLat}&lon_min=${minLon}&lon_max=${maxLon}`);
           }
 
-          if (u.se.page != 0) {
-            queryArray.push("off=" + u.se.page * offsetBase);
+          if (u.s.page != 0) {
+            queryArray.push("off=" + u.s.page * offsetBase);
           }
 
           for (i = 0; i < queryArray.length; i++) {
@@ -892,7 +891,7 @@
 
         const results = document.querySelector("#place .results");
         setGrid();
-        u.se.page = 0;
+        u.s.page = 0;
         results.innerHTML = "";
         disclaimer("Poloha nastavena", 2);
       }
@@ -1056,10 +1055,10 @@
             for (i = 0; i < 15; i++) grid.appendChild(gItemPl.cloneNode());*/
             if (Object.hasOwn(u, "s")) {
               const vzdal = id("vzdal");
-              minAge.value = u.se.minAge;
-              maxAge.value = u.se.maxAge;
-              search.value = u.se.bar;
-              vzdal.value = u.se.vzdal;
+              minAge.value = u.s.minAge;
+              maxAge.value = u.s.maxAge;
+              search.value = u.s.bar;
+              vzdal.value = u.s.vzdal;
             }
             showGrid(grid);
             break;
@@ -1069,7 +1068,6 @@
         }
       };
       window.onerror = function(error, url, line) {
-        console.log("test");
 
         if (c.innerHTML == "") {
           console.error(`${error}; ${url}; ${line}`);

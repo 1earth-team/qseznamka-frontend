@@ -699,7 +699,7 @@
 
       let cache = {};
       let u = {};
-      u.s = {page: 0};
+      u.spage = 0;
         
       /* Geolocation */
     
@@ -727,7 +727,7 @@
           const vzdal = id("vzdal");
           const search = id("search");
 
-          u.s += {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
+          u.s = {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
 
           let query = "https://api.qseznamka.cz/search";
           let queryArray = [];
@@ -745,8 +745,8 @@
             queryArray.push(`lat_min=${minLat}&lat_max=${maxLat}&lon_min=${minLon}&lon_max=${maxLon}`);
           }
 
-          if (u.s.page != 0) {
-            queryArray.push("off=" + u.s.page * offsetBase);
+          if (u.spage != 0) {
+            queryArray.push("off=" + u.spage * offsetBase);
           }
 
           for (i = 0; i < queryArray.length; i++) {
@@ -891,7 +891,7 @@
 
         const results = document.querySelector("#place .results");
         setGrid();
-        u.s.page = 0;
+        u.spage = 0;
         results.innerHTML = "";
         disclaimer("Poloha nastavena", 2);
       }

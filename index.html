@@ -1068,6 +1068,13 @@
           default: loadDoc("nothing"); break;
         }
       };
+      window.onerror = function(error, url, line) {
+
+        if (c.innerHTML == "") {
+          console.error(`${error}; ${url}; ${line}`);
+          c.innerHTML = '<article id=error><svg width=128 height=128 viewBox="0 0 64 64"><path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5"></svg><h1>Někde se stala chyba</h1><a href="window.location.reload()">Obnovit stránku</a></article>'
+        }
+      }
       window.onpopstate = urlLocationHandler;
       window.route = urlRoute;
       urlLocationHandler();

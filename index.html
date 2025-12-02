@@ -792,7 +792,7 @@
 
           if (profiles) {
 
-            grid.innerHTML = "";
+            if (u.spage == 0) grid.innerHTML = "";
             let gItems = "";
 
             if (profiles.length == 0) {
@@ -963,7 +963,8 @@
         if (u.loc == "/seznamka") {
           const cR = c.getBoundingClientRect();
           if (cR.bottom < window.innerHeight) {
-            console.log("Čas reloadovat");
+            u.spage++;
+            showGrid();
           }
         }
       }

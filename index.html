@@ -693,7 +693,6 @@
         
       let id = function(id) {return document.getElementById(id);};
       const c = id("c");
-      let cR = c.getBoundingClientRect();
       const disCon = document.querySelector(".disclaimer-c");
       const offsetBase = 12;
       let i = 0;
@@ -962,6 +961,7 @@
 
       function scroll() {
         if (u.loc == "/seznamka") {
+          const cR = c.getBoundingClientRect();
           if (cR.bottom < window.innerHeight) {
             console.log("Čas reloadovat");
           }

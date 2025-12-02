@@ -964,7 +964,8 @@
           const cR = c.getBoundingClientRect();
           if (cR.bottom < window.innerHeight) {
             u.spage++;
-            showGrid();
+            const grid = document.querySelector(".profile-grid");
+            showGrid(grid);
           }
         }
       }

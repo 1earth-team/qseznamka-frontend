@@ -1079,8 +1079,8 @@
         u.lon = lon;
 
         const results = document.querySelector("#place .results");
-        setGrid();
         u.spage = 0;
+        setGrid();
         results.innerHTML = "";
         disclaimer("Poloha nastavena", 2);
       }

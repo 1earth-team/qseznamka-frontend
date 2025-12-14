@@ -1,1 +1,1312 @@
-<!doctype html><html lang="cs"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="Najděte lásku na Qseznamka.cz, seznamce pro lesby, gaye, bisexuály a trans lidi (LGBT+). Seznamka pro vážné vztahy, chat i nová přátelství. Žádné reklamy ani VIP účty. Podporujeme lásku, ne manipulativní algoritmy."><link rel="preconnect" href="https://api.qseznamka.cz"><link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEUAAAD/qqp5FJO3AAAAAXRSTlMAQObYZgAAAEJJREFUCNdjQAc1NUDi/z8GBsb//3ESUCUM9X+AhP0PICH/AUjwPwAS7AeABHMDkGBkQCFYHcCyYHUIxWAJmBJMAACs2hrhZZdQsAAAAABJRU5ErkJggg==" type="image/png"><title>Seznamka pro lesby, gaye, bisexuály a trans lidi bez reklam - QSeznamka.cz</title><style>body{ min-height: 100vh; margin: 0; background: #212121; color: #dedede; font-family: sans-serif; display: flex; flex-flow: column;} a{ color: #dedede;} p{ line-height: 32px; text-rendering: optimizelegibility; margin-top: 2.14em; margin-bottom: -0.46em; word-break: break-word;} h1{ font-size: 56px;} h2{ font-size: 42px;} h3{ font-size: 21px;} nav{ display: flex; flex-flow: row; position: sticky; height: 64px; background: #212121; justify-content: space-evenly; top: 0; z-index: 100;} nav svg{ width: 30px;} nav a{ display: flex; flex-flow: column; align-items: center; min-width: 32px; justify-content: center; text-decoration: none;} nav span{ font-size: 14px;} nav span, nav svg{ pointer-events: none;} nav .active svg{ stroke-width: 3px;} nav .active span{ font-weight: bold;} nav #logo{ stroke: #faa;} main{ flex: 1;} svg{ stroke-width: 2px; fill: none; stroke: #dedede;} button, select{ border: none; border-radius: 48px; display: flex; justify-content: space-around; background: #333; align-items: center; padding: 8px 16px; min-width: 48px; min-height: 48px; gap: 4px; cursor: pointer;} button svg{ max-width: 32px;} label{ font-size: 18px; font-weight: bold;} footer{ display: flex; justify-content: space-around; padding: 3em 1em;} input{ background: none;} p, span, button, input, select{ font-size: 18px; color: #dedede;} button:hover, select:hover, .choose-grid button:hover{ background: #444;} .disclaimer{ padding: 1em; border-radius: 1em; background: #333; border: 1px solid #fff2; align-items: anchor-center; display: flex; gap: 1em; width: fit-content;} .disclaimer button{ border-radius: inherit; width: 48px; height: 48px; background: #6662;} .disclaimer button:hover{ background: #9992;} .disclaimer-c{ display: flex; position: fixed; z-index: 100; gap: 1em; flex-flow: column; bottom: 5%; left: 5%;} .pref-c{ display: flex; flex-flow: column; margin: auto; max-width: 680px; align-items: center; gap: 1.5em; padding: 2em;} .pref-c input{ padding: 8px 16px; background: none; border-radius: 32px; border: none; color: #212121; background: #dedede;} .pref-c #age input{ max-width: 3ch;} .pref-c #place{ flex-flow: row; flex-wrap: wrap;} .pref{ display: flex; flex-flow: row; gap: 1em; align-items: center;} .thumb_c{ display: flex; padding: 2rem; justify-content: center; text-decoration: none; flex-flow: column; max-width: 960px; margin: auto;} .thumb_c .text{ display: flex; flex-flow: column; justify-content: space-evenly;} .thumb{ border-radius: 0.2em; background: #333; aspect-ratio: 16/9;} .thumb img{ object-fit: cover; height: 100%; border-radius: inherit;} .choose-grid{ display: flex; flex-flow: row; margin: auto; justify-content: space-evenly; max-width: 640px; padding: 2em;} .choose-grid button{ background: none; width: 20%; } .choose-grid .active svg{ stroke-width: 4px;} .choose-grid .line{ background: #333; width: 2px; height: auto;} .profile-grid{ display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4px; margin: auto;} .pt{ background: #333;} .profile-thumb, .pt{ aspect-ratio: 1; width: 100%; max-width: 512px; display: flex; align-items: flex-end; background-color: #333; position: relative;} .profile-thumb::after{ content: " "; position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: linear-gradient(0deg, #333, transparent 40%);} .profile-thumb img{ object-fit: cover; width: 100%;} .profile-thumb svg{ stroke: #212121;} .profile-thumb-text{ display: flex; align-items: center; gap: 4px; padding: 4%; z-index: 25; position: absolute; max-width: 85%;} .profile-thumb-text span{ overflow: hidden; text-overflow: ellipsis;} .profile-thumb-text .online{ min-width: 8px; height: 8px; background: #0f0; border-radius: 50%;} #people{ padding-top: 2em;} #preferences{ overflow-x: scroll; display: flex; align-items: center; gap: 2em; justify-content: center;} #preferences button{ padding: 8px 16px; border: 1px solid #dedede; border-radius: 36px; background: transparent; font-size: 18px;} #not-found{ display: flex; flex-flow: column; align-items: center; padding: 4em 1em;} #not-found svg{ stroke-width: 4px; stroke: #4f4d36; stroke-linecap: round; stroke-linejoin: round;} #not-found h1, #not-found h2{ text-align: center;} #highlight{ display: flex; padding: 128px 3%;} #highlight p{ text-decoration: none;} #highlight #img{ width: 50%; filter: grayscale(0.9); transition: 1s;} #highlight #img:hover{ filter: grayscale(0);} #news-list{ padding: 3em 0;} #news{ max-width: min(680px, 80%); margin: auto;} article#news-list::before{ background-image: url("trans.jpg");} #home{ padding: 4em 0;} .hero{ display: flex; flex-flow: column; margin: auto; gap: 2em; align-items: center; max-width: 80%;} .hero p{ font-size: 27px;} .hero img{ max-width: 40vw; object-fit: cover; border-radius: 4em; display: none;} .hero .text{ display: flex; flex-flow: column; gap: 2em;} .hero .love{ position: relative; font-size: inherit;} .hero .love svg{ position: absolute; width: 100%; height: 25%; left: 0; bottom: -7px; z-index: -1;} .hero button{ width: fit-content; font-size: 32px; padding: .5em 1em; background: linear-gradient(129deg, #faa, #704141); color: #212121;} .hero h1{ font-size: 52px;} .hero p{ font-size: 24px;} .hero h1, .hero p{ margin: 0;} .search-w{ position: relative;} #place .results{ position: absolute; top: 72px; left: 0; width: 100%; background: #333; z-index: 1; border-radius: 0 0 24px 24px; max-height: 192px; display: flex; flex-flow: column; overflow: auto; padding-top: 24px;} #place .results button{ justify-content: left; border-radius: 0; border-top: 2px solid #212121;} #place .results button:first-child{ border-top: none;} #place .bar{ background: #dedede; border-radius: 24px; z-index: 20; position: relative; display: flex; flex-flow: wrap;} #place .bar input{ background: none; width: 100%; height: 32px; border-radius: 32px 0 0 32px; z-index: 10;} #place .options{ display: grid; grid-template-columns: 1fr 1fr; width: 100%;} #vzdal{ font-size: 14px; height: 20px; border: 2px solid; border-radius: 32px 0 0 32px; border-right: 0; min-width: max-content;} #place .options button{ border: 2px solid; height: 20px; border-radius: 0 32px 32px 0; min-width: fit-content;} #place .options span{ font-size:14px;} #reg, #reg form, #reg-c, #reg-text{ display: flex; flex-flow: column;} #reg{ justify-content: center; max-width: min(80%, 360px); margin: auto; gap: 2em; height: calc(100vh - 64px);} #reg form{ gap: 1em;} #reg input{ border-radius: 10px; max-width: 100%; color: #212121;} #reg button{ border-radius: 20px;} #reg h1{ font-size: 36px;} #reg h1, #reg p{ margin: 0;} #reg-c{ gap: 2em; width: 100%; } #reg-buttons{ display: flex; justify-content: space-between; flex-flow: row-reverse;} #reg-text{ gap: 1em;} @media only screen and (min-width: 600px){ h3{ font-size: 26px;} nav a{ gap: 4px; flex-flow: row;} nav span{ font-size: 21px;} nav svg{ width: 46px;} .thumb_c{ flex-flow: row; gap: 2em;} .thumb_c h3{ margin: 0;} .thumb_c .text, .thumb_c .thumb{ width: 33%;} .profile-grid{ max-width: min(66%, 1128px); grid-template-columns: 1fr 1fr 1fr 1fr;} .profile-thumb-text span{ font-size: 24px;} .hero{ flex-flow: row;} .hero h1{ font-size: 54px;} .hero img{ display: block;} #place .results{ top: 24px; left: 0; width: 104.75%;} #place .bar{ flex-flow: nowrap;} #place .bar input{ width: 59%;} #place .options{ display: flex; width: unset;}} </style></head><body><nav><a id="domu" aria-label="Domů" href="/" onclick="urlRoute(event)"><svg viewBox="0 0 64 64" id="logo"><path d="m24,16l8,8l8,-8" stroke-linecap="round" stroke-width="21px" /><path d="m32,38v20m-8,-8h16m-2.34,5.66l-11.31,-11.31m0,11.31l11.31,-11.31" /></svg></a><a id="zpravy" href="/zpravy" onclick="urlRoute(event)"><svg viewBox="0 0 64 64"><path d="m48,44h-32q-4,0 -4,-4v-24h32v24a4,4 0 0 0 8,0v-16h-8m-28,-4h12v8h-12zm16,4h8m0,12h-24" /></svg><span>Zprávy</span></a><a id="seznamka" href="/seznamka" onclick="urlRoute(event)"><svg viewBox="0 0 64 64"><circle r="8" cx="20" cy="18" /><path d="m20,22m-16,16a8,4 0 0 1 32,0" /><circle r="8" cx="44" cy="28" /><path d="m44,32m-16,16a8,4 0 0 1 32,0" /></svg><span>Seznamka</span></a><a id="ucet" href="/ucet" onclick="urlRoute(event)"><svg viewBox="0 0 64 64"><circle r="24" cx="32" cy="32"></circle><g id="ulogo"><circle r="8" cx="32" cy="24"></circle><path d="m32,28m-16,16a8,4 0 0 1 32,0"></path></g></svg><span>Účet</span></a></nav><main id="c"></main><section class="disclaimer-c"></section><footer><span>Obsah stránky je pod licencí CC-BY-SA. Používáme funkční cookies.</span><span>Vytvořil </span></footer><template id="tp-not-found"><article id=not-found><svg width=128 height=128 viewBox="0 0 64 64"><path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5"></svg><h1>Stránka nenalezena</h1><a href=/>Přejít na hlavní stranu</a></article></template><template id="tp-news-list"><article id=news-list><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src="./img/thumb/trans.webp" style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují za svá práva v headlinu</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src="./img/thumb/trans.webp" style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src="./img/thumb/trans.webp" style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují za svá práva v headlinu</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a><a class=thumb_c href=#><div class=thumb><img alt="Trans lidi"loading=lazy src="./img/thumb/trans.webp" style=object-fit:cover width=100%></div><div class=text><h3>Trans lidé protestují za svá práva v headlinu</h3><span>12. 8. 1999 Tag, tag, tag</span></div></a></article>'</template><template id="tp-reg"><article id=reg><div id=reg-c><div id=reg-text><h1>Registrace</h1><p>Zadejte svou přezdívku </div><form onsubmit=regCheck()><input autofocus id=nick maxlength=16 minlength=3 pattern=[A-Za-z0-9]{3,16} placeholder=Přezdívka style="border-radius:10px;background:#dedede;max-width:100%;border:none;padding:8px 16px;color:#212121;min-height:48px"><div id=reg-buttons><button type=submit>Další</button><button>Zpět</button></div></form></div></article></template><template id="tp-people"><article id=people><div class=pref-c><div class=pref id=age><label for=min-age>Věk:</label><select id=min-age onchange="setGrid()"></select><span>až</span><select id=max-age onchange="setGrid()"></select><span>let</span></div><div class=pref id=place><div class=search-w><div class=results></div><div class=bar><input id="search" oninput="searchTyping()" placeholder="Název obce"><div class=options><select id=vzdal onchange="setGrid()"><option value=1>1 km <option value=2>2 km <option value=5>5 km <option value=10 selected>10 km <option value=20>20 km <option value=50>50 km <option value=100>100 km <option value=200>200 km <option value=none>200+ km </select><button onclick=getLoc()><svg viewBox="0 0 64 64"width=48><circle cx=32 cy=32 r=8 /><circle cx=32 cy=32 r=16 /><path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 /></svg><span>Má poloha</span></button></div></div></div></div></div><div class=choose-grid><button aria-label="Mřížkový mód" class=active><svg viewBox="0 0 64 64"width=32><path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Swipe mód"><svg viewBox="0 0 64 64"width=32><path d=m8,24h48m0,16h-48 /><rect height=48 width=48 x=8 y=8 /></svg></button><div class=line></div><button aria-label="Scroll mód"><svg viewBox="0 0 64 64"width=32><path d=m18,9v46h28v-46z /></svg></button></div><div class=profile-grid><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div><div class=pt></div></div></article></template><template id="tp-news"><article id=news><h1>S pořadovým číslem v prosté vzestupné</h1><p>Paragraf (značka §, U+00A7, na čes. klávesnici (levý) Alt + 0167, patrně vznikla ve středověku jako ligatura, dvojité S ve významu signum sectionis k označování pořadí odstavců) je v současnosti zpravidla část právního předpisu nadepsaná znakem § s pořadovým číslem v prosté vzestupné řadě, např. „§ 24“. Mluví se pak o tomto pořadí buď prostým číslem („paragraf dvacet čtyři“) nebo pořadovým číslem („paragraf dvacátý čtvrtý“). V členění textů jiné než právní povahy se paragrafy objevují jen zřídka, např. v učebnicích nebo soustavných pojednáních. jak tate for free and on voluntary contributions offery na redesing for free <p>Slovem paragraf se nazývá i samotný znak §, který je jedním ze symbolů, synonymem práva, legislativy a předpisů – zejména v množném čísle (např. „vyznat se v paragrafech“). V angličtině má slovo paragraph význam „odstavec“, znaku se říká section sign a obdobně např. španělsky signo de sección. <h2>Použití</h2><p>Ve středoevropské legislativě se znak § používá pro označování větších oddílů textu právního předpisu, v některých jiných oblastech se používá pro číslování jednotlivých menších odstavců. <p>Právní předpisy České republiky se pravidelně strukturují podle úrovní: část – hlava – díl – oddíl – pododdíl – paragraf – odstavec – písmeno (pododstavec) – bod. Paragrafy se tedy zpravidla člení na další části. Číslování paragrafů je v textu předpisu vždy vzestupné, počínaje číslicí 1. V české legislativě jsou paragrafy základní, stabilizovanou úrovní členění právních předpisů, tj. označená část textu si své označení ponechává i při případných novelizacích v budoucnu, takže pokud je do dosud souvislého textu vložen nový paragraf, je označen číslem paragrafu předcházejícího s doplněním písmene, a v případě zrušení paragrafu se čísla následujících paragrafů nemění a číslo zrušeného paragrafu zůstává neobsazeno. Při případných větších nebo postupných novelizacích jsou využívána písmena podle abecedy.[1] Např. po § 19 občanského zákoníku z roku 1964 následovaly v jeho posledním znění § 19a, § 19b, § 19c a až poté § 20. </article></template><template id="tp-home"><article id=home><div class=hero><div class=text><h1><span class=love>LÁSKA <svg preserveAspectRatio=none viewBox="0 0 64 16"><path d="m0,8q16,8 32,0t32,0"stroke=#faa /></svg></span>NENÍ<br>NA PRODEJ </h1><p>Hledání partnerů by nemělo být jen pro VIP. Žádné reklamy, paywally, ani manipulativní algoritmy.</p><button>Zaregistrovat se</button></div><div class=visual><img alt="Mužský pár v objetí"src="/img/w/gay-hug.webp"></div></div></article></template><script>let id=function(id){return document.getElementById(id)}; const c=id("c"); const disCon=document.querySelector(".disclaimer-c"); const offsetBase=12; let i=0; let cache={}; let u={}; u.spage=0; u.bottom=false; let loc=new Object(); function getLoc(){ navigator.geolocation.getCurrentPosition((pos)=>{ loc=pos.coords; setCoor(loc.latitude.toString(), loc.longitude.toString());}, (err)=>{ console.warn(`ERROR(${err.code}): ${err.message}`); disclaimer("Určení polohy selhalo", 3)}, [false, 5000, 0]);} async function getGrid(){ try{ const minAge=id("min-age"); const maxAge=id("max-age"); const vzdal=id("vzdal"); const search=id("search"); u.s={minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value}; let query="https://api.qseznamka.cz/search"; let queryArray=[]; if (minAge.value !="15" || maxAge.value !="99"){ queryArray.push(`age_min=${minAge.value}&age_max=${maxAge.value}`);} if (Object.hasOwn(u, "lat") && vzdal.value !="none"){ const range=Number(vzdal.value) * 0.01 * .5; const minLat=u.lat - range; const maxLat=u.lat + range; const minLon=u.lon - range; const maxLon=u.lon + range; queryArray.push(`lat_min=${minLat}&lat_max=${maxLat}&lon_min=${minLon}&lon_max=${maxLon}`);} if (u.spage !=0){ queryArray.push("off=" + u.spage * offsetBase);} for (i=0; i < queryArray.length; i++){ if (i==0){query +="?"} else query +="&"; query +=queryArray[i];} // console.log(query); const response=await fetch(query); //retrieve if (!response.ok){ throw new Error(`Response status: ${response.status}`);} const result=await response.json(); return result;} catch (error){ console.error(error.message); disclaimer("Nepodařilo se načíst Grid", 3); return null;}} async function showGrid(grid, remap=false){ if (Object.hasOwn(cache, "grid") && remap==false){ // grid in cache console.log("No remap"); grid.innerHTML=cache.grid;} else try{ console.log("Remap"); const profiles=await getGrid(); if (profiles){ if (u.spage==0) grid.innerHTML=""; let gItems=""; if (profiles.length==0){ grid.innerHTML="<h2>Nenalezeny odpovídající profily</h2>";} else for (i=0; i < profiles.length; i++){ //gItems=""; gItems +=`<a class="profile-thumb" href="#">`; if (profiles[i].picture==null){ gItems +=`<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;} else{ gItems +=`<img alt="profilovka ${profiles[i].name}" src="https://qseznamka.cz/img/u/profile/${profiles[i].picture}" fetchpriority=high>`} gItems +=`<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`; // grid.innerHTML +=gItems;} grid.innerHTML +=gItems; cache.grid=grid.innerHTML;}} catch (error){ console.error("Failed to load profiles:", error); disclaimer("Nepodařilo se načíst profily", 3); //grid.innerHTML=`<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`}} let lastIns="aaa"; let lastRes=""; async function searchTyping(){ let citySearch=search.value; let cities; const results=document.querySelector("#place .results"); if (citySearch.length >1){ const search=id("search"); let cityArray=[]; const name=citySearch.substring(0, 2).toLowerCase(); try{ if (lastIns==name){ cities=lastRes;} else{ const response=await fetch(`/data/cities/${name}.json`); cities=await response.json(); lastRes=cities; lastIns=name;} for (const city of cities){ if (city.name.substring(0,citySearch.length).toLowerCase()==citySearch.toLowerCase()){ cityArray.push([city.name, city.lat, city.lon]);}} results.innerHTML=""; if (cityArray.length==0){ results.innerHTML="<button style='text-align: center;'><i>Obec nenalezena</i></button>";} else for (i=0; i < cityArray.length; i++){ results.innerHTML +=`<button onclick="setCoor(${cityArray[i][1]},${cityArray[i][2]},'${cityArray[i][0]}')">${cityArray[i][0]}</button>`;}} catch(e){ console.log(`Selhal fetch měst: ${e}`); results.innerHTML="<button style='text-align: center;'><i>Obec nenalezena</i></button>";}} else{ results.innerHTML="";}} async function setGrid(){ const grid=document.querySelector(".profile-grid"); await showGrid(grid, true);} function setCoor(lat, lon, name=""){ if (name !=""){ const search=id("search"); search.value=name;} u.lat=lat; u.lon=lon; const results=document.querySelector("#place .results"); setGrid(); u.spage=0; results.innerHTML=""; disclaimer("Poloha nastavena", 2);} function disclaimer(text, type=0){ const disc=document.createElement("span"); disc.classList.add("disclaimer"); disc.innerHTML=`<span>${text}</span><button onlick="()=>{disc.remove()}"><svg viewBox="0 0 64 64"><path d="m8,8l48,48m-48,0l48,-48"></svg></button>`; //disc.onclick=()=>{disc.remove()}; switch (type){ case 1: // Warning disc.style.background="#330"; break; case 2: // Success disc.style.background="#030"; break; case 3: // Error disc.style.background="#300"; break;} disCon.appendChild(disc); setTimeout(()=>{disc.remove()}, 3000);} async function get_c(){ try{ const response=await fetch("https://api.qseznamka.cz/get_session",{ credentials: 'include'}); if (!response.ok){ throw new Error(`Response status: ${response.status}`);} const result=await response.text(); console.log(result);} catch (error){ console.error(error.message);}} async function set_c(){ try{ const response=await fetch("https://api.qseznamka.cz/set_session",{ method: "POST", headers:{ "Content-Type": "application/json"}, body: JSON.stringify({ message: "123go"}), credentials: "include"}); if (!response.ok){ throw new Error(`Response status: ${response.status}`);} const result=await response.text(); console.log(result);} catch (error){ console.error(error.message);}} function scroll(){ if (u.loc=="/seznamka"){ const cR=c.getBoundingClientRect(); if (cR.bottom < window.innerHeight){ u.spage++; const grid=document.querySelector(".profile-grid"); showGrid(grid);}}} /*document.addEventListener("click", (e)=>{ const{ target}=e; /*if (!target.matches("nav a")){ return;}/ e.preventDefault(); urlRoute();});*/ function route(e){ e.preventDefault(); urlRoute();} const p={ domu:{ t: "Domov", d: "Popis domova", c: "tp-home"}, zpravy:{ t: "Zprávy", d: "Popis zpráv", c: "tp-news"}, seznamka:{ t: "Seznamka", d: "Seznamkový popis", c: "tp-people"}, ucet:{ t: "Účet", d: "Měl by tu být?", c: "tp-reg"}, clanek:{ t: "Článek", d: "Popis", c: "tp-news"}, nothing:{ t: "Stránka nenalezena", d: "404", c: "tp-not-found"}} function loadDoc(page){ document.title=`${p[page].t} - Qseznamka.cz`; const template=id(p[page].c); c.appendChild(template.content.cloneNode(true)); if (id(page)) id(page).classList.add("active"); cR=c.getBoundingClientRect();} const urlRoute=(event)=>{ event=event || window.event; event.preventDefault(); window.history.pushState({}, "", event.target.href); urlLocationHandler();}; const urlLocationHandler=async ()=>{ const location=window.location.pathname; if (location.length==0){ location="/";} u.loc=location; [].forEach.call(document.querySelectorAll('nav a'), function(el){ el.classList.remove('active');}); let page=""; switch (location){ case "/": loadDoc("domu"); break; case "/zpravy": loadDoc("zpravy"); break; case "/seznamka": /*<a class=profile-thumb href=#><img alt="profilová fotka" src=profile.webp><div class=profile-thumb-text><span>John Doe</span><div class=online></div></div></a>*/ loadDoc("seznamka"); const minAge=id("min-age"); const maxAge=id("max-age"); for (i=15; i < 100; i++){ const vMax=114 - i; minAge.innerHTML +=`<option value="${i}">${i}</option>`; maxAge.innerHTML +=`<option value="${vMax}">${vMax}</option>`;} const search=id("search"); const results=document.querySelector("#place .results"); let cityArray=[]; const grid=document.querySelector(".profile-grid"); /*const gItemPl=document.createElement("div"); gItemPl.classList.add(".profile-thumb"); gItemPl.style.background="#333"; for (i=0; i < 15; i++) grid.appendChild(gItemPl.cloneNode());*/ if (Object.hasOwn(u, "s")){ const vzdal=id("vzdal"); minAge.value=u.s.minAge; maxAge.value=u.s.maxAge; search.value=u.s.bar; vzdal.value=u.s.vzdal;} showGrid(grid); break; case "/ucet": loadDoc("ucet"); break; case "/clanek": loadDoc("clanek"); break; default: loadDoc("nothing"); break;}}; window.onerror=function(error, url, line){ if (c.innerHTML==""){ console.error(`${error}; ${url}; ${line}`); c.innerHTML='<article id=error><svg width=128 height=128 viewBox="0 0 64 64"><path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5"></svg><h1>Někde se stala chyba</h1><a href="window.location.reload()">Obnovit stránku</a></article>'}} window.onscroll=function(){scroll()}; window.onresize=function(){scroll()}; window.onpopstate=urlLocationHandler; window.route=urlRoute; urlLocationHandler(); </script></body></html>
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Najděte lásku na Qseznamka.cz, seznamce pro lesby, gaye, bisexuály a trans lidi (LGBT+). Seznamka pro vážné vztahy, chat i nová přátelství. Žádné reklamy ani VIP účty. Podporujeme lásku, ne manipulativní algoritmy.">
+    <link rel="preconnect" href="https://api.qseznamka.cz">
+    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEUAAAD/qqp5FJO3AAAAAXRSTlMAQObYZgAAAEJJREFUCNdjQAc1NUDi/z8GBsb//3ESUCUM9X+AhP0PICH/AUjwPwAS7AeABHMDkGBkQCFYHcCyYHUIxWAJmBJMAACs2hrhZZdQsAAAAABJRU5ErkJggg==" type="image/png">
+    <title>Seznamka pro lesby, gaye, bisexuály a trans lidi bez reklam - QSeznamka.cz</title>
+    <style>
+      body {
+        min-height: 100vh;
+        margin: 0;
+        background: #212121;
+        color: #dedede;
+        font-family: sans-serif;
+        display: flex;
+        flex-flow: column;
+      }
+
+      a {
+        color: #dedede;
+      }
+
+      p {
+        line-height: 32px;
+        text-rendering: optimizelegibility;
+        margin-top: 2.14em;
+        margin-bottom: -0.46em;
+        word-break: break-word;
+      }
+
+      h1 {
+        font-size: 56px;
+      }
+
+      h2 {
+        font-size: 42px;
+      }
+
+      h3 {
+        font-size: 21px;
+      }
+
+      nav {
+        display: flex;
+        flex-flow: row;
+        position: sticky;
+        height: 64px;
+        background: #212121;
+        justify-content: space-evenly;
+        top: 0;
+        z-index: 100;
+      }
+
+      nav svg {
+        width: 30px;
+      }
+
+      nav a {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        min-width: 32px;
+        justify-content: center;
+        text-decoration: none;
+      }
+
+      nav span {
+        font-size: 14px;
+      }
+
+      nav span,
+      nav svg {
+        pointer-events: none;
+      }
+
+      nav .active svg {
+        stroke-width: 3px;
+      }
+
+      nav .active span {
+        font-weight: bold;
+      }
+
+      nav #logo {
+        stroke: #faa;
+      }
+
+      main {
+        flex: 1;
+      }
+
+      svg {
+        stroke-width: 2px;
+        fill: none;
+        stroke: #dedede;
+      }
+
+      button, select {
+        border: none;
+        border-radius: 48px;
+        display: flex;
+        justify-content: space-around;
+        background: #333;
+        align-items: center;
+        padding: 8px 16px;
+        min-width: 48px;
+        min-height: 48px;
+        gap: 4px;
+        cursor: pointer;
+      }
+
+      button svg {
+        max-width: 32px;
+      }
+
+      label {
+        font-size: 18px;
+        font-weight: bold;
+      }
+
+      footer {
+        display: flex;
+        justify-content: space-around;
+        padding: 3em 1em;
+      }
+
+      input {
+        background: none;
+      }
+
+      p, span, button, input, select {
+        font-size: 18px;
+        color: #dedede;
+      }
+
+      button:hover, select:hover, .choose-grid button:hover {
+        background: #444;
+      }
+
+      /* Disclaimer */
+
+      .disclaimer {
+        padding: 1em;
+        border-radius: 1em;
+        background: #333;
+        border: 1px solid #fff2;
+        align-items: anchor-center;
+        display: flex;
+        gap: 1em;
+        width: fit-content;
+      }
+
+      .disclaimer button {
+        border-radius: inherit;
+        width: 48px;
+        height: 48px;
+        background: #6662;
+      }
+
+      .disclaimer button:hover {
+        background: #9992;
+      }
+
+      .disclaimer-c {
+        display: flex;
+        position: fixed;
+        z-index: 100;
+        gap: 1em;
+        flex-flow: column;
+        bottom: 5%;
+        left: 5%;
+      }
+
+      .pref-c {
+        display: flex;
+        flex-flow: column;
+        margin: auto;
+        max-width: 680px;
+        align-items: center;
+        gap: 1.5em;
+        padding: 2em;
+      }
+
+      .pref-c input {
+        padding: 8px 16px;
+        background: none;
+        border-radius: 32px;
+        border: none;
+        color: #212121;
+        background: #dedede;
+      }
+
+      .pref-c #age input {
+        max-width: 3ch;
+      }
+
+      .pref-c #place {
+        flex-flow: row;
+        flex-wrap: wrap;
+      }
+
+      .pref {
+        display: flex;
+        flex-flow: row;
+        gap: 1em;
+        align-items: center;
+      }
+
+      .thumb_c {
+        display: flex;
+        padding: 2rem;
+        justify-content: center;
+        text-decoration: none;
+        flex-flow: column;
+        max-width: 960px;
+        margin: auto;
+      }
+
+      .thumb_c .text {
+        display: flex;
+        flex-flow: column;
+        justify-content: space-evenly;
+      }
+
+      .thumb {
+        border-radius: 0.2em;
+        background: #333;
+        aspect-ratio: 16/9;
+      }
+
+      .thumb img {
+        object-fit: cover;
+        height: 100%;
+        border-radius: inherit;
+      }
+
+      .choose-grid {
+        display: flex;
+        flex-flow: row;
+        margin: auto;
+        justify-content: space-evenly;
+        max-width: 640px;
+        padding: 2em;
+      }
+
+      .choose-grid button {
+        background: none;
+        width: 20%;
+        /*border-radius: 0;*/
+      }
+
+      .choose-grid .active svg {
+        stroke-width: 4px;
+      }
+
+      .choose-grid .line {
+        background: #333;
+        width: 2px;
+        height: auto;
+      }
+
+      .profile-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 4px;
+        margin: auto;
+      }
+
+      .pt {
+        background: #333;
+      }
+
+      .profile-thumb, .pt {
+        aspect-ratio: 1;
+        width: 100%;
+        max-width: 512px;
+        display: flex;
+        align-items: flex-end;
+        background-color: #333;
+        position: relative;
+      }
+
+      .profile-thumb::after {
+        content: " ";
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: linear-gradient(0deg, #333, transparent 40%);
+      }
+
+      .profile-thumb img {
+        object-fit: cover;
+        width: 100%;
+      }
+
+      .profile-thumb svg {
+        stroke: #212121;
+      }
+
+      .profile-thumb-text {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        padding: 4%;
+        z-index: 25;
+        position: absolute;
+        max-width: 85%;
+      }
+
+      .profile-thumb-text span {
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .profile-thumb-text .online {
+        min-width: 8px;
+        height: 8px;
+        background: #0f0;
+        border-radius: 50%;
+      }
+
+      #people {
+        padding-top: 2em;
+      }
+
+      #preferences {
+        overflow-x: scroll;
+        display: flex;
+        align-items: center;
+        gap: 2em;
+        justify-content: center;
+      }
+
+      #preferences button {
+        padding: 8px 16px;
+        border: 1px solid #dedede;
+        border-radius: 36px;
+        background: transparent;
+        font-size: 18px;
+      }
+
+      #not-found {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        padding: 4em 1em;
+      }
+
+      #not-found svg {
+        stroke-width: 4px;
+        stroke: #4f4d36;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      #not-found h1, #not-found h2 {
+        text-align: center;
+      }
+
+      #highlight {
+        display: flex;
+        padding: 128px 3%;
+      }
+
+      #highlight p {
+        text-decoration: none;
+      }
+
+      #highlight #img {
+        width: 50%;
+        filter: grayscale(0.9);
+        transition: 1s;
+      }
+
+      #highlight #img:hover {
+        filter: grayscale(0);
+      }
+
+      #news-list {
+        padding: 3em 0;
+      }
+
+      #news {
+        max-width: min(680px, 80%);
+        margin: auto;
+      }
+
+      article#news-list::before {
+        background-image: url("trans.jpg");
+      }
+
+      /* Home */
+      #home {
+        padding: 4em 0;
+      }
+
+      .hero {
+        display: flex;
+        flex-flow: column;
+        margin: auto;
+        gap: 2em;
+        align-items: center;
+        max-width: 80%;
+      }
+
+      .hero p {
+        font-size: 27px;
+      }
+
+      .hero img {
+        max-width: 40vw;
+        object-fit: cover;
+        border-radius: 4em;
+        display: none;
+      }
+
+      .hero .text {
+        display: flex;
+        flex-flow: column;
+        gap: 2em;
+      }
+
+      .hero .love {
+        position: relative;
+        font-size: inherit;
+      }
+
+      .hero .love svg {
+        position: absolute;
+        width: 100%;
+        height: 25%;
+        left: 0;
+        bottom: -7px;
+        z-index: -1;
+      }
+
+      .hero button {
+        width: fit-content;
+        font-size: 32px;
+        padding: .5em 1em;
+        background: linear-gradient(129deg, #faa, #704141);
+        color: #212121;
+      }
+
+      .hero h1 {
+        font-size: 52px;
+      }
+
+      .hero p {
+        font-size: 24px;
+      }
+
+      .hero h1,
+      .hero p {
+        margin: 0;
+      }
+
+      /* SEARCH */
+
+      .search-w {
+        position: relative;
+      }
+
+      #place .results {
+        position: absolute;
+        top: 72px;
+        left: 0;
+        width: 100%;
+        background: #333;
+        z-index: 1;
+        border-radius: 0 0 24px 24px;
+        max-height: 192px;
+        display: flex;
+        flex-flow: column;
+        overflow: auto;
+        padding-top: 24px;
+      }
+
+      #place .results button {
+        justify-content: left;
+        border-radius: 0;
+        border-top: 2px solid #212121;
+      }
+
+      #place .results button:first-child {
+        border-top: none;
+      }
+
+      #place .bar {
+        background: #dedede;
+        border-radius: 24px;
+        z-index: 20;
+        position: relative;
+        display: flex;
+        flex-flow: wrap;
+      }
+
+      #place .bar input {
+        background: none;
+        width: 100%;
+        height: 32px;
+        border-radius: 32px 0 0 32px;
+        z-index: 10;
+      }
+
+      #place .options {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 100%;
+      }
+
+      #vzdal {
+        font-size: 14px;
+        height: 20px;
+        border: 2px solid;
+        border-radius: 32px 0 0 32px;
+        border-right: 0;
+        min-width: max-content;
+      }
+
+      #place .options button {
+        border: 2px solid;
+        height: 20px;
+        border-radius: 0 32px 32px 0;
+        min-width: fit-content;
+      }
+
+      #place .options span {
+        font-size:14px;
+      }
+
+      /* REGISTRATION */
+
+        #reg, #reg form, #reg-c, #reg-text {
+            display: flex;
+            flex-flow: column;
+        }
+
+        #reg {
+            justify-content: center;
+            /*align-items: center;*/
+            /*padding: 2em;*/
+            max-width: min(80%, 360px);
+            margin: auto;
+            gap: 2em;
+            height: calc(100vh - 64px);
+        }
+
+        #reg form {
+            gap: 1em;
+        }
+
+        #reg input {
+            border-radius: 10px;
+            max-width: 100%;
+            color: #212121;
+        }
+
+        #reg button {
+            border-radius: 20px;
+        }
+
+        #reg h1 {
+            font-size: 36px;
+        }
+
+        #reg h1, #reg p {
+            margin: 0;
+        }
+
+        #reg-c {
+            gap: 2em;
+            width: 100%;
+            /*justify-content: space-between;*/
+        }
+
+        #reg-buttons {
+            display: flex;
+            justify-content: space-between;
+            flex-flow: row-reverse;
+        }
+
+        #reg-text {
+            gap: 1em;
+        }
+
+      @media only screen and (min-width: 600px) {
+        h3 {
+          font-size: 26px;
+        }
+
+        nav a {
+          gap: 4px;
+          flex-flow: row;
+        }
+
+        nav span {
+          font-size: 21px;
+        }
+
+        nav svg {
+          width: 46px;
+        }
+
+        .thumb_c {
+          flex-flow: row;
+          gap: 2em;
+        }
+
+        .thumb_c h3 {
+          margin: 0;
+        }
+
+        .thumb_c .text,
+        .thumb_c .thumb {
+          width: 33%;
+        }
+
+        .profile-grid {
+          max-width: min(66%, 1128px);
+          grid-template-columns: 1fr 1fr 1fr 1fr;
+        }
+
+        .profile-thumb-text span {
+          font-size: 24px;
+        }
+
+        .hero {
+          flex-flow: row;
+        }
+
+        .hero h1 {
+          font-size: 54px;
+        }
+
+        .hero img {
+          display: block;
+        }
+
+        /* SEARCH */
+
+        #place .results {
+          top: 24px;
+          left: 0;
+          width: 104.75%;
+        }
+
+        #place .bar {
+          flex-flow: nowrap;
+        }
+
+        #place .bar input {
+          width: 59%;
+        }
+
+        #place .options {
+          display: flex;
+          width: unset;
+        }
+      }
+    </style>
+  </head>
+  <body>
+  <nav>
+   <a id="domu" aria-label="Domů" href="/" onclick="urlRoute(event)">
+      <svg viewBox="0 0 64 64" id="logo">
+         <path d="m24,16l8,8l8,-8" stroke-linecap="round" stroke-width="21px" />
+         <path d="m32,38v20m-8,-8h16m-2.34,5.66l-11.31,-11.31m0,11.31l11.31,-11.31" />
+      </svg>
+   </a>
+   <a id="zpravy" href="/zpravy" onclick="urlRoute(event)">
+      <svg viewBox="0 0 64 64">
+         <path d="m48,44h-32q-4,0 -4,-4v-24h32v24a4,4 0 0 0 8,0v-16h-8m-28,-4h12v8h-12zm16,4h8m0,12h-24" />
+      </svg>
+      <span>Zprávy</span>
+   </a>
+   <a id="seznamka" href="/seznamka" onclick="urlRoute(event)">
+      <svg viewBox="0 0 64 64">
+         <circle r="8" cx="20" cy="18" />
+         <path d="m20,22m-16,16a8,4 0 0 1 32,0" />
+         <circle r="8" cx="44" cy="28" />
+         <path d="m44,32m-16,16a8,4 0 0 1 32,0" />
+      </svg>
+      <span>Seznamka</span>
+   </a>
+   <a id="ucet" href="/ucet" onclick="urlRoute(event)">
+      <svg viewBox="0 0 64 64">
+         <circle r="24" cx="32" cy="32"></circle>
+         <g id="ulogo">
+            <circle r="8" cx="32" cy="24"></circle>
+            <path d="m32,28m-16,16a8,4 0 0 1 32,0"></path>
+         </g>
+      </svg>
+      <span>Účet</span>
+   </a>
+</nav>
+<main id="c"></main>
+<section class="disclaimer-c"></section>
+<footer>
+   <span>Obsah stránky je pod licencí CC-BY-SA. Používáme funkční cookies.</span>
+   <span>
+      Vytvořil<!--a skupina <a href="#">1Earth</a>-->
+   </span>
+</footer>
+<template id="tp-not-found">
+   <article id=not-found>
+      <svg width=128 height=128 viewBox="0 0 64 64">
+         <path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5">
+      </svg>
+      <h1>Stránka nenalezena</h1>
+      <a href=/>Přejít na hlavní stranu</a>
+   </article>
+</template>
+<template id="tp-news-list">
+   <article id=news-list>
+      <a class=thumb_c href=#>
+         <div class=thumb><img alt="Trans lidi"loading=lazy src="./img/thumb/trans.webp" style=object-fit:cover width=100%></div>
+         <div class=text>
+            <h3>Trans lidé protestují za svá práva v headlinu</h3>
+            <span>12. 8. 1999 Tag, tag, tag</span>
+         </div>
+      </a>
+      <a class=thumb_c href=#>
+         <div class=thumb><img alt="Trans lidi"loading=lazy src="./img/thumb/trans.webp" style=object-fit:cover width=100%></div>
+         <div class=text>
+            <h3>Trans lidé protestují</h3>
+            <span>12. 8. 1999 Tag, tag, tag</span>
+         </div>
+      </a>
+      <a class=thumb_c href=#>
+         <div class=thumb><img alt="Trans lidi"loading=lazy src="./img/thumb/trans.webp" style=object-fit:cover width=100%></div>
+         <div class=text>
+            <h3>Trans lidé protestují za svá práva v headlinu</h3>
+            <span>12. 8. 1999 Tag, tag, tag</span>
+         </div>
+      </a>
+      <a class=thumb_c href=#>
+         <div class=thumb><img alt="Trans lidi"loading=lazy src="./img/thumb/trans.webp" style=object-fit:cover width=100%></div>
+         <div class=text>
+            <h3>Trans lidé protestují za svá práva v headlinu</h3>
+            <span>12. 8. 1999 Tag, tag, tag</span>
+         </div>
+      </a>
+   </article>
+   '
+</template>
+
+<template id="tp-reg">
+   <article id=reg>
+      <div id=reg-c>
+         <div id=reg-text>
+            <h1>Registrace</h1>
+            <p>Zadejte svou přezdívku
+         </div>
+         <form onsubmit=regCheck()>
+            <input autofocus id=nick maxlength=16 minlength=3 pattern=[A-Za-z0-9]{3,16} placeholder=Přezdívka style="border-radius:10px;background:#dedede;max-width:100%;border:none;padding:8px 16px;color:#212121;min-height:48px">
+            <div id=reg-buttons><button type=submit>Další</button> <button>Zpět</button></div>
+         </form>
+      </div>
+   </article>
+</template>
+
+<template id="tp-people">
+   <article id=people>
+      <div class=pref-c>
+         <div class=pref id=age>
+            <label for=min-age>Věk:</label>
+            <select id=min-age onchange="setGrid()"></select>
+            <span>až</span>
+            <select id=max-age onchange="setGrid()"></select>
+            <span>let</span>
+          </div>
+         <div class=pref id=place>
+            <div class=search-w>
+               <div class=results></div>
+               <div class=bar>
+                  <input id="search" oninput="searchTyping()" placeholder="Název obce">
+                  <div class=options>
+                     <select id=vzdal onchange="setGrid()">
+                        <option value=1>1 km
+                        <option value=2>2 km
+                        <option value=5>5 km
+                        <option value=10 selected>10 km
+                        <option value=20>20 km
+                        <option value=50>50 km
+                        <option value=100>100 km
+                        <option value=200>200 km
+                        <option value=none>200+ km
+                     </select>
+                     <button onclick=getLoc()>
+                        <svg viewBox="0 0 64 64"width=48>
+                           <circle cx=32 cy=32 r=8 />
+                           <circle cx=32 cy=32 r=16 />
+                           <path d=m8,32h8m16,16v8m16,-24h8m-24,-16v-8 />
+                        </svg>
+                        <span>Má poloha</span>
+                     </button>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class=choose-grid>
+         <button aria-label="Mřížkový mód" class=active>
+            <svg viewBox="0 0 64 64"width=32>
+               <path d=m40,8v48m-16,0v-48m-16,16h48m0,16h-48 />
+               <rect height=48 width=48 x=8 y=8 />
+            </svg>
+         </button>
+         <div class=line></div>
+         <button aria-label="Swipe mód">
+            <svg viewBox="0 0 64 64"width=32>
+               <path d=m8,24h48m0,16h-48 />
+               <rect height=48 width=48 x=8 y=8 />
+            </svg>
+         </button>
+         <div class=line></div>
+         <button aria-label="Scroll mód">
+            <svg viewBox="0 0 64 64"width=32>
+               <path d=m18,9v46h28v-46z />
+            </svg>
+         </button>
+      </div>
+      <div class=profile-grid>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+         <div class=pt></div>
+      </div>
+   </article>
+</template>
+
+<template id="tp-news">
+   <article id=news>
+      <h1>S pořadovým číslem v prosté vzestupné</h1>
+      <p>Paragraf (značka §, U+00A7, na čes. klávesnici (levý) Alt + 0167, patrně vznikla ve středověku jako ligatura, dvojité S ve významu signum sectionis k označování pořadí odstavců) je v současnosti zpravidla část právního předpisu nadepsaná znakem § s pořadovým číslem v prosté vzestupné řadě, např. „§ 24“. Mluví se pak o tomto pořadí buď prostým číslem („paragraf dvacet čtyři“) nebo pořadovým číslem („paragraf dvacátý čtvrtý“). V členění textů jiné než právní povahy se paragrafy objevují jen zřídka, např. v učebnicích nebo soustavných pojednáních. jak tate for free and on voluntary contributions offery na redesing for free
+      <p>Slovem paragraf se nazývá i samotný znak §, který je jedním ze symbolů, synonymem práva, legislativy a předpisů – zejména v množném čísle (např. „vyznat se v paragrafech“). V angličtině má slovo paragraph význam „odstavec“, znaku se říká section sign a obdobně např. španělsky signo de sección.
+      <h2>Použití</h2>
+      <p>Ve středoevropské legislativě se znak § používá pro označování větších oddílů textu právního předpisu, v některých jiných oblastech se používá pro číslování jednotlivých menších odstavců.
+      <p>Právní předpisy České republiky se pravidelně strukturují podle úrovní: část – hlava – díl – oddíl – pododdíl – paragraf – odstavec – písmeno (pododstavec) – bod. Paragrafy se tedy zpravidla člení na další části. Číslování paragrafů je v textu předpisu vždy vzestupné, počínaje číslicí 1. V české legislativě jsou paragrafy základní, stabilizovanou úrovní členění právních předpisů, tj. označená část textu si své označení ponechává i při případných novelizacích v budoucnu, takže pokud je do dosud souvislého textu vložen nový paragraf, je označen číslem paragrafu předcházejícího s doplněním písmene, a v případě zrušení paragrafu se čísla následujících paragrafů nemění a číslo zrušeného paragrafu zůstává neobsazeno. Při případných větších nebo postupných novelizacích jsou využívána písmena podle abecedy.[1] Např. po § 19 občanského zákoníku z roku 1964 následovaly v jeho posledním znění § 19a, § 19b, § 19c a až poté § 20.
+   </article>
+</template>
+
+<template id="tp-home">
+   <article id=home>
+      <div class=hero>
+         <div class=text>
+            <h1>
+               <span class=love>
+                  LÁSKA
+                  <svg preserveAspectRatio=none viewBox="0 0 64 16">
+                     <path d="m0,8q16,8 32,0t32,0"stroke=#faa />
+                  </svg>
+               </span>
+               NENÍ<br>NA PRODEJ
+            </h1>
+            <p>Hledání partnerů by nemělo být jen pro VIP. Žádné reklamy, paywally, ani manipulativní algoritmy.</p>
+            <button>Zaregistrovat se</button>
+         </div>
+         <div class=visual><img alt="Mužský pár v objetí"src="/img/w/gay-hug.webp"></div>
+      </div>
+   </article>
+</template>
+    <script>
+      /* Variables */
+        
+      let id = function(id) {return document.getElementById(id);};
+      const c = id("c");
+      const disCon = document.querySelector(".disclaimer-c");
+      const offsetBase = 12;
+      let i = 0;
+
+      let cache = {};
+      let u = {};
+      u.spage = 0;
+      u.bottom = false;
+        
+      /* Geolocation */
+    
+      let loc = new Object();
+      function getLoc() {
+        navigator.geolocation.getCurrentPosition((pos) => {
+            loc = pos.coords;
+            setCoor(loc.latitude.toString(), loc.longitude.toString());
+          },
+          (err) => {
+            console.warn(`ERROR(${err.code}): ${err.message}`);
+            disclaimer("Určení polohy selhalo", 3)
+          },
+          [false, 5000, 0]);
+      }
+        
+      /* Database */
+        
+      async function getGrid() {
+
+        try {
+
+          const minAge = id("min-age");
+          const maxAge = id("max-age");
+          const vzdal = id("vzdal");
+          const search = id("search");
+
+          u.s = {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
+
+          let query = "https://api.qseznamka.cz/search";
+          let queryArray = [];
+
+          if (minAge.value != "15" || maxAge.value != "99") {
+            queryArray.push(`age_min=${minAge.value}&age_max=${maxAge.value}`);
+          }
+
+          if (Object.hasOwn(u, "lat") && vzdal.value != "none") {
+            const range = Number(vzdal.value) * 0.01 * .5;
+            const minLat = u.lat - range;
+            const maxLat = u.lat + range;
+            const minLon = u.lon - range;
+            const maxLon = u.lon + range;
+            queryArray.push(`lat_min=${minLat}&lat_max=${maxLat}&lon_min=${minLon}&lon_max=${maxLon}`);
+          }
+
+          if (u.spage != 0) {
+            queryArray.push("off=" + u.spage * offsetBase);
+          }
+
+          for (i = 0; i < queryArray.length; i++) {
+            if (i == 0) {query += "?"} else query += "&";
+            query += queryArray[i];
+          }
+
+          // console.log(query);
+
+          const response = await fetch(query); //retrieve
+
+          if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+          }
+
+          const result = await response.json();
+
+          return result;
+
+        } catch (error) {
+
+          console.error(error.message);
+          disclaimer("Nepodařilo se načíst Grid", 3);
+
+          return null;
+
+        }
+      }
+
+      async function showGrid(grid, remap = false) {
+
+        if (Object.hasOwn(cache, "grid") && remap == false) { // grid in cache
+
+          console.log("No remap");
+          grid.innerHTML = cache.grid;
+
+        } else try {
+
+          console.log("Remap");
+
+          const profiles = await getGrid();
+
+          if (profiles) {
+
+            if (u.spage == 0) grid.innerHTML = "";
+            let gItems = "";
+
+            if (profiles.length == 0) {
+
+              grid.innerHTML = "<h2>Nenalezeny odpovídající profily</h2>";
+
+            } else for (i = 0; i < profiles.length; i++) {
+
+              //gItems = "";
+              gItems += `<a class="profile-thumb" href="#">`;
+
+              if (profiles[i].picture == null) {
+
+                gItems += `<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;
+
+              } else {
+
+                gItems += `<img alt="profilovka ${profiles[i].name}" src="https://qseznamka.cz/img/u/profile/${profiles[i].picture}" fetchpriority=high>`
+                
+              }
+
+              gItems += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
+              // grid.innerHTML += gItems;
+            }
+
+            grid.innerHTML += gItems;
+            cache.grid = grid.innerHTML;
+          }
+        } catch (error) {
+
+          console.error("Failed to load profiles:", error);
+          disclaimer("Nepodařilo se načíst profily", 3);
+
+          //grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
+        }
+      }
+
+      let lastIns = "aaa";
+      let lastRes = "";
+
+      async function searchTyping() {
+
+        let citySearch = search.value;
+        let cities;
+
+        const results = document.querySelector("#place .results");
+
+        if (citySearch.length > 1) {
+          const search = id("search");
+          let cityArray = [];
+          const name = citySearch.substring(0, 2).toLowerCase();
+          try {
+            if (lastIns == name) {
+              cities = lastRes;
+            } else {
+              const response = await fetch(`/data/cities/${name}.json`);
+              cities = await response.json();
+
+              lastRes = cities;
+              lastIns = name;
+            }
+
+            for (const city of cities) {
+              if (city.name.substring(0,citySearch.length).toLowerCase() == citySearch.toLowerCase()) {
+                cityArray.push([city.name, city.lat, city.lon]);
+              }
+            }
+
+            results.innerHTML = "";
+
+            if (cityArray.length == 0) {
+              results.innerHTML = "<button style='text-align: center;'><i>Obec nenalezena</i></button>";
+            } else for (i = 0; i < cityArray.length; i++) {
+              results.innerHTML += `<button onclick="setCoor(${cityArray[i][1]},${cityArray[i][2]},'${cityArray[i][0]}')">${cityArray[i][0]}</button>`;
+            }
+          } catch(e) {
+            console.log(`Selhal fetch měst: ${e}`);
+            results.innerHTML = "<button style='text-align: center;'><i>Obec nenalezena</i></button>";
+          }
+              
+        } else {
+          results.innerHTML = "";
+        }
+               
+      }
+      async function setGrid() {
+        const grid = document.querySelector(".profile-grid");
+        await showGrid(grid, true);
+      }
+      function setCoor(lat, lon, name = "") {
+        if (name != "") {
+          const search = id("search");
+          search.value = name;
+        }
+        u.lat = lat;
+        u.lon = lon;
+
+        const results = document.querySelector("#place .results");
+        setGrid();
+        u.spage = 0;
+        results.innerHTML = "";
+        disclaimer("Poloha nastavena", 2);
+      }
+
+      /* Disclaimer */
+
+      function disclaimer(text, type = 0) {
+        const disc = document.createElement("span");
+        disc.classList.add("disclaimer");
+        disc.innerHTML = `<span>${text}</span><button onlick="() => {disc.remove()}"><svg viewBox="0 0 64 64"><path d="m8,8l48,48m-48,0l48,-48"></svg></button>`;
+        //disc.onclick = () => {disc.remove()};
+
+        switch (type) {
+          case 1: // Warning
+            disc.style.background = "#330";
+          break;
+          case 2: // Success
+            disc.style.background = "#030";
+          break;
+          case 3: // Error
+            disc.style.background = "#300";
+          break;
+        }
+
+        disCon.appendChild(disc);
+        setTimeout(() => {disc.remove()}, 3000);
+      }
+
+      /* Cookies */
+      
+      async function get_c() {
+        try {
+          const response = await fetch("https://api.qseznamka.cz/get_session", {
+            credentials: 'include'
+          });
+          if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+          }
+          const result = await response.text();
+          console.log(result);
+        } catch (error) {
+          console.error(error.message);
+        }
+      }
+      async function set_c() {
+        try {
+          const response = await fetch("https://api.qseznamka.cz/set_session", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+              message: "123go"
+            }),
+            credentials: "include"
+          });
+          if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+          }
+          const result = await response.text();
+          console.log(result);
+        } catch (error) {
+          console.error(error.message);
+        }
+      }
+
+      function scroll() {
+        if (u.loc == "/seznamka") {
+          const cR = c.getBoundingClientRect();
+          if (cR.bottom < window.innerHeight) {
+            u.spage++;
+            const grid = document.querySelector(".profile-grid");
+            showGrid(grid);
+          }
+        }
+      }
+      /* Routing */
+      /*document.addEventListener("click", (e) => {
+      	const { target } = e;
+      	/*if (!target.matches("nav a")) {
+      		return;
+      	}/
+      	e.preventDefault();
+      	urlRoute();
+      });*/
+      function route(e) {
+        e.preventDefault();
+        urlRoute();
+      }
+      const p = {
+        domu: {
+          t: "Domov",
+          d: "Popis domova",
+          c: "tp-home"
+        },
+        zpravy: {
+          t: "Zprávy",
+          d: "Popis zpráv",
+          c: "tp-news"
+        },
+        seznamka: {
+          t: "Seznamka",
+          d: "Seznamkový popis",
+          c: "tp-people"
+        },
+        ucet: {
+          t: "Účet",
+          d: "Měl by tu být?",
+          c: "tp-reg"
+        },
+        clanek: {
+          t: "Článek",
+          d: "Popis",
+          c: "tp-news"
+        },
+        nothing: {
+          t: "Stránka nenalezena",
+          d: "404",
+          c: "tp-not-found"
+        }
+      }
+
+      function loadDoc(page) {
+        document.title = `${p[page].t} - Qseznamka.cz`;
+        const template = id(p[page].c);
+        c.appendChild(template.content.cloneNode(true));
+        if (id(page)) id(page).classList.add("active");
+        cR = c.getBoundingClientRect();
+      }
+        
+      const urlRoute = (event) => {
+        event = event || window.event;
+        event.preventDefault();
+        window.history.pushState({}, "", event.target.href);
+        urlLocationHandler();
+      };
+      const urlLocationHandler = async () => {
+        const location = window.location.pathname;
+        if (location.length == 0) {
+          location = "/";
+        }
+        u.loc = location;
+        [].forEach.call(document.querySelectorAll('nav a'), function(el) {
+          el.classList.remove('active');
+        });
+        let page = "";
+        switch (location) {
+          case "/": loadDoc("domu"); break;
+          case "/zpravy": loadDoc("zpravy"); break;
+          case "/seznamka":
+            /*<a class=profile-thumb href=#><img alt="profilová fotka" src=profile.webp>
+              <div class=profile-thumb-text><span>John Doe</span>
+                <div class=online></div>
+              </div>
+            </a>*/
+            loadDoc("seznamka");
+
+            const minAge = id("min-age");
+            const maxAge = id("max-age");
+
+            for (i = 15; i < 100; i++) {
+              const vMax = 114 - i;
+              minAge.innerHTML += `<option value="${i}">${i}</option>`;
+              maxAge.innerHTML += `<option value="${vMax}">${vMax}</option>`;
+            }
+
+            const search = id("search");
+            const results = document.querySelector("#place .results");
+            let cityArray = [];
+
+            const grid = document.querySelector(".profile-grid");
+            /*const gItemPl = document.createElement("div");
+            gItemPl.classList.add(".profile-thumb");
+            gItemPl.style.background = "#333";
+            for (i = 0; i < 15; i++) grid.appendChild(gItemPl.cloneNode());*/
+            if (Object.hasOwn(u, "s")) {
+              const vzdal = id("vzdal");
+              minAge.value = u.s.minAge;
+              maxAge.value = u.s.maxAge;
+              search.value = u.s.bar;
+              vzdal.value = u.s.vzdal;
+            }
+            showGrid(grid);
+            break;
+          case "/ucet": loadDoc("ucet"); break;
+          case "/clanek": loadDoc("clanek"); break;
+          default: loadDoc("nothing"); break;
+        }
+      };
+      window.onerror = function(error, url, line) {
+
+        if (c.innerHTML == "") {
+          console.error(`${error}; ${url}; ${line}`);
+          c.innerHTML = '<article id=error><svg width=128 height=128 viewBox="0 0 64 64"><path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5"></svg><h1>Někde se stala chyba</h1><a href="window.location.reload()">Obnovit stránku</a></article>'
+        }
+      }
+      window.onscroll = function(){scroll()};
+      window.onresize = function(){scroll()};
+      window.onpopstate = urlLocationHandler;
+      window.route = urlRoute;
+      urlLocationHandler();
+    </script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

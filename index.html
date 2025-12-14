@@ -967,12 +967,12 @@
 
       async function showGrid(grid, remap = false) {
 
-        if (Object.hasOwn(cache, "grid") && remap == false) { // grid in cache
+        /* if (Object.hasOwn(cache, "grid") && remap == false) { // grid in cache
 
           console.log("No remap");
           grid.innerHTML = cache.grid;
 
-        } else try {
+        } else */ try {
 
           console.log("Remap");
 
@@ -984,8 +984,8 @@
             let gItems = "";
 
             if (profiles.length == 0) {
-
-              grid.innerHTML = "<h2>Nenalezeny odpovídající profily</h2>";
+                
+                disCon.innerHTML = "<h2>Nenalezeny odpovídající profily</h2>";
 
             } else for (i = 0; i < profiles.length; i++) {
 
@@ -1209,7 +1209,7 @@
         c.innerHTML = "";
         c.appendChild(template.content.cloneNode(true));
         if (id(page)) id(page).classList.add("active");
-        cR = c.getBoundingClientRect();
+        // cR = c.getBoundingClientRect();
       }
         
       const urlRoute = (event) => {

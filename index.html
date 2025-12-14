@@ -888,6 +888,7 @@
       let cache = {};
       let u = {};
       u.spage = 0;
+      u.sEnd = false;
       u.bottom = false;
         
       /* Geolocation */
@@ -978,9 +979,14 @@
 
           const profiles = await getGrid();
 
+          if (profiles.length < offsetBase) u.sEnd = true;
+
           if (profiles) {
 
-            if (u.spage == 0) grid.innerHTML = "";
+            if (u.spage == 0) {
+                u.sEnd = false;
+                grid.innerHTML = "";
+            }
             let gItems = "";
 
             if (profiles.length == 0) {
@@ -1068,6 +1074,7 @@
       }
       async function setGrid() {
         const grid = document.querySelector(".profile-grid");
+        u.spage = 0;
         await showGrid(grid, true);
       }
       function setCoor(lat, lon, name = "") {
@@ -1148,7 +1155,7 @@
       }
 
       function scroll() {
-        if (u.loc == "/seznamka") {
+        if (u.loc == "/seznamka" && u.sEnd == false) {
           const cR = c.getBoundingClientRect();
           if (cR.bottom < window.innerHeight) {
             u.spage++;

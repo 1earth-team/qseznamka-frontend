@@ -768,10 +768,10 @@
    <article id=people>
       <div class=pref-c>
          <div class=pref id=age>
-            <label for=min-age>Věk:</label>
-            <select id=min-age onchange="setGrid()"></select>
+            <label>Věk:</label>
+            <select aria-label="Minimální věk" id=min-age onchange="setGrid()"></select>
             <span>až</span>
-            <select id=max-age onchange="setGrid()"></select>
+            <select aria-label="Maximální věk" id=max-age onchange="setGrid()"></select>
             <span>let</span>
           </div>
          <div class=pref id=place>
@@ -780,7 +780,7 @@
                <div class=bar>
                   <input id="search" oninput="searchTyping()" placeholder="Název obce">
                   <div class=options>
-                     <select id=vzdal onchange="setGrid()">
+                     <select aria-label="Vzdálenost" id=vzdal onchange="setGrid()">
                         <option value=1>1 km
                         <option value=2>2 km
                         <option value=5>5 km
@@ -1286,28 +1286,3 @@
     </script>
   </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

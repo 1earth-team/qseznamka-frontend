@@ -1031,7 +1031,7 @@
           }
 
           const result = await response.json();
-          pr.concat(result);
+          pr = pr.concat(result);
 
           return result;
 
@@ -1108,7 +1108,7 @@
         const grid = id(gridId);
 
         // profiles = {};
-        pr = {};
+        pr = [];
         grid.innerHTML = "";
 
         showProfiles();

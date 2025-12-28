@@ -1031,7 +1031,7 @@
           }
 
           const result = await response.json();
-          pr += result;
+          pr.concat(result);
 
           return result;
 

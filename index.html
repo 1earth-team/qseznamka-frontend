@@ -770,9 +770,9 @@
       <div class=pref-c>
          <div class=pref id=age>
             <label>Věk:</label>
-            <select aria-label="Minimální věk" id=min-age onchange="setGrid()"></select>
+            <select aria-label="Minimální věk" id=min-age onchange="resetProfileSearch()"></select>
             <span>až</span>
-            <select aria-label="Maximální věk" id=max-age onchange="setGrid()"></select>
+            <select aria-label="Maximální věk" id=max-age onchange="resetProfileSearch()"></select>
             <span>let</span>
           </div>
          <div class=pref id=place>
@@ -781,7 +781,7 @@
                <div class=bar>
                   <input id="search" oninput="searchTyping()" placeholder="Název obce">
                   <div class=options>
-                     <select aria-label="Vzdálenost" id=distance onchange="setGrid()">
+                     <select aria-label="Vzdálenost" id=distance onchange="resetProfileSearch()">
                         <option value=1>1 km
                         <option value=2>2 km
                         <option value=5>5 km
@@ -957,8 +957,9 @@
         u.lon = lon;
 
         const results = document.querySelector("#place .results");
-        u.spage = 0;
-        setGrid();
+        // u.spage = 0;
+        // setGrid();
+        resetProfileSearch();
         results.innerHTML = "";
         disclaimer("Poloha nastavena", 2);
       }
@@ -1113,70 +1114,6 @@
 
         showProfiles();
 
-      }
-      
-      async function showGrid(grid, remap = false) {
-
-        /* if (Object.hasOwn(cache, "grid") && remap == false) { // grid in cache
-
-          console.log("No remap");
-          grid.innerHTML = cache.grid;
-
-        } else */ try {
-
-          console.log("Remap");
-
-          const profiles = await getProfiles;
-
-          if (profiles.length < offsetBase) u.sEnd = true;
-
-          if (profiles) {
-
-            if (s.p == 0) {
-                u.sEnd = false;
-                grid.innerHTML = "";
-            }
-            let gItems = "";
-
-            if (profiles.length == 0) {
-                
-                c.innerHTML = "<h2>Nenalezeny odpovídající profily</h2>";
-
-            } else for (i = 0; i < profiles.length; i++) {
-
-              //gItems = "";
-              gItems += `<a class="profile-thumb" href="#">`;
-
-              if (profiles[i].picture == null) {
-
-                gItems += `<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;
-
-              } else {
-
-                gItems += `<img alt="profilovka ${profiles[i].name}" src="https://qseznamka.cz/img/u/profile/${profiles[i].picture}" fetchpriority=high>`
-                
-              }
-
-              gItems += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
-              // grid.innerHTML += gItems;
-            }
-
-            grid.innerHTML += gItems;
-            cache.grid = grid.innerHTML;
-          }
-        } catch (error) {
-
-          console.error("Failed to load profiles:", error);
-          disclaimer("Nepodařilo se načíst profily", 3);
-
-          //grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
-        }
-      }
-      
-      async function setGrid() {
-        const grid = document.querySelector(".profile-grid");
-        u.spage = 0;
-        await showGrid(grid, true);
       }
 
       /* Search cities */

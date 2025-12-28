@@ -1031,6 +1031,7 @@
           }
 
           const result = await response.json();
+          pr += result;
 
           return result;
 
@@ -1078,10 +1079,14 @@
               
             }
 
-            grid.innerHTML += gItems;
+            // grid.innerHTML += gItems;
             // cache.grid = grid.innerHTML;
 
-            if (document.querySelector(".profile-thumb") == null) {}
+            if (document.querySelector(".profile-thumb") == null) {
+              grid.innerHTML = gItems;
+            } else {
+              grid.innerHTML += gItems;
+            }
 
           } else {
 

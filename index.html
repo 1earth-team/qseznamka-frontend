@@ -513,7 +513,7 @@
         width: 100%;
       }
 
-      #vzdal {
+      #distance {
         font-size: 14px;
         height: 20px;
         border: 2px solid;
@@ -706,6 +706,7 @@
       Vytvořil<!--a skupina <a href="#">1Earth</a>-->
    </span>
 </footer>
+
 <template id="tp-not-found">
    <article id=not-found>
       <svg width=128 height=128 viewBox="0 0 64 64">
@@ -715,6 +716,7 @@
       <a href=/>Přejít na hlavní stranu</a>
    </article>
 </template>
+
 <template id="tp-news-list">
    <article id=news-list>
       <a class=thumb_c href="./clanek">
@@ -779,7 +781,7 @@
                <div class=bar>
                   <input id="search" oninput="searchTyping()" placeholder="Název obce">
                   <div class=options>
-                     <select aria-label="Vzdálenost" id=vzdal onchange="setGrid()">
+                     <select aria-label="Vzdálenost" id=distance onchange="setGrid()">
                         <option value=1>1 km
                         <option value=2>2 km
                         <option value=5>5 km
@@ -824,7 +826,7 @@
             </svg>
          </button>
       </div>
-      <div class=profile-grid>
+      <div id=grid-c class=profile-grid>
          <div class=pt></div>
          <div class=pt></div>
          <div class=pt></div>
@@ -838,6 +840,7 @@
          <div class=pt></div>
          <div class=pt></div>
       </div>
+      <div id="grid-disclaimer"></div>
    </article>
 </template>
 
@@ -876,8 +879,10 @@
       /* Variables */
         
       let id = function(id) {return document.getElementById(id);};
+
       const c = id("c");
       const disCon = document.querySelector(".disclaimer-c");
+
       const offsetBase = 12;
       let i = 0;
 
@@ -886,10 +891,78 @@
       u.spage = 0;
       u.sEnd = false;
       u.bottom = false;
+
+      let s = {}; // Search object
+      s.q = {}; // Search object - search query
+      s.p = 0; // Search page
+
+      let pr = {};
+
+      let loc = new Object(); // Geolocation object
+
+      let lastIns = "aaa"; // Last insert for searchTyping()
+      let lastRes = ""; // Last response for searchTyping()
+
+      const gridId = "grid-c";
+
+      const p = { // Pages object
+        domu: {
+          t: "Domov",
+          d: "Popis domova",
+          c: "tp-home"
+        },
+        zpravy: {
+          t: "Zprávy",
+          d: "Popis zpráv",
+          c: "tp-news-list"
+        },
+        seznamka: {
+          t: "Seznamka",
+          d: "Seznamkový popis",
+          c: "tp-people"
+        },
+        ucet: {
+          t: "Účet",
+          d: "Měl by tu být?",
+          c: "tp-reg"
+        },
+        clanek: {
+          t: "Článek",
+          d: "Popis",
+          c: "tp-news"
+        },
+        nothing: {
+          t: "Stránka nenalezena",
+          d: "404",
+          c: "tp-not-found"
+        }
+      };
+
+      window.onerror = function(error, url, line) { // Handle errors early
+
+        if (c.innerHTML == "") {
+          console.error(`${error}; ${url}; ${line}`);
+          c.innerHTML = '<article id=error><svg width=128 height=128 viewBox="0 0 64 64"><path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5"></svg><h1>Někde se stala chyba</h1><a href="window.location.reload()">Obnovit stránku</a></article>'
+        }
+      };
         
       /* Geolocation */
-    
-      let loc = new Object();
+
+      function setCoor(lat, lon, name = "") {
+        if (name != "") {
+          const search = id("search");
+          search.value = name;
+        }
+        u.lat = lat;
+        u.lon = lon;
+
+        const results = document.querySelector("#place .results");
+        u.spage = 0;
+        setGrid();
+        results.innerHTML = "";
+        disclaimer("Poloha nastavena", 2);
+      }
+      
       function getLoc() {
         navigator.geolocation.getCurrentPosition((pos) => {
             loc = pos.coords;
@@ -902,28 +975,35 @@
           [false, 5000, 0]);
       }
         
-      /* Database */
-        
-      async function getGrid() {
+      /* Profiles */
+
+      async function getProfiles() {
 
         try {
 
-          const minAge = id("min-age");
-          const maxAge = id("max-age");
-          const vzdal = id("vzdal");
-          const search = id("search");
+          // Get input values
 
-          u.s = {minAge: minAge.value, maxAge: maxAge.value, vzdal: vzdal.value, bar: search.value};
+          const minAge = id("min-age").value;
+          const maxAge = id("max-age").value;
+          const distance = id("distance").value;
+          const search = id("search").value;
+
+          s.q.minAge = minAge;
+          s.q.maxAge = maxAge;
+          s.q.distance = distance;
+          s.q.bar = search;
+
+          // Build query
 
           let query = "https://api.qseznamka.cz/search";
           let queryArray = [];
 
-          if (minAge.value != "15" || maxAge.value != "99") {
-            queryArray.push(`age_min=${minAge.value}&age_max=${maxAge.value}`);
+          if (minAge != "15" || maxAge != "99") {
+            queryArray.push(`age_min=${minAge}&age_max=${maxAge}`);
           }
 
-          if (Object.hasOwn(u, "lat") && vzdal.value != "none") {
-            const range = Number(vzdal.value) * 0.01 * .5;
+          if (Object.hasOwn(u, "lat") && distance != "none") {
+            const range = Number(distance) * 0.01 * .5;
             const minLat = u.lat - range;
             const maxLat = u.lat + range;
             const minLon = u.lon - range;
@@ -931,8 +1011,8 @@
             queryArray.push(`lat_min=${minLat}&lat_max=${maxLat}&lon_min=${minLon}&lon_max=${maxLon}`);
           }
 
-          if (u.spage != 0) {
-            queryArray.push("off=" + u.spage * offsetBase);
+          if (s.p > 0) {
+            queryArray.push("off=" + s.p * offsetBase);
           }
 
           for (i = 0; i < queryArray.length; i++) {
@@ -942,7 +1022,9 @@
 
           // console.log(query);
 
-          const response = await fetch(query); //retrieve
+          // Get response from query
+
+          const response = await fetch(query);
 
           if (!response.ok) {
             throw new Error(`Response status: ${response.status}`);
@@ -962,6 +1044,72 @@
         }
       }
 
+      async function generateProfiles() {}
+
+      async function showProfiles() {
+
+        try {
+
+          const grid = id(gridId);
+
+          // Create profiles
+
+          const profiles = await getProfiles();
+
+          if (profiles) {
+
+            let gItems = "";
+
+            for (i = 0; i < profiles.length; i++) {
+
+              gItems += `<a class="profile-thumb" href="#">`;
+
+              if (profiles[i].picture == null) {
+
+                gItems += `<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;
+
+              } else {
+
+                gItems += `<img alt="profilovka ${profiles[i].name}" src="https://qseznamka.cz/img/u/profile/${profiles[i].picture}" fetchpriority=high>`
+                
+              }
+
+              gItems += `<div class="profile-thumb-text"><span>${profiles[i].name}</span><div class="online"></div></div></a>`;
+              
+            }
+
+            grid.innerHTML += gItems;
+            // cache.grid = grid.innerHTML;
+
+            if (document.querySelector(".profile-thumb") == null) {}
+
+          } else {
+
+            disclaimer("Nepodařilo se stáhnout profily", 3);
+
+          }
+
+        } catch(error) {
+
+          console.error("Failed to load profiles:", error);
+          disclaimer("Nepodařilo se načíst profily", 3);
+
+        }
+
+      }
+
+      function resetProfileSearch() {
+
+        const grid = id(gridId);
+
+        // profiles = {};
+        pr = {};
+        grid.innerHTML = "";
+
+        showProfiles();
+
+      }
+      
       async function showGrid(grid, remap = false) {
 
         /* if (Object.hasOwn(cache, "grid") && remap == false) { // grid in cache
@@ -973,13 +1121,13 @@
 
           console.log("Remap");
 
-          const profiles = await getGrid();
+          const profiles = await getProfiles;
 
           if (profiles.length < offsetBase) u.sEnd = true;
 
           if (profiles) {
 
-            if (u.spage == 0) {
+            if (s.p == 0) {
                 u.sEnd = false;
                 grid.innerHTML = "";
             }
@@ -1019,10 +1167,15 @@
           //grid.innerHTML = `<div class="error"><h2>Omlouváme se</h2><p>Nepodařilo se načíst profily</p><p><button onclick='window.location.reload();'>Zkusit znovu</button></p></div>`
         }
       }
+      
+      async function setGrid() {
+        const grid = document.querySelector(".profile-grid");
+        u.spage = 0;
+        await showGrid(grid, true);
+      }
 
-      let lastIns = "aaa";
-      let lastRes = "";
-
+      /* Search cities */
+      
       async function searchTyping() {
 
         let citySearch = search.value;
@@ -1067,25 +1220,6 @@
           results.innerHTML = "";
         }
                
-      }
-      async function setGrid() {
-        const grid = document.querySelector(".profile-grid");
-        u.spage = 0;
-        await showGrid(grid, true);
-      }
-      function setCoor(lat, lon, name = "") {
-        if (name != "") {
-          const search = id("search");
-          search.value = name;
-        }
-        u.lat = lat;
-        u.lon = lon;
-
-        const results = document.querySelector("#place .results");
-        u.spage = 0;
-        setGrid();
-        results.innerHTML = "";
-        disclaimer("Poloha nastavena", 2);
       }
 
       /* Disclaimer */
@@ -1151,16 +1285,31 @@
       }
 
       function scroll() {
-        if (u.loc == "/seznamka" && u.sEnd == false) {
+        // if (u.loc == "/seznamka" && u.sEnd == false) {
+        if (u.loc == "/seznamka" && pr.length % 12 == 0) {
           const cR = c.getBoundingClientRect();
           if (cR.bottom < window.innerHeight) {
             u.spage++;
-            const grid = document.querySelector(".profile-grid");
-            showGrid(grid);
+            showProfiles();
+            // const grid = document.querySelector(".profile-grid");
+            // showGrid(grid);
           }
         }
       }
+
+      /* Load documents */
+      
+      function loadDoc(page) {
+        document.title = `${p[page].t} - Qseznamka.cz`;
+        const template = id(p[page].c);
+        c.innerHTML = "";
+        c.appendChild(template.content.cloneNode(true));
+        if (id(page)) id(page).classList.add("active");
+        // cR = c.getBoundingClientRect();
+      }
+
       /* Routing */
+
       /*document.addEventListener("click", (e) => {
       	const { target } = e;
       	/*if (!target.matches("nav a")) {
@@ -1172,47 +1321,6 @@
       function route(e) {
         e.preventDefault();
         urlRoute();
-      }
-      const p = {
-        domu: {
-          t: "Domov",
-          d: "Popis domova",
-          c: "tp-home"
-        },
-        zpravy: {
-          t: "Zprávy",
-          d: "Popis zpráv",
-          c: "tp-news-list"
-        },
-        seznamka: {
-          t: "Seznamka",
-          d: "Seznamkový popis",
-          c: "tp-people"
-        },
-        ucet: {
-          t: "Účet",
-          d: "Měl by tu být?",
-          c: "tp-reg"
-        },
-        clanek: {
-          t: "Článek",
-          d: "Popis",
-          c: "tp-news"
-        },
-        nothing: {
-          t: "Stránka nenalezena",
-          d: "404",
-          c: "tp-not-found"
-        }
-      };
-
-      function loadDoc(page) {
-        document.title = `${p[page].t} - Qseznamka.cz`;
-        const template = id(p[page].c);
-        c.innerHTML = "";
-        c.appendChild(template.content.cloneNode(true));
-        if (id(page)) id(page).classList.add("active");
-        // cR = c.getBoundingClientRect();
       }
         
       const urlRoute = (event) => {
@@ -1261,26 +1369,23 @@
             gItemPl.style.background = "#333";
             for (i = 0; i < 15; i++) grid.appendChild(gItemPl.cloneNode());*/
             if (Object.hasOwn(u, "s")) {
-              const vzdal = id("vzdal");
+              const distance = id("distance");
               minAge.value = u.s.minAge;
               maxAge.value = u.s.maxAge;
               search.value = u.s.bar;
-              vzdal.value = u.s.vzdal;
+              distance.value = u.s.distance;
             }
-            showGrid(grid);
+            showProfiles();
+            // showGrid(grid);
             break;
           case "/ucet": loadDoc("ucet"); break;
           case "/clanek": loadDoc("clanek"); break;
           default: loadDoc("nothing"); break;
         }
       };
-      window.onerror = function(error, url, line) {
 
-        if (c.innerHTML == "") {
-          console.error(`${error}; ${url}; ${line}`);
-          c.innerHTML = '<article id=error><svg width=128 height=128 viewBox="0 0 64 64"><path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5"></svg><h1>Někde se stala chyba</h1><a href="window.location.reload()">Obnovit stránku</a></article>'
-        }
-      };
+      /* Window events */
+      
       window.onscroll = function(){scroll()};
       window.onresize = function(){scroll()};
       window.onpopstate = urlLocationHandler;

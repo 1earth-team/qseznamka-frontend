@@ -1045,7 +1045,7 @@
                 }
             } catch (err) {
                 console.error(err);
-                statusEl.innerText = "Network Error (Check CORS or Server log)";
+                disclaimer("Chyba sítě", 3);
             }
         }
       
@@ -1056,7 +1056,7 @@
             // Note: WS usually doesn't need credentials: include explicitly 
             // because browsers send cookies automatically for WS requests to the same domain 
             // or if configured correctly.
-            socket = new WebSocket(API_URL.replace("http", "ws") + "/ws");
+            socket = new WebSocket("ws://api.qseznamka.cz/ws");
 
             socket.onopen = () => {
                 document.getElementById("ws-status").innerText = "Connected";

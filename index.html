@@ -1104,7 +1104,7 @@
             // Note: WS usually doesn't need credentials: include explicitly 
             // because browsers send cookies automatically for WS requests to the same domain 
             // or if configured correctly.
-            socket = new WebSocket("ws://api.qseznamka.cz/ws");
+            socket = new WebSocket("wss://api.qseznamka.cz/ws");
 
             socket.onopen = () => {
                 document.getElementById("ws-status").innerText = "Connected";

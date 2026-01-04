@@ -589,6 +589,19 @@
             gap: 1em;
         }
 
+        /* Ucet */
+
+        .profile-basic {
+          display: flex;
+          align-items: center;
+          flex-flow: column;
+          padding: 4em 0;
+        }
+
+        .ucet-picture {
+          width: 256px;
+        }
+
       @media only screen and (min-width: 600px) {
         h3 {
           font-size: 26px;
@@ -1589,7 +1602,7 @@ async function checkSession() {
             // showGrid(grid);
             break;
           case "/ucet":
-            if (checkSession()) {
+            if (await checkSession()) {
               loadDoc("ucet");
               id("ucet-username").innerHTML = ("Zdravím " + u.name + " 👋");
               const pic = id("ucet-picture");

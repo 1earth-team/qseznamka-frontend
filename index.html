@@ -723,6 +723,10 @@
             <!-- Messages go here -->
         </ul>
     </div>
+    <div>
+      <span>Uživatel:</span>
+      <div id="username-display"></div>
+    </div>
 <section class="disclaimer-c"></section>
 <footer>
    <span>Obsah stránky je pod licencí CC-BY-SA. Používáme funkční cookies.</span>
@@ -1073,7 +1077,7 @@ async function checkSession() {
             console.log("Picture:", userData.picture);
             
             // Update your UI here
-            document.getElementById("username-display").innerText = userData.name;
+            id("username-display").innerText = userData.name;
         } else {
             console.log("Not logged in");
             // Show login button
@@ -1287,7 +1291,7 @@ async function checkSession() {
 
               gItems += `<a class="profile-thumb" href="#">`;
 
-              if (profiles[i].picture == null) {
+              if (profiles[i].picture == null || profiles[i].picture == "") {
 
                 gItems += `<svg viewBox="0 0 64 64" alt="profilovka ${profiles[i].name}"><use href="#ulogo"></svg>`;
 

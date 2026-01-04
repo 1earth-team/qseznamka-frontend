@@ -1584,7 +1584,7 @@ async function checkSession() {
             // showGrid(grid);
             break;
           case "/ucet":
-            if (checkSession()) {loadDoc("logrec")} else {
+            if (checkSession()) {loadDoc("regloc")} else {
               loadDoc("ucet");
               id("ucet-username").innerHTML = ("Zdravím " + u.name + " 👋");
             }

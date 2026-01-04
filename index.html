@@ -812,7 +812,11 @@
 </template>
 
 <template id="tp-ucet">
-  <h2 id="ucet-username"></h2>
+  <div class="profile-basic">
+    <div id="ucet-picture"><div class="pt"></div></div>
+    <h2 id="ucet-username"></h2>
+  </div>
+  
 </template>
 
 <template id="tp-people">
@@ -1093,7 +1097,7 @@ async function checkSession() {
             
             // Update your UI here
             //id("username-display").innerText = userData.name;
-            return true;
+            if (u.name === undefined) {return false} else return true;
         } else {
             // disclaimer("Nejste přihlášeni");
             // Show login button
@@ -1585,8 +1589,10 @@ async function checkSession() {
             break;
           case "/ucet":
             if (checkSession()) {
-              loadDoc("ucet"); 
+              loadDoc("ucet");
               id("ucet-username").innerHTML = ("Zdravím " + u.name + " 👋");
+              const pic = id("ucet-picture");
+              generateProfile(u, pic);
             } else {
               loadDoc("regloc");
             }

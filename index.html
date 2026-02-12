@@ -1069,8 +1069,9 @@
     </div>
     <div class="messages">
       <div class="messagebox">
-        <div class="you">Hello, would you mind having sex with me?</div>
-        <div class="them">No, I would very much appreaciate it.</div>
+        <!--<div class="you">Hello, would you mind having sex with me?</div>
+        <div class="them">No, I would very much appreaciate it.</div>-->
+        <span>Ještě jste nikomu nenapsali</span>
       </div>
       <div class="send">
         <textarea placeholder="Napište zprávu"></textarea>
@@ -1689,7 +1690,7 @@ async function checkSession() {
           for (let i = 0; i < items.length; i++) {
             gitems += "<button class='item'>";
               if (items[i].profile != null || items[i].profiles != "") {
-                gitems += "<img src='qseznamka.cz/img/u/profile/" + items[i].picture + "' alt='Profilový obrázek uživatele " + items[i].name + "'>";
+                gitems += "<img src='https://qseznamka.cz/img/u/profile/" + items[i].picture + "' alt='Profilový obrázek uživatele " + items[i].name + "'>";
               }
               gitems += "<span class='name'>" + items[i].name + "</span></button>";
 

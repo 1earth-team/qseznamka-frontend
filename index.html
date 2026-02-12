@@ -607,6 +607,7 @@
 
         .name {
           text-overflow: ellipsis;
+          overflow: hidden;
         }
 
         #chat {
@@ -1073,7 +1074,7 @@
       </div>
       <div class="send">
         <textarea placeholder="Napište zprávu"></textarea>
-        <button><svg viewBox="0 0 32 32" width="32" height="32"></svg><path d="m0,0 32,16 -32,16 8,-16z"/></button>
+        <button><svg viewBox="0 0 32 32" width="32" height="32"><path d="m0,0 32,16 -32,16 8,-16z"/></svg></button>
       </div>
     </div>
   </section>
@@ -1688,7 +1689,7 @@ async function checkSession() {
           for (let i = 0; i < items.length; i++) {
             gitems += "<button class='item'>";
               if (items[i].profile != null || items[i].profiles != "") {
-                gitems += "<img src='qseznamka.cz/img/u/profile/" + items[i].profile + "' alt='Profilový obrázek uživatele " + items[i].name + "'>";
+                gitems += "<img src='qseznamka.cz/img/u/profile/" + items[i].picture + "' alt='Profilový obrázek uživatele " + items[i].name + "'>";
               }
               gitems += "<span class='name'>" + items[i].name + "</span></button>";
 

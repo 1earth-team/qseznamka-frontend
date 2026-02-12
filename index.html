@@ -21,6 +21,7 @@
         display: flex;
         flex-flow: column;
         font-size: 18px;
+        scrollbar-color: #444 transparent;
       }
 
       a {
@@ -609,6 +610,7 @@
           padding: 2em 0;
           gap: 2em;
           max-width: 920px;
+          max-height: 80vh;
           margin: auto;
         }
 
@@ -617,8 +619,10 @@
           display: flex;
           flex-flow: column;
           gap: 1em;
+          overflow: auto;
         }
         #chat .item {
+          width: 100%;
           display: flex;
           justify-content: flex-start;
           gap: .5em;
@@ -633,7 +637,6 @@
 
         #chat .messages {
           flex: 75%;
-          height: 80vh;
           background: #333;
           border-radius: 2em;
           display: flex;
@@ -824,6 +827,7 @@
 </nav>
 <main id="c"></main>
  <div id="chat-section">
+  <a href="/chat" onclick="urlRoute(event)">Chat</a>
         <div>
             Status: <b id="ws-status">Disconnected</b>
             <button onclick="connectWs()">Reconnect</button>
@@ -1052,11 +1056,11 @@
 <template id="tp-chat">
   <section id="chat">
     <div class="items">
-      <button class="item">
+      <!--<button class="item">
         <img src="#" alt="J">
         <span class="name">Jméno</span>
         <div class="online"></div>
-      </button>
+      </button>-->
     </div>
     <div class="messages">
       <div class="messagebox">
@@ -1065,7 +1069,7 @@
       </div>
       <div class="send">
         <textarea placeholder="Napište zprávu"></textarea>
-        <button><svg width="32" height="32"></svg></button>
+        <button><svg viewBox="0 0 32 32" width="32" height="32"></svg><path d="m0,0 32,16 -32,16 8,-16z"/></button>
       </div>
     </div>
   </section>
@@ -1664,6 +1668,31 @@ async function checkSession() {
         // cR = c.getBoundingClientRect();
       }
 
+      /* Chat*/
+      async function messaged() {
+        try {
+          const response = await fetch("https://api.qseznamka.cz/messaged?user_id=" + u.id, {
+          method: "GET", credentials: "include",
+          headers: {
+            "Content-Type": "application/json",
+          }});
+          const items = await response.json();
+          const itemlist = document.querySelector(".items");
+
+          let gitems = "";
+
+          for (let i = 0; i < items.length; i++) {
+            gitems += "<button class='item'>";
+              if (items[i].profile != null && items[i].profiles != "") {
+                gitems += "<img src='qseznamka.cz/img/u/profile/" + items[i].profile + "' alt='Profilový obrázek uživatele " + items[i].name + "'>";
+              }
+              gitems += "<span class='name'>" + items[i].name + "</span></button>";
+
+              itemlist.innerHTML = gitems;
+          }
+        } catch(err){console.log(err)}
+      }
+
       /* Routing */
 
       /*document.addEventListener("click", (e) => {
@@ -1745,7 +1774,7 @@ async function checkSession() {
             }
             break;
           case "/clanek": loadDoc("clanek"); break;
-          case "/chat": loadDoc("chat"); break;
+          case "/chat": loadDoc("chat"); await messaged(); break;
           default: loadDoc("nothing"); break;
         }
       };

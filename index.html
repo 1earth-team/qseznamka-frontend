@@ -20,6 +20,7 @@
         font-family: sans-serif;
         display: flex;
         flex-flow: column;
+        font-size: 18px;
       }
 
       a {
@@ -130,6 +131,11 @@
         justify-content: space-around;
         padding: 3em 1em;
       }
+      
+      p, span, button, input, select {
+        font-size: 18px;
+        color: #dedede;
+      }
 
       input {
         border-radius: 2em;
@@ -140,10 +146,7 @@
         color: #212121;
       }
 
-      p, span, button, input, select {
-        font-size: 18px;
-        color: #dedede;
-      }
+      
 
       button:hover, select:hover, .choose-grid button:hover {
         background: #444;
@@ -618,7 +621,7 @@
         #chat .item {
           display: flex;
           justify-content: flex-start;
-          grid-area: .5em;
+          gap: .5em;
         }
 
         #chat .item img {
@@ -638,6 +641,7 @@
         }
 
         #chat .messagebox {
+          overflow-wrap: anywhere;
           padding: 1em;
           gap: .5em;
           display: flex;
@@ -664,6 +668,7 @@
 
         #chat textarea {
           resize: none;
+          border: none;
           flex: 1;
           border-radius: 2em 0 0 2em;
           max-height: 36px;
@@ -1047,11 +1052,11 @@
 <template id="tp-chat">
   <section id="chat">
     <div class="items">
-      <div class="item">
+      <button class="item">
         <img src="#" alt="J">
         <span class="name">Jméno</span>
         <div class="online"></div>
-      </div>
+      </button>
     </div>
     <div class="messages">
       <div class="messagebox">

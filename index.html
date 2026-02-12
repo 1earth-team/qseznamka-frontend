@@ -8,6 +8,10 @@
     <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEUAAAD/qqp5FJO3AAAAAXRSTlMAQObYZgAAAEJJREFUCNdjQAc1NUDi/z8GBsb//3ESUCUM9X+AhP0PICH/AUjwPwAS7AeABHMDkGBkQCFYHcCyYHUIxWAJmBJMAACs2hrhZZdQsAAAAABJRU5ErkJggg==" type="image/png">
     <title>Seznamka pro lesby, gaye, bisexuály a trans lidi bez reklam - QSeznamka.cz</title>
     <style>
+      ::placeholder {
+        color: #333;
+      }
+
       body {
         min-height: 100vh;
         margin: 0;
@@ -109,6 +113,7 @@
         min-height: 48px;
         gap: 4px;
         cursor: pointer;
+        width: fit-content;
       }
 
       button svg {
@@ -127,7 +132,12 @@
       }
 
       input {
-        background: none;
+        border-radius: 2em;
+        background: #dedede;
+        min-width: 40px;
+        min-height: 32px;
+        border: none;
+        color: #212121;
       }
 
       p, span, button, input, select {
@@ -589,6 +599,87 @@
             gap: 1em;
         }
 
+        /* Chat */
+
+        #chat {
+          display: flex;
+          padding: 2em 0;
+          gap: 2em;
+          max-width: 920px;
+          margin: auto;
+        }
+
+        #chat .items {
+          flex: 25%;
+          display: flex;
+          flex-flow: column;
+          gap: 1em;
+        }
+        #chat .item {
+          display: flex;
+          justify-content: flex-start;
+          grid-area: .5em;
+        }
+
+        #chat .item img {
+          width: 32px;
+          height: 32px;
+          background-color: #212121;
+          border-radius: 100%;
+        }
+
+        #chat .messages {
+          flex: 75%;
+          height: 80vh;
+          background: #333;
+          border-radius: 2em;
+          display: flex;
+          flex-flow: column;
+        }
+
+        #chat .messagebox {
+          padding: 1em;
+          gap: .5em;
+          display: flex;
+          flex-flow: column;
+          flex: 1;
+          overflow: auto;
+          border-radius: 2em;
+        }
+
+        #chat .you {
+          background: #444;
+        }
+
+        #chat .you, #chat .them {
+          padding: 1em;
+          border-radius: 1em;
+        }
+
+        #chat .send {
+          display: flex;
+          background: #dedede;
+          border-radius: 2em;
+        }
+
+        #chat textarea {
+          resize: none;
+          flex: 1;
+          border-radius: 2em 0 0 2em;
+          max-height: 36px;
+          padding: 1em;
+          font-family: sans-serif;
+          font-size: 18px;
+          overflow: auto;
+          background: none;
+        }
+
+        #chat .send button {
+          background: #444;
+          border: 4px solid;
+          border-radius: 2em;
+        }
+
         /* Ucet */
 
         .profile-basic {
@@ -598,8 +689,22 @@
           padding: 4em 0;
         }
 
-        .ucet-picture {
+        #ucet-picture {
           width: 256px;
+        }
+
+        /* log reg */
+        #log-reg {
+          display: flex;
+          justify-content: center;
+          gap: 4em;
+          padding: 4em 0;
+        }
+
+        .login-c, .register-c {
+          display: flex;
+          flex-flow: column;
+          gap: 1em;
         }
 
       @media only screen and (min-width: 600px) {
@@ -735,10 +840,6 @@
         <ul id="messages-list" style="border: 1px solid #ccc; height: 300px; overflow-y: scroll; padding: 10px;">
             <!-- Messages go here -->
         </ul>
-    </div>
-    <div>
-      <span>Uživatel:</span>
-      <div id="username-display"></div>
     </div>
 <section class="disclaimer-c"></section>
 <footer>
@@ -942,6 +1043,28 @@
       </div>
    </article>
 </template>
+
+<template id="tp-chat">
+  <section id="chat">
+    <div class="items">
+      <div class="item">
+        <img src="#" alt="J">
+        <span class="name">Jméno</span>
+        <div class="online"></div>
+      </div>
+    </div>
+    <div class="messages">
+      <div class="messagebox">
+        <div class="you">Hello, would you mind having sex with me?</div>
+        <div class="them">No, I would very much appreaciate it.</div>
+      </div>
+      <div class="send">
+        <textarea placeholder="Napište zprávu"></textarea>
+        <button><svg width="32" height="32"></svg></button>
+      </div>
+    </div>
+  </section>
+</template>
     <script>
       /* Variables */
         
@@ -1014,6 +1137,11 @@
           t: "Stránka nenalezena",
           d: "404",
           c: "tp-not-found"
+        },
+        chat: {
+          t: "Chat",
+          d: "Popis",
+          c: "tp-chat"
         }
       };
 
@@ -1612,6 +1740,7 @@ async function checkSession() {
             }
             break;
           case "/clanek": loadDoc("clanek"); break;
+          case "/chat": loadDoc("chat"); break;
           default: loadDoc("nothing"); break;
         }
       };

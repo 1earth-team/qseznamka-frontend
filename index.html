@@ -535,6 +535,7 @@
         border-radius: 32px 0 0 32px;
         border-right: 0;
         min-width: max-content;
+        width: 100%;
       }
 
       #place .options button {
@@ -542,6 +543,7 @@
         height: 20px;
         border-radius: 0 32px 32px 0;
         min-width: fit-content;
+        width: 100%;
       }
 
       #place .options span {
@@ -1689,7 +1691,7 @@ async function checkSession() {
 
           for (let i = 0; i < items.length; i++) {
             gitems += "<button class='item'>";
-              if (items[i].profile != null || items[i].profiles != "") {
+              if (items[i].picture != null || items[i].picture != "") {
                 gitems += "<img src='https://qseznamka.cz/img/u/profile/" + items[i].picture + "' alt='Profilový obrázek uživatele " + items[i].name + "'>";
               }
               gitems += "<span class='name'>" + items[i].name + "</span></button>";

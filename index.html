@@ -605,12 +605,16 @@
 
         /* Chat */
 
+        .name {
+          text-overflow: ellipsis;
+        }
+
         #chat {
           display: flex;
           padding: 2em 0;
           gap: 2em;
           max-width: 920px;
-          max-height: 80vh;
+          height: 80vh;
           margin: auto;
         }
 
@@ -1683,7 +1687,7 @@ async function checkSession() {
 
           for (let i = 0; i < items.length; i++) {
             gitems += "<button class='item'>";
-              if (items[i].profile != null && items[i].profiles != "") {
+              if (items[i].profile != null || items[i].profiles != "") {
                 gitems += "<img src='qseznamka.cz/img/u/profile/" + items[i].profile + "' alt='Profilový obrázek uživatele " + items[i].name + "'>";
               }
               gitems += "<span class='name'>" + items[i].name + "</span></button>";

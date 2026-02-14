@@ -835,27 +835,27 @@
 <main id="c"></main>
  <div id="chat-section">
   <a href="/chat" onclick="urlRoute(event)">Chat</a>
-        <div>
+        <!--<div>
             Status: <b id="ws-status">Disconnected</b>
             <button onclick="connectWs()">Reconnect</button>
             <button onclick="disconnectWs()">Disconnect</button>
         </div>
-        <br>
+        <br>-->
 
         <!-- Message Inputs -->
         <div>
             <label>Send to User ID:</label>
             <input type="number" id="receiver-id" placeholder="ID (e.g. 2)">
             <br><br>
-            <textarea id="msg-content" placeholder="Type a message..."></textarea>
+            <!--<textarea id="msg-content" placeholder="Type a message..."></textarea>
             <br>
-            <button onclick="sendMessage()">Send Message</button>
+            <button onclick="sendMessage()">Send Message</button>-->
         </div>
 
-        <h4>Message Log:</h4>
+        <!--<h4>Message Log:</h4>
         <ul id="messages-list" style="border: 1px solid #ccc; height: 300px; overflow-y: scroll; padding: 10px;">
-            <!-- Messages go here -->
-        </ul>
+            <! Messages go here >
+        </ul>-->
     </div>
 <section class="disclaimer-c"></section>
 <footer>
@@ -1070,14 +1070,14 @@
       </button>-->
     </div>
     <div class="messages">
-      <div class="messagebox">
+      <div class="messagebox" id="messagebox">
         <!--<div class="you">Hello, would you mind having sex with me?</div>
         <div class="them">No, I would very much appreaciate it.</div>-->
         <span style="text-align: center;"><i>Zde se zobrazí zprávy</i></span>
       </div>
       <div class="send">
-        <textarea placeholder="Napište zprávu"></textarea>
-        <button><svg viewBox="0 0 32 32" width="32" height="32"><path d="m0,0 32,16 -32,16 8,-16z"/></svg></button>
+        <textarea id="msgsend" placeholder="Napište zprávu"></textarea>
+        <button onclick="sendMessage()"><svg viewBox="0 0 32 32" width="32" height="32"><path d="m0,0 32,16 -32,16 8,-16z"/></svg></button>
       </div>
     </div>
   </section>
@@ -1326,14 +1326,14 @@ function connectWs() {
     socket.onopen = () => {
         // Pokud jsme měli naplánovaný pokus o reconnect, zrušíme ho
         clearTimeout(reconnectTimeout);
-        document.getElementById("ws-status").innerText = "Connected";
-        document.getElementById("ws-status").style.color = "green";
+        // document.getElementById("ws-status").innerText = "Connected";
+        // document.getElementById("ws-status").style.color = "green";
         console.log("WS Connected");
     };
 
     socket.onclose = (event) => {
-        document.getElementById("ws-status").innerText = "Disconnected (Reconnecting...)";
-        document.getElementById("ws-status").style.color = "orange";
+        // document.getElementById("ws-status").innerText = "Disconnected (Reconnecting...)";
+        // document.getElementById("ws-status").style.color = "orange";
         console.log("WS Disconnected. Reconnecting in 3s...", event.reason);
 
         // Zkusit se znovu připojit za 3 sekundy
@@ -1350,7 +1350,7 @@ function connectWs() {
 
     socket.onmessage = (event) => {
         const msg = JSON.parse(event.data);
-        displayMessage(`User ${msg.from_user_id}: ${msg.content}`);
+        displayMessage(/*`User ${msg.from_user_id}: ${msg.content}`*/content, false);
     };
 }
 
@@ -1361,7 +1361,7 @@ function connectWs() {
             const content = document.getElementById("msg-content").value;
 
             if (!receiverId || !content) {
-                alert("Please enter a User ID and a message.");
+                disclaimer("Nejprve zvolte uživatele a napište zprávu");
                 return;
             }
 
@@ -1376,20 +1376,24 @@ function connectWs() {
                 
                 // Rust backend sends to receiver, but usually not back to sender.
                 // We display it locally so we know we sent it.
-                displayMessage(`Me (to ${receiverId}): ${content}`);
+                displayMessage(/*`Me (to ${receiverId}): ${content}`*/content, true);
                 
                 // Clear input
-                document.getElementById("msg-content").value = "";
+                document.getElementById("msgsend").value = "";
             } else {
-                alert("Socket not connected.");
+                disclaimer("Socket not connected.");
             }
         }
 
-        function displayMessage(text) {
-            const list = document.getElementById("messages-list");
-            const li = document.createElement("li");
-            li.textContent = `[${new Date().toLocaleTimeString()}] ${text}`;
-            list.appendChild(li);
+        function displayMessage(text, you) {
+            const list = document.getElementById("messagebox");
+            const msg = document.createElement("div");
+            const cla = you ? "you" : "them";
+            msg.classList.add(cla);
+            msg.textContent = text;
+            // const li = document.createElement("li");
+            // li.textContent = `[${new Date().toLocaleTimeString()}] ${text}`;
+            list.appendChild(msg);
         }
       /* Profiles */
 

@@ -1112,7 +1112,7 @@
 
       const gridId = "grid-c";
 
-      let socket = null;
+      // let socket = null;
 
       const p = { // Pages object
         domu: {
@@ -1312,39 +1312,48 @@ async function checkSession() {
 }
       
         // 2. WEBSOCKET CONNECTION
-        function connectWs() {
-            if (socket && socket.readyState === WebSocket.OPEN) return;
+        let socket;
+let reconnectTimeout = null;
 
-            // Note: WS usually doesn't need credentials: include explicitly 
-            // because browsers send cookies automatically for WS requests to the same domain 
-            // or if configured correctly.
-            socket = new WebSocket("wss://api.qseznamka.cz/ws");
+function connectWs() {
+    // Pokud se už připojujeme nebo je otevřeno, nic nedělej
+    if (socket && (socket.readyState === WebSocket.OPEN || socket.readyState === WebSocket.CONNECTING)) {
+        return;
+    }
 
-            socket.onopen = () => {
-                document.getElementById("ws-status").innerText = "Connected";
-                document.getElementById("ws-status").style.color = "green";
-                console.log("WS Connected");
-            };
+    socket = new WebSocket("wss://api.qseznamka.cz/ws");
 
-            socket.onmessage = (event) => {
-                const msg = JSON.parse(event.data);
-                displayMessage(`User ${msg.from_user_id}: ${msg.content}`);
-            };
+    socket.onopen = () => {
+        // Pokud jsme měli naplánovaný pokus o reconnect, zrušíme ho
+        clearTimeout(reconnectTimeout);
+        document.getElementById("ws-status").innerText = "Connected";
+        document.getElementById("ws-status").style.color = "green";
+        console.log("WS Connected");
+    };
 
-            socket.onclose = () => {
-                document.getElementById("ws-status").innerText = "Disconnected";
-                document.getElementById("ws-status").style.color = "red";
-                console.log("WS Disconnected");
-            };
+    socket.onclose = (event) => {
+        document.getElementById("ws-status").innerText = "Disconnected (Reconnecting...)";
+        document.getElementById("ws-status").style.color = "orange";
+        console.log("WS Disconnected. Reconnecting in 3s...", event.reason);
 
-            socket.onerror = (error) => {
-                console.error("WS Error:", error);
-            };
-        }
+        // Zkusit se znovu připojit za 3 sekundy
+        clearTimeout(reconnectTimeout);
+        reconnectTimeout = setTimeout(() => {
+            connectWs();
+        }, 3000);
+    };
 
-        function disconnectWs() {
-            if (socket) socket.close();
-        }
+    socket.onerror = (error) => {
+        console.error("WS Error:", error);
+        socket.close(); // Force close to trigger onclose reconnect
+    };
+
+    socket.onmessage = (event) => {
+        const msg = JSON.parse(event.data);
+        displayMessage(`User ${msg.from_user_id}: ${msg.content}`);
+    };
+}
+
 
         // 3. SEND MESSAGE
         function sendMessage() {
@@ -1679,8 +1688,8 @@ async function checkSession() {
       /* Chat*/
       async function messaged() {
         try {
-          const response = await fetch("https://api.qseznamka.cz/messaged?user_id=" + u.id, {
-          method: "GET", credentials: "include",
+          const response = await fetch("https://api.qseznamka.cz/messaged", {
+          credentials: "include",
           headers: {
             "Content-Type": "application/json",
           }});
@@ -1786,6 +1795,17 @@ async function checkSession() {
           default: loadDoc("nothing"); break;
         }
       };
+
+      document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible") {
+        console.log("Tab focused - checking connection...");
+        // Pokud je socket zavřený, hned ho zkusíme nahodit
+        if (!socket || socket.readyState === WebSocket.CLOSED) {
+            connectWs();
+        }
+    }
+});
+
 
       /* Window events */
       

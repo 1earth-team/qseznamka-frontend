@@ -1080,6 +1080,8 @@
       let s = {}; // Search object
       s.q = {}; // Search object - search query
       s.p = 0; // Search page
+      
+      let imsg = []// Messaged items object
 
       let pr = [];
 
@@ -1223,7 +1225,7 @@ async function checkSession() {
             },
             // Important: This tells the browser to send the 'my-kata-cookie'
             credentials: "include" 
-        }).then(response => {if(response.status === 401) {console.log("Nepřihlášen (401)"); return false;}})
+        });/*.then(response => {if(response.status === 401) {console.log("Nepřihlášen (401)"); return false;}})*/
         if (response.ok) {
             const userData = await response.json();
             u.name = userData.name;
@@ -1683,6 +1685,7 @@ function connectWs() {
           for (let i = 0; i < items.length; i++) {
             gitems += "<button class='item'>";
               if (items[i].picture != null && items[i].picture != "") {
+                imsg.push(items[i].id)
                 gitems += "<img src='https://qseznamka.cz/img/u/profile/" + items[i].picture + "' alt='Profilový obrázek uživatele " + items[i].name + "'>";
               }
               gitems += "<span class='name'>" + items[i].name + "</span></button>";
@@ -1775,14 +1778,22 @@ function connectWs() {
             }
             break;
           case "/clanek": loadDoc("clanek"); break;
-          case "/chat": loadDoc("chat"); await messaged(); break;
+          case "/chat":
+            loadDoc("chat");
+            await messaged();
+            let params = new URLSearchParams(document.location.search);
+            const iid = params.get("id");
+            if (iid != null) {}
+            break;
           default: loadDoc("nothing"); break;
         }
       };
 
       document.addEventListener("visibilitychange", () => {
         if (u.id === undefined) return;
-    if (document.visibilityState === "visible") {
+    
+        if (document.visibilityState === "visible") {
+          // await messaged();
         console.log("Tab focused - checking connection...");
         // Pokud je socket zavřený, hned ho zkusíme nahodit
         if (!socket || socket.readyState === WebSocket.CLOSED) {

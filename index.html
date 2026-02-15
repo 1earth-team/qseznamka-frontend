@@ -624,7 +624,7 @@
         #chat .items {
           flex: 25%;
           display: flex;
-          flex-flow: column;
+          flex-flow: column-reverse;
           gap: 1em;
           overflow: auto;
         }
@@ -1683,9 +1683,10 @@ function connectWs() {
           let gitems = "";
 
           for (let i = 0; i < items.length; i++) {
-            gitems += "<button class='item'>";
+            imsg.push(items[i].id)
+            gitems += "<button id='m" + items[i].id + "' class='item'>";
               if (items[i].picture != null && items[i].picture != "") {
-                imsg.push(items[i].id)
+                
                 gitems += "<img src='https://qseznamka.cz/img/u/profile/" + items[i].picture + "' alt='Profilový obrázek uživatele " + items[i].name + "'>";
               }
               gitems += "<span class='name'>" + items[i].name + "</span></button>";
@@ -1783,7 +1784,22 @@ function connectWs() {
             await messaged();
             let params = new URLSearchParams(document.location.search);
             const iid = params.get("id");
-            if (iid != null) {}
+            if (iid != null || iid != u.id) {
+              if (imsg.find(i => i === iid) != undefined) {
+                id(iid).style.background = "#444";
+              } else {
+                const name = params.get("jmeno");
+                const iel = document.createElement("div");
+                iel.classList.add("item");
+                if (name != null) {
+                  iel.innerHTML("<span class='name'>" + name + "</span>")
+                } else {
+                  iel.innerHTML("<span class='name'>Zpráva pro id " + iid + "</span>")
+                }
+                iel.style.background = "#444";
+              }
+              id("receiver-id").value = iid;
+            }
             break;
           default: loadDoc("nothing"); break;
         }

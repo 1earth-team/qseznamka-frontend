@@ -1793,9 +1793,9 @@ function connectWs() {
                 const iel = document.createElement("div");
                 iel.classList.add("item");
                 if (name != null) {
-                  iel.innerHTML(("<span class='name'>" + name + "</span>"));
+                  iel.innerHTML = "<span class='name'>" + name + "</span>";
                 } else {
-                  iel.innerHTML(("<span class='name'>Zpráva pro id " + iid + "</span>"));
+                  iel.innerHTML = "<span class='name'>Zpráva pro id " + iid + "</span>";
                 }
                 iel.style.background = "#444";
               }

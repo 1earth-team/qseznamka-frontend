@@ -1038,6 +1038,7 @@
 </template>
 
 <template id="tp-chat">
+  <input type="number" id="receiver-id" placeholder="ID (e.g. 2)">
   <section id="chat">
     <div class="items">
       <!--<button class="item">
@@ -1046,7 +1047,6 @@
         <div class="online"></div>
       </button>-->
     </div>
-    <input type="number" id="receiver-id" placeholder="ID (e.g. 2)">
     <div class="messages">
       <div class="messagebox" id="messagebox">
         <!--<div class="you">Hello, would you mind having sex with me?</div>
@@ -1076,6 +1076,7 @@
       u.spage = 0;
       u.sEnd = false;
       u.bottom = false;
+      u.logged = false;
 
       let s = {}; // Search object
       s.q = {}; // Search object - search query
@@ -1216,7 +1217,7 @@
 
 async function checkSession() {
     try {
-      
+      if (u.logged == false) return;
         const response = await fetch("https://api.qseznamka.cz/me", {
             method: "GET",
             headers: {
@@ -1278,7 +1279,8 @@ async function checkSession() {
 
         if (response.ok && data.status === "success") {
             disclaimer("Úspěšně přihlášeno", 2);
-            document.getElementById("chat-section").style.display = "block";
+            u.logged = true;
+            // document.getElementById("chat-section").style.display = "block";
             connectWs();
         } else {
             disclaimer(data.message || "Přihlášení selhalo", 3);

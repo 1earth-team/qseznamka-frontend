@@ -1223,9 +1223,7 @@ async function checkSession() {
             },
             // Important: This tells the browser to send the 'my-kata-cookie'
             credentials: "include" 
-        });
-        if(response.status === 401) {console.log("Nepřihlášen (401)"); return false;}
-
+        }).then(response => {if(response.status === 401) {console.log("Nepřihlášen (401)"); return false;}})
         if (response.ok) {
             const userData = await response.json();
             u.name = userData.name;

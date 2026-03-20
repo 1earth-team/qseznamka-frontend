@@ -1664,8 +1664,19 @@ function connectWs() {
       function loadDoc(page) {
         document.title = `${p[page].t} - Qseznamka.cz`;
         const template = id(p[page].c);
-        c.innerHTML = "";
-        c.appendChild(template.content.cloneNode(true));
+        // c.innerHTML = "";
+        //
+        let articles = document.querySelector("#c > article");
+        console.log(articles);
+        for (i = 0; i < articles.length; i++) {
+          articles[i].style.display = "none";
+        }
+        let arName = id(page.slice(3));
+        if (arName) {
+          arName.style.display = ""
+        } else {
+          c.appendChild(template.content.cloneNode(true));
+        }
         if (id(page)) id(page).classList.add("active");
         // cR = c.getBoundingClientRect();
       }

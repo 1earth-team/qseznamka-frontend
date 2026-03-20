@@ -1666,7 +1666,7 @@ function connectWs() {
         const template = id(p[page].c);
         // c.innerHTML = "";
         //
-        let articles = document.querySelector("#c > article");
+        const articles = document.querySelectorAll("#c > article");
         console.log(articles);
         if (articles !== null) {
           for (i = 0; i < articles.length; i++) {

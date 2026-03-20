@@ -1674,7 +1674,7 @@ function connectWs() {
           }
         }
         let arName = id(page.slice(3));
-        if (arName) {
+        if (document.body.contains(arName)) {
           arName.style.display = ""
         } else {
           c.appendChild(template.content.cloneNode(true));

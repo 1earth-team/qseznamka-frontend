@@ -1668,8 +1668,10 @@ function connectWs() {
         //
         let articles = document.querySelector("#c > article");
         console.log(articles);
-        for (i = 0; i < articles.length; i++) {
-          articles[i].style.display = "none";
+        if (articles !== null) {
+          for (i = 0; i < articles.length; i++) {
+            articles[i].style.display = "none";
+          }
         }
         let arName = id(page.slice(3));
         if (arName) {

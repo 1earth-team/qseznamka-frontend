@@ -844,7 +844,7 @@
 </footer>
 
 <template id="tp-not-found">
-   <article id=not-found>
+   <article id=not-found class=page>
       <svg width=128 height=128 viewBox="0 0 64 64">
          <path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5">
       </svg>
@@ -854,7 +854,7 @@
 </template>
 
 <template id="tp-news-list">
-   <article id=news-list>
+   <article id=news-list class=page>
       <a class=thumb_c href="./clanek">
          <div class=thumb><img alt="Trans lidi"loading=lazy src="./img/thumb/trans.webp" style=object-fit:cover width=100%></div>
          <div class=text>
@@ -887,7 +887,7 @@
 </template>
 
 <template id="tp-log-reg">
-  <article id="log-reg">
+  <article id="log-reg" class=page>
     <div class="login-c">
       <input type="text" id="log-username" placeholder="Jméno uživatele">
       <input type="password" id="log-password" placeholder="Heslo">
@@ -905,7 +905,7 @@
 </template>
 
 <template id="tp-reg">
-   <article id=reg>
+   <article id=reg class=page>
       <div id=reg-c>
          <div id=reg-text>
             <h1>Registrace</h1>
@@ -920,7 +920,7 @@
 </template>
 
 <template id="tp-ucet">
-  <div class="profile-basic">
+  <div class="profile-basic page">
     <div id="ucet-picture"><div class="pt"></div></div>
     <h2 id="ucet-username"></h2>
   </div>
@@ -928,7 +928,7 @@
 </template>
 
 <template id="tp-people">
-   <article id=people>
+   <article id=people class=page>
       <div class=pref-c>
          <div class=pref id=age>
             <label>Věk:</label>
@@ -1018,7 +1018,7 @@
 </template>
 
 <template id="tp-home">
-   <article id=home>
+   <article id=home class=page>
       <div class=hero>
          <div class=text>
             <h1>
@@ -1039,6 +1039,7 @@
 </template>
 
 <template id="tp-chat">
+<section class=page>
   <input type="number" id="receiver-id" placeholder="ID (e.g. 2)">
   <section id="chat">
     <div class="items">
@@ -1060,6 +1061,7 @@
       </div>
     </div>
   </section>
+</section>
 </template>
     <script>
       /* Variables */
@@ -1666,7 +1668,7 @@ function connectWs() {
         const template = id(p[page].c);
         // c.innerHTML = "";
         //
-        const articles = document.querySelectorAll("#c > article");
+        const articles = document.querySelectorAll("#c > .page");
         console.log(articles);
         if (articles !== null) {
           for (i = 0; i < articles.length; i++) {

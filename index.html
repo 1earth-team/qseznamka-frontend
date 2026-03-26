@@ -615,6 +615,7 @@
           position: fixed;
           bottom: 2em;
           right: 1em;
+          border-radius: 2em;
         }
 
         .name {
@@ -725,6 +726,7 @@
           justify-content: center;
           gap: 4em;
           padding: 4em 0;
+          flex-flow: wrap;
         }
 
         .login-c, .register-c {
@@ -859,7 +861,7 @@
          <path d="m31,8l25,48 -48,0zm0,18v14m0,6v.5">
       </svg>
       <h1>Stránka nenalezena</h1>
-      <a href=/>Přejít na hlavní stranu</a>
+      <a onclick="urlRoute(event)" href=/>Přejít na hlavní stranu</a>
    </article>
 </template>
 
@@ -1247,6 +1249,8 @@ async function checkSession() {
             u.name = userData.name;
             u.id = userData.id;
             u.picture = userData.picture;
+            
+            id("chat-button").style.display = "block";
             
             // Update your UI here
             //id("username-display").innerText = userData.name;

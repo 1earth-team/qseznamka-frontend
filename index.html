@@ -616,6 +616,7 @@
           bottom: 2em;
           right: 1em;
           border-radius: 2em;
+          z-index: 50;
         }
 
         .name {
@@ -727,6 +728,9 @@
           gap: 4em;
           padding: 4em 0;
           flex-flow: wrap;
+        }
+        #log-reg input{
+          padding: .5em 2em;
         }
 
         .login-c, .register-c {
@@ -1250,11 +1254,14 @@ async function checkSession() {
             u.id = userData.id;
             u.picture = userData.picture;
             
-            id("chat-button").style.display = "block";
+            
             
             // Update your UI here
             //id("username-display").innerText = userData.name;
-            if (u.name === undefined) {return false} else return true;
+            if (u.name === undefined) {return false} else {
+              id("chat-button").style.display = "block";
+              return true;
+            }
         } else {
             // disclaimer("Nejste přihlášeni");
             // Show login button

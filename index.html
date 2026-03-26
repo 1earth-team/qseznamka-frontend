@@ -606,6 +606,16 @@
         }
 
         /* Chat */
+        
+        #chat-button {
+          display: none;
+          padding: 1em 2em;
+          background: #333;
+          text-decoration: none;
+          position: fixed;
+          bottom: 2em;
+          right: 1em;
+        }
 
         .name {
           text-overflow: ellipsis;
@@ -834,7 +844,7 @@
    </a>
 </nav>
 <main id="c"></main>
-  <a href="/chat" onclick="urlRoute(event)">Chat</a>
+  <a href="/chat" onclick="urlRoute(event)" id=chat-button>Chat</a>
 <section class="disclaimer-c"></section>
 <footer>
    <span>Obsah stránky je pod licencí CC-BY-SA. Používáme funkční cookies.</span>
@@ -920,7 +930,7 @@
 </template>
 
 <template id="tp-ucet">
-  <div class="profile-basic page">
+  <div id="ucet" class="profile-basic page">
     <div id="ucet-picture"><div class="pt"></div></div>
     <h2 id="ucet-username"></h2>
   </div>
@@ -1285,6 +1295,7 @@ async function checkSession() {
         if (response.ok && data.status === "success") {
             disclaimer("Úspěšně přihlášeno", 2);
             checkSession();
+            id("chat-button").style.display = "block";
             // document.getElementById("chat-section").style.display = "block";
             connectWs();
         } else {

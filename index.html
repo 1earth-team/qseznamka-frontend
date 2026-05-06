@@ -1498,6 +1498,7 @@ function connectWs() {
         try {
 
           const grid = id(gridId);
+          const beforeChildNum = grid.childElementCount;
 
           // Create profiles
 
@@ -1533,11 +1534,12 @@ function connectWs() {
             } else {
               grid.innerHTML += gItems;
             }
-            console.log("before if " + id(gridId).childElementCount);
-            const currentChildNum = id(gridId).childElementCount;
-            console.log("after if " + id(gridId).childElementCount + " current " + currentChildNum);
-              if (s.gridChildNum != currentChildNum) {
-                s.gridChildNum = currentChildNum;
+            //console.log("before if " + id(gridId).childElementCount);
+            // const currentChildNum = s.p == 0 ? 0 : id(gridId).childElementCount; // pokud první run, tak nula - to spustí 
+            //if (s.p = 0) {} else {const currentChildNum = } // pokud první run
+            //console.log("after if " + id(gridId).childElementCount + " current " + currentChildNum);
+              if (s.gridChildNum != beforeChildNum) {
+                s.gridChildNum = beforeChildNum;
                 s.p++;
               } else {
                 s.loadMore = false;

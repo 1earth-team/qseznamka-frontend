@@ -1534,6 +1534,14 @@ function connectWs() {
               grid.innerHTML += gItems;
             }
 
+            const currentChildNum = id(gridId).childElementCount;
+              if (s.gridChildNum != currentChildNum) {
+                s.gridChildNum = currentChildNum;
+                s.p++;
+              } else {
+                s.loadMore = false;
+              }
+
           } else {
 
             disclaimer("Nepodařilo se stáhnout profily", 3);
@@ -1680,7 +1688,7 @@ function connectWs() {
           const cR = c.getBoundingClientRect();
           if (cR.bottom < window.innerHeight && s.loadMore) {
             
-            showProfiles().then( function () {
+            /*showProfiles().then( function () {
               const currentChildNum = id(gridId).childElementCount;
               if (s.gridChildNum != currentChildNum) {
                 s.gridChildNum = currentChildNum;
@@ -1689,7 +1697,7 @@ function connectWs() {
                 s.loadMore = false;
               }
             }
-            );
+            );*/
             // const grid = document.querySelector(".profile-grid");
             // showGrid(grid);
           }

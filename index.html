@@ -1533,8 +1533,9 @@ function connectWs() {
             } else {
               grid.innerHTML += gItems;
             }
-
+            console.log("before if " + id(gridId).childElementCount);
             const currentChildNum = id(gridId).childElementCount;
+            console.log("after if " + id(gridId).childElementCount + " current " + currentChildNum);
               if (s.gridChildNum != currentChildNum) {
                 s.gridChildNum = currentChildNum;
                 s.p++;

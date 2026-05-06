@@ -1503,7 +1503,7 @@ function connectWs() {
 
           // Create profiles
 
-          const profiles = await getProfiles();
+          const profiles = await getProfiles().then(function () {
 
           if (profiles) {
 
@@ -1553,7 +1553,7 @@ function connectWs() {
 
             disclaimer("Nepodařilo se stáhnout profily", 3);
 
-          }
+          }});
 
         } catch(error) {
 

@@ -1498,8 +1498,6 @@ function connectWs() {
         try {
 
           const grid = id(gridId);
-          // const beforeChildNum = grid.childElementCount;
-          // console.log("before grid " + beforeChildNum);
 
           // Create profiles
 
@@ -1535,18 +1533,13 @@ function connectWs() {
             } else {
               grid.innerHTML += gItems;
             }
-            //console.log("before if " + id(gridId).childElementCount);
-            // const currentChildNum = s.p == 0 ? 0 : id(gridId).childElementCount; // pokud první run, tak nula - to spustí 
-            //if (s.p = 0) {} else {const currentChildNum = } // pokud první run
-            //console.log("after if " + id(gridId).childElementCount + " current " + currentChildNum);
+
             const currentChildNum = grid.childElementCount;
-            console.log("after grid " + grid.childElementCount);
+            
               if (s.gridChildNum != currentChildNum) {
-                console.log("after if positive " + grid.childElementCount + " after " + currentChildNum);
                 s.gridChildNum = currentChildNum;
                 s.p++;
               } else {
-                console.log("after if negative " + grid.childElementCount + " after " + currentChildNum);
                 s.loadMore = false;
               }
 
@@ -1696,18 +1689,6 @@ function connectWs() {
           const cR = c.getBoundingClientRect();
           if (cR.bottom < window.innerHeight && s.loadMore) {
             showProfiles();
-            /*showProfiles().then( function () {
-              const currentChildNum = id(gridId).childElementCount;
-              if (s.gridChildNum != currentChildNum) {
-                s.gridChildNum = currentChildNum;
-                s.p++;
-              } else {
-                s.loadMore = false;
-              }
-            }
-            );*/
-            // const grid = document.querySelector(".profile-grid");
-            // showGrid(grid);
           }
         }
       }
@@ -1856,6 +1837,7 @@ function connectWs() {
           case "/clanek": loadDoc("clanek"); break;
           case "/chat":
             loadDoc("chat");
+            connectWs();
             await messaged();
             let params = new URLSearchParams(document.location.search);
             const iid = params.get("id");

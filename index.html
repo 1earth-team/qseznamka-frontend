@@ -1499,6 +1499,7 @@ function connectWs() {
 
           const grid = id(gridId);
           const beforeChildNum = grid.childElementCount;
+          console.log("before grid " + beforeChildNum);
 
           // Create profiles
 
@@ -1538,10 +1539,13 @@ function connectWs() {
             // const currentChildNum = s.p == 0 ? 0 : id(gridId).childElementCount; // pokud první run, tak nula - to spustí 
             //if (s.p = 0) {} else {const currentChildNum = } // pokud první run
             //console.log("after if " + id(gridId).childElementCount + " current " + currentChildNum);
+            console.log("after grid " + grid.childElementCount);
               if (s.gridChildNum != beforeChildNum) {
+                console.log("after if positive " + grid.childElementCount);
                 s.gridChildNum = beforeChildNum;
                 s.p++;
               } else {
+                console.log("after if negative " + grid.childElementCount);
                 s.loadMore = false;
               }
 

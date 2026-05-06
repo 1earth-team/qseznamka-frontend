@@ -1503,7 +1503,7 @@ function connectWs() {
 
           // Create profiles
 
-          const profiles = await getProfiles().then(function () {
+          const profiles = await getProfiles();
 
           if (profiles) {
 
@@ -1541,11 +1541,11 @@ function connectWs() {
             //console.log("after if " + id(gridId).childElementCount + " current " + currentChildNum);
             console.log("after grid " + grid.childElementCount);
               if (s.gridChildNum != beforeChildNum) {
-                console.log("after if positive " + grid.childElementCount);
+                console.log("after if positive " + grid.childElementCount + " before " + beforeChildNum);
                 s.gridChildNum = beforeChildNum;
                 s.p++;
               } else {
-                console.log("after if negative " + grid.childElementCount);
+                console.log("after if negative " + grid.childElementCount + " before " + beforeChildNum);
                 s.loadMore = false;
               }
 
@@ -1553,7 +1553,7 @@ function connectWs() {
 
             disclaimer("Nepodařilo se stáhnout profily", 3);
 
-          }});
+          }
 
         } catch(error) {
 

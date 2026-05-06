@@ -1694,7 +1694,7 @@ function connectWs() {
         if (u.loc == "/seznamka" && pr.length % 12 == 0) {
           const cR = c.getBoundingClientRect();
           if (cR.bottom < window.innerHeight && s.loadMore) {
-            
+            showProfiles();
             /*showProfiles().then( function () {
               const currentChildNum = id(gridId).childElementCount;
               if (s.gridChildNum != currentChildNum) {

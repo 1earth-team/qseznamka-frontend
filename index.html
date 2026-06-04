@@ -1102,6 +1102,7 @@
       let s = {}; // Search object
       s.q = {}; // Search object - search query
       s.p = 0; // Search page
+      s.pCache = 1000; // Search page cache
       s.loadMore = true; // Should you load more to grid?
       s.gridChildNum = 0; // How many children in grid
       
@@ -1441,6 +1442,7 @@ function connectWs() {
 
           if (s.p > 0) {
             queryArray.push("off=" + s.p * offsetBase);
+            s.pCache = s.p;
           }
 
           for (i = 0; i < queryArray.length; i++) {
@@ -1687,7 +1689,7 @@ function connectWs() {
         // if (u.loc == "/seznamka" && u.sEnd == false) {
         if (u.loc == "/seznamka" && pr.length % 12 == 0) {
           const cR = c.getBoundingClientRect();
-          if (cR.bottom < window.innerHeight && s.loadMore) {
+          if (cR.bottom < window.innerHeight && s.loadMore && s.p != s.pCache) {
             showProfiles();
           }
         }

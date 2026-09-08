@@ -236,7 +236,7 @@ async function login() {
 		if (response.ok && data.status === "success") {
 			disclaimer("Úspěšně přihlášeno", 2);
 			checkSession();
-			id("chat-button").style.display = "block";
+			id("chat-button").style.display = "flex";
 			connectWs();
 		} else {
 			disclaimer(data.message || "Přihlášení selhalo", 3);

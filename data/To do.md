@@ -24,7 +24,9 @@
   
   * Maybe not? To stay focused
 
-* Make the public "To do"? (If so, then footer)
+* Make the public "To do"? (If so, then footer) ~
+  
+  * The footer thing could work
 
 * Make copy and remove inlines ✓
 
@@ -32,15 +34,15 @@
   
   * Rec?
 
-* Make rules for normalization
+* Make rules for normalization ~
 
-## News
+## News ✓
 
 * Remove for now ✓
 
 * Chat upstairs ✓
   
-  * Check? 
+  * Check? ✓
 
 ## Chat
 
@@ -85,3 +87,13 @@
 * Add articles ("./clanek" ?)
   
   * markdown?
+
+## Meta
+
+* Licence?
+
+* Non-profit?
+
+* Legal Notice, Privacy Policy, Terms and conditions
+
+* [Povinné údaje na webu 2026 – co musí obsahovat + pokuty](https://www.pavelszabo.cz/clanek-povinne-udaje-na-webovych-strankach-co-nesmi-chybet-pokud-podnikate/)

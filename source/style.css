@@ -611,14 +611,14 @@ article#news-list::before {
 
 #chat-button {
   display: none;
-  padding: 1em 2em;
+  /*padding: 1em 2em;
   background: #333;
   text-decoration: none;
   position: fixed;
   bottom: 2em;
   right: 1em;
   border-radius: 2em;
-  z-index: 50;
+  z-index: 50;*/
 }
 
 .name {

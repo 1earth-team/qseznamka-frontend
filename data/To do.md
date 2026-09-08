@@ -63,6 +63,8 @@
 ## Footer
 
 * What are the rights of users and their content?
+  
+  * They own it, but you can get from them permissions to it
 
 * Relevant text
   
@@ -77,5 +79,9 @@
 ## Article processing
 
 * Add listings ("./list" ?)
+  
+  * Nadpis!
 
 * Add articles ("./clanek" ?)
+  
+  * markdown?

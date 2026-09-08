@@ -1,4 +1,4 @@
-# To do
+# To do file
 
 ## Organisation
 
@@ -11,6 +11,12 @@
   * number
   
   * rest accordingly
+
+* Reorganize this file for multiple To dos :)
+  
+  * Maybe do multiple ones sorted by time?
+  
+  * Maybe consider how the numbering should work in commits
 
 ## General
 
@@ -62,6 +68,8 @@
   
   * Comment out for now ✓
 
+* Add options!
+
 ## Footer
 
 * What are the rights of users and their content?
@@ -87,6 +95,12 @@
 * Add articles ("./clanek" ?)
   
   * markdown?
+
+## Account
+
+* Submit on enter
+
+* Redirect elsewhere on login
 
 ## Meta
 

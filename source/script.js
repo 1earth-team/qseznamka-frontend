@@ -179,6 +179,8 @@ async function checkSession() {
 			u.id = userData.id;
 			u.picture = userData.picture;
 
+            if (u.id === undefined) return false;
+
 			// Update your UI here
 			//id("username-display").innerText = userData.name;
 			if (u.name === undefined) {
